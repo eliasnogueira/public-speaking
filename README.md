@@ -4,8 +4,6 @@ The objective of this repo is to consolidate in a single place all my participat
 
 The events are organized in reverse chronological order.
 
-## 2017
-
 ### Talks
 
 | Date           | Event          | Slide Deck  | Language |
