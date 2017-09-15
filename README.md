@@ -10,7 +10,9 @@ The events are organized in reverse chronological order.
 
 | Date           | Event          | Slide Deck  | Language |
 |----------------|----------------|-------|----------|
-| 07/08/2018 | [Simpósio Brasileiro de Qualidade de Software -SBQS](http://www.organizareventos.com.br/sbqs2014/?p=418) | Automação de Testes e Produtividade | pt-BR |
+| 25/08/2017 | Android Dev Conf | [Testes de Ponta a Ponta](https://www.slideshare.net/elias.nogueira/testes-de-ponta-a-ponta) | pt-BR | 
+| | The Developers Conference - São Paulo | [Arquitetura Básica de Testes para seu projeto Java](https://www.slideshare.net/elias.nogueira/arquitetura-bsica-de-testes-para-seu-projeto-java) | pt-BR |
+| 07/08/2014 | [Simpósio Brasileiro de Qualidade de Software -SBQS](http://www.organizareventos.com.br/sbqs2014/?p=418) | Automação de Testes e Produtividade | pt-BR |
 
 ### Workshops
 
