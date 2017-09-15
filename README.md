@@ -15,7 +15,7 @@ The events are organized in reverse chronological order.
 ### Workshops
 
 | Date          | Event            | Subject       | Language  |
-|---------------|------------------|------------------|----------|--------|
+|---------------|------------------|---------------|-----------|
 | 22/07/2017 | The Developers Conference - São Paulo | Testes Manuais e Automatizados para uma API REST | pt-BR |
 | 06/07/2017 | Scrum Gathering Rio | Agile Testing Mindset | pt-BR |
 | 07/11/2016 | Agile Brazil | Agile Testing Mindset | pt-BR |
