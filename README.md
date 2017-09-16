@@ -8,6 +8,8 @@ The events are organized in reverse chronological order.
 
 | Date           | Event          | Slide Deck  | Language |
 |----------------|----------------|-------|----------|
+| 16/09/2017 | GDG Campinas - QualityFest | [Criando uma grid para execução de teste automatizado funcional e e2e](https://www.slideshare.net/elias.nogueira/criando-uma-grid-para-execuo-de-teste-automatizado-funcional-e-e2e) | pt-BR |
+| 16/09/2017 | GDG Campinas - QualityFest | [A importância de teste em todos os aspectos](https://www.slideshare.net/elias.nogueira/a-importancia-de-testes-em-todos-os-aspectos) | pt-BR |
 | 25/08/2017 | Android Dev Conf | [Testes de Ponta a Ponta](https://www.slideshare.net/elias.nogueira/testes-de-ponta-a-ponta) | pt-BR | 
 | 21/07/2017 | The Developers Conference - São Paulo | [Arquitetura Básica de Testes para seu projeto Java](https://www.slideshare.net/elias.nogueira/arquitetura-bsica-de-testes-para-seu-projeto-java) | pt-BR |
 | 07/08/2014 | [Simpósio Brasileiro de Qualidade de Software -SBQS](http://www.organizareventos.com.br/sbqs2014/?p=418) | Automação de Testes e Produtividade | pt-BR |
