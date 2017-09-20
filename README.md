@@ -56,7 +56,7 @@ The events are organized in reverse chronological order.
 | [InfoQ Brazil](https://www.infoq.com/br/author/Elias-Nogueira) | Software Quality and Test videos | pt-BR |
 | [DZone posts](https://dzone.com/users/190109/eliasn.html) | Software Quality and Test posts | en-US |
 | [Medium posts](https://medium.com/@eliasnogueira) | Software Quality and Test posts | en-US |
-| [EuroStar Test Hudle](https://huddle.eurostarsoftwaretesting.com/members/elias-nogueira/activity/) | Appium series - tutorial | en-US |
+| [EuroStar Test Huddle](https://huddle.eurostarsoftwaretesting.com/members/elias-nogueira/activity/) | Appium series - tutorial | en-US |
 | [Desafio Selenium](http://eliasnogueira.com/arquivos_blog/selenium/desafio/) | Automated Software Testing | pt-BR |
 | [CSS Selector Game](https://eliasnogueira.github.io/css-locator-game/) | Automated Software Testing | pt-BR |
 
