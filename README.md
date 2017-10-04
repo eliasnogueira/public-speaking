@@ -8,7 +8,7 @@ The events are organized in reverse chronological order.
 
 | Date (dd/mm/yyyy) | Event          | Slide Deck  | Language |
 |----------------|----------------|-------|----------|
-| 04/09/2017 | JavaOne 2017 - San Francisco | [Java Test Automation for REST, Web and Mobile]() | en_US | 
+| 04/09/2017 | JavaOne 2017 - San Francisco | [Java Test Automation for REST, Web and Mobile](https://www.slideshare.net/secret/axAUvsYAqs3txI) | en_US | 
 | 02/09/2017 | JavaOne 2017 - San Francisco | [Trust Your Pipeline - Automatically Testing and End-to-End Java Application](https://www.slideshare.net/elias.nogueira/trust-your-pipeline-automatically-testing-and-endtoend-java-application) | en_US |
 | 19/09/2017 | Agile Coach Meetup - Porto Alegre | [O que é um Agile Coach](https://www.slideshare.net/elias.nogueira/o-que-e-um-agile-coach) | pt-BR |
 | 16/09/2017 | GDG Campinas - QualityFest | [Criando uma grid para execução de teste automatizado funcional e e2e](https://www.slideshare.net/elias.nogueira/criando-uma-grid-para-execuo-de-teste-automatizado-funcional-e-e2e) | pt-BR |
