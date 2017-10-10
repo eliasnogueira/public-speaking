@@ -16,6 +16,8 @@ The events are organized in reverse chronological order.
 | 25/08/2017 | Android Dev Conf | [Testes de Ponta a Ponta](https://www.slideshare.net/elias.nogueira/testes-de-ponta-a-ponta) | pt-BR | 
 | 21/07/2017 | The Developers Conference - São Paulo | [Arquitetura Básica de Testes para seu projeto Java](https://www.slideshare.net/elias.nogueira/arquitetura-bsica-de-testes-para-seu-projeto-java) | pt-BR |
 | 05/05/2017 | The Developers Conference - Florianópolis | [O Testador Técnico](https://www.slideshare.net/elias.nogueira/o-testador-tcnico) | pt-BR |
+| 06/05/2017 | The Developers Conference - Florianópolis | [Apenas um script de teste para iOS e Android](https://www.slideshare.net/elias.nogueira/apenas-um-script-de-teste-para-ios-e-android) | pt-BR |
+| 18/03/2017 | Agile Floripa | [O Testador está Morto!](https://www.slideshare.net/elias.nogueira/o-testador-esta-morto) | pt-BR |
 | 07/08/2014 | [Simpósio Brasileiro de Qualidade de Software -SBQS](http://www.organizareventos.com.br/sbqs2014/?p=418) | Automação de Testes e Produtividade | pt-BR |
 
 ### Workshops
