@@ -4,7 +4,7 @@ The objective of this repo is to consolidate in a single place all my participat
 
 The events are organized in reverse chronological order.
 
-[Talks](#Talks) | [Workshops](#Workshops) | [Organizer](#Organizer) | [Initiatives](#-Initiatives)
+[Talks](#Talks) | [Workshops](#Workshops) | [Organizer](#Organizer) | [Initiatives](#Initiatives) | [](#Books-eBooks)
 
 
 ### Talks
@@ -72,7 +72,7 @@ The events are organized in reverse chronological order.
 | [CSS Selector Game](https://eliasnogueira.github.io/css-locator-game/) | Automated Software Testing | pt-BR |
 
 
-### Books | eBooks
+### Books eBooks
 | Type | Title | Language |
 |------|-------|----------|
 | eBook | [Passos para aprender automação web](http://eliasnogueira.com/ebook-passos-para-aprender-automacao-web/) | pt-BR |
