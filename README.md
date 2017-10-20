@@ -18,6 +18,10 @@ The events are organized in reverse chronological order.
 | 05/05/2017 | The Developers Conference - Florianópolis | [O Testador Técnico](https://www.slideshare.net/elias.nogueira/o-testador-tcnico) | pt-BR |
 | 06/05/2017 | The Developers Conference - Florianópolis | [Apenas um script de teste para iOS e Android](https://www.slideshare.net/elias.nogueira/apenas-um-script-de-teste-para-ios-e-android) | pt-BR |
 | 18/03/2017 | Agile Floripa | [O Testador está Morto!](https://www.slideshare.net/elias.nogueira/o-testador-esta-morto) | pt-BR |
+| 28/10/2016 | QA Ninja Conf | [Feedback mais rápido na sua build dividindo os testes funcionais](https://www.slideshare.net/elias.nogueira/feedback-mais-rpido-na-sua-build-dividindo-os-testes-funcionais) | pt-BR |
+| 07/10/2016 | The Developers Conference - Porto Alegre | [Automatizando uma app Híbrida](https://www.slideshare.net/elias.nogueira/automatizando-uma-app-hbrida-66831023) | pt-BR |
+| 07/10/2016 | The Developers Conference - Porto Alegre | [O que Evitar na Escrita de Criterios de Aceite](https://www.slideshare.net/elias.nogueira/o-que-evitar-na-escrita-de-criterios-de-aceite) | pt-BR |
+| 05/10/2016 | The Devlopers Conference - Porto Alegre | [A Importância do Teste Continuo](https://www.slideshare.net/elias.nogueira/a-importncia-do-teste-continuo) | pt-BR |
 | 07/08/2014 | [Simpósio Brasileiro de Qualidade de Software -SBQS](http://www.organizareventos.com.br/sbqs2014/?p=418) | Automação de Testes e Produtividade | pt-BR |
 
 ### Workshops
