@@ -4,7 +4,7 @@ The objective of this repo is to consolidate in a single place all my participat
 
 The events are organized in reverse chronological order.
 
-[Talks](#Talks) | [Workshops](#Workshops) | [Organizer](#Organizer) | [Initiatives](#Initiatives) | [](#Books-eBooks)
+[Talks](#Talks) | [Workshops](#Workshops) | [Organizer](#Organizer) | [Initiatives](#Initiatives) | [Books & eBooks](#Books-eBooks)
 
 
 ### Talks
