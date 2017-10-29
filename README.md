@@ -25,6 +25,8 @@ The events are organized in reverse chronological order.
 | 07/10/2016 | The Developers Conference - Porto Alegre | [Automatizando uma app Híbrida](https://www.slideshare.net/elias.nogueira/automatizando-uma-app-hbrida-66831023) | pt-BR |
 | 07/10/2016 | The Developers Conference - Porto Alegre | [O que Evitar na Escrita de Criterios de Aceite](https://www.slideshare.net/elias.nogueira/o-que-evitar-na-escrita-de-criterios-de-aceite) | pt-BR |
 | 05/10/2016 | The Devlopers Conference - Porto Alegre | [A Importância do Teste Continuo](https://www.slideshare.net/elias.nogueira/a-importncia-do-teste-continuo) | pt-BR |
+| 22/09/2016 | GUTS-RS | [Tudo o que você precisa saber para começar a automação de testes em dispositivos móveis](https://www.slideshare.net/elias.nogueira/tudo-o-que-voc-precisa-saber-para-comear-a-automao-de-testes-em-dispositivos-mveis) | pt-BR | 
+| 09/07/2016| The Developers Conference - São Paulo | [Acelerando o feedback e deploy com Automação de Testes!](https://www.slideshare.net/elias.nogueira/acelerando-o-feedback-e-deploy-com-automao-de-testes) | pt-BR |
 | 07/08/2014 | [Simpósio Brasileiro de Qualidade de Software -SBQS](http://www.organizareventos.com.br/sbqs2014/?p=418) | Automação de Testes e Produtividade | pt-BR |
 
 ### Workshops
