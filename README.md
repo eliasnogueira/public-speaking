@@ -27,6 +27,8 @@ The events are organized in reverse chronological order.
 | 05/10/2016 | The Devlopers Conference - Porto Alegre | [A Importância do Teste Continuo](https://www.slideshare.net/elias.nogueira/a-importncia-do-teste-continuo) | pt-BR |
 | 22/09/2016 | GUTS-RS | [Tudo o que você precisa saber para começar a automação de testes em dispositivos móveis](https://www.slideshare.net/elias.nogueira/tudo-o-que-voc-precisa-saber-para-comear-a-automao-de-testes-em-dispositivos-mveis) | pt-BR | 
 | 09/07/2016| The Developers Conference - São Paulo | [Acelerando o feedback e deploy com Automação de Testes!](https://www.slideshare.net/elias.nogueira/acelerando-o-feedback-e-deploy-com-automao-de-testes) | pt-BR |
+| 08/07/2016 | The Developers Conference - São Paulo | [Como ensinei mais de 1000 testadores a automatizar testes](https://www.slideshare.net/elias.nogueira/como-ensinei-mais-de-1000-testadores) | pt-BR |
+| 07/07/2016 | The Developers Conference - São Paulo | [Automatizando uma app Híbrida](https://www.slideshare.net/elias.nogueira/automatizando-uma-app-hbrida) | pt-BR |
 | 07/08/2014 | [Simpósio Brasileiro de Qualidade de Software -SBQS](http://www.organizareventos.com.br/sbqs2014/?p=418) | Automação de Testes e Produtividade | pt-BR |
 
 ### Workshops
@@ -34,7 +36,7 @@ The events are organized in reverse chronological order.
 | Date          | Event            | Subject       | Language  |
 |---------------|------------------|---------------|-----------|
 | 22/07/2017 | The Developers Conference - São Paulo | Testes Manuais e Automatizados para uma API REST | pt-BR |
-| 06/07/2017 | Scrum Gathering Rio | Agile Testing Mindset | pt-BR |
+| 06/07/2017 | Scrum Gathering Rio | [Agile Testing Mindset](https://www.slideshare.net/elias.nogueira/workshop-agile-testing-mindset) | pt-BR |
 | 07/11/2016 | Agile Brazil | Agile Testing Mindset | pt-BR |
 | 08/10/2016 | The Developers Conference - Porto Alegre | Agile Testing | pt-BR |
 | 07/07/2016 | The Developers Conference - São Paulo | Agile Testing | pt-BR |
