@@ -11,6 +11,7 @@ The events are organized in reverse chronological order.
 
 | Date (dd/mm/yyyy) | Event          | Slide Deck  | Language |
 |----------------|----------------|-------|----------|
+| 10/11/2017 | The Developers Conference - Porto Alegre | [Coaching the Agile Coach](https://www.slideshare.net/elias.nogueira/coaching-the-agile-coach) | pt-BR |
 | 04/09/2017 | JavaOne 2017 - San Francisco | [Java Test Automation for REST, Web and Mobile](https://www.slideshare.net/secret/axAUvsYAqs3txI) | en_US | 
 | 02/09/2017 | JavaOne 2017 - San Francisco | [Trust Your Pipeline - Automatically Testing and End-to-End Java Application](https://www.slideshare.net/elias.nogueira/trust-your-pipeline-automatically-testing-and-endtoend-java-application) | en_US |
 | 19/09/2017 | Agile Coach Meetup - Porto Alegre | [O que é um Agile Coach](https://www.slideshare.net/elias.nogueira/o-que-e-um-agile-coach) | pt-BR |
@@ -50,8 +51,8 @@ The events are organized in reverse chronological order.
 
 | Date        | Event            | Role  |
 |-------------|------------------|-------|
-| 2017 | [The Developers Conference Dev-Test Track](http://www.thedevelopersconference.com.br) | Coordinator / Organizer |
-| 2017 - 2010 | [The Developers Conference Test Track](http://www.thedevelopersconference.com.br) | Coordinator / Organizer |
+| 2017 | [The Developers Conference Dev-Test Track - São Paulo | Porto Alegre](http://www.thedevelopersconference.com.br) | Coordinator / Organizer |
+| 2017 - 2010 | [The Developers Conference Test Track - São Paulo | Florianópolis | Porto Alegre](http://www.thedevelopersconference.com.br) | Coordinator / Organizer |
 | 2017 | [Agile Coach Meetup](https://www.meetup.com/agilecoach-porto-alegre/) | Organizer |
 | 2017 | [Google Developer Group Porto Alegre](https://www.meetup.com/GDG-Porto-Alegre/) | Co-Organizer |
 | 2016 | GUMobile [Main site](http://www.sucesurs.org.br/gu/gu-mobile-rs/apresentacao/)  - [Wordpress](https://gumobilers.wordpress.com) | Organizer |
