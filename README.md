@@ -53,13 +53,13 @@ The events are organized in reverse chronological order.
 |-------------|------------------|-------|
 | 2017 | [The Developers Conference Dev-Test Track - São Paulo / Porto Alegre](http://www.thedevelopersconference.com.br) | Coordinator / Organizer |
 | 2017 - 2010 | [The Developers Conference Test Track - São Paulo / Florianópolis / Porto Alegre](http://www.thedevelopersconference.com.br) | Coordinator / Organizer |
-| 2017 | [Agile Coach Meetup](https://www.meetup.com/agilecoach-porto-alegre/) | Organizer |
+| 2017 | [Agile Coach Meetup](https://www.meetup.com/agilecoach-porto-alegre/) | Creator and Organizer |
 | 2017 | [Google Developer Group Porto Alegre](https://www.meetup.com/GDG-Porto-Alegre/) | Co-Organizer |
 | 2016 | GUMobile [Main site](http://www.sucesurs.org.br/gu/gu-mobile-rs/apresentacao/)  - [Wordpress](https://gumobilers.wordpress.com) | Organizer |
 |2010 - 2009 | ALATS | Community Organizer | 
 |2010 - 2008 | java.net portal | Community Lead | 
 |2010 - 2007 | java.net Global Education and Learning Community| Community Lead | 
-| 2008 | [GUTS](http://www.sucesurs.org.br/gu/guts/pagina-inicial/) | Organizer |
+| 2008 | [GUTS](http://www.sucesurs.org.br/gu/guts/pagina-inicial/) | Creator and Organizer |
 
 
 ### Initiatives
