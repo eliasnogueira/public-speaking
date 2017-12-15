@@ -11,6 +11,8 @@ The events are organized in reverse chronological order.
 
 | Date (dd/mm/yyyy) | Event          | Slide Deck  | Language |
 |----------------|----------------|-------|----------|
+| 13/12/2017 | Semana da Agilidade - agilidade.org | [Teste em todos os níveis de planejamento](https://www.slideshare.net/elias.nogueira/testes-em-todos-os-niveis-de-planejamento) | pt-BR | 
+| 30/11/2017 | GUTS Talks | [Como planejar pensando em automação de teste em um time ágil](https://www.slideshare.net/GUTS-RS/gutsrs-guts-talks-automao-de-testes?ref=http://guts-rs.blogspot.com.br/) | pt-BR
 | 10/11/2017 | The Developers Conference - Porto Alegre | [Coaching the Agile Coach](https://www.slideshare.net/elias.nogueira/coaching-the-agile-coach) | pt-BR |
 | 04/09/2017 | JavaOne 2017 - San Francisco | [Java Test Automation for REST, Web and Mobile](https://www.slideshare.net/secret/axAUvsYAqs3txI) | en_US | 
 | 02/09/2017 | JavaOne 2017 - San Francisco | [Trust Your Pipeline - Automatically Testing and End-to-End Java Application](https://www.slideshare.net/elias.nogueira/trust-your-pipeline-automatically-testing-and-endtoend-java-application) | en_US |
