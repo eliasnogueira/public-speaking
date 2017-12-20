@@ -4,10 +4,11 @@ The objective of this repo is to consolidate in a single place all my participat
 
 The events are organized in reverse chronological order.
 
-[Talks](#talks) | [Workshops](#workshops) | [Organizer](#organizer) | [Initiatives](#initiatives) | [Books & eBooks](#books-ebooks) | [Videos](#videos)
+[Talks](#talks) | [Workshops](#workshops) | [Organizer](#organizer) | [Initiatives](#initiatives) | [Books & eBooks](#books-ebooks) | [Videos](#videos) | [Prizes](#prizes)
 
 
 ### Talks
+52 in total
 
 | Date (dd/mm/yyyy) | Event          | Slide Deck  | Language |
 |----------------|----------------|-------|----------|
@@ -65,6 +66,7 @@ The events are organized in reverse chronological order.
 | 05/08/2008 | Palestras TargetTrust| [Automação no Processo de Teste](https://www.slideshare.net/elias.nogueira/automaoo-no-processo-de-teste) | pt-BR |
 
 ### Workshops
+10 in total
 
 | Date          | Event            | Subject       | Language  |
 |---------------|------------------|---------------|-----------|
@@ -80,6 +82,7 @@ The events are organized in reverse chronological order.
 | 08/08/2014 | [Simpósio Brasileiro de Qualidade de Software -SBQS](http://www.organizareventos.com.br/sbqs2014/?p=418) | Agile Testing - como funciona na prática ? | pt-BR |
 
 ### Organizer
+9 in total
 
 | Date        | Event            | Role  |
 |-------------|------------------|-------|
@@ -95,6 +98,7 @@ The events are organized in reverse chronological order.
 
 
 ### Initiatives
+9 in total
 
 | Initiative name | Focus | Language |
 |-----------------|-------|----------|
@@ -110,12 +114,16 @@ The events are organized in reverse chronological order.
 
 
 ### Books eBooks
+2 in total
+
 | Type | Title | Language |
 |------|-------|----------|
 | eBook | [Passos para aprender automação web](http://eliasnogueira.com/ebook-passos-para-aprender-automacao-web/) | pt-BR |
 | ebook | [Visões sobre Teste de Software](http://eliasnogueira.com/o-mundo-de-teste-de-software/) | pt-BR |
 
 ### Videos
+21 in total
+
 | Date | Title | Event | Language |
 |------|-------|-------|----------|
 | 2017 | [Teste em todos os níveis de planejamento](https://www.youtube.com/watch?v=5v59sRVWimA) | Semana da Agilidade | pt-BR | 
@@ -139,3 +147,10 @@ The events are organized in reverse chronological order.
 | 2013 | [O papel de um testador em uma equipe ágil](https://www.infoq.com/br/presentations/testador-equipe-agil) | DevCamp | pt-BR |
 | 2013 | [(Quase) Todas as abordagens de testes dentro do Agile](https://www.infoq.com/br/presentations/quase-todas-abordagens-testes-agil) | Rio Agile | pt-BR |
 | 2013 | [Test Web Meeting - CasperJS](https://www.youtube.com/watch?v=_I-QaOESaSk) | WebTest Meeting | pt-BR |
+
+### Prizes
+1 in total
+
+| Date | Prize | Event |
+|------|-------|-------|
+| 2017 | Most remembered tester | [Testathon](http://testathon.co) Chapter 13 |
