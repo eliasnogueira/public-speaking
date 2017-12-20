@@ -32,7 +32,12 @@ The events are organized in reverse chronological order.
 | 09/07/2016| The Developers Conference - São Paulo | [Acelerando o feedback e deploy com Automação de Testes!](https://www.slideshare.net/elias.nogueira/acelerando-o-feedback-e-deploy-com-automao-de-testes) | pt-BR |
 | 08/07/2016 | The Developers Conference - São Paulo | [Como ensinei mais de 1000 testadores a automatizar testes](https://www.slideshare.net/elias.nogueira/como-ensinei-mais-de-1000-testadores) | pt-BR |
 | 07/07/2016 | The Developers Conference - São Paulo | [Automatizando uma app Híbrida](https://www.slideshare.net/elias.nogueira/automatizando-uma-app-hbrida) | pt-BR |
-| 07/08/2014 | [Simpósio Brasileiro de Qualidade de Software -SBQS](http://www.organizareventos.com.br/sbqs2014/?p=418) | Automação de Testes e Produtividade | pt-BR |
+| 07/08/2014 | [Simpósio Brasileiro de Qualidade de Software -SBQS](http://www.organizareventos.com.br/sbqs2014/?p=418) | Automação de Testes e Produtividade | pt-BR | 
+| 19/08/2010 | [Hands on Selenium](https://www.slideshare.net/elias.nogueira/hands-on-selenium) | Iterasys | pt-BR |
+| 18/06/2010 | [Automação de Teste de Software](https://www.slideshare.net/elias.nogueira/brateste-2010-automacao-de-teste) | BRATESTE 2010 | pt-BR |
+| 30/07/2009 | [Automação de Teste - Mitos e Verdades](https://www.slideshare.net/elias.nogueira/4-encontro-mensal-alats-automao-de-teste-mitos-e-verdades) | 4° Encontro Mensal ALATS | pt-BR |
+| 10/06/2009 | [Teste de Software](https://www.slideshare.net/elias.nogueira/palestra-alats-sp-fiap-teste-de-software) | Semana Acadiemica FIAP/SP | pt-BR |
+| 05/08/2008 | [Automação no Processo de Teste](https://www.slideshare.net/elias.nogueira/automaoo-no-processo-de-teste) | Palestras TargetTrust | pt-BR |
 
 ### Workshops
 
