@@ -33,11 +33,22 @@ The events are organized in reverse chronological order.
 | 08/07/2016 | The Developers Conference - São Paulo | [Como ensinei mais de 1000 testadores a automatizar testes](https://www.slideshare.net/elias.nogueira/como-ensinei-mais-de-1000-testadores) | pt-BR |
 | 07/07/2016 | The Developers Conference - São Paulo | [Automatizando uma app Híbrida](https://www.slideshare.net/elias.nogueira/automatizando-uma-app-hbrida) | pt-BR |
 | 07/08/2014 | [Simpósio Brasileiro de Qualidade de Software -SBQS](http://www.organizareventos.com.br/sbqs2014/?p=418) | Automação de Testes e Produtividade | pt-BR | 
-| 19/08/2010 | [Hands on Selenium](https://www.slideshare.net/elias.nogueira/hands-on-selenium) | Iterasys | pt-BR |
-| 18/06/2010 | [Automação de Teste de Software](https://www.slideshare.net/elias.nogueira/brateste-2010-automacao-de-teste) | BRATESTE 2010 | pt-BR |
-| 30/07/2009 | [Automação de Teste - Mitos e Verdades](https://www.slideshare.net/elias.nogueira/4-encontro-mensal-alats-automao-de-teste-mitos-e-verdades) | 4° Encontro Mensal ALATS | pt-BR |
-| 10/06/2009 | [Teste de Software](https://www.slideshare.net/elias.nogueira/palestra-alats-sp-fiap-teste-de-software) | Semana Acadiemica FIAP/SP | pt-BR |
-| 05/08/2008 | [Automação no Processo de Teste](https://www.slideshare.net/elias.nogueira/automaoo-no-processo-de-teste) | Palestras TargetTrust | pt-BR |
+| 15/05/2014 | The Developers Conference Florianópolis | [Como testar sua aplicação Android e iOS: uma abordagem prática](https://www.slideshare.net/elias.nogueira/como-testar-sua-aplicao-android-e-ios-uma-abordagem-prtica) | pt-BR |
+| 5/05/2014 | Encontro GTS-SE | [Agile Testing - entregando valor do início a fim](https://www.slideshare.net/elias.nogueira/agile-testing-entregando-valor-do-incio-a-fim) | pt-BR |
+| 20/01/2014 | Campus Party | [Nunca foi tao facil testar](https://www.slideshare.net/elias.nogueira/nunca-foi-tao-facil-testar) | pt-BR |
+| 27/10/2013 | Rio Agile | [Como tornar o testador parte da equipe](https://www.slideshare.net/elias.nogueira/como-tornar-o-testador-parte-da-equipe) | pt-BR |
+| 25/10/2013 | BRATESTE | [Como se tornar Agile Tester](https://www.slideshare.net/elias.nogueira/como-se-tornar-agile-tester) | pt-BR |
+| 12/07/2013 | The Developers Conference São Paulo | [Reconhecendo suas habilidades como Testador](https://www.slideshare.net/elias.nogueira/tdc-2013-conheca-seus-skills) | pt-BR |
+| 11/05/2013 | DevCamp | [O papel de um testador em uma equipe ágil](https://www.slideshare.net/elias.nogueira/dev-camp-o-papel-de-um-testador-em-uma-equipe-agil) | pt-BR | 
+| 2/2/2013 | Campus Party | [TDD - Test Driven Development](https://www.slideshare.net/elias.nogueira/tdd-test-driven-development-16315314) | pt-BR |
+| 10/11/2012 | Rio Agile | [Todas as abordagens de testes dentro do ágil](https://www.slideshare.net/elias.nogueira/todas-as-abordagens-de-testes-dentro-do-gil) | pt-BR |Todas as abordagens de testes dentro do ágil
+| 20/09/2012 | TestDay | [Arquitetura de Automação de Teste](https://www.slideshare.net/elias.nogueira/arquitetura-de-automao-de-teste) | pt-BR |
+| 05/07/2012 | The Developers Conference São Paulo | [Testes Funcionais em um ALM Open Source ](https://www.slideshare.net/elias.nogueira/alm-testes-funcionais-open-source) | pt-BR |
+| 19/08/2010 | Iterasys | [Hands on Selenium](https://www.slideshare.net/elias.nogueira/hands-on-selenium) | pt-BR |
+| 18/06/2010 | BRATESTE 2010 | [Automação de Teste de Software](https://www.slideshare.net/elias.nogueira/brateste-2010-automacao-de-teste) | pt-BR |
+| 30/07/2009 | 4° Encontro Mensal ALATS | [Automação de Teste - Mitos e Verdades](https://www.slideshare.net/elias.nogueira/4-encontro-mensal-alats-automao-de-teste-mitos-e-verdades) | pt-BR |
+| 10/06/2009 | Semana Acadiemica FIAP/SP | [Teste de Software](https://www.slideshare.net/elias.nogueira/palestra-alats-sp-fiap-teste-de-software) | pt-BR |
+| 05/08/2008 | Palestras TargetTrust| [Automação no Processo de Teste](https://www.slideshare.net/elias.nogueira/automaoo-no-processo-de-teste) | pt-BR |
 
 ### Workshops
 
