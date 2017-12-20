@@ -4,7 +4,7 @@ The objective of this repo is to consolidate in a single place all my participat
 
 The events are organized in reverse chronological order.
 
-[Talks](#talks) | [Workshops](#workshops) | [Organizer](#organizer) | [Initiatives](#initiatives) | [Books & eBooks](#books-ebooks)
+[Talks](#talks) | [Workshops](#workshops) | [Organizer](#organizer) | [Initiatives](#initiatives) | [Books & eBooks](#books-ebooks) | [Videos](#videos)
 
 
 ### Talks
@@ -63,9 +63,9 @@ The events are organized in reverse chronological order.
 | 2017 | [Agile Coach Meetup](https://www.meetup.com/agilecoach-porto-alegre/) | Creator and Organizer |
 | 2017 | [Google Developer Group Porto Alegre](https://www.meetup.com/GDG-Porto-Alegre/) | Co-Organizer |
 | 2016 | GUMobile [Main site](http://www.sucesurs.org.br/gu/gu-mobile-rs/apresentacao/)  - [Wordpress](https://gumobilers.wordpress.com) | Organizer |
-|2010 - 2009 | ALATS | Community Organizer | 
-|2010 - 2008 | java.net portal | Community Lead | 
-|2010 - 2007 | java.net Global Education and Learning Community| Community Lead | 
+| 2010 - 2009 | ALATS | Community Organizer | 
+| 2010 - 2008 | java.net portal | Community Lead | 
+| 2010 - 2007 | java.net Global Education and Learning Community| Community Lead | 
 | 2008 | [GUTS](http://www.sucesurs.org.br/gu/guts/pagina-inicial/) | Creator and Organizer |
 
 
@@ -90,3 +90,8 @@ The events are organized in reverse chronological order.
 | eBook | [Passos para aprender automação web](http://eliasnogueira.com/ebook-passos-para-aprender-automacao-web/) | pt-BR |
 | ebook | [Visões sobre Teste de Software](http://eliasnogueira.com/o-mundo-de-teste-de-software/) | pt-BR |
 
+### Videos
+| Date | Title | Event | Language |
+|------|-------|-------|----------|
+| 2017 | [Trust Your Pipeline: Automatically Testing an End to End Java Application](https://www.youtube.com/watch?v=7wceCdDqVks) | JavaOne San Francisco | en_US |
+| 2017 | [Teste de Ponta a Ponta (Android)](https://www.youtube.com/watch?v=HiAkklZIUoE&t=10s) | Android DevConf | pt-BR |
