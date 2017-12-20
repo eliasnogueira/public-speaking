@@ -98,10 +98,18 @@ The events are organized in reverse chronological order.
 | 2017 | [Trust Your Pipeline: Automatically Testing an End to End Java Application](https://www.youtube.com/watch?v=7wceCdDqVks) | JavaOne San Francisco | en_US |
 | 2017 | [What was the biggest bug you had?](https://www.youtube.com/watch?v=InpQBfjPrXk) | Interview to NoBugsProject | en-US | 
 | 2017 | [Teste de Ponta a Ponta (Android)](https://www.youtube.com/watch?v=HiAkklZIUoE&t=10s) | Android DevConf | pt-BR |
+| 2017 | [O testador técnico](https://en.eventials.com/Globalcode/o-testador-tecnico-stadium-sexta-elias-nogueira/) | The Developers Conference FLorianópolis | pt-BR |
 | 2017 | [O testador está morto! Um novo conceito para testes](https://www.youtube.com/watch?v=nGaiS2o1QRw&t=7s) | Agile Floripa | pt-BR |
 | 2016 | [Testing with Java](https://www.youtube.com/watch?v=8ikjV44Baqw) | Interview for Java channel | en_US |
 | 2016 | [Elias Nogueira - Feedback mais rápido na sua build dividindo os testes funcionais](https://www.youtube.com/watch?v=H0_N_94sYII) | QANinja Conf | pt-BR | 
+| 2015 | [A Importância dos Testes no DevOps](https://www.infoq.com/br/presentations/a-importancia-dos-testes-no-devops) | The Developers Conference São Paulo | pt-BR |
+| 2015 | [Agilize seus testes com automação e grid](https://www.infoq.com/br/presentations/agileze-seus-testes-com-automacao-e-grid) | The Developers Conference São Paulo | pt-BR |
 | 2015 | [Qual o futuro do Teste de Software?](https://www.youtube.com/watch?v=mxDo-Gq8liU) | Hangout with Testers | pt-BR |
 | 2015 | [Onde Testers Investem seu Tempo Fora do Trabalho](https://www.youtube.com/watch?v=Wl8ZePl-Ro8) | Hangout with Testers | pt-BR |
+| 2015 | [Como se tornar um Testador 3.0](https://www.youtube.com/watch?v=XBe9_GBAtgo) | Hangout with Testers | pt-BR |
+| 2014 | [Reconhecendo suas habilidades como Testador](https://www.infoq.com/br/presentations/reconheca-suas-habilidades) | The Developers Conference São Paulo | pt-BR | 
+| 2015 | [Onde Testers Investem seu Tempo Fora do Trabalho](https://www.youtube.com/watch?v=Wl8ZePl-Ro8) | Hangout with Testers | pt-BR |
 | 2014 | [Teste de Performance](https://www.youtube.com/watch?v=pWftfU17MFI) | Hangouts with Testers | pt-BR |
+| 2013 | [O papel de um testador em uma equipe ágil](https://www.infoq.com/br/presentations/testador-equipe-agil) | DevCamp | pt-BR |
+| 2013 | [(Quase) Todas as abordagens de testes dentro do Agile](https://www.infoq.com/br/presentations/quase-todas-abordagens-testes-agil) | Rio Agile | pt-BR |
 | 2013 | [Test Web Meeting - CasperJS](https://www.youtube.com/watch?v=_I-QaOESaSk) | WebTest Meeting | pt-BR |
