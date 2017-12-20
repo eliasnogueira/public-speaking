@@ -110,6 +110,7 @@ The events are organized in reverse chronological order.
 | 2014 | [Reconhecendo suas habilidades como Testador](https://www.infoq.com/br/presentations/reconheca-suas-habilidades) | The Developers Conference São Paulo | pt-BR | 
 | 2015 | [Onde Testers Investem seu Tempo Fora do Trabalho](https://www.youtube.com/watch?v=Wl8ZePl-Ro8) | Hangout with Testers | pt-BR |
 | 2014 | [Teste de Performance](https://www.youtube.com/watch?v=pWftfU17MFI) | Hangouts with Testers | pt-BR |
+| 2013 | [TDD - Desenvolvimento orientado a testes](https://www.youtube.com/watch?v=KXYvWhcjluo) | Campus Party | pt-BR | 
 | 2013 | [O papel de um testador em uma equipe ágil](https://www.infoq.com/br/presentations/testador-equipe-agil) | DevCamp | pt-BR |
 | 2013 | [(Quase) Todas as abordagens de testes dentro do Agile](https://www.infoq.com/br/presentations/quase-todas-abordagens-testes-agil) | Rio Agile | pt-BR |
 | 2013 | [Test Web Meeting - CasperJS](https://www.youtube.com/watch?v=_I-QaOESaSk) | WebTest Meeting | pt-BR |
