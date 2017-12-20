@@ -32,18 +32,32 @@ The events are organized in reverse chronological order.
 | 09/07/2016| The Developers Conference - São Paulo | [Acelerando o feedback e deploy com Automação de Testes!](https://www.slideshare.net/elias.nogueira/acelerando-o-feedback-e-deploy-com-automao-de-testes) | pt-BR |
 | 08/07/2016 | The Developers Conference - São Paulo | [Como ensinei mais de 1000 testadores a automatizar testes](https://www.slideshare.net/elias.nogueira/como-ensinei-mais-de-1000-testadores) | pt-BR |
 | 07/07/2016 | The Developers Conference - São Paulo | [Automatizando uma app Híbrida](https://www.slideshare.net/elias.nogueira/automatizando-uma-app-hbrida) | pt-BR |
+| 29/06/2016 | JavaOne Latin America | [Automação de Teste para REST, Web e Mobile](https://www.slideshare.net/elias.nogueira/automao-de-teste-para-rest-web-e-mobile) | pt-BR |Automação de Teste para REST, Web e Mobile
+| 14/05/2016 | The Developers Conference - Florianópolis | [Automação de Teste para iOS e Android com Appium](https://www.slideshare.net/elias.nogueira/automao-de-teste-para-ios-e-android-com-appium) | pt-BR |
+| 25/09/2015 | The Developers Conference - Porto Alegre | [Testes para Android de ponta a ponta](https://www.slideshare.net/elias.nogueira/testes-para-android-de-ponta-a-ponta) | pt-BR |
+| 22/07/2015 | The Developers Conference - São Paulo | [Como integrar um Agile Tester no seu time](https://www.slideshare.net/elias.nogueira/como-integrar-um-agile-tester-no-seu-time) | pt-BR |
+| 22/07/2015 | The Developers Conference - São Paulo | [Automação em Wearables para Android](https://www.slideshare.net/elias.nogueira/automacao-em-wearables-para-android) | pt-BR |
+| 21/07/2015 | The Developers Conference - São Paulo | [Automação de Teste em UI para Android](https://www.slideshare.net/elias.nogueira/automacao-de-teste-em-ui-para-android) | pt-BR | 
+| 15/05/2015 | The Developers Conference - São Paulo | [Agileze seus testes com automacao e grid](https://www.slideshare.net/elias.nogueira/agileze-seus-testes-com-automacao-e-grid) | pt-BR |
+| 13/05/2015 | The Developers Conference - São Paulo | [A importância dos Testes no Devops](https://www.slideshare.net/elias.nogueira/a-importancia-dos-testes-no-devops) | pt-BR |
+| 13/12/2014 | Google Next Level Apps | [Teste sua app e aumente as chances de mantê-la no mercado](https://www.slideshare.net/elias.nogueira/teste-sua-app-e-aumente-as-chances-de-mantla-no-mercado) | pt-BR |
+| 04/12/2014 | TechTalks ADP Labs | [Testes em ambiente agil](https://www.slideshare.net/elias.nogueira/testes-em-ambiente-agil-tecktalks-adp-labs) | pt-BR |
+| 22/11/2014 | UAI Test | [Automação de Teste não é um bicho de 7 cabeças](https://www.slideshare.net/elias.nogueira/automao-de-teste-no-um-bicho-de-7-cabeas) | pt-BR |
+| 27/09/2014 | Tche Mobile | [Automação de Teste com Robotium](https://www.slideshare.net/elias.nogueira/automao-de-teste-com-robotium-tche-mobile-2014) | pt-BR |
+| 06/09/2014 | Caipira Ágil | [Automação de Teste em Front End - Caipira Ágil](https://www.slideshare.net/elias.nogueira/automao-de-teste-em-front-end-caipira-gil) | pt-BR | 
+| 14/08/2014 | Test Talk | [Testes de Performance na Nuvem com JMeter e Blazemeter](https://www.slideshare.net/elias.nogueira/testes-de-performance-na-nuvem-com-jmeter-e-blazemeter) | pt-BR | 
 | 07/08/2014 | [Simpósio Brasileiro de Qualidade de Software -SBQS](http://www.organizareventos.com.br/sbqs2014/?p=418) | Automação de Testes e Produtividade | pt-BR | 
-| 15/05/2014 | The Developers Conference Florianópolis | [Como testar sua aplicação Android e iOS: uma abordagem prática](https://www.slideshare.net/elias.nogueira/como-testar-sua-aplicao-android-e-ios-uma-abordagem-prtica) | pt-BR |
+| 15/05/2014 | The Developers Conference - Florianópolis | [Como testar sua aplicação Android e iOS: uma abordagem prática](https://www.slideshare.net/elias.nogueira/como-testar-sua-aplicao-android-e-ios-uma-abordagem-prtica) | pt-BR |
 | 5/05/2014 | Encontro GTS-SE | [Agile Testing - entregando valor do início a fim](https://www.slideshare.net/elias.nogueira/agile-testing-entregando-valor-do-incio-a-fim) | pt-BR |
 | 20/01/2014 | Campus Party | [Nunca foi tao facil testar](https://www.slideshare.net/elias.nogueira/nunca-foi-tao-facil-testar) | pt-BR |
 | 27/10/2013 | Rio Agile | [Como tornar o testador parte da equipe](https://www.slideshare.net/elias.nogueira/como-tornar-o-testador-parte-da-equipe) | pt-BR |
 | 25/10/2013 | BRATESTE | [Como se tornar Agile Tester](https://www.slideshare.net/elias.nogueira/como-se-tornar-agile-tester) | pt-BR |
-| 12/07/2013 | The Developers Conference São Paulo | [Reconhecendo suas habilidades como Testador](https://www.slideshare.net/elias.nogueira/tdc-2013-conheca-seus-skills) | pt-BR |
+| 12/07/2013 | The Developers Conference - São Paulo | [Reconhecendo suas habilidades como Testador](https://www.slideshare.net/elias.nogueira/tdc-2013-conheca-seus-skills) | pt-BR |
 | 11/05/2013 | DevCamp | [O papel de um testador em uma equipe ágil](https://www.slideshare.net/elias.nogueira/dev-camp-o-papel-de-um-testador-em-uma-equipe-agil) | pt-BR | 
 | 2/2/2013 | Campus Party | [TDD - Test Driven Development](https://www.slideshare.net/elias.nogueira/tdd-test-driven-development-16315314) | pt-BR |
 | 10/11/2012 | Rio Agile | [Todas as abordagens de testes dentro do ágil](https://www.slideshare.net/elias.nogueira/todas-as-abordagens-de-testes-dentro-do-gil) | pt-BR |Todas as abordagens de testes dentro do ágil
 | 20/09/2012 | TestDay | [Arquitetura de Automação de Teste](https://www.slideshare.net/elias.nogueira/arquitetura-de-automao-de-teste) | pt-BR |
-| 05/07/2012 | The Developers Conference São Paulo | [Testes Funcionais em um ALM Open Source ](https://www.slideshare.net/elias.nogueira/alm-testes-funcionais-open-source) | pt-BR |
+| 05/07/2012 | The Developers Conference - São Paulo | [Testes Funcionais em um ALM Open Source ](https://www.slideshare.net/elias.nogueira/alm-testes-funcionais-open-source) | pt-BR |
 | 19/08/2010 | Iterasys | [Hands on Selenium](https://www.slideshare.net/elias.nogueira/hands-on-selenium) | pt-BR |
 | 18/06/2010 | BRATESTE 2010 | [Automação de Teste de Software](https://www.slideshare.net/elias.nogueira/brateste-2010-automacao-de-teste) | pt-BR |
 | 30/07/2009 | 4° Encontro Mensal ALATS | [Automação de Teste - Mitos e Verdades](https://www.slideshare.net/elias.nogueira/4-encontro-mensal-alats-automao-de-teste-mitos-e-verdades) | pt-BR |
