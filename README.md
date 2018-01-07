@@ -82,7 +82,7 @@ The events are organized in reverse chronological order.
 | 08/08/2014 | [Simpósio Brasileiro de Qualidade de Software -SBQS](http://www.organizareventos.com.br/sbqs2014/?p=418) | Agile Testing - como funciona na prática ? | pt-BR |
 
 ### Organizer
-9 in total
+10 in total
 
 | Date        | Event            | Role  |
 |-------------|------------------|-------|
