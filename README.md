@@ -86,6 +86,7 @@ The events are organized in reverse chronological order.
 
 | Date        | Event            | Role  |
 |-------------|------------------|-------|
+| 2018 | [Programa de Mentoria em Teste de Software](https://www.linkedin.com/company/10035123/) | Mentor |
 | 2017 | [The Developers Conference Dev-Test Track - São Paulo / Porto Alegre](http://www.thedevelopersconference.com.br) | Coordinator / Organizer |
 | 2017 - 2010 | [The Developers Conference Test Track - São Paulo / Florianópolis / Porto Alegre](http://www.thedevelopersconference.com.br) | Coordinator / Organizer |
 | 2017 | [Agile Coach Meetup](https://www.meetup.com/agilecoach-porto-alegre/) | Creator and Organizer |
