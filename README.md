@@ -82,7 +82,7 @@ The events are organized in reverse chronological order.
 | 08/08/2014 | [Simpósio Brasileiro de Qualidade de Software -SBQS](http://www.organizareventos.com.br/sbqs2014/?p=418) | Agile Testing - como funciona na prática ? | pt-BR |
 
 ### Organizer
-10 in total
+9 in total
 
 | Date        | Event            | Role  |
 |-------------|------------------|-------|
@@ -90,7 +90,6 @@ The events are organized in reverse chronological order.
 | 2017 | [The Developers Conference Dev-Test Track - São Paulo / Porto Alegre](http://www.thedevelopersconference.com.br) | Coordinator / Organizer |
 | 2017 - 2010 | [The Developers Conference Test Track - São Paulo / Florianópolis / Porto Alegre](http://www.thedevelopersconference.com.br) | Coordinator / Organizer |
 | 2017 | [Agile Coach Meetup](https://www.meetup.com/agilecoach-porto-alegre/) | Creator and Organizer |
-| 2017 | [Google Developer Group Porto Alegre](https://www.meetup.com/GDG-Porto-Alegre/) | Co-Organizer |
 | 2016 | GUMobile [Main site](http://www.sucesurs.org.br/gu/gu-mobile-rs/apresentacao/)  - [Wordpress](https://gumobilers.wordpress.com) | Organizer |
 | 2010 - 2009 | ALATS | Community Organizer | 
 | 2010 - 2008 | java.net portal | Community Lead | 
@@ -123,14 +122,16 @@ The events are organized in reverse chronological order.
 | ebook | [Visões sobre Teste de Software](http://eliasnogueira.com/o-mundo-de-teste-de-software/) | pt-BR |
 
 ### Videos
-21 in total
+23 in total
 
 | Date | Title | Event | Language |
 |------|-------|-------|----------|
 | 2017 | [Teste em todos os níveis de planejamento](https://www.youtube.com/watch?v=5v59sRVWimA) | Semana da Agilidade | pt-BR | 
 | 2017 | [O importância do Teste de Software em Cloud](https://youtu.be/LTtRooZz-tQ) | Comunidade.Cloud | pt-BR | 
 | 2017 | [Trust Your Pipeline: Automatically Testing an End to End Java Application](https://www.youtube.com/watch?v=7wceCdDqVks) | JavaOne San Francisco | en_US |
-| 2017 | [What was the biggest bug you had?](https://www.youtube.com/watch?v=InpQBfjPrXk) | Interview to NoBugsProject | en-US | 
+| 2017 | [What was the biggest bug you had?](https://www.youtube.com/watch?v=InpQBfjPrXk) | Interview to NoBugsProject | en-US |
+| 2017 | [Mini Keynote: A importância de teste em todos os aspectos](https://www.youtube.com/watch?v=vBzUf0MHFPQ) | GDG Campinas | pt-BR |
+| 2017 | [Criando uma grid para execução de teste automatizado funcional e e2e](https://www.youtube.com/watch?v=sIMYmL603e4) | GDG Campinas | pt-BR |
 | 2017 | [Teste de Ponta a Ponta (Android)](https://www.youtube.com/watch?v=HiAkklZIUoE&t=10s) | Android DevConf | pt-BR |
 | 2017 | [O testador técnico](https://en.eventials.com/Globalcode/o-testador-tecnico-stadium-sexta-elias-nogueira/) | The Developers Conference FLorianópolis | pt-BR |
 | 2017 | [O testador está morto! Um novo conceito para testes](https://www.youtube.com/watch?v=nGaiS2o1QRw&t=7s) | Agile Floripa | pt-BR |
