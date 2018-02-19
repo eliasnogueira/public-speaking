@@ -127,7 +127,7 @@ The events are organized in reverse chronological order.
 
 | Date | Title | Event | Language |
 |------|-------|-------|----------|
-| 01/02/2018 | Campus Party Brasil - CPBR11 | [No que testes ajuda minha carreira como desenvolvedor](https://youtu.be/6RofYqD8DPI?start=00m00s&end=53m37s) | pt-BR | 
+| 2018 | Campus Party Brasil - CPBR11 | [No que testes ajuda minha carreira como desenvolvedor](https://youtu.be/6RofYqD8DPI?start=00m00s&end=53m37s) | pt-BR | 
 | 2017 | [Teste em todos os níveis de planejamento](https://www.youtube.com/watch?v=5v59sRVWimA) | Semana da Agilidade | pt-BR | 
 | 2017 | [O importância do Teste de Software em Cloud](https://youtu.be/LTtRooZz-tQ) | Comunidade.Cloud | pt-BR | 
 | 2017 | [Trust Your Pipeline: Automatically Testing an End to End Java Application](https://www.youtube.com/watch?v=7wceCdDqVks) | JavaOne San Francisco | en_US |
