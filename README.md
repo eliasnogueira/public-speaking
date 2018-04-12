@@ -4,7 +4,7 @@ The objective of this repo is to consolidate in a single place all my participat
 
 The events are organized in reverse chronological order.
 
-[Talks](#talks) | [Workshops](#workshops) | [Organizer](#organizer) | [Initiatives](#initiatives) | [Books & eBooks](#books-ebooks) | [Videos](#videos) | [Prizes](#prizes)
+[Talks](#talks) | [Workshops](#workshops) | [Volunteer](#volunteer) | [Initiatives](#initiatives) | [Books & eBooks](#books-ebooks) | [Videos](#videos) | [Prizes](#prizes)
 
 
 ### Talks
@@ -82,13 +82,14 @@ The events are organized in reverse chronological order.
 | 06/09/2014 | Caipira Ágil | [Automação de Teste em Front End](https://www.slideshare.net/elias.nogueira/automao-de-teste-em-front-end-caipira-gil) | pt-BR | 
 | 08/08/2014 | [Simpósio Brasileiro de Qualidade de Software -SBQS](http://www.organizareventos.com.br/sbqs2014/?p=418) | Agile Testing - como funciona na prática ? | pt-BR |
 
-### Organizer
-9 in total
+### Volunteer
+10 in total
 
 | Date        | Event            | Role  |
 |-------------|------------------|-------|
 | 2018 | [Programa de Mentoria em Teste de Software](https://www.linkedin.com/company/10035123/) | Mentor |
 | 2017 | [The Developers Conference Dev-Test Track - São Paulo / Porto Alegre](http://www.thedevelopersconference.com.br) | Coordinator / Organizer |
+| 2014 | [Agile Brazil](http://www.agilebrazil.com) | Reviewer |
 | 2017 - 2010 | [The Developers Conference Test Track - São Paulo / Florianópolis / Porto Alegre](http://www.thedevelopersconference.com.br) | Coordinator / Organizer |
 | 2017 | [Agile Coach Meetup](https://www.meetup.com/agilecoach-porto-alegre/) | Creator and Organizer |
 | 2016 | GUMobile [Main site](http://www.sucesurs.org.br/gu/gu-mobile-rs/apresentacao/)  - [Wordpress](https://gumobilers.wordpress.com) | Organizer |
@@ -135,7 +136,7 @@ The events are organized in reverse chronological order.
 | 2017 | [Mini Keynote: A importância de teste em todos os aspectos](https://www.youtube.com/watch?v=vBzUf0MHFPQ) | GDG Campinas | pt-BR |
 | 2017 | [Criando uma grid para execução de teste automatizado funcional e e2e](https://www.youtube.com/watch?v=sIMYmL603e4) | GDG Campinas | pt-BR |
 | 2017 | [Teste de Ponta a Ponta (Android)](https://www.youtube.com/watch?v=HiAkklZIUoE&t=10s) | Android DevConf | pt-BR |
-| 2017 | [O testador técnico](https://en.eventials.com/Globalcode/o-testador-tecnico-stadium-sexta-elias-nogueira/) | The Developers Conference FLorianópolis | pt-BR |
+| 2017 | [O testador técnico](https://en.eventials.com/Globalcode/o-testador-tecnico-stadium-sexta-elias-nogueira/) | The Developers Conference Florianópolis | pt-BR |
 | 2017 | [O testador está morto! Um novo conceito para testes](https://www.youtube.com/watch?v=nGaiS2o1QRw&t=7s) | Agile Floripa | pt-BR |
 | 2016 | [Testing with Java](https://www.youtube.com/watch?v=8ikjV44Baqw) | Interview for Java channel | en_US |
 | 2016 | [Elias Nogueira - Feedback mais rápido na sua build dividindo os testes funcionais](https://www.youtube.com/watch?v=H0_N_94sYII) | QANinja Conf | pt-BR | 
@@ -153,8 +154,10 @@ The events are organized in reverse chronological order.
 | 2013 | [Test Web Meeting - CasperJS](https://www.youtube.com/watch?v=_I-QaOESaSk) | WebTest Meeting | pt-BR |
 
 ### Prizes
-1 in total
+3 in total
 
 | Date | Prize | Event |
 |------|-------|-------|
-| 2017 | Most remembered tester | [Testathon](http://testathon.co) Chapter 13 |
+| 2017 | [TDC RockStar](http://www.thedevelopersconference.com.br/rockstars) | [The Developers Conference](http://www.thedevelopersconference.com.br) |
+| 2017 | Recognition for the contribution to the IT market | [iMasters - Android DevConf](https://imasters.com.br)
+| 2017 | Best participation during feedback | [Testathon](http://testathon.co) Chapter 13 - Facebook |
