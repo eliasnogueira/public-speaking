@@ -8,11 +8,11 @@ The events are organized in reverse chronological order.
 
 
 ### Talks
-53 in total
+54 in total
 
 | Date (dd/mm/yyyy) | Event          | Slide Deck  | Language |
 |----------------|----------------|-------|----------|
-| 14/04/2018 | XPConfBR | [Quais são os steps de que deve conter na sua pipeline?](https://www.slideshare.net/elias.nogueira/quais-so-os-steps-de-que-deve-conter-na-sua-pipeline) |
+| 14/04/2018 | [XPConfBR](http://www.wildtech.com.br/xpconfbr/) | [Quais são os steps de que deve conter na sua pipeline?](https://www.slideshare.net/elias.nogueira/quais-so-os-steps-de-que-deve-conter-na-sua-pipeline) |
 | 01/02/2018 | Campus Party Brasil - CPBR11 | [No que testes ajuda minha carreira como desenvolvedor](https://www.slideshare.net/elias.nogueira/tem-que-testar-mesmo) | pt-BR | 
 | 13/12/2017 | Semana da Agilidade - agilidade.org | [Teste em todos os níveis de planejamento](https://www.slideshare.net/elias.nogueira/testes-em-todos-os-niveis-de-planejamento) | pt-BR | 
 | 30/11/2017 | GUTS Talks | [Como planejar pensando em automação de teste em um time ágil](https://www.slideshare.net/GUTS-RS/gutsrs-guts-talks-automao-de-testes?ref=http://guts-rs.blogspot.com.br/) | pt-BR
@@ -68,10 +68,11 @@ The events are organized in reverse chronological order.
 | 05/08/2008 | Palestras TargetTrust| [Automação no Processo de Teste](https://www.slideshare.net/elias.nogueira/automaoo-no-processo-de-teste) | pt-BR |
 
 ### Workshops
-10 in total
+11 in total
 
 | Date (dd/mm/yyyy) | Event            | Subject       | Language  |
 |---------------|------------------|---------------|-----------|
+| 14/04/2018 | [XPConfBR](http://www.wildtech.com.br/xpconfbr/) | [Criação de arquitetura para execução de testes paralelos na web](https://github.com/eliasnogueira/workshop-selenium-grid) | pt-BR |
 | 22/07/2017 | The Developers Conference - São Paulo | Testes Manuais e Automatizados para uma API REST | pt-BR |
 | 06/07/2017 | Scrum Gathering Rio | [Agile Testing Mindset](https://www.slideshare.net/elias.nogueira/workshop-agile-testing-mindset) | pt-BR |
 | 07/11/2016 | Agile Brazil | Agile Testing Mindset | pt-BR |
