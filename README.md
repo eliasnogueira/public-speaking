@@ -16,10 +16,13 @@ The events are organized in reverse chronological order.
 
 ## Talks
 
-54 in total
+57 in total
 
 | Date (dd/mm/yyyy) | Event          | Slide Deck  | Language |
 |----------------|----------------|-------|----------|
+| 19/04/2018 | [The Developers Conference - Florianópolis](http://www.thedevelopersconference.com.br) | [Criando uma grid para execução de testes paralelos com Appium](https://www.slideshare.net/elias.nogueira/criando-uma-grid-para-execuo-de-testes-paralelo-com-appium) | pt-BR |
+| 19/04/2018 | [The Developers Conference - Florianópolis](http://www.thedevelopersconference.com.br) | [Como ter sucesso ministrado sua palestra técnica](https://www.slideshare.net/elias.nogueira/como-ter-sucesso-ministrando-uma-palestra-tcnica) | pt-BR |
+| 19/04/2018 | [The Developers Conference - Florianópolis](http://www.thedevelopersconference.com.br) | [BDD não é automação de testes](https://www.slideshare.net/elias.nogueira/bdd-no-automao-de-testes) | pt-BR |
 | 14/04/2018 | [XPConfBR](http://www.wildtech.com.br/xpconfbr/) | [Quais são os steps de que deve conter na sua pipeline?](https://www.slideshare.net/elias.nogueira/quais-so-os-steps-de-que-deve-conter-na-sua-pipeline) | pt-BR |
 | 01/02/2018 | Campus Party Brasil - CPBR11 | [No que testes ajuda minha carreira como desenvolvedor](https://www.slideshare.net/elias.nogueira/tem-que-testar-mesmo) | pt-BR |
 | 13/12/2017 | Semana da Agilidade - agilidade.org | [Teste em todos os níveis de planejamento](https://www.slideshare.net/elias.nogueira/testes-em-todos-os-niveis-de-planejamento) | pt-BR |
