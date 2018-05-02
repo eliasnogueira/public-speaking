@@ -80,10 +80,11 @@ The events are organized in reverse chronological order.
 
 ## Workshops
 
-11 in total
+12 in total
 
 | Date (dd/mm/yyyy) | Event            | Subject       | Language  |
 |---------------|------------------|---------------|-----------|
+| 19/04/2018 | The Developers Conference - Florianópolis | Testes Manuais e Automatizados para uma API REST | pt-BR |
 | 14/04/2018 | [XPConfBR](http://www.wildtech.com.br/xpconfbr/) | [Criação de arquitetura para execução de testes paralelos na web](https://github.com/eliasnogueira/workshop-selenium-grid) | pt-BR |
 | 22/07/2017 | The Developers Conference - São Paulo | Testes Manuais e Automatizados para uma API REST | pt-BR |
 | 06/07/2017 | Scrum Gathering Rio | [Agile Testing Mindset](https://www.slideshare.net/elias.nogueira/workshop-agile-testing-mindset) | pt-BR |
@@ -103,7 +104,7 @@ The events are organized in reverse chronological order.
 | Date        | Event            | Role  |
 |-------------|------------------|-------|
 | 2018 | [Programa de Mentoria em Teste de Software](https://www.linkedin.com/company/10035123/) | Mentor |
-| 2017 | [The Developers Conference Dev-Test Track - São Paulo / Porto Alegre](http://www.thedevelopersconference.com.br) | Coordinator / Organizer |
+| 2017 - 2018 | [The Developers Conference Dev-Test Track - São Paulo / Porto Alegre](http://www.thedevelopersconference.com.br) | Coordinator / Organizer |
 | 2017 | [Agile Coach Meetup](https://www.meetup.com/agilecoach-porto-alegre/) | Creator and Organizer |
 | 2014 | [Agile Brazil](http://www.agilebrazil.com) | Reviewer |
 | 2017 - 2010 | [The Developers Conference Test Track - São Paulo / Florianópolis / Porto Alegre](http://www.thedevelopersconference.com.br) | Coordinator / Organizer |
@@ -140,11 +141,13 @@ The events are organized in reverse chronological order.
 
 ## Videos
 
-24 in total
+27 in total
 
 | Date | Title | Event | Language |
 |------|-------|-------|----------|
-| 2018 | Campus Party Brasil - CPBR11 | [No que testes ajuda minha carreira como desenvolvedor](https://youtu.be/6RofYqD8DPI?start=00m00s&end=53m37s) | pt-BR |
+| 2018 | [Dicas sobre Testes de Software](https://www.youtube.com/watch?v=IkSnjAPtBco) | Oracle America Latina - Youtube | pt-BR |
+| 2018 | [Como ter sucesso ministrando uma palestra tecnica](https://www.eventials.com/Globalcode/tdc-floripa-2018-carreira-intel-2/) | The Developers Conference - Florianopolis | pt-BR |
+| 2018 | [No que testes ajuda minha carreira como desenvolvedor](https://youtu.be/6RofYqD8DPI?start=00m00s&end=53m37s) | Campus Party Brasil - CPBR11 | pt-BR |
 | 2017 | [Teste em todos os níveis de planejamento](https://www.youtube.com/watch?v=5v59sRVWimA) | Semana da Agilidade | pt-BR |
 | 2017 | [O importância do Teste de Software em Cloud](https://youtu.be/LTtRooZz-tQ) | Comunidade.Cloud | pt-BR |
 | 2017 | [Trust Your Pipeline: Automatically Testing an End to End Java Application](https://www.youtube.com/watch?v=7wceCdDqVks) | JavaOne San Francisco | en_US |
@@ -154,6 +157,7 @@ The events are organized in reverse chronological order.
 | 2017 | [Teste de Ponta a Ponta (Android)](https://www.youtube.com/watch?v=HiAkklZIUoE&t=10s) | Android DevConf | pt-BR |
 | 2017 | [O testador técnico](https://en.eventials.com/Globalcode/o-testador-tecnico-stadium-sexta-elias-nogueira/) | The Developers Conference Florianópolis | pt-BR |
 | 2017 | [O testador está morto! Um novo conceito para testes](https://www.youtube.com/watch?v=nGaiS2o1QRw&t=7s) | Agile Floripa | pt-BR |
+| 2016 | [Testando funcionalmente sua app híbrida](https://www.eventials.com/Globalcode/testando-funcionalmente-sua-app-hibrida/?email=elias.nogueira@gmail.com) | The Developers Conference - São Paulo | pt-BR |
 | 2016 | [Testing with Java](https://www.youtube.com/watch?v=8ikjV44Baqw) | Interview for Java channel | en_US |
 | 2016 | [Elias Nogueira - Feedback mais rápido na sua build dividindo os testes funcionais](https://www.youtube.com/watch?v=H0_N_94sYII) | QANinja Conf | pt-BR |
 | 2015 | [A Importância dos Testes no DevOps](https://www.infoq.com/br/presentations/a-importancia-dos-testes-no-devops) | The Developers Conference São Paulo | pt-BR |
