@@ -12,7 +12,7 @@ The events are organized in reverse chronological order.
 
 ---
 
-[Talks](#talks) | [Workshops](#workshops) | [Volunteer](#volunteer) | [Initiatives](#initiatives) | [Books & eBooks](#books-ebooks) | [Videos](#videos) | [Prizes](#prizes)
+[Talks](#talks) | [Workshops](#workshops) | [Volunteer](#volunteer) | [Initiatives](#initiatives) | [Teaching](#Teaching) | [Books & eBooks](#books-ebooks) | [Videos](#videos) | [Prizes](#prizes)
 
 ## Talks
 
@@ -134,7 +134,10 @@ The events are organized in reverse chronological order.
 
 ### University
 
+3 in total
+
 | Date | Institution | Subject | Location | 
+|------|-------------|---------|----------|
 | 2011 - now | [Unisinos](http://www.unisinos.br) | [Specialization in Software Quality](http://www.unisinos.br/especializacao/qualidade-de-software/ead/sao-leopoldo) | São Leopoldo and Porto Alegre / RS / Brazil |
 | 2015 | Uninassau | Specialization in Software Quality | Recife / PE / Brazil |
 | 2014 | Uniasselvi | Specialization in Software Quality | Blumenau / SC / Brazil |
