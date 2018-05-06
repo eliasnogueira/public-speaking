@@ -1,4 +1,4 @@
-# Elias Event Calendar and Initiatives
+# Elias Event Calendar, Initiatives and Activities
 
 The objective of this repo is to consolidate in a single place all my participations at conferences, meetups, community activities and events in general.
 
@@ -129,6 +129,16 @@ The events are organized in reverse chronological order.
 | [EuroStar Test Huddle](https://huddle.eurostarsoftwaretesting.com/members/elias-nogueira/activity/) | Appium series - tutorial | en-US |
 | [Desafio Selenium](http://eliasnogueira.com/arquivos_blog/selenium/desafio/) | Automated Software Testing | pt-BR |
 | [CSS Selector Game](https://eliasnogueira.github.io/css-locator-game/) | Automated Software Testing | pt-BR |
+
+## Teaching
+
+### University
+
+| Date | Institution | Subject | Location | 
+| 2011 - now | [Unisinos](http://www.unisinos.br) | [Specialization in Software Quality](http://www.unisinos.br/especializacao/qualidade-de-software/ead/sao-leopoldo) | São Leopoldo and Porto Alegre / RS / Brazil |
+| 2015 | Uninassau | Specialization in Software Quality | Recife / PE / Brazil |
+| 2014 | Uniasselvi | Specialization in Software Quality | Blumenau / SC / Brazil |
+
 
 ## Books eBooks
 
