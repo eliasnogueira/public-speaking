@@ -12,14 +12,14 @@ The events are organized in reverse chronological order.
 
 ---
 
-[Talks](#talks) | [Workshops](#workshops) | [Volunteer](#volunteer) | [Initiatives](#initiatives) | [Teaching](#Teaching) | [Books & eBooks](#books-ebooks) | [Videos](#videos) | [Prizes](#prizes)
+[Talks](#talks) | [Workshops](#workshops) | [Volunteer](#volunteer) | [Initiatives](#initiatives) | [Teaching](#teaching) | [Books & eBooks](#books-ebooks) | [Videos](#videos) | [Prizes](#prizes)
 
 ## Talks
 
 57 in total
 
 | Date (dd/mm/yyyy) | Event          | Slide Deck  | Language |
-|----------------|----------------|-------|----------|
+|-------------------|----------------|-------------|----------|
 | 19/04/2018 | [The Developers Conference - Florianópolis](http://www.thedevelopersconference.com.br) | [Criando uma grid para execução de testes paralelos com Appium](https://www.slideshare.net/elias.nogueira/criando-uma-grid-para-execuo-de-testes-paralelo-com-appium) | pt-BR |
 | 19/04/2018 | [The Developers Conference - Florianópolis](http://www.thedevelopersconference.com.br) | [Como ter sucesso ministrado sua palestra técnica](https://www.slideshare.net/elias.nogueira/como-ter-sucesso-ministrando-uma-palestra-tcnica) | pt-BR |
 | 19/04/2018 | [The Developers Conference - Florianópolis](http://www.thedevelopersconference.com.br) | [BDD não é automação de testes](https://www.slideshare.net/elias.nogueira/bdd-no-automao-de-testes) | pt-BR |
@@ -83,7 +83,7 @@ The events are organized in reverse chronological order.
 12 in total
 
 | Date (dd/mm/yyyy) | Event            | Subject       | Language  |
-|---------------|------------------|---------------|-----------|
+|-------------------|------------------|---------------|-----------|
 | 19/04/2018 | The Developers Conference - Florianópolis | Testes Manuais e Automatizados para uma API REST | pt-BR |
 | 14/04/2018 | [XPConfBR](http://www.wildtech.com.br/xpconfbr/) | [Criação de arquitetura para execução de testes paralelos na web](https://github.com/eliasnogueira/workshop-selenium-grid) | pt-BR |
 | 22/07/2017 | The Developers Conference - São Paulo | Testes Manuais e Automatizados para uma API REST | pt-BR |
