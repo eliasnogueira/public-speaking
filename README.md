@@ -28,8 +28,8 @@ The events are organized in reverse chronological order.
 | 13/12/2017 | Semana da Agilidade - agilidade.org | [Teste em todos os níveis de planejamento](https://www.slideshare.net/elias.nogueira/testes-em-todos-os-niveis-de-planejamento) | :brazil: |
 | 30/11/2017 | GUTS Talks | [Como planejar pensando em automação de teste em um time ágil](https://www.slideshare.net/GUTS-RS/gutsrs-guts-talks-automao-de-testes?ref=http://guts-rs.blogspot.com.br/) | :brazil:
 | 10/11/2017 | The Developers Conference - Porto Alegre | [Coaching the Agile Coach](https://www.slideshare.net/elias.nogueira/coaching-the-agile-coach) | :brazil: |
-| 04/09/2017 | JavaOne 2017 - San Francisco | [Java Test Automation for REST, Web and Mobile](https://www.slideshare.net/secret/axAUvsYAqs3txI) | en_US |
-| 02/09/2017 | JavaOne 2017 - San Francisco | [Trust Your Pipeline - Automatically Testing and End-to-End Java Application](https://www.slideshare.net/elias.nogueira/trust-your-pipeline-automatically-testing-and-endtoend-java-application) | en_US |
+| 04/09/2017 | JavaOne 2017 - San Francisco | [Java Test Automation for REST, Web and Mobile](https://www.slideshare.net/secret/axAUvsYAqs3txI) | :us: |
+| 02/09/2017 | JavaOne 2017 - San Francisco | [Trust Your Pipeline - Automatically Testing and End-to-End Java Application](https://www.slideshare.net/elias.nogueira/trust-your-pipeline-automatically-testing-and-endtoend-java-application) | :us: |
 | 19/09/2017 | Agile Coach Meetup - Porto Alegre | [O que é um Agile Coach](https://www.slideshare.net/elias.nogueira/o-que-e-um-agile-coach) | :brazil: |
 | 16/09/2017 | GDG Campinas - QualityFest | [Criando uma grid para execução de teste automatizado funcional e e2e](https://www.slideshare.net/elias.nogueira/criando-uma-grid-para-execuo-de-teste-automatizado-funcional-e-e2e) | :brazil: |
 | 16/09/2017 | GDG Campinas - QualityFest | [A importância de teste em todos os aspectos](https://www.slideshare.net/elias.nogueira/a-importancia-de-testes-em-todos-os-aspectos) | :brazil: |
@@ -171,7 +171,7 @@ The events are organized in reverse chronological order.
 | 2018 | [No que testes ajuda minha carreira como desenvolvedor](https://youtu.be/6RofYqD8DPI?start=00m00s&end=53m37s) | Campus Party Brasil - CPBR11 | :brazil: |
 | 2017 | [Teste em todos os níveis de planejamento](https://www.youtube.com/watch?v=5v59sRVWimA) | Semana da Agilidade | :brazil: |
 | 2017 | [O importância do Teste de Software em Cloud](https://youtu.be/LTtRooZz-tQ) | Comunidade.Cloud | :brazil: |
-| 2017 | [Trust Your Pipeline: Automatically Testing an End to End Java Application](https://www.youtube.com/watch?v=7wceCdDqVks) | JavaOne San Francisco | en_US |
+| 2017 | [Trust Your Pipeline: Automatically Testing an End to End Java Application](https://www.youtube.com/watch?v=7wceCdDqVks) | JavaOne San Francisco | :us: |
 | 2017 | [What was the biggest bug you had?](https://www.youtube.com/watch?v=InpQBfjPrXk) | Interview to NoBugsProject | :us: |
 | 2017 | [Mini Keynote: A importância de teste em todos os aspectos](https://www.youtube.com/watch?v=vBzUf0MHFPQ) | GDG Campinas | :brazil: |
 | 2017 | [Criando uma grid para execução de teste automatizado funcional e e2e](https://www.youtube.com/watch?v=sIMYmL603e4) | GDG Campinas | :brazil: |
@@ -179,7 +179,7 @@ The events are organized in reverse chronological order.
 | 2017 | [O testador técnico](https://en.eventials.com/Globalcode/o-testador-tecnico-stadium-sexta-elias-nogueira/) | The Developers Conference Florianópolis | :brazil: |
 | 2017 | [O testador está morto! Um novo conceito para testes](https://www.youtube.com/watch?v=nGaiS2o1QRw&t=7s) | Agile Floripa | :brazil: |
 | 2016 | [Testando funcionalmente sua app híbrida](https://www.eventials.com/Globalcode/testando-funcionalmente-sua-app-hibrida/?email=elias.nogueira@gmail.com) | The Developers Conference - São Paulo | :brazil: |
-| 2016 | [Testing with Java](https://www.youtube.com/watch?v=8ikjV44Baqw) | Interview for Java channel | en_US |
+| 2016 | [Testing with Java](https://www.youtube.com/watch?v=8ikjV44Baqw) | Interview for Java channel | :us: |
 | 2016 | [Elias Nogueira - Feedback mais rápido na sua build dividindo os testes funcionais](https://www.youtube.com/watch?v=H0_N_94sYII) | QANinja Conf | :brazil: |
 | 2015 | [A Importância dos Testes no DevOps](https://www.infoq.com/br/presentations/a-importancia-dos-testes-no-devops) | The Developers Conference São Paulo | :brazil: |
 | 2015 | [Agilize seus testes com automação e grid](https://www.infoq.com/br/presentations/agileze-seus-testes-com-automacao-e-grid) | The Developers Conference São Paulo | :brazil: |
