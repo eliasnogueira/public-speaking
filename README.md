@@ -12,7 +12,7 @@ The events are organized in reverse chronological order.
 
 ---
 
-:microphone:[Talks (57)](#talks) | :calendar:[Workshops (12)](#workshops) | :busts_in_silhouette:[Volunteer (10)](#volunteer) | :earth_americas:[Initiatives (9)](#initiatives) | :mortar_board:[Teaching (5)](#teaching) | :book:[Books & eBooks (2)](#books-ebooks) | :movie_camera:[Videos (27)](#videos) | :trophy:[Prizes (3)](#prizes)
+[Talks (57)](#talks) | [Workshops (12)](#workshops) | [Volunteer (10)](#volunteer) | [Initiatives (9)](#initiatives) | [Teaching (5)](#teaching) | [Books & eBooks (2)](#books-ebooks) | [Videos (27)](#videos) | [Prizes (3)](#prizes)
 
 ## Talks
 
