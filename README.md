@@ -19,7 +19,7 @@ The events are organized in reverse chronological order.
 57 in total
 
 | Date (dd/mm/yyyy) | Event          | Slide Deck  | Language |
-|-------------------|----------------|-------------|----------|
+|:-----------------:|----------------|-------------|:--------:|
 | 19/04/2018 | [The Developers Conference - Florianópolis](http://www.thedevelopersconference.com.br) | [Criando uma grid para execução de testes paralelos com Appium](https://www.slideshare.net/elias.nogueira/criando-uma-grid-para-execuo-de-testes-paralelo-com-appium) | :brazil: |
 | 19/04/2018 | [The Developers Conference - Florianópolis](http://www.thedevelopersconference.com.br) | [Como ter sucesso ministrado sua palestra técnica](https://www.slideshare.net/elias.nogueira/como-ter-sucesso-ministrando-uma-palestra-tcnica) | :brazil: |
 | 19/04/2018 | [The Developers Conference - Florianópolis](http://www.thedevelopersconference.com.br) | [BDD não é automação de testes](https://www.slideshare.net/elias.nogueira/bdd-no-automao-de-testes) | :brazil: |
