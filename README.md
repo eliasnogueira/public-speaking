@@ -83,7 +83,7 @@ The events are organized in reverse chronological order.
 12 in total
 
 | Date (dd/mm/yyyy) | Event            | Subject       | Language  |
-|-------------------|------------------|---------------|-----------|
+|:-----------------:|------------------|---------------|:---------:|
 | 19/04/2018 | The Developers Conference - Florianópolis | Testes Manuais e Automatizados para uma API REST | :brazil: |
 | 14/04/2018 | [XPConfBR](http://www.wildtech.com.br/xpconfbr/) | [Criação de arquitetura para execução de testes paralelos na web](https://github.com/eliasnogueira/workshop-selenium-grid) | :brazil: |
 | 22/07/2017 | The Developers Conference - São Paulo | Testes Manuais e Automatizados para uma API REST | :brazil: |
@@ -102,7 +102,7 @@ The events are organized in reverse chronological order.
 10 in total
 
 | Date        | Event            | Role  |
-|-------------|------------------|-------|
+|:-----------:|------------------|:-----:|
 | 2018 - now | [Programa de Mentoria em Teste de Software](https://www.linkedin.com/company/10035123/) | Mentor |
 | 2017 - now | [The Developers Conference Dev-Test Track - São Paulo / Porto Alegre](http://www.thedevelopersconference.com.br) | Coordinator / Organizer |
 | 2017 - now | [Agile Coach Meetup](https://www.meetup.com/agilecoach-porto-alegre/) | Creator and Organizer |
@@ -119,7 +119,7 @@ The events are organized in reverse chronological order.
 9 in total
 
 | Initiative name | Focus | Language |
-|-----------------|-------|----------|
+|-----------------|-------|:--------:|
 | [Personal blog](http://eliasnogueira.com) | Software Quality and Test posts | :brazil: |
 | [Facebook page](https://www.facebook.com/elias.nogueira.teste/) | Daily posts about software testing | :brazil: |
 | [iMasters](http://imasters.com.br/perfil/eliasnogueira/?trace=3182418120&source=single) | Software Quality and Test posts | :brazil: |
@@ -137,7 +137,7 @@ The events are organized in reverse chronological order.
 3 in total
 
 | Date | Institution | Subject | Location |
-|------|-------------|---------|----------|
+|:----:|-------------|---------|----------|
 | 2011 - now | [Unisinos](http://www.unisinos.br) | [Specialization in Software Quality](http://www.unisinos.br/especializacao/qualidade-de-software/ead/sao-leopoldo) | São Leopoldo and Porto Alegre / RS / Brazil |
 | 2015 | [Uninassau](https://www.uninassau.edu.br) | Specialization in Software Quality | Recife / PE / Brazil |
 | 2014 | [Uniasselvi](https://portal.uniasselvi.com.br) | Specialization in Software Quality | Blumenau / SC / Brazil |
@@ -147,7 +147,7 @@ The events are organized in reverse chronological order.
 2 in total
 
 | Date | Institution | Subject | Location |
-|------|-------------|---------|----------|
+|:----:|-------------|---------|----------|
 | 2009 - 2011 | [Iterasys](http://www.iterasys.com.br) | Software Test Training | Sao Paulo / SP / Brazil |
 | 2008 - 2009 | [TargetThrust](https://targettrust.com.br) | Software Test Training | Porto Alegre / RS / Brazil |
 
@@ -156,7 +156,7 @@ The events are organized in reverse chronological order.
 2 in total
 
 | Type | Title | Language |
-|------|-------|----------|
+|:----:|-------|:--------:|
 | eBook | [Passos para aprender automação web](http://eliasnogueira.com/ebook-passos-para-aprender-automacao-web/) | :brazil: |
 | ebook | [Visões sobre Teste de Software](http://eliasnogueira.com/o-mundo-de-teste-de-software/) | :brazil: |
 
@@ -165,7 +165,7 @@ The events are organized in reverse chronological order.
 27 in total
 
 | Date | Title | Event | Language |
-|------|-------|-------|----------|
+|:----:|-------|-------|:--------:|
 | 2018 | [Dicas sobre Testes de Software](https://www.youtube.com/watch?v=IkSnjAPtBco) | Oracle America Latina - Youtube | :brazil: |
 | 2018 | [Como ter sucesso ministrando uma palestra tecnica](https://www.eventials.com/Globalcode/tdc-floripa-2018-carreira-intel-2/) | The Developers Conference - Florianopolis | :brazil: |
 | 2018 | [No que testes ajuda minha carreira como desenvolvedor](https://youtu.be/6RofYqD8DPI?start=00m00s&end=53m37s) | Campus Party Brasil - CPBR11 | :brazil: |
@@ -199,7 +199,7 @@ The events are organized in reverse chronological order.
 3 in total
 
 | Date | Prize | Event |
-|------|-------|-------|
+|:----:|-------|-------|
 | 2017 | [TDC RockStar](http://www.thedevelopersconference.com.br/rockstars) | [The Developers Conference](http://www.thedevelopersconference.com.br) |
 | 2017 | Recognition for the contribution to the IT market | [iMasters - Android DevConf](https://imasters.com.br)
 | 2017 | Best participation during feedback | [Testathon](http://testathon.co) Chapter 13 - Facebook |
