@@ -12,15 +12,16 @@ The events are organized in reverse chronological order.
 
 ---
 
-[Talks (57)](#talks) | [Workshops (12)](#workshops) | [Volunteer (10)](#volunteer) | [Initiatives (9)](#initiatives) | [Teaching (5)](#teaching) | [Books & eBooks (2)](#books-ebooks) | [Videos (27)](#videos) | [Prizes (3)](#prizes)
+[Talks (58)](#talks) | [Workshops (12)](#workshops) | [Volunteer (10)](#volunteer) | [Initiatives (9)](#initiatives) | [Teaching (5)](#teaching) | [Books & eBooks (2)](#books-ebooks) | [Videos (27)](#videos) | [Prizes (3)](#prizes)
 
 ## Talks
 
-57 in total
+58 in total
 
 | Date (dd/mm/yyyy) | Event          | Slide Deck  | Language |
 |:-----------------:|----------------|-------------|:--------:|
-| 19/04/2018 | [The Developers Conference - Florianópolis](http://www.thedevelopersconference.com.br) | [Criando uma grid para execução de testes paralelos com Appium](https://www.slideshare.net/elias.nogueira/criando-uma-grid-para-execuo-de-testes-paralelo-com-appium) | :brazil: |
+| 21/04/2018 | [The Developers Conference - Florianópolis](http://www.thedevelopersconference.com.br) | [Confie na sua pipeline: teste automaticamente sua aplicação Java](https://www.slideshare.net/elias.nogueira/trust-your-pipeline-automatically-testing-and-endtoend-java-application) | :brazil: |
+| 20/04/2018 | [The Developers Conference - Florianópolis](http://www.thedevelopersconference.com.br) | [Criando uma grid para execução de testes paralelos com Appium](https://www.slideshare.net/elias.nogueira/criando-uma-grid-para-execuo-de-testes-paralelo-com-appium) | :brazil: |
 | 19/04/2018 | [The Developers Conference - Florianópolis](http://www.thedevelopersconference.com.br) | [Como ter sucesso ministrado sua palestra técnica](https://www.slideshare.net/elias.nogueira/como-ter-sucesso-ministrando-uma-palestra-tcnica) | :brazil: |
 | 19/04/2018 | [The Developers Conference - Florianópolis](http://www.thedevelopersconference.com.br) | [BDD não é automação de testes](https://www.slideshare.net/elias.nogueira/bdd-no-automao-de-testes) | :brazil: |
 | 14/04/2018 | [XPConfBR](http://www.wildtech.com.br/xpconfbr/) | [Quais são os steps de que deve conter na sua pipeline?](https://www.slideshare.net/elias.nogueira/quais-so-os-steps-de-que-deve-conter-na-sua-pipeline) | :brazil: |
