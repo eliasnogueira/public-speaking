@@ -12,7 +12,7 @@ The events are organized in reverse chronological order.
 
 ---
 
-[Talks (60)](#talks) | [Workshops (12)](#workshops) | [Volunteer (10)](#volunteer) | [Initiatives (9)](#initiatives) | [Teaching (5)](#teaching) | [Books & eBooks (2)](#books-ebooks) | [Videos (27)](#videos) | [Prizes (3)](#prizes)
+[Talks (60)](#talks) | [Workshops (12)](#workshops) | [Volunteer (10)](#volunteer) | [Initiatives (9)](#initiatives) | [Teaching (5)](#teaching) | [Books & eBooks (2)](#books-ebooks) | [Videos (28)](#videos) | [Prizes (3)](#prizes)
 
 ## Talks
 
@@ -165,10 +165,11 @@ The events are organized in reverse chronological order.
 
 ## Videos
 
-27 in total
+28 in total
 
 | Date | Title | Event | Language |
 |:----:|-------|-------|:--------:|
+| 2018 | [Testando automaticamente de ponta a ponta um aplicativo Java](https://www.pscp.tv/w/1DXGyYwdMqZGM) | Oracle Code Sao Paulo | :brazil: |
 | 2018 | [Dicas sobre Testes de Software](https://www.youtube.com/watch?v=IkSnjAPtBco) | Oracle America Latina - Youtube | :brazil: |
 | 2018 | [Como ter sucesso ministrando uma palestra tecnica](https://www.eventials.com/Globalcode/tdc-floripa-2018-carreira-intel-2/) | The Developers Conference - Florianopolis | :brazil: |
 | 2018 | [No que testes ajuda minha carreira como desenvolvedor](https://youtu.be/6RofYqD8DPI?start=00m00s&end=53m37s) | Campus Party Brasil - CPBR11 | :brazil: |
