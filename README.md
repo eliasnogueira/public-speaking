@@ -12,11 +12,11 @@ The events are organized in reverse chronological order.
 
 ---
 
-[Talks (60)](#talks) | [Workshops (12)](#workshops) | [Volunteer (10)](#volunteer) | [Initiatives (9)](#initiatives) | [Teaching (5)](#teaching) | [Books & eBooks (2)](#books-ebooks) | [Videos (28)](#videos) | [Prizes (3)](#prizes)
+[Talks (61)](#talks) | [Workshops (12)](#workshops) | [Volunteer (10)](#volunteer) | [Initiatives (9)](#initiatives) | [Teaching (6)](#teaching) | [Books & eBooks (2)](#books-ebooks) | [Videos (28)](#videos) | [Prizes (3)](#prizes)
 
 ## Talks
 
-60 in total
+61 in total
 
 | Date (dd/mm/yyyy) | Event          | Slide Deck  | Repository |  Language |
 |:-----------------:|----------------|-------------|:----------:| :--------:|
@@ -138,10 +138,11 @@ The events are organized in reverse chronological order.
 
 ### University
 
-3 in total
+4 in total
 
 | Date | Institution | Subject | Location |
 |:----:|-------------|---------|----------|
+| 2018 | [Unidavi](https://unidavi.edu.br) | [Web and Mobile Development](https://unidavi.edu.br/posgraduacao/cursos/59676/) | Rio do Sul / SC / Brazil |
 | 2011 - now | [Unisinos](http://www.unisinos.br) | [Specialization in Software Quality](http://www.unisinos.br/especializacao/qualidade-de-software/ead/sao-leopoldo) | São Leopoldo and Porto Alegre / RS / Brazil |
 | 2015 | [Uninassau](https://www.uninassau.edu.br) | Specialization in Software Quality | Recife / PE / Brazil |
 | 2014 | [Uniasselvi](https://portal.uniasselvi.com.br) | Specialization in Software Quality | Blumenau / SC / Brazil |
