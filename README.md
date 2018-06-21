@@ -19,7 +19,8 @@ The events are organized in reverse chronological order.
 60 in total
 
 | Date (dd/mm/yyyy) | Event          | Slide Deck  | Repository |  Language |
-|:-----------------:|----------------|-------------|------------| :--------:|
+|:-----------------:|----------------|-------------|:----------:| :--------:|
+| 21/06/2018 | [Oracle Code São Paulo](https://www.oracle.com/br/openworld/index.html) | [Improve Yourself -- Learn the Skills, Join the Community - Tests](https://www.slideshare.net/elias.nogueira/improve-yourself-learn-the-skills-join-the-community-tests) |  | :brazil |
 | 20/06/2018 | [Oracle Code São Paulo](https://www.oracle.com/br/openworld/index.html) | [Confie no seu pipeline: Teste automaticamente um aplicativo Java de ponta a ponta](https://www.slideshare.net/elias.nogueira/confie-no-seu-pipeline-teste-automaticamente-um-aplicativo-java-de-ponta-a-ponta) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/test-automation-javaone-2017) | :brazil: |
 | 20/06/2018 | [Oracle Code São Paulo](https://www.oracle.com/br/openworld/index.html) | [Como criar ambientes de teste na nuvem e acelerar o feedback do seu pipeline](https://speakerdeck.com/eldermoraes/como-criar-ambientes-de-teste-na-nuvem-e-acelerar-o-feedback-do-seu-pipeline-1196) |  | :brazil: |
 | 21/04/2018 | [The Developers Conference - Florianópolis](http://www.thedevelopersconference.com.br) | [Confie na sua pipeline: teste automaticamente sua aplicação Java](https://www.slideshare.net/elias.nogueira/trust-your-pipeline-automatically-testing-and-endtoend-java-application) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/test-automation-javaone-2017) | :brazil: |
