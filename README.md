@@ -16,6 +16,14 @@ The events are organized in reverse chronological order.
 
 ## Talks
 
+5 in total
+
+### Comming soon
+| Date (dd/mm/yyyy) | Event          | Slide Deck  | Repository |  Language |
+|:-----------------:|----------------|-------------|:----------:| :--------:|
+| 19/07/2018 | [The Developers Conference - São Paulo](http://www.thedevelopersconference.com.br/tdc/2018/saopaulo/trilha-testes) |  |  | :brazil: |
+
+### Past presentations
 61 in total
 
 | Date (dd/mm/yyyy) | Event          | Slide Deck  | Repository |  Language |
