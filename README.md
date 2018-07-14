@@ -21,7 +21,11 @@ The events are organized in reverse chronological order.
 ### Comming soon
 | Date (dd/mm/yyyy) | Event          | Slide Deck  | Repository |  Language |
 |:-----------------:|----------------|-------------|:----------:| :--------:|
-| 19/07/2018 | [The Developers Conference - São Paulo](http://www.thedevelopersconference.com.br/tdc/2018/saopaulo/trilha-testes) |  |  | :brazil: |
+| 19/07/2018 | [The Developers Conference - São Paulo](http://www.thedevelopersconference.com.br/tdc/2018/saopaulo/trilha-testes) | Como criar e executar testes paralelos web usando Selenium e containers |  | :brazil: |
+| 26/07/2018 | [Scrum Gathering Rio](https://scrumrio.com) | Coaching the Agile Coach |  | :brazil: | 
+| 27/07/2018 | [Scrum Gathering Rio](https://scrumrio.com) | BDD não é automação de teste |  | :brazil: | 
+| 03 to 05 Oct 2018 | [Agile Brazil](http://www.agilebrazil.com) | Como 4 Agile Coaches trabalham em uma Transformação Ágil |  | :brazil: |
+| 03 to 05 Oct 2018 | [Agile Brazil](http://www.agilebrazil.com) | Paralelize seus testes web e mobile para ter feedbacks mais rápidos |  | :brazil: | 
 
 ### Past presentations
 61 in total
