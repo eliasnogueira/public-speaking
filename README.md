@@ -14,12 +14,8 @@ The events are organized in reverse chronological order.
 
 ## My social networks
 
-[1.1]: https://github.com/paulrobertlloyd/socialmediaicons/blob/master/facebook-24x24.png (twitter icon with padding)
-[2.1]: https://github.com/paulrobertlloyd/socialmediaicons/blob/master/twitter-24x24.png (facebook icon with padding)
-
-[1]: http://www.twitter.com/eliasnogueira
-[2]: http://www.facebook.com/elias.nogueira.teste
-
+[![logo](https://github.com/paulrobertlloyd/socialmediaicons/blob/master/facebook-24x24.png)](http://www.facebook.com/elias.nogueira.teste)
+[![logo](https://github.com/paulrobertlloyd/socialmediaicons/blob/master/facebook-24x24.png)] (http://www.twitter.com/eliasnogueira)
 
 ---
 
