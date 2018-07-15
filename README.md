@@ -15,7 +15,6 @@ The events are organized in reverse chronological order.
 ## My social networks
 
 [![logo](https://github.com/paulrobertlloyd/socialmediaicons/blob/master/facebook-24x24.png)](http://www.facebook.com/elias.nogueira.teste)
-
 [![logo](https://github.com/paulrobertlloyd/socialmediaicons/blob/master/facebook-24x24.png)](http://www.facebook.com/elias.nogueira.teste)
 ---
 
