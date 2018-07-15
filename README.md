@@ -12,6 +12,17 @@ The events are organized in reverse chronological order.
 
 ---
 
+## My social networks
+
+[1.1]: https://github.com/paulrobertlloyd/socialmediaicons/blob/master/facebook-24x24.png (twitter icon with padding)
+[2.1]: https://github.com/paulrobertlloyd/socialmediaicons/blob/master/twitter-24x24.png (facebook icon with padding)
+
+[1]: http://www.twitter.com/eliasnogueira
+[2]: http://www.facebook.com/elias.nogueira.teste
+
+
+---
+
 [Talks (61)](#talks) | [Workshops (12)](#workshops) | [Volunteer (10)](#volunteer) | [Initiatives (9)](#initiatives) | [Teaching (6)](#teaching) | [Books & eBooks (2)](#books-ebooks) | [Videos (28)](#videos) | [Prizes (3)](#prizes)
 
 ## Talks
