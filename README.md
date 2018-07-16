@@ -15,7 +15,11 @@ The events are organized in reverse chronological order.
 ## My social networks
 
 [![logo](https://github.com/paulrobertlloyd/socialmediaicons/blob/master/facebook-24x24.png)](http://www.facebook.com/elias.nogueira.teste)
-[![logo](https://github.com/paulrobertlloyd/socialmediaicons/blob/master/facebook-24x24.png)](http://www.facebook.com/elias.nogueira.teste)
+[![logo](https://github.com/paulrobertlloyd/socialmediaicons/blob/master/twitter-24x24.png)](http://www.twitter.com/eliasnogueira)
+[![logo](https://github.com/paulrobertlloyd/socialmediaicons/blob/master/linkedin-24x24.png)](http://www.linkedin.com/in/eliasnogueira)
+[![logo](https://github.com/paulrobertlloyd/socialmediaicons/blob/master/slideshare-24x24.png)](https://www.slideshare.net/elias.nogueira)
+[![logo](https://github.com/paulrobertlloyd/socialmediaicons/blob/master/youtube-24x24.png)](https://www.youtube.com/channel/UCXcHBp-wlQ_fphoe6zdWyLA?view_as=subscriber)
+[![logo](https://github.com/paulrobertlloyd/socialmediaicons/blob/master/goodreads-24x24.png)](https://www.goodreads.com/user/show/22558244-elias-nogueira)
 ---
 
 [Talks (61)](#talks) | [Workshops (12)](#workshops) | [Volunteer (10)](#volunteer) | [Initiatives (9)](#initiatives) | [Teaching (6)](#teaching) | [Books & eBooks (2)](#books-ebooks) | [Videos (28)](#videos) | [Prizes (3)](#prizes)
