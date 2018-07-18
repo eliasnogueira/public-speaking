@@ -24,7 +24,6 @@ The events are organized in reverse chronological order.
 ### Comming soon
 | Date (dd/mm/yyyy) | Event          | Slide Deck  | Repository |  Language |
 |:-----------------:|----------------|-------------|:----------:| :--------:|
-| 19/07/2018 | [The Developers Conference - São Paulo](http://www.thedevelopersconference.com.br/tdc/2018/saopaulo/trilha-testes) | Como criar e executar testes paralelos web usando Selenium e containers |  | :brazil: |
 | 26/07/2018 | [Scrum Gathering Rio](https://scrumrio.com) | Coaching the Agile Coach |  | :brazil: | 
 | 27/07/2018 | [Scrum Gathering Rio](https://scrumrio.com) | BDD não é automação de teste |  | :brazil: | 
 | 03 to 05 Oct 2018 | [Agile Brazil](http://www.agilebrazil.com) | Como 4 Agile Coaches trabalham em uma Transformação Ágil |  | :brazil: |
@@ -35,6 +34,7 @@ The events are organized in reverse chronological order.
 
 | Date (dd/mm/yyyy) | Event          | Slide Deck  | Repository |  Language |
 |:-----------------:|----------------|-------------|:----------:| :--------:|
+| 19/07/2018 | [The Developers Conference - São Paulo](http://www.thedevelopersconference.com.br/tdc/2018/saopaulo/trilha-testes) | Como criar e executar testes paralelos web usando Selenium e containers | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/selenium-java-bootstrap) | :brazil: |
 | 21/06/2018 | [Oracle Code São Paulo](https://www.oracle.com/br/openworld/index.html) | [Improve Yourself -- Learn the Skills, Join the Community - Tests](https://www.slideshare.net/elias.nogueira/improve-yourself-learn-the-skills-join-the-community-tests) |  | :brazil: |
 | 20/06/2018 | [Oracle Code São Paulo](https://www.oracle.com/br/openworld/index.html) | [Confie no seu pipeline: Teste automaticamente um aplicativo Java de ponta a ponta](https://www.slideshare.net/elias.nogueira/confie-no-seu-pipeline-teste-automaticamente-um-aplicativo-java-de-ponta-a-ponta) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/test-automation-javaone-2017) | :brazil: |
 | 20/06/2018 | [Oracle Code São Paulo](https://www.oracle.com/br/openworld/index.html) | [Como criar ambientes de teste na nuvem e acelerar o feedback do seu pipeline](https://speakerdeck.com/eldermoraes/como-criar-ambientes-de-teste-na-nuvem-e-acelerar-o-feedback-do-seu-pipeline-1196) |  | :brazil: |
