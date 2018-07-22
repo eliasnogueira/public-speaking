@@ -15,11 +15,11 @@ The events are organized in reverse chronological order.
 
 ---
 
-[Talks (61)](#talks) | [Workshops (12)](#workshops) | [Volunteer (10)](#volunteer) | [Initiatives (9)](#initiatives) | [Teaching (6)](#teaching) | [Books & eBooks (2)](#books-ebooks) | [Videos (28)](#videos) | [Prizes (3)](#prizes)
+[Talks (62)](#talks) | [Workshops (12)](#workshops) | [Volunteer (10)](#volunteer) | [Initiatives (9)](#initiatives) | [Teaching (6)](#teaching) | [Books & eBooks (2)](#books-ebooks) | [Videos (29)](#videos) | [Prizes (3)](#prizes)
 
 ## Talks
 
-5 in total
+4 in total
 
 ### Comming soon
 | Date (dd/mm/yyyy) | Event          | Slide Deck  | Repository |  Language |
@@ -30,7 +30,7 @@ The events are organized in reverse chronological order.
 | 03 to 05 Oct 2018 | [Agile Brazil](http://www.agilebrazil.com) | Paralelize seus testes web e mobile para ter feedbacks mais rápidos |  | :brazil: | 
 
 ### Past presentations
-61 in total
+62 in total
 
 | Date (dd/mm/yyyy) | Event          | Slide Deck  | Repository |  Language |
 |:-----------------:|----------------|-------------|:----------:| :--------:|
@@ -182,10 +182,11 @@ The events are organized in reverse chronological order.
 
 ## Videos
 
-28 in total
+29 in total
 
 | Date | Title | Event | Language |
 |:----:|-------|-------|:--------:|
+| 2018 | [Como criar e executar testes paralelos web usando Selenium e containers](http://bit.ly/2uyviDm) | The Developers Conference - São Paulo |  | :brazil: |
 | 2018 | [Testando automaticamente de ponta a ponta um aplicativo Java](https://www.pscp.tv/w/1DXGyYwdMqZGM) | Oracle Code Sao Paulo |  | :brazil: |
 | 2018 | [Dicas sobre Testes de Software](https://www.youtube.com/watch?v=IkSnjAPtBco) | Oracle America Latina - Youtube |  | :brazil: |
 | 2018 | [Como ter sucesso ministrando uma palestra tecnica](https://www.eventials.com/Globalcode/tdc-floripa-2018-carreira-intel-2/) | The Developers Conference - Florianopolis |  | :brazil: |
