@@ -15,11 +15,11 @@ The events are organized in reverse chronological order.
 
 ---
 
-[Talks (62)](#talks) | [Workshops (12)](#workshops) | [Volunteer (10)](#volunteer) | [Initiatives (9)](#initiatives) | [Teaching (6)](#teaching) | [Books & eBooks (2)](#books-ebooks) | [Videos (29)](#videos) | [Prizes (3)](#prizes)
+[Talks (64)](#talks) | [Workshops (12)](#workshops) | [Volunteer (10)](#volunteer) | [Initiatives (9)](#initiatives) | [Teaching (6)](#teaching) | [Books & eBooks (2)](#books-ebooks) | [Videos (29)](#videos) | [Prizes (3)](#prizes)
 
 ## Talks
 
-4 in total
+3 in total
 
 ### Comming soon
 | Date (dd/mm/yyyy) | Event          | Slide Deck  | Repository |  Language |
@@ -29,12 +29,12 @@ The events are organized in reverse chronological order.
 | 03 to 05 Oct 2018 | [Agile Brazil](http://www.agilebrazil.com) | Paralelize seus testes web e mobile para ter feedbacks mais rápidos |  | :brazil: | 
 
 ### Past presentations
-62 in total
+64 in total
 
 | Date (dd/mm/yyyy) | Event          | Slide Deck  | Repository |  Language |
 |:-----------------:|----------------|-------------|:----------:| :--------:|
 | 27/07/2018 | [Scrum Gathering Rio](https://scrumrio.com) | BDD não é automação de teste |  | :brazil: | 
-| 26/07/2018 | [Scrum Gathering Rio](https://scrumrio.com) | Coaching the Agile Coach |  | :brazil: | 
+| 26/07/2018 | [Scrum Gathering Rio](https://scrumrio.com) | [Coaching the Agile Coach](https://www.slideshare.net/elias.nogueira/coach-the-agile-coach) |  | :brazil: | 
 | 19/07/2018 | [The Developers Conference - São Paulo](http://www.thedevelopersconference.com.br/tdc/2018/saopaulo/trilha-testes) | [Como criar e executar testes paralelos web usando Selenium e containers](https://www.slideshare.net/elias.nogueira/como-criar-e-executar-testes-paralelos-web-usando-selenium-e-containers) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/selenium-java-bootstrap) | :brazil: |
 | 21/06/2018 | [Oracle Code São Paulo](https://www.oracle.com/br/openworld/index.html) | [Improve Yourself -- Learn the Skills, Join the Community - Tests](https://www.slideshare.net/elias.nogueira/improve-yourself-learn-the-skills-join-the-community-tests) |  | :brazil: |
 | 20/06/2018 | [Oracle Code São Paulo](https://www.oracle.com/br/openworld/index.html) | [Confie no seu pipeline: Teste automaticamente um aplicativo Java de ponta a ponta](https://www.slideshare.net/elias.nogueira/confie-no-seu-pipeline-teste-automaticamente-um-aplicativo-java-de-ponta-a-ponta) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/test-automation-javaone-2017) | :brazil: |
