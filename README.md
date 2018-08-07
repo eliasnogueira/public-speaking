@@ -187,35 +187,35 @@ The events are organized in reverse chronological order.
 
 | Date | Title | Event | Language |
 |:----:|-------|-------|:--------:|
-| 2018 | [Como criar e executar testes paralelos web usando Selenium e containers](http://bit.ly/2uyviDm) | The Developers Conference - São Paulo |  | :brazil: |
-| 2018 | [Testando automaticamente de ponta a ponta um aplicativo Java](https://www.pscp.tv/w/1DXGyYwdMqZGM) | Oracle Code Sao Paulo |  | :brazil: |
-| 2018 | [Dicas sobre Testes de Software](https://www.youtube.com/watch?v=IkSnjAPtBco) | Oracle America Latina - Youtube |  | :brazil: |
-| 2018 | [Como ter sucesso ministrando uma palestra tecnica](https://www.eventials.com/Globalcode/tdc-floripa-2018-carreira-intel-2/) | The Developers Conference - Florianopolis |  | :brazil: |
-| 2018 | [No que testes ajuda minha carreira como desenvolvedor](https://youtu.be/6RofYqD8DPI?start=00m00s&end=53m37s) | Campus Party Brasil - CPBR11 |  | :brazil: |
-| 2017 | [Teste em todos os níveis de planejamento](https://www.youtube.com/watch?v=5v59sRVWimA) | Semana da Agilidade |  | :brazil: |
-| 2017 | [O importância do Teste de Software em Cloud](https://youtu.be/LTtRooZz-tQ) | Comunidade.Cloud |  | :brazil: |
+| 2018 | [Como criar e executar testes paralelos web usando Selenium e containers](http://bit.ly/2uyviDm) | The Developers Conference - São Paulo | :brazil: |
+| 2018 | [Testando automaticamente de ponta a ponta um aplicativo Java](https://www.youtube.com/watch?v=R4IrVTksJ-g) | Oracle Code Sao Paulo | :brazil: |
+| 2018 | [Dicas sobre Testes de Software](https://www.youtube.com/watch?v=IkSnjAPtBco) | Oracle America Latina - Youtube  | :brazil: |
+| 2018 | [Como ter sucesso ministrando uma palestra tecnica](https://www.eventials.com/Globalcode/tdc-floripa-2018-carreira-intel-2/) | The Developers Conference - Florianopolis | :brazil: |
+| 2018 | [No que testes ajuda minha carreira como desenvolvedor](https://youtu.be/6RofYqD8DPI?start=00m00s&end=53m37s) | Campus Party Brasil - CPBR11 | :brazil: |
+| 2017 | [Teste em todos os níveis de planejamento](https://www.youtube.com/watch?v=5v59sRVWimA) | Semana da Agilidade | :brazil: |
+| 2017 | [O importância do Teste de Software em Cloud](https://youtu.be/LTtRooZz-tQ) | Comunidade.Cloud | :brazil: |
 | 2017 | [Trust Your Pipeline: Automatically Testing an End to End Java Application](https://www.youtube.com/watch?v=7wceCdDqVks) | JavaOne San Francisco | :us: |
 | 2017 | [What was the biggest bug you had?](https://www.youtube.com/watch?v=InpQBfjPrXk) | Interview to NoBugsProject | :us: |
-| 2017 | [Mini Keynote: A importância de teste em todos os aspectos](https://www.youtube.com/watch?v=vBzUf0MHFPQ) | GDG Campinas |  | :brazil: |
-| 2017 | [Criando uma grid para execução de teste automatizado funcional e e2e](https://www.youtube.com/watch?v=sIMYmL603e4) | GDG Campinas |  | :brazil: |
-| 2017 | [Teste de Ponta a Ponta (Android)](https://www.youtube.com/watch?v=HiAkklZIUoE&t=10s) | Android DevConf |  | :brazil: |
-| 2017 | [O testador técnico](https://en.eventials.com/Globalcode/o-testador-tecnico-stadium-sexta-elias-nogueira/) | The Developers Conference Florianópolis |  | :brazil: |
-| 2017 | [O testador está morto! Um novo conceito para testes](https://www.youtube.com/watch?v=nGaiS2o1QRw&t=7s) | Agile Floripa |  | :brazil: |
-| 2016 | [Testando funcionalmente sua app híbrida](https://www.eventials.com/Globalcode/testando-funcionalmente-sua-app-hibrida/?email=elias.nogueira@gmail.com) | The Developers Conference - São Paulo |  | :brazil: |
+| 2017 | [Mini Keynote: A importância de teste em todos os aspectos](https://www.youtube.com/watch?v=vBzUf0MHFPQ) | GDG Campinas | :brazil: |
+| 2017 | [Criando uma grid para execução de teste automatizado funcional e e2e](https://www.youtube.com/watch?v=sIMYmL603e4) | GDG Campinas | :brazil: |
+| 2017 | [Teste de Ponta a Ponta (Android)](https://www.youtube.com/watch?v=HiAkklZIUoE&t=10s) | Android DevConf | :brazil: |
+| 2017 | [O testador técnico](https://en.eventials.com/Globalcode/o-testador-tecnico-stadium-sexta-elias-nogueira/) | The Developers Conference Florianópolis | :brazil: |
+| 2017 | [O testador está morto! Um novo conceito para testes](https://www.youtube.com/watch?v=nGaiS2o1QRw&t=7s) | Agile Floripa | :brazil: |
+| 2016 | [Testando funcionalmente sua app híbrida](https://www.eventials.com/Globalcode/testando-funcionalmente-sua-app-hibrida/?email=elias.nogueira@gmail.com) | The Developers Conference - São Paulo | :brazil: |
 | 2016 | [Testing with Java](https://www.youtube.com/watch?v=8ikjV44Baqw) | Interview for Java channel | :us: |
-| 2016 | [Elias Nogueira - Feedback mais rápido na sua build dividindo os testes funcionais](https://www.youtube.com/watch?v=H0_N_94sYII) | QANinja Conf |  | :brazil: |
-| 2015 | [A Importância dos Testes no DevOps](https://www.infoq.com/br/presentations/a-importancia-dos-testes-no-devops) | The Developers Conference São Paulo |  | :brazil: |
-| 2015 | [Agilize seus testes com automação e grid](https://www.infoq.com/br/presentations/agileze-seus-testes-com-automacao-e-grid) | The Developers Conference São Paulo |  | :brazil: |
-| 2015 | [Qual o futuro do Teste de Software?](https://www.youtube.com/watch?v=mxDo-Gq8liU) | Hangout with Testers |  | :brazil: |
-| 2015 | [Onde Testers Investem seu Tempo Fora do Trabalho](https://www.youtube.com/watch?v=Wl8ZePl-Ro8) | Hangout with Testers |  | :brazil: |
-| 2015 | [Como se tornar um Testador 3.0](https://www.youtube.com/watch?v=XBe9_GBAtgo) | Hangout with Testers |  | :brazil: |
-| 2014 | [Reconhecendo suas habilidades como Testador](https://www.infoq.com/br/presentations/reconheca-suas-habilidades) | The Developers Conference São Paulo |  | :brazil: |
-| 2015 | [Onde Testers Investem seu Tempo Fora do Trabalho](https://www.youtube.com/watch?v=Wl8ZePl-Ro8) | Hangout with Testers |  | :brazil: |
-| 2014 | [Teste de Performance](https://www.youtube.com/watch?v=pWftfU17MFI) | Hangouts with Testers |  | :brazil: |
-| 2013 | [TDD - Desenvolvimento orientado a testes](https://www.youtube.com/watch?v=KXYvWhcjluo) | Campus Party |  | :brazil: |
+| 2016 | [Elias Nogueira - Feedback mais rápido na sua build dividindo os testes funcionais](https://www.youtube.com/watch?v=H0_N_94sYII) | QANinja Conf | :brazil: |
+| 2015 | [A Importância dos Testes no DevOps](https://www.infoq.com/br/presentations/a-importancia-dos-testes-no-devops) | The Developers Conference São Paulo | :brazil: |
+| 2015 | [Agilize seus testes com automação e grid](https://www.infoq.com/br/presentations/agileze-seus-testes-com-automacao-e-grid) | The Developers Conference São Paulo | :brazil: |
+| 2015 | [Qual o futuro do Teste de Software?](https://www.youtube.com/watch?v=mxDo-Gq8liU) | Hangout with Testers | :brazil: |
+| 2015 | [Onde Testers Investem seu Tempo Fora do Trabalho](https://www.youtube.com/watch?v=Wl8ZePl-Ro8) | Hangout with Testers | :brazil: |
+| 2015 | [Como se tornar um Testador 3.0](https://www.youtube.com/watch?v=XBe9_GBAtgo) | Hangout with Testers | :brazil: |
+| 2014 | [Reconhecendo suas habilidades como Testador](https://www.infoq.com/br/presentations/reconheca-suas-habilidades) | The Developers Conference São Paulo | :brazil: |
+| 2015 | [Onde Testers Investem seu Tempo Fora do Trabalho](https://www.youtube.com/watch?v=Wl8ZePl-Ro8) | Hangout with Testers | :brazil: |
+| 2014 | [Teste de Performance](https://www.youtube.com/watch?v=pWftfU17MFI) | Hangouts with Testers | :brazil: |
+| 2013 | [TDD - Desenvolvimento orientado a testes](https://www.youtube.com/watch?v=KXYvWhcjluo) | Campus Party | :brazil: |
 | 2013 | [O papel de um testador em uma equipe ágil](https://www.infoq.com/br/presentations/testador-equipe-agil) | DevCamp |  | :brazil: |
-| 2013 | [(Quase) Todas as abordagens de testes dentro do Agile](https://www.infoq.com/br/presentations/quase-todas-abordagens-testes-agil) | Rio Agile |  | :brazil: |
-| 2013 | [Test Web Meeting - CasperJS](https://www.youtube.com/watch?v=_I-QaOESaSk) | WebTest Meeting |  | :brazil: |
+| 2013 | [(Quase) Todas as abordagens de testes dentro do Agile](https://www.infoq.com/br/presentations/quase-todas-abordagens-testes-agil) | Rio Agile | :brazil: |
+| 2013 | [Test Web Meeting - CasperJS](https://www.youtube.com/watch?v=_I-QaOESaSk) | WebTest Meeting | :brazil: |
 
 ## Prizes
 
