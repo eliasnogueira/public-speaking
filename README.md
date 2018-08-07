@@ -22,12 +22,12 @@ The events are organized in reverse chronological order.
 3 in total
 
 ### Comming soon
-| Date (dd/mm/yyyy) | Event          | Slide Deck  | Repository |  Language |
-|:-----------------:|----------------|-------------|:----------:| :--------:|
+| Date (dd/mm/yyyy) | Event          | Presentation  | Language |
+|:-----------------:|----------------|---------------|:--------:|
 | 15/09/2018 | [DevOpsDays - Porto Alegre](https://www.devopsdays.org) | Provisionar ambientes para teste automatizado web com containers | :brazil: |
 | 03 to 05 Oct 2018 | [Agile Brazil](http://www.agilebrazil.com) | Como 4 Agile Coaches trabalham em uma Transformação Ágil |  | :brazil: |
 | 03 to 05 Oct 2018 | [Agile Brazil](http://www.agilebrazil.com) | Paralelize seus testes web e mobile para ter feedbacks mais rápidos | :brazil: | 
-| 22 to 25 Oct 2018 | [Oracle Code One](https://www.oracle.com/code-one/index.html) | How to create an architecture for a web test automation | :en: | 
+| 22 to 25 Oct 2018 | [Oracle Code One](https://www.oracle.com/code-one/index.html) | How to create an architecture for a web test automation | :us: | 
 
 ### Past presentations
 64 in total
