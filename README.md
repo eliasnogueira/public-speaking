@@ -1,6 +1,6 @@
 # Elias Event Calendar, Initiatives and Activities
 
-The objective of this repo is to consolidate in a single place all my participations at conferences, meetups, community activities and events in general.
+The objective of this repo is to consolidate in a single place all my participation at conferences, meetups, community activities and events in general.
 
 The events are organized in reverse chronological order.
 
@@ -19,7 +19,7 @@ The events are organized in reverse chronological order.
 
 ## Talks
 
-4 in total
+5 in total
 
 ### Comming soon
 | Date (dd/mm/yyyy) | Event          | Presentation  | Language |
