@@ -180,8 +180,8 @@ The events are organized in reverse chronological order.
 
 | Type | Title | Language |
 |:----:|-------|:--------:|
-| eBook | [Passos para aprender automação web](http://eliasnogueira.com/ebook-passos-para-aprender-automacao-web/) |  | :brazil: |
-| ebook | [Visões sobre Teste de Software](http://eliasnogueira.com/o-mundo-de-teste-de-software/) |  | :brazil: |
+| eBook | [Passos para aprender automação web](http://eliasnogueira.com/ebook-passos-para-aprender-automacao-web/) | :brazil: |
+| ebook | [Visões sobre Teste de Software](http://eliasnogueira.com/o-mundo-de-teste-de-software/) | :brazil: |
 
 ## Videos
 
@@ -215,7 +215,7 @@ The events are organized in reverse chronological order.
 | 2015 | [Onde Testers Investem seu Tempo Fora do Trabalho](https://www.youtube.com/watch?v=Wl8ZePl-Ro8) | Hangout with Testers | :brazil: |
 | 2014 | [Teste de Performance](https://www.youtube.com/watch?v=pWftfU17MFI) | Hangouts with Testers | :brazil: |
 | 2013 | [TDD - Desenvolvimento orientado a testes](https://www.youtube.com/watch?v=KXYvWhcjluo) | Campus Party | :brazil: |
-| 2013 | [O papel de um testador em uma equipe ágil](https://www.infoq.com/br/presentations/testador-equipe-agil) | DevCamp |  | :brazil: |
+| 2013 | [O papel de um testador em uma equipe ágil](https://www.infoq.com/br/presentations/testador-equipe-agil) | DevCamp | :brazil: |
 | 2013 | [(Quase) Todas as abordagens de testes dentro do Agile](https://www.infoq.com/br/presentations/quase-todas-abordagens-testes-agil) | Rio Agile | :brazil: |
 | 2013 | [Test Web Meeting - CasperJS](https://www.youtube.com/watch?v=_I-QaOESaSk) | WebTest Meeting | :brazil: |
 
