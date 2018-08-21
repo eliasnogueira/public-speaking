@@ -106,18 +106,18 @@ The events are organized in reverse chronological order.
 
 | Date (dd/mm/yyyy) | Event            | Subject       | Language  |
 |:-----------------:|------------------|---------------|:---------:|
-| 19/04/2018 | The Developers Conference - Florianópolis | Testes Manuais e Automatizados para uma API REST |  | :brazil: |
-| 14/04/2018 | [XPConfBR](http://www.wildtech.com.br/xpconfbr/) | [Criação de arquitetura para execução de testes paralelos na web](https://github.com/eliasnogueira/workshop-selenium-grid) |  | :brazil: |
-| 22/07/2017 | The Developers Conference - São Paulo | Testes Manuais e Automatizados para uma API REST |  | :brazil: |
-| 06/07/2017 | Scrum Gathering Rio | [Agile Testing Mindset](https://www.slideshare.net/elias.nogueira/workshop-agile-testing-mindset) |  | :brazil: |
-| 07/11/2016 | Agile Brazil | Agile Testing Mindset |  | :brazil: |
-| 08/10/2016 | The Developers Conference - Porto Alegre | Agile Testing |  | :brazil: |
-| 07/07/2016 | The Developers Conference - São Paulo | Agile Testing |  | :brazil: |
-| 13/05/2016 | The Developers Conference - Florianópolis | Automação de Testes para REST, Web e Mobile |  | :brazil: |
-| 16/07/2015 | Encontro GUTS-RS | Testes Automatizados para dispositivos móveis com Appium |  | :brazil: |
-| 13/10/2014 | HUB 2014 | Behavior Driven Development com Java Usando JBehave e Selenium |  | :brazil: |
-| 06/09/2014 | Caipira Ágil | [Automação de Teste em Front End](https://www.slideshare.net/elias.nogueira/automao-de-teste-em-front-end-caipira-gil) |  | :brazil: |
-| 08/08/2014 | [Simpósio Brasileiro de Qualidade de Software -SBQS](http://www.organizareventos.com.br/sbqs2014/?p=418) | Agile Testing - como funciona na prática ? |  | :brazil: |
+| 19/04/2018 | The Developers Conference - Florianópolis | Testes Manuais e Automatizados para uma API REST | :brazil: |
+| 14/04/2018 | [XPConfBR](http://www.wildtech.com.br/xpconfbr/) | [Criação de arquitetura para execução de testes paralelos na web](https://github.com/eliasnogueira/workshop-selenium-grid) | :brazil: |
+| 22/07/2017 | The Developers Conference - São Paulo | Testes Manuais e Automatizados para uma API REST | :brazil: |
+| 06/07/2017 | Scrum Gathering Rio | [Agile Testing Mindset](https://www.slideshare.net/elias.nogueira/workshop-agile-testing-mindset) | :brazil: |
+| 07/11/2016 | Agile Brazil | Agile Testing Mindset | :brazil: |
+| 08/10/2016 | The Developers Conference - Porto Alegre | Agile Testing | :brazil: |
+| 07/07/2016 | The Developers Conference - São Paulo | Agile Testing | :brazil: |
+| 13/05/2016 | The Developers Conference - Florianópolis | Automação de Testes para REST, Web e Mobile | :brazil: |
+| 16/07/2015 | Encontro GUTS-RS | Testes Automatizados para dispositivos móveis com Appium | :brazil: |
+| 13/10/2014 | HUB 2014 | Behavior Driven Development com Java Usando JBehave e Selenium | :brazil: |
+| 06/09/2014 | Caipira Ágil | [Automação de Teste em Front End](https://www.slideshare.net/elias.nogueira/automao-de-teste-em-front-end-caipira-gil) | :brazil: |
+| 08/08/2014 | [Simpósio Brasileiro de Qualidade de Software -SBQS](http://www.organizareventos.com.br/sbqs2014/?p=418) | Agile Testing - como funciona na prática ? | :brazil: |
 
 ## Volunteer
 
@@ -142,15 +142,15 @@ The events are organized in reverse chronological order.
 
 | Initiative name | Focus | Language |
 |-----------------|-------|:--------:|
-| [Personal blog](http://eliasnogueira.com) | Software Quality and Test posts |  | :brazil: |
-| [Facebook page](https://www.facebook.com/elias.nogueira.teste/) | Daily posts about software testing |  | :brazil: |
-| [iMasters](http://imasters.com.br/perfil/eliasnogueira/?trace=3182418120&source=single) | Software Quality and Test posts |  | :brazil: |
-| [InfoQ Brazil](https://www.infoq.com/br/author/Elias-Nogueira) | Software Quality and Test videos |  | :brazil: |
+| [Personal blog](http://eliasnogueira.com) | Software Quality and Test posts | :brazil: |
+| [Facebook page](https://www.facebook.com/elias.nogueira.teste/) | Daily posts about software testing | :brazil: |
+| [iMasters](http://imasters.com.br/perfil/eliasnogueira/?trace=3182418120&source=single) | Software Quality and Test posts | :brazil: |
+| [InfoQ Brazil](https://www.infoq.com/br/author/Elias-Nogueira) | Software Quality and Test videos | :brazil: |
 | [DZone posts](https://dzone.com/users/190109/eliasn.html) | Software Quality and Test posts | :us: |
 | [Medium posts](https://medium.com/@eliasnogueira) | Software Quality and Test posts | :us: |
 | [EuroStar Test Huddle](https://huddle.eurostarsoftwaretesting.com/members/elias-nogueira/activity/) | Appium series - tutorial | :us: |
-| [Desafio Selenium](http://eliasnogueira.com/arquivos_blog/selenium/desafio/) | Automated Software Testing |  | :brazil: |
-| [CSS Selector Game](https://eliasnogueira.github.io/css-locator-game/) | Automated Software Testing |  | :brazil: |
+| [Desafio Selenium](http://eliasnogueira.com/arquivos_blog/selenium/desafio/) | Automated Software Testing | :brazil: |
+| [CSS Selector Game](https://eliasnogueira.github.io/css-locator-game/) | Automated Software Testing | :brazil: |
 
 ## Teaching
 
