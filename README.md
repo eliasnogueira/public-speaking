@@ -6,7 +6,7 @@ The events are organized in reverse chronological order.
 
 ## My social networks
 
-[![logo](https://github.com/paulrobertlloyd/socialmediaicons/blob/master/facebook-24x24.png)](http://www.facebook.com/elias.nogueira.teste)
+[![logo](https://i.imgur.com/gUSPN17.png)](http://www.facebook.com/elias.nogueira.teste)
 [![logo](https://github.com/paulrobertlloyd/socialmediaicons/blob/master/twitter-24x24.png)](http://www.twitter.com/eliasnogueira)
 [![logo](https://github.com/paulrobertlloyd/socialmediaicons/blob/master/linkedin-24x24.png)](http://www.linkedin.com/in/eliasnogueira)
 [![logo](https://github.com/paulrobertlloyd/socialmediaicons/blob/master/slideshare-24x24.png)](https://www.slideshare.net/elias.nogueira)
