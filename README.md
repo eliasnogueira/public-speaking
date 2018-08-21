@@ -7,11 +7,11 @@ The events are organized in reverse chronological order.
 ## My social networks
 
 [![logo](https://i.imgur.com/gUSPN17.png)](http://www.facebook.com/elias.nogueira.teste)
-[![logo](https://github.com/paulrobertlloyd/socialmediaicons/blob/master/twitter-24x24.png)](http://www.twitter.com/eliasnogueira)
-[![logo](https://github.com/paulrobertlloyd/socialmediaicons/blob/master/linkedin-24x24.png)](http://www.linkedin.com/in/eliasnogueira)
-[![logo](https://github.com/paulrobertlloyd/socialmediaicons/blob/master/slideshare-24x24.png)](https://www.slideshare.net/elias.nogueira)
-[![logo](https://github.com/paulrobertlloyd/socialmediaicons/blob/master/youtube-24x24.png)](https://www.youtube.com/channel/UCXcHBp-wlQ_fphoe6zdWyLA?view_as=subscriber)
-[![logo](https://github.com/paulrobertlloyd/socialmediaicons/blob/master/goodreads-24x24.png)](https://www.goodreads.com/eliasnogueira)
+[![logo](https://i.imgur.com/Rb8i3ps.png)](http://www.twitter.com/eliasnogueira)
+[![logo](https://i.imgur.com/HpCun4P.png)](http://www.linkedin.com/in/eliasnogueira)
+[![logo](https://i.imgur.com/7RGlFog.png)](https://www.slideshare.net/elias.nogueira)
+[![logo](https://i.imgur.com/bsJJKqZ.png)](https://www.youtube.com/channel/UCXcHBp-wlQ_fphoe6zdWyLA?view_as=subscriber)
+[![logo](https://i.imgur.com/9eolLfG.png)](https://www.goodreads.com/eliasnogueira)
 
 ---
 
