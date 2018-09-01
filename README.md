@@ -15,7 +15,7 @@ The events are organized in reverse chronological order.
 
 ---
 
-[Talks (64)](#talks) | [Workshops (12)](#workshops) | [Volunteer (10)](#volunteer) | [Initiatives (9)](#initiatives) | [Teaching (6)](#teaching) | [Books & eBooks (2)](#books-ebooks) | [Videos (29)](#videos) | [Prizes (3)](#prizes)
+[Talks (65)](#talks) | [Workshops (12)](#workshops) | [Volunteer (10)](#volunteer) | [Initiatives (9)](#initiatives) | [Teaching (6)](#teaching) | [Books & eBooks (2)](#books-ebooks) | [Videos (29)](#videos) | [Prizes (3)](#prizes)
 
 ## Talks
 
@@ -31,7 +31,7 @@ The events are organized in reverse chronological order.
 | 22 to 25 Oct 2018 | [Oracle Code One](https://www.oracle.com/code-one/index.html) | How to create an architecture for a web test automation | :us: | 
 
 ### Past presentations
-64 in total
+65 in total
 
 | Date (dd/mm/yyyy) | Event          | Slide Deck  | Repository |  Language |
 |:-----------------:|----------------|-------------|:----------:| :--------:|
