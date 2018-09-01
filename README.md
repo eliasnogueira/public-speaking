@@ -35,6 +35,7 @@ The events are organized in reverse chronological order.
 
 | Date (dd/mm/yyyy) | Event          | Slide Deck  | Repository |  Language |
 |:-----------------:|----------------|-------------|:----------:| :--------:|
+| 25/08/2018 | [GUTS-RS - Evolução da área de qualidade de software nos últimos 10 anos] | [A evolução do papel do QA](https://www.slideshare.net/elias.nogueira/o-testador-esta-morto) | | :brazil: |
 | 27/07/2018 | [Scrum Gathering Rio](https://scrumrio.com) | [BDD não é automação de teste](https://www.slideshare.net/elias.nogueira/bdd-no-automao-de-teste-scrum-gathering) |  | :brazil: | 
 | 26/07/2018 | [Scrum Gathering Rio](https://scrumrio.com) | [Coaching the Agile Coach](https://www.slideshare.net/elias.nogueira/coach-the-agile-coach) |  | :brazil: | 
 | 19/07/2018 | [The Developers Conference - São Paulo](http://www.thedevelopersconference.com.br/tdc/2018/saopaulo/trilha-testes) | [Como criar e executar testes paralelos web usando Selenium e containers](https://www.slideshare.net/elias.nogueira/como-criar-e-executar-testes-paralelos-web-usando-selenium-e-containers) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/selenium-java-bootstrap) | :brazil: |
