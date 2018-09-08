@@ -26,9 +26,9 @@ The events are organized in reverse chronological order.
 |:-----------------:|----------------|---------------|----------|:--------:|
 | 15/09/2018 | [DevOpsDays - Porto Alegre](https://www.devopsdays.org) | Provisionar ambientes para teste automatizado web com containers | Porto Alegre / RS / Brazil | :brazil: |
 | 21/09/2018 | [Seniortec Experience](https://www.sympla.com.br/seniortec-experience-2018__334110) | O papel do QA na Transformação Ágil | Blumenau / SC / Brazil | :brazil: |
-| 03 to 05 Oct 2018 | [Agile Brazil](http://www.agilebrazil.com) | Como 4 Agile Coaches trabalham em uma Transformação Ágil | Campinas / SP / Brazil | :brazil: |
-| 03 to 05 Oct 2018 | [Agile Brazil](http://www.agilebrazil.com) | Paralelize seus testes web e mobile para ter feedbacks mais rápidos | Campinas / SP / Brazil | :brazil: | 
-| 22 to 25 Oct 2018 | [Oracle Code One](https://www.oracle.com/code-one/index.html) | How to create an architecture for a web test automation | San Francisco / CA / EUA | :us: | 
+| 04/10/2018 | [Agile Brazil](http://www.agilebrazil.com) | Como 4 Agile Coaches trabalham em uma Transformação Ágil | Campinas / SP / Brazil | :brazil: |
+| 05/10/2018 | [Agile Brazil](http://www.agilebrazil.com) | Paralelize seus testes web e mobile para ter feedbacks mais rápidos | Campinas / SP / Brazil | :brazil: | 
+| 22/10/2018 | [Oracle Code One](https://www.oracle.com/code-one/index.html) | How to create an architecture for a web test automation | San Francisco / CA / EUA | :us: | 
 
 ### Past presentations
 65 in total
