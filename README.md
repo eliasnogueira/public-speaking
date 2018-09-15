@@ -15,11 +15,11 @@ The events are organized in reverse chronological order.
 
 ---
 
-[Talks (65)](#talks) | [Workshops (12)](#workshops) | [Volunteer (10)](#volunteer) | [Initiatives (9)](#initiatives) | [Teaching (6)](#teaching) | [Books & eBooks (2)](#books-ebooks) | [Videos (29)](#videos) | [Prizes (3)](#prizes)
+[Talks (66)](#talks) | [Workshops (12)](#workshops) | [Volunteer (10)](#volunteer) | [Initiatives (9)](#initiatives) | [Teaching (6)](#teaching) | [Books & eBooks (2)](#books-ebooks) | [Videos (29)](#videos) | [Prizes (3)](#prizes)
 
 ## Talks
 
-5 in total
+4 in total
 
 ### Coming soon
 | Date (dd/mm/yyyy) | Event          | Presentation  | Location | Language |
@@ -30,7 +30,7 @@ The events are organized in reverse chronological order.
 | 22/10/2018 | [Oracle Code One](https://www.oracle.com/code-one/index.html) | How to create an architecture for a web test automation | San Francisco / CA / EUA | :us: | 
 
 ### Past presentations
-65 in total
+66 in total
 
 | Date (dd/mm/yyyy) | Event          | Slide Deck  | Repository |  Language |
 |:-----------------:|----------------|-------------|:----------:| :--------:|
