@@ -24,7 +24,7 @@ The events are organized in reverse chronological order.
 ### Coming soon
 | Date (dd/mm/yyyy) | Event          | Presentation  | Location | Language |
 |:-----------------:|----------------|---------------|----------|:--------:|
-| 04/10/2018 | [Agile Brazil](http://www.agilebrazil.com) | Como 4 Agile Coaches trabalham em uma Transformação Ágil | Campinas / SP / Brazil | :brazil: |
+| 03/10/2018 | [Agile Brazil](http://www.agilebrazil.com) | Como 4 Agile Coaches trabalham em uma Transformação Ágil | Campinas / SP / Brazil | :brazil: |
 | 05/10/2018 | [Agile Brazil](http://www.agilebrazil.com) | Paralelize seus testes web e mobile para ter feedbacks mais rápidos | Campinas / SP / Brazil | :brazil: | 
 | 22/10/2018 | [Oracle Code One](https://www.oracle.com/code-one/index.html) | How to create an architecture for a web test automation | San Francisco / CA / EUA | :us: | 
 
