@@ -19,21 +19,21 @@ The events are organized in reverse chronological order.
 
 ## Talks
 
-4 in total
+3 in total
 
 ### Coming soon
 | Date (dd/mm/yyyy) | Event          | Presentation  | Location | Language |
 |:-----------------:|----------------|---------------|----------|:--------:|
-| 21/09/2018 | [Seniortec Experience](https://www.sympla.com.br/seniortec-experience-2018__334110) | O papel do QA na Transformação Ágil | Blumenau / SC / Brazil | :brazil: |
 | 04/10/2018 | [Agile Brazil](http://www.agilebrazil.com) | Como 4 Agile Coaches trabalham em uma Transformação Ágil | Campinas / SP / Brazil | :brazil: |
 | 05/10/2018 | [Agile Brazil](http://www.agilebrazil.com) | Paralelize seus testes web e mobile para ter feedbacks mais rápidos | Campinas / SP / Brazil | :brazil: | 
 | 22/10/2018 | [Oracle Code One](https://www.oracle.com/code-one/index.html) | How to create an architecture for a web test automation | San Francisco / CA / EUA | :us: | 
 
 ### Past presentations
-66 in total
+67 in total
 
 | Date (dd/mm/yyyy) | Event          | Slide Deck  | Repository |  Language |
 |:-----------------:|----------------|-------------|:----------:| :--------:|
+| 21/09/2018 | [Seniortec Experience](https://www.sympla.com.br/seniortec-experience-2018__334110) | [O papel do QA na Transformação Ágil](https://www.slideshare.net/elias.nogueira/papel-do-qa-na-transformao-gil) | Blumenau / SC / Brazil | :brazil: |
 | 15/09/2018 | [DevOpsDays - Porto Alegre](https://www.devopsdays.org) | [Provisionar ambientes para teste automatizado web com containers](https://www.slideshare.net/elias.nogueira/como-criar-e-executar-testes-paralelos-web-usando-selenium-e-containers) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/selenium-java-bootstrap) | :brazil: |
 | 25/08/2018 | [GUTS-RS - Evolução da área de qualidade de software nos últimos 10 anos](http://guts-rs.blogspot.com) | [A evolução do papel do QA](https://www.slideshare.net/elias.nogueira/o-testador-esta-morto) | | :brazil: |
 | 27/07/2018 | [Scrum Gathering Rio](https://scrumrio.com) | [BDD não é automação de teste](https://www.slideshare.net/elias.nogueira/bdd-no-automao-de-teste-scrum-gathering) |  | :brazil: | 
