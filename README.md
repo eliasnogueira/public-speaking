@@ -15,24 +15,24 @@ The events are organized in reverse chronological order.
 
 ---
 
-[Talks (66)](#talks) | [Workshops (12)](#workshops) | [Volunteer (10)](#volunteer) | [Initiatives (9)](#initiatives) | [Teaching (6)](#teaching) | [Books & eBooks (2)](#books-ebooks) | [Videos (29)](#videos) | [Prizes (3)](#prizes)
+[Talks (68)](#talks) | [Workshops (12)](#workshops) | [Volunteer (10)](#volunteer) | [Initiatives (9)](#initiatives) | [Teaching (6)](#teaching) | [Books & eBooks (2)](#books-ebooks) | [Videos (29)](#videos) | [Prizes (3)](#prizes)
 
 ## Talks
 
-3 in total
+2 in total
 
 ### Coming soon
 | Date (dd/mm/yyyy) | Event          | Presentation  | Location | Language |
 |:-----------------:|----------------|---------------|----------|:--------:|
-| 03/10/2018 | [Agile Brazil](http://www.agilebrazil.com) | Como 4 Agile Coaches trabalham em uma Transformação Ágil | Campinas / SP / Brazil | :brazil: |
 | 05/10/2018 | [Agile Brazil](http://www.agilebrazil.com) | Paralelize seus testes web e mobile para ter feedbacks mais rápidos | Campinas / SP / Brazil | :brazil: | 
 | 22/10/2018 | [Oracle Code One](https://www.oracle.com/code-one/index.html) | How to create an architecture for a web test automation | San Francisco / CA / EUA | :us: | 
 
 ### Past presentations
-67 in total
+68 in total
 
 | Date (dd/mm/yyyy) | Event          | Slide Deck  | Repository |  Language |
 |:-----------------:|----------------|-------------|:----------:| :--------:|
+| 03/10/2018 | [Agile Brazil](http://www.agilebrazil.com) | [Como 4 Agile Coaches trabalham em uma Transformação Ágil](https://www.slideshare.net/elias.nogueira/como-4-agile-coaches-trabalham-em-uma-transformao-gil) |  | :brazil: |
 | 21/09/2018 | [Seniortec Experience](https://www.sympla.com.br/seniortec-experience-2018__334110) | [O papel do QA na Transformação Ágil](https://www.slideshare.net/elias.nogueira/papel-do-qa-na-transformao-gil) |  | :brazil: |
 | 15/09/2018 | [DevOpsDays - Porto Alegre](https://www.devopsdays.org) | [Provisionar ambientes para teste automatizado web com containers](https://www.slideshare.net/elias.nogueira/como-criar-e-executar-testes-paralelos-web-usando-selenium-e-containers) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/selenium-java-bootstrap) | :brazil: |
 | 25/08/2018 | [GUTS-RS - Evolução da área de qualidade de software nos últimos 10 anos](http://guts-rs.blogspot.com) | [A evolução do papel do QA](https://www.slideshare.net/elias.nogueira/o-testador-esta-morto) | | :brazil: |
