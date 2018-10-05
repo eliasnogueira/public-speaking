@@ -19,12 +19,11 @@ The events are organized in reverse chronological order.
 
 ## Talks
 
-2 in total
+1 in total
 
 ### Coming soon
 | Date (dd/mm/yyyy) | Event          | Presentation  | Location | Language |
 |:-----------------:|----------------|---------------|----------|:--------:|
-| 05/10/2018 | [Agile Brazil](http://www.agilebrazil.com) | Paralelize seus testes web e mobile para ter feedbacks mais rápidos | Campinas / SP / Brazil | :brazil: | 
 | 22/10/2018 | [Oracle Code One](https://www.oracle.com/code-one/index.html) | How to create an architecture for a web test automation | San Francisco / CA / EUA | :us: | 
 
 ### Past presentations
@@ -32,6 +31,7 @@ The events are organized in reverse chronological order.
 
 | Date (dd/mm/yyyy) | Event          | Slide Deck  | Repository |  Language |
 |:-----------------:|----------------|-------------|:----------:| :--------:|
+| 05/10/2018 | [Agile Brazil](http://www.agilebrazil.com) | [Paralelize seus testes web e mobile para ter feedbacks mais rápidos](https://www.slideshare.net/elias.nogueira/paralelize-seus-testes-web-e-mobile-para-ter-feedbacks-mais-rpidos) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/workshop-ab-2018) | :brazil: | 
 | 03/10/2018 | [Agile Brazil](http://www.agilebrazil.com) | [Como 4 Agile Coaches trabalham em uma Transformação Ágil](https://www.slideshare.net/elias.nogueira/como-4-agile-coaches-trabalham-em-uma-transformao-gil) |  | :brazil: |
 | 21/09/2018 | [Seniortec Experience](https://www.sympla.com.br/seniortec-experience-2018__334110) | [O papel do QA na Transformação Ágil](https://www.slideshare.net/elias.nogueira/papel-do-qa-na-transformao-gil) |  | :brazil: |
 | 15/09/2018 | [DevOpsDays - Porto Alegre](https://www.devopsdays.org) | [Provisionar ambientes para teste automatizado web com containers](https://www.slideshare.net/elias.nogueira/como-criar-e-executar-testes-paralelos-web-usando-selenium-e-containers) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/selenium-java-bootstrap) | :brazil: |
