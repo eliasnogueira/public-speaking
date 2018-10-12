@@ -19,9 +19,9 @@ The events are organized in reverse chronological order.
 
 ## Talks
 
+### Coming soon
 5 in total
 
-### Coming soon
 | Date (dd/mm/yyyy) | Event          | Presentation  | Location | Language |
 |:-----------------:|----------------|---------------|----------|:--------:|
 | 22/10/2018 | [Oracle Code One](https://www.oracle.com/code-one/index.html) | How to create an architecture for a web test automation | San Francisco / CA / EUA | :us: | 
