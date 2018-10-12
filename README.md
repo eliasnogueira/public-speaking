@@ -15,16 +15,21 @@ The events are organized in reverse chronological order.
 
 ---
 
-[Talks (68)](#talks) | [Workshops (12)](#workshops) | [Volunteer (10)](#volunteer) | [Initiatives (9)](#initiatives) | [Teaching (6)](#teaching) | [Books & eBooks (2)](#books-ebooks) | [Videos (29)](#videos) | [Prizes (3)](#prizes)
+[Talks (67)](#talks) | [Workshops (12)](#workshops) | [Volunteer (10)](#volunteer) | [Initiatives (9)](#initiatives) | [Teaching (6)](#teaching) | [Books & eBooks (2)](#books-ebooks) | [Videos (29)](#videos) | [Prizes (3)](#prizes)
 
 ## Talks
 
-1 in total
+5 in total
 
 ### Coming soon
 | Date (dd/mm/yyyy) | Event          | Presentation  | Location | Language |
 |:-----------------:|----------------|---------------|----------|:--------:|
 | 22/10/2018 | [Oracle Code One](https://www.oracle.com/code-one/index.html) | How to create an architecture for a web test automation | San Francisco / CA / EUA | :us: | 
+| 05/12/2018 | [The Developers Conference](http://www.thedevelopersconference.com.br/tdc/2018/index.html) | [Agile Coaching] O Agile Coach pode (e em alguns momentos deve) ser técnico | Porto Alegre / RS / Brazil | :brazil: | 
+| 05/12/2018 | [The Developers Conference](http://www.thedevelopersconference.com.br/tdc/2018/index.html) | [Testes] Como criar e executar testes paralelos web usando Selenium e containers | Porto Alegre / RS / Brazil | :brazil: | 
+| 06/12/2018 | [The Developers Conference](http://www.thedevelopersconference.com.br/tdc/2018/index.html) | [Extreme Programming] Como um trabalho chamado Coach por Imersão tem ajudado na excelencia técnica | Porto Alegre / RS / Brazil | :brazil: | 
+| 07/12/2018 | [The Developers Conference](http://www.thedevelopersconference.com.br/tdc/2018/index.html) | [Carreiras] Como ser reconhecido no mercado como um profissional de alta performance | Porto Alegre / RS / Brazil | :brazil: | 
+| 08/12/2018 | [The Developers Conference](http://www.thedevelopersconference.com.br/tdc/2018/index.html) | [Containers] Usando container com auto-escala para execução de automação web | Porto Alegre / RS / Brazil | :brazil: | 
 
 ### Past presentations
 69 in total
