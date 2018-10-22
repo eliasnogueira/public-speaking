@@ -20,7 +20,7 @@ The events are organized in reverse chronological order.
 ## Talks
 
 ### Coming soon
-5 in total
+4 in total
 
 | Date (dd/mm/yyyy) | Event          | Presentation  | Location | Language |
 |:-----------------:|----------------|---------------|----------|:--------:|
@@ -31,7 +31,7 @@ The events are organized in reverse chronological order.
 | 08/12/2018 | [The Developers Conference](http://www.thedevelopersconference.com.br/tdc/2018/index.html) | [Containers] Usando container com auto-escala para execução de automação web | Porto Alegre / RS / Brazil | :brazil: | 
 
 ### Past presentations
-69 in total
+70 in total
 
 | Date (dd/mm/yyyy) | Event          | Slide Deck  | Repository |  Language |
 |:-----------------:|----------------|-------------|:----------:| :--------:|
