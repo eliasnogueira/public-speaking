@@ -196,7 +196,7 @@ The events are organized in reverse chronological order.
 
 | Date | Title | Event | Language |
 |:----:|-------|-------|:--------:|
-| 2018 | [Como criar uma arquitetura para automação de teste da Web](https://www.youtube.com/watch?v=HEIbsCkN0lI&feature=youtu.be) | Oracle CodeOne San Francisco | :brazil: |
+| 2018 | [How to create an architecture for web test automation](https://youtu.be/x8I321vRjCk?t=9043) | Oracle CodeOne San Francisco | :us: |
 | 2018 | [Como criar e executar testes paralelos web usando Selenium e containers](http://bit.ly/2uyviDm) | The Developers Conference - São Paulo | :brazil: |
 | 2018 | [Testando automaticamente de ponta a ponta um aplicativo Java](https://www.youtube.com/watch?v=R4IrVTksJ-g) | Oracle Code Sao Paulo | :brazil: |
 | 2018 | [Dicas sobre Testes de Software](https://www.youtube.com/watch?v=IkSnjAPtBco) | Oracle America Latina - Youtube  | :brazil: |
