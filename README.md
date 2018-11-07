@@ -15,7 +15,7 @@ The events are organized in reverse chronological order.
 
 ---
 
-[Talks (70)](#talks) | [Workshops (12)](#workshops) | [Volunteer (10)](#volunteer) | [Initiatives (9)](#initiatives) | [Teaching (7)](#teaching) | [Books & eBooks (2)](#books-ebooks) | [Videos (30)](#videos) | [Prizes (3)](#prizes)
+[Talks (70)](#talks) | [Workshops (12)](#workshops) | [Volunteer (10)](#volunteer) | [Initiatives (9)](#initiatives) | [Teaching (7)](#teaching) | [Books & eBooks (2)](#books-ebooks) | [Videos (31)](#videos) | [Prizes (3)](#prizes)
 
 ## Talks
 
@@ -192,11 +192,12 @@ The events are organized in reverse chronological order.
 
 ## Videos
 
-30 in total
+31 in total
 
 | Date | Title | Event | Language |
 |:----:|-------|-------|:--------:|
 | 2018 | [How to create an architecture for web test automation](https://www.youtube.com/watch?v=lrUoCD1yrnU) | Oracle CodeOne San Francisco | :us: |
+| 2018 | [Como criar uma arquitetura para automação de teste da Web - Dicas](https://www.youtube.com/watch?v=HEIbsCkN0lI&t=2s) | Oracle CodeOne San Francisco | :brazil: |
 | 2018 | [Como criar e executar testes paralelos web usando Selenium e containers](http://bit.ly/2uyviDm) | The Developers Conference - São Paulo | :brazil: |
 | 2018 | [Testando automaticamente de ponta a ponta um aplicativo Java](https://www.youtube.com/watch?v=R4IrVTksJ-g) | Oracle Code Sao Paulo | :brazil: |
 | 2018 | [Dicas sobre Testes de Software](https://www.youtube.com/watch?v=IkSnjAPtBco) | Oracle America Latina - Youtube  | :brazil: |
