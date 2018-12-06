@@ -15,24 +15,24 @@ The events are organized in reverse chronological order.
 
 ---
 
-[Talks (70)](#talks) | [Workshops (12)](#workshops) | [Volunteer (10)](#volunteer) | [Initiatives (9)](#initiatives) | [Teaching (7)](#teaching) | [Books & eBooks (2)](#books-ebooks) | [Videos (31)](#videos) | [Prizes (3)](#prizes)
+[Talks (73)](#talks) | [Workshops (12)](#workshops) | [Volunteer (10)](#volunteer) | [Initiatives (9)](#initiatives) | [Teaching (7)](#teaching) | [Books & eBooks (2)](#books-ebooks) | [Videos (31)](#videos) | [Prizes (3)](#prizes)
 
 ## Talks
 
 ### Coming soon
-4 in total
+2 in total
 
 | Date (dd/mm/yyyy) | Event          | Presentation  | Location | Language |
 |:-----------------:|----------------|---------------|----------|:--------:|
-| 06/12/2018 | [The Developers Conference](http://www.thedevelopersconference.com.br/tdc/2018/index.html) | [Extreme Programming] Como um trabalho chamado Coach por Imersão tem ajudado na excelencia técnica | Porto Alegre / RS / Brazil | :brazil: | 
 | 07/12/2018 | [The Developers Conference](http://www.thedevelopersconference.com.br/tdc/2018/index.html) | [Carreiras] Como ser reconhecido no mercado como um profissional de alta performance | Porto Alegre / RS / Brazil | :brazil: | 
 | 08/12/2018 | [The Developers Conference](http://www.thedevelopersconference.com.br/tdc/2018/index.html) | [Containers] Usando container com auto-escala para execução de automação web | Porto Alegre / RS / Brazil | :brazil: | 
 
 ### Past presentations
-70 in total
+73 in total
 
 | Date (dd/mm/yyyy) | Event          | Slide Deck  | Repository |  Language |
 |:-----------------:|----------------|-------------|:----------:| :--------:|
+| 06/12/2018 | [The Developers Conference](http://www.thedevelopersconference.com.br/tdc/2018/index.html) | [Como um trabalho chamado Coach por Imersão tem ajudado na excelencia técnica](https://www.slideshare.net/elias.nogueira/coach-por-imersao) |  | :brazil: | 
 | 05/12/2018 | [The Developers Conference](http://www.thedevelopersconference.com.br/tdc/2018/index.html) | [O Agile Coach pode (e em alguns momentos deve) ser técnico](https://www.slideshare.net/elias.nogueira/o-agile-coach-pode-ser-tecnico) |  | :brazil: | 
 | 05/12/2018 | [The Developers Conference](http://www.thedevelopersconference.com.br/tdc/2018/index.html) | [Como criar e executar testes paralelos web usando Selenium e containers](https://www.slideshare.net/elias.nogueira/como-criar-e-executar-testes-paralelos-web-usando-selenium-e-containers) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/selenium-java-bootstrap) | :brazil: |
 | 22/10/2018 | [Oracle Code One](https://www.oracle.com/code-one/index.html) | [How to create an architecture for a web test automation](https://www.slideshare.net/elias.nogueira/create-an-architecture-for-web-test-automation) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/selenium-java-bootstrap) | :us: | 
