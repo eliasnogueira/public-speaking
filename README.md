@@ -31,7 +31,7 @@ The events are organized in reverse chronological order.
 
 | Date (dd/mm/yyyy) | Event          | Slide Deck  | Repository |  Language |
 |:-----------------:|----------------|-------------|:----------:| :--------:|
-| 07/12/2018 | [The Developers Conference](http://www.thedevelopersconference.com.br/tdc/2018/index.html) | Como ser reconhecido no mercado como um profissional de alta performance |  | :brazil: | 
+| 08/12/2018 | [The Developers Conference](http://www.thedevelopersconference.com.br/tdc/2018/index.html) | Como ser reconhecido no mercado como um profissional de alta performance |  | :brazil: | 
 | 08/12/2018 | [The Developers Conference](http://www.thedevelopersconference.com.br/tdc/2018/index.html) | [Usando container com auto-escala para execução de automação web](https://www.slideshare.net/elias.nogueira/usando-containers-com-autoescala-de-testes) |  | :brazil: | 
 | 06/12/2018 | [The Developers Conference](http://www.thedevelopersconference.com.br/tdc/2018/index.html) | [Como um trabalho chamado Coach por Imersão tem ajudado na excelencia técnica](https://www.slideshare.net/elias.nogueira/coach-por-imersao) |  | :brazil: | 
 | 05/12/2018 | [The Developers Conference](http://www.thedevelopersconference.com.br/tdc/2018/index.html) | [O Agile Coach pode (e em alguns momentos deve) ser técnico](https://www.slideshare.net/elias.nogueira/o-agile-coach-pode-ser-tecnico) |  | :brazil: | 
