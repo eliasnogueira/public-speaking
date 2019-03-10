@@ -20,12 +20,14 @@ The events are organized in reverse chronological order.
 ## Talks
 
 ### Coming soon
-2 in total
+4 in total
 
 | Date (dd/mm/yyyy) | Event          | Presentation  | Location | Language |
 |:-----------------:|----------------|---------------|----------|:--------:|
 |25/04/2019| [The Developers Conference Florianópolis - DevTest](http://www.thedevelopersconference.com.br/tdc/2019/florianopolis/trilha-devtest) | Automação e Virtualização de serviços REST com RestAssured + Wiremock + Docker | Florianópolis/SC/Brazil | pt_BR | 
 |26/04/2019| [The Developers Conference Florianópolis - Testes](http://www.thedevelopersconference.com.br/tdc/2019/florianopolis/trilha-testes) | Automação em API REST - do Health check a Aceitação com a API do TDC | Florianópolis/SC/Brazil | pt_BR | 
+|26/04/2019| [The Developers Conference Florianópolis - XP](http://www.thedevelopersconference.com.br/tdc/2019/florianopolis/trilha-xp) | Como um trabalho chamado Coach por Imersão tem ajudado na excelência técnica | Florianópolis/SC/Brazil | pt_BR | 
+|26/04/2019| [The Developers Conference Florianópolis - Containers](http://www.thedevelopersconference.com.br/tdc/2019/florianopolis/trilha-containers) | Usando container com auto-escala para execução de automação web | Florianópolis/SC/Brazil | pt_BR | 
 
 
 ### Past presentations
