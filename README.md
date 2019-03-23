@@ -15,7 +15,7 @@ The events are organized in reverse chronological order.
 
 ---
 
-[Talks (75)](#talks) | [Workshops (12)](#workshops) | [Volunteer (10)](#volunteer) | [Initiatives (9)](#initiatives) | [Teaching (7)](#teaching) | [Books & eBooks (2)](#books-ebooks) | [Videos (31)](#videos) | [Prizes (3)](#prizes)
+[Talks (75)](#talks) | [Workshops (12)](#workshops) | [Volunteer (10)](#volunteer) | [Initiatives (9)](#initiatives) | [Teaching (7)](#teaching) | [Books & eBooks (2)](#books-ebooks) | [Videos (32)](#videos) | [Prizes (3)](#prizes)
 
 ## Talks
 
@@ -197,10 +197,11 @@ The events are organized in reverse chronological order.
 
 ## Videos
 
-31 in total
+32 in total
 
 | Date | Title | Event | Language |
 |:----:|-------|-------|:--------:|
+| 2018 | [BDD não é automação de teste](https://www.infoq.com/br/presentations/bdd-nao-e-automacao-de-teste) | Scrum Gathering Rio | :brazil: |
 | 2018 | [How to create an architecture for web test automation](https://www.youtube.com/watch?v=lrUoCD1yrnU) | Oracle CodeOne San Francisco | :us: |
 | 2018 | [Como criar uma arquitetura para automação de teste da Web - Dicas](https://www.youtube.com/watch?v=HEIbsCkN0lI&t=2s) | Oracle CodeOne San Francisco | :brazil: |
 | 2018 | [Como criar e executar testes paralelos web usando Selenium e containers](http://bit.ly/2uyviDm) | The Developers Conference - São Paulo | :brazil: |
