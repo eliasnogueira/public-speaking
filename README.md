@@ -20,7 +20,7 @@ The events are organized in reverse chronological order.
 ## Talks
 
 ### Coming soon
-4 in total
+5 in total
 
 | Date (dd/mm/yyyy) | Event          | Presentation  | Location | Language |
 |:-----------------:|----------------|---------------|----------|:--------:|
@@ -28,6 +28,7 @@ The events are organized in reverse chronological order.
 |26/04/2019| [The Developers Conference Florianópolis - Testes](http://www.thedevelopersconference.com.br/tdc/2019/florianopolis/trilha-testes) | Automação em API REST - do Health check a Aceitação com a API do TDC | Florianópolis/SC/Brazil | :brazil: | 
 |26/04/2019| [The Developers Conference Florianópolis - XP](http://www.thedevelopersconference.com.br/tdc/2019/florianopolis/trilha-xp) | Como um trabalho chamado Coach por Imersão tem ajudado na excelência técnica | Florianópolis/SC/Brazil | :brazil: | 
 |26/04/2019| [The Developers Conference Florianópolis - Containers](http://www.thedevelopersconference.com.br/tdc/2019/florianopolis/trilha-containers) | Usando container com auto-escala para execução de automação web | Florianópolis/SC/Brazil | :brazil: | 
+|27/07/2019| [Agile in The Jungle](https://www.facebook.com/AgileInTheJungle/) | - | Manaus/AM/Brazil | :brazil: |
 
 
 ### Past presentations
