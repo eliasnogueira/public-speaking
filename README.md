@@ -15,7 +15,7 @@ The events are organized in reverse chronological order.
 
 ---
 
-[Talks (75)](#talks) | [Workshops (12)](#workshops) | [Volunteer (10)](#volunteer) | [Initiatives (9)](#initiatives) | [Teaching (7)](#teaching) | [Books & eBooks (2)](#books-ebooks) | [Videos (33)](#videos) | [Prizes (3)](#prizes)
+[Talks (75)](#talks) | [Workshops (12)](#workshops) | [Volunteer (10)](#volunteer) | [Initiatives (9)](#initiatives) | [Teaching (7)](#teaching) | [Books & eBooks (2)](#books-ebooks) | [Videos (33)](#videos) | [Awards (3)](#awards)
 
 ## Talks
 
@@ -236,11 +236,11 @@ The events are organized in reverse chronological order.
 | 2013 | [(Quase) Todas as abordagens de testes dentro do Agile](https://www.infoq.com/br/presentations/quase-todas-abordagens-testes-agil) | Rio Agile | :brazil: |
 | 2013 | [Test Web Meeting - CasperJS](https://www.youtube.com/watch?v=_I-QaOESaSk) | WebTest Meeting | :brazil: |
 
-## Prizes
+## Awards
 
 3 in total
 
-| Date | Prize | Event |
+| Date | Award | Event |
 |:----:|-------|-------|
 | 2017 | [TDC RockStar](http://www.thedevelopersconference.com.br/rockstars) | [The Developers Conference](http://www.thedevelopersconference.com.br) |
 | 2017 | Recognition for the contribution to the IT market | [iMasters - Android DevConf](https://imasters.com.br)
