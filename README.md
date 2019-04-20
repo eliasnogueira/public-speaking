@@ -1,6 +1,6 @@
 # Elias Event Calendar, Initiatives and Activities
 
-The objective of this repo is to consolidate in a single place all my participation at conferences, meetups, community activities and events in general.
+The purpose of this repository is to consolidate in a single place all my participation at conferences, meetups, community activities and events in general.
 
 The events are organized in reverse chronological order.
 
