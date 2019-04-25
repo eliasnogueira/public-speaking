@@ -15,16 +15,15 @@ The events are organized in reverse chronological order.
 
 ---
 
-[Talks (75)](#talks) | [Workshops (12)](#workshops) | [Volunteer (10)](#volunteer) | [Initiatives (9)](#initiatives) | [Teaching (7)](#teaching) | [Books & eBooks (2)](#books-ebooks) | [Videos (33)](#videos) | [Awards (3)](#awards)
+[Talks (76)](#talks) | [Workshops (12)](#workshops) | [Volunteer (10)](#volunteer) | [Initiatives (9)](#initiatives) | [Teaching (7)](#teaching) | [Books & eBooks (2)](#books-ebooks) | [Videos (33)](#videos) | [Awards (3)](#awards)
 
 ## Talks
 
 ### Coming soon
-5 in total
+4 in total
 
 | Date (dd/mm/yyyy) | Event          | Presentation  | Location | Language |
 |:-----------------:|----------------|---------------|----------|:--------:|
-|25/04/2019| [The Developers Conference Florianópolis - DevTest](http://www.thedevelopersconference.com.br/tdc/2019/florianopolis/trilha-devtest) | Automação e Virtualização de serviços REST com RestAssured + Wiremock + Docker | Florianópolis/SC/Brazil | :brazil: | 
 |26/04/2019| [The Developers Conference Florianópolis - Testes](http://www.thedevelopersconference.com.br/tdc/2019/florianopolis/trilha-testes) | Automação em API REST - do Health check a Aceitação com a API do TDC | Florianópolis/SC/Brazil | :brazil: | 
 |26/04/2019| [The Developers Conference Florianópolis - XP](http://www.thedevelopersconference.com.br/tdc/2019/florianopolis/trilha-xp) | Como um trabalho chamado Coach por Imersão tem ajudado na excelência técnica | Florianópolis/SC/Brazil | :brazil: | 
 |26/04/2019| [The Developers Conference Florianópolis - Containers](http://www.thedevelopersconference.com.br/tdc/2019/florianopolis/trilha-containers) | Usando container com auto-escala para execução de automação web | Florianópolis/SC/Brazil | :brazil: | 
@@ -32,10 +31,11 @@ The events are organized in reverse chronological order.
 
 
 ### Past presentations
-75 in total
+76 in total
 
 | Date (dd/mm/yyyy) | Event          | Slide Deck  | Repository |  Language |
 |:-----------------:|----------------|-------------|:----------:| :--------:|
+| 25/04/2019 | [The Developers Conference](http://www.thedevelopersconference.com.br/tdc/2019/index.html) | [Automação e Virtualização de serviços REST com RestAssured + Wiremock + Docker](https://www.slideshare.net/elias.nogueira/automao-e-virtualizao-de-servios) | [![logo](http://i.imgur.com/0o48UoR.png)](https://gitlab.com/elias.nogueira/api-tdc-test) | :brazil: | 
 | 08/12/2018 | [The Developers Conference](http://www.thedevelopersconference.com.br/tdc/2018/index.html) | Como ser reconhecido no mercado como um profissional de alta performance |  | :brazil: | 
 | 08/12/2018 | [The Developers Conference](http://www.thedevelopersconference.com.br/tdc/2018/index.html) | [Usando container com auto-escala para execução de automação web](https://www.slideshare.net/elias.nogueira/usando-containers-com-autoescala-de-testes) |  | :brazil: | 
 | 06/12/2018 | [The Developers Conference](http://www.thedevelopersconference.com.br/tdc/2018/index.html) | [Como um trabalho chamado Coach por Imersão tem ajudado na excelencia técnica](https://www.slideshare.net/elias.nogueira/coach-por-imersao) |  | :brazil: | 
