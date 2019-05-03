@@ -26,7 +26,7 @@ The events are organized in reverse chronological order.
 |:-----------------:|----------------|---------------|----------|:--------:|
 | 26/06/2019 | [Scrum Gathering Rio](http://scrumrio.com) | Dê a máxima cobertura nos seus testes de API | Rio de Janeiro/RJ/Brazil | :brazil: |
 |27/07/2019| [Agile in The Jungle](https://www.facebook.com/AgileInTheJungle/) | - | Manaus/AM/Brazil | :brazil: |
-| 03/08/2019 | [Dev Paraná Conf](https://www.devparana.org/conf/) | - | Maringá/Paraná/Brazil | :brazil |
+| 03/08/2019 | [Dev Paraná Conf](https://www.devparana.org/conf/) | - | Maringá/Paraná/Brazil | :brazil: |
 
 
 ### Past presentations
