@@ -15,7 +15,9 @@ The events are organized in reverse chronological order.
 
 ---
 
-* [Talks (79)](#talks)
+* [Talks](#talks)
+   * [Comming soon (3)](#comming-soon)
+   * [Past presentations (79)](#past-presentations)
 * [Workshops (12)](#workshops)
 * [Volunteer (10)](#volunteer)
 * [Initiatives (9)](#initiatives)
