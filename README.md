@@ -15,7 +15,14 @@ The events are organized in reverse chronological order.
 
 ---
 
-[Talks (79)](#talks) | [Workshops (12)](#workshops) | [Volunteer (10)](#volunteer) | [Initiatives (9)](#initiatives) | [Teaching (7)](#teaching) | [Books & eBooks (2)](#books-ebooks) | [Videos (35)](#videos) | [Awards (3)](#awards)
+* [Talks (79)](#talks)
+* [Workshops (12)](#workshops)
+* [Volunteer (10)](#volunteer)
+* [Initiatives (9)](#initiatives)
+* [Teaching (7)](#teaching)
+* [Books & eBooks (2)](#books-ebooks)
+* [Videos (35)](#videos)
+* [Awards (3)](#awards)
 
 ## Talks
 
