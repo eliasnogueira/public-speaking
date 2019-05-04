@@ -21,7 +21,7 @@ The events are organized in reverse chronological order.
 * [Workshops (12)](#workshops)
 * [Volunteer (10)](#volunteer)
 * [Initiatives (9)](#initiatives)
-* [Teaching (7)](#teaching)
+* [Teaching (6)](#teaching)
 * [Books & eBooks (2)](#books-ebooks)
 * [Videos (36)](#videos)
 * [Awards (3)](#awards)
@@ -91,7 +91,7 @@ The events are organized in reverse chronological order.
 | 09/07/2016| The Developers Conference - São Paulo | [Acelerando o feedback e deploy com Automação de Testes!](https://www.slideshare.net/elias.nogueira/acelerando-o-feedback-e-deploy-com-automao-de-testes) |  | :brazil: |
 | 08/07/2016 | The Developers Conference - São Paulo | [Como ensinei mais de 1000 testadores a automatizar testes](https://www.slideshare.net/elias.nogueira/como-ensinei-mais-de-1000-testadores) |  | :brazil: |
 | 07/07/2016 | The Developers Conference - São Paulo | [Automatizando uma app Híbrida](https://www.slideshare.net/elias.nogueira/automatizando-uma-app-hbrida) |  | :brazil: |
-| 29/06/2016 | JavaOne Latin America | [Automação de Teste para REST, Web e Mobile](https://www.slideshare.net/elias.nogueira/automao-de-teste-para-rest-web-e-mobile) |  | :brazil: |Automação de Teste para REST, Web e Mobile
+| JavaOne Latin America | [Automação de Teste para REST, Web e Mobile](https://www.slideshare.net/elias.nogueira/automao-de-teste-para-rest-web-e-mobile) |  | :brazil: |Automação de Teste para REST, Web e Mobile
 | 14/05/2016 | The Developers Conference - Florianópolis | [Automação de Teste para iOS e Android com Appium](https://www.slideshare.net/elias.nogueira/automao-de-teste-para-ios-e-android-com-appium) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/automacao-mobile-ios-android-tdc2016) | :brazil: |
 | 25/09/2015 | The Developers Conference - Porto Alegre | [Testes para Android de ponta a ponta](https://www.slideshare.net/elias.nogueira/testes-para-android-de-ponta-a-ponta) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/testes-android-ponta-a-ponta) | :brazil: |
 | 22/07/2015 | The Developers Conference - São Paulo | [Como integrar um Agile Tester no seu time](https://www.slideshare.net/elias.nogueira/como-integrar-um-agile-tester-no-seu-time) |  | :brazil: |
@@ -114,7 +114,7 @@ The events are organized in reverse chronological order.
 | 12/07/2013 | The Developers Conference - São Paulo | [Reconhecendo suas habilidades como Testador](https://www.slideshare.net/elias.nogueira/tdc-2013-conheca-seus-skills) |  | :brazil: |
 | 11/05/2013 | DevCamp | [O papel de um testador em uma equipe ágil](https://www.slideshare.net/elias.nogueira/dev-camp-o-papel-de-um-testador-em-uma-equipe-agil) |  | :brazil: |
 | 2/2/2013 | Campus Party | [TDD - Test Driven Development](https://www.slideshare.net/elias.nogueira/tdd-test-driven-development-16315314) |  | :brazil: |
-| 10/11/2012 | Rio Agile | [Todas as abordagens de testes dentro do ágil](https://www.slideshare.net/elias.nogueira/todas-as-abordagens-de-testes-dentro-do-gil) |  | :brazil: |Todas as abordagens de testes dentro do ágil
+| 10/11/2012 | Rio Agile | [Todas as abordagens de testes dentro do ágil](https://www.slideshare.net/elias.nogueira/todas-as-abordagens-de-testes-dentro-do-gil) |  | :brazil: |
 | 20/09/2012 | TestDay | [Arquitetura de Automação de Teste](https://www.slideshare.net/elias.nogueira/arquitetura-de-automao-de-teste) |  | :brazil: |
 | 05/07/2012 | The Developers Conference - São Paulo | [Testes Funcionais em um ALM Open Source](https://www.slideshare.net/elias.nogueira/alm-testes-funcionais-open-source) |  | :brazil: |
 | 19/08/2010 | Iterasys | [Hands on Selenium](https://www.slideshare.net/elias.nogueira/hands-on-selenium) |  | :brazil: |
@@ -179,11 +179,10 @@ The events are organized in reverse chronological order.
 
 ### University
 
-5 in total
+4 in total
 
 | Date | Institution | Subject | Location |
 |:----:|-------------|---------|----------|
-| 2018 | [CESAR.School](https://www.cesar.school/) | [Agile Testing](https://www.cesar.school/testes-ageis/) | Recife / PE / Brazil |
 | 2018 | [Unidavi](https://unidavi.edu.br) | [Web and Mobile Development](https://unidavi.edu.br/posgraduacao/cursos/59676/) | Rio do Sul / SC / Brazil |
 | 2011 - now | [Unisinos](http://www.unisinos.br) | [Specialization in Software Quality](http://www.unisinos.br/especializacao/qualidade-de-software/ead/sao-leopoldo) | São Leopoldo and Porto Alegre / RS / Brazil |
 | 2015 | [Uninassau](https://www.uninassau.edu.br) | Specialization in Software Quality | Recife / PE / Brazil |
