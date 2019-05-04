@@ -23,7 +23,7 @@ The events are organized in reverse chronological order.
 * [Initiatives (9)](#initiatives)
 * [Teaching (7)](#teaching)
 * [Books & eBooks (2)](#books-ebooks)
-* [Videos (35)](#videos)
+* [Videos (36)](#videos)
 * [Awards (3)](#awards)
 
 ## Talks
@@ -209,7 +209,7 @@ The events are organized in reverse chronological order.
 
 ## Videos
 
-35 in total
+36 in total
 
 | Date | Title | Event | Language |
 |:----:|-------|-------|:--------:|
@@ -217,6 +217,7 @@ The events are organized in reverse chronological order.
 | 2019 | [Testes para Microservices](https://www.pscp.tv/w/1ZkKzrapEDvKv) | Oracle Groundbreakers Live | :brazil: |
 | 2019 | [Como submeter uma palestra para um evento de tecnologia?](https://www.youtube.com/watch?v=Y_P2MJCfTIg) | The Developers Conference | :brazil: |
 | 2018 | [BDD não é automação de teste](https://www.infoq.com/br/presentations/bdd-nao-e-automacao-de-teste) | Scrum Gathering Rio | :brazil: |
+| 2018 | [O Agile Coach pode (e em alguns momentos deve) ser técnico](http://bit.ly/2Bs8XMJ) | The Developers Conference - Porto Alegre | :brazil: | 
 | 2018 | [How to create an architecture for web test automation](https://www.youtube.com/watch?v=lrUoCD1yrnU) | Oracle CodeOne San Francisco | :us: |
 | 2018 | [Como criar uma arquitetura para automação de teste da Web - Dicas](https://www.youtube.com/watch?v=HEIbsCkN0lI&t=2s) | Oracle CodeOne San Francisco | :brazil: |
 | 2018 | [Como criar e executar testes paralelos web usando Selenium e containers](http://bit.ly/2uyviDm) | The Developers Conference - São Paulo | :brazil: |
