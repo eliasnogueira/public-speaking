@@ -29,12 +29,13 @@ The events are organized in reverse chronological order.
 ## Talks
 
 ### Coming soon
-3 in total
+4 in total
 
 | Date (dd/mm/yyyy) | Event          | Presentation  | Location | Language |
 |:-----------------:|----------------|---------------|----------|:--------:|
 | 26/06/2019 | [Scrum Gathering Rio](http://scrumrio.com) | Dê a máxima cobertura nos seus testes de API | [Rio de Janeiro / RJ / Brazil](https://goo.gl/maps/TS38ThkqDp3hFaMV7) | :brazil: |
-|27/07/2019| [Agile in The Jungle](https://www.facebook.com/AgileInTheJungle/) | TBD | [Manaus / AM / Brazil](https://goo.gl/maps/Eb5DQjdUkYbzKTR9A) | :brazil: |
+| 18/07/2019 | [The Developers Conference - São Paulo](http://www.thedevelopersconference.com.br/tdc/2019/saopaulo/trilha-testes) | Automação e Virtualização de serviços REST com RestAssured + Wiremock + Docker | Sao Paulo / SP / Brazil | :brazil: |
+|27/07/2019 | [Agile in The Jungle](https://www.facebook.com/AgileInTheJungle/) | TBD | [Manaus / AM / Brazil](https://goo.gl/maps/Eb5DQjdUkYbzKTR9A) | :brazil: |
 | 03/08/2019 | [Dev Paraná Conf](https://www.devparana.org/conf/) | TBD | [Maringá / PR / Brazil](https://goo.gl/maps/WFZcJqd8gCLS9PHm6) | :brazil: |
 
 
