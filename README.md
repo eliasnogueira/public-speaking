@@ -36,6 +36,7 @@ The events are organized in reverse chronological order.
 | 26/06/2019 | [Scrum Gathering Rio](http://scrumrio.com) | Dê a máxima cobertura nos seus testes de API | [Rio de Janeiro / RJ / Brazil](https://goo.gl/maps/TS38ThkqDp3hFaMV7) | :brazil: |
 | 27/07/2019 | [Agile in The Jungle](https://www.facebook.com/AgileInTheJungle/) | TBD | [Manaus / AM / Brazil](https://goo.gl/maps/Eb5DQjdUkYbzKTR9A) | :brazil: |
 | 03/08/2019 | [Dev Paraná Conf](https://www.devparana.org/conf/) | TBD | [Maringá / PR / Brazil](https://goo.gl/maps/WFZcJqd8gCLS9PHm6) | :brazil: |
+| 16/08/2019 | [DevCamp](https://www.devcamp.com.br/) | BDD não é automação de testes | [Campinas / SP/ Brazil](https://goo.gl/maps/KFLFsi6ibYD1YY9m8)
 
 
 ### Past presentations
