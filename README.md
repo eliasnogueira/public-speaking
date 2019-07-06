@@ -16,8 +16,8 @@ The events are organized in reverse chronological order.
 ---
 
 * [Talks](#talks)
-   * [Coming soon (2)](#coming-soon)
-   * [Past presentations (80)](#past-presentations)
+  * [Coming soon (2)](#coming-soon)
+  * [Past presentations (80)](#past-presentations)
 * [Workshops (12)](#workshops)
 * [Volunteer (10)](#volunteer)
 * [Initiatives (9)](#initiatives)
@@ -29,18 +29,19 @@ The events are organized in reverse chronological order.
 ## Talks
 
 ### Coming soon
+
 2 in total
 
-| Date (dd/mm/yyyy) | Event          | Presentation  | Location | Language |
+| Date (dd/mm/yyyy) | Event          | Title / Slide Deck  | Location | Language |
 |:-----------------:|----------------|---------------|----------|:--------:|
 | 27/07/2019 | [Agile in The Jungle](https://www.facebook.com/AgileInTheJungle/) | BDD não é automação de testes | [Manaus / AM / Brazil](https://goo.gl/maps/Eb5DQjdUkYbzKTR9A) | 🇧🇷 |
 | 16/08/2019 | [DevCamp](https://www.devcamp.com.br/) | BDD não é automação de testes | [Campinas / SP/ Brazil](https://goo.gl/maps/KFLFsi6ibYD1YY9m8) | 🇧🇷 |
 
-
 ### Past presentations
+
 80 in total
 
-| Date (dd/mm/yyyy) | Event          | Slide Deck  | Repository |  Language |
+| Date (dd/mm/yyyy) | Event          | Title / Slide Deck  | Repository |  Language |
 |:-----------------:|----------------|-------------|:----------:| :--------:|
 | 27/06/2019 | [Scrum Gathering Rio](http://scrumrio.com) | [Dê a máxima cobertura nos seus testes de API](https://www.slideshare.net/elias.nogueira/de-a-mxima-cobertura-nos-seus-testes-de-api) | [![logo](http://i.imgur.com/0o48UoR.png)](https://gitlab.com/elias.nogueira/credito-test)| 🇧🇷 |
 | 26/04/2019 | [The Developers Conference - Florianópolis](http://www.thedevelopersconference.com.br/tdc/2019/index.html) | [Automação em API REST - do Health check a Aceitação com a API do TDC](https://www.slideshare.net/elias.nogueira/automao-e-virtualizao-de-servios) | [![logo](http://i.imgur.com/0o48UoR.png)](https://gitlab.com/elias.nogueira/api-tdc-test) | 🇧🇷 | 
