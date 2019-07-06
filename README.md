@@ -33,7 +33,7 @@ The events are organized in reverse chronological order.
 
 | Date (dd/mm/yyyy) | Event          | Presentation  | Location | Language |
 |:-----------------:|----------------|---------------|----------|:--------:|
-| 27/07/2019 | [Agile in The Jungle](https://www.facebook.com/AgileInTheJungle/) | TBD | [Manaus / AM / Brazil](https://goo.gl/maps/Eb5DQjdUkYbzKTR9A) | :brazil: |
+| 27/07/2019 | [Agile in The Jungle](https://www.facebook.com/AgileInTheJungle/) | BDD não é automação de testes | [Manaus / AM / Brazil](https://goo.gl/maps/Eb5DQjdUkYbzKTR9A) | :brazil: |
 | 16/08/2019 | [DevCamp](https://www.devcamp.com.br/) | BDD não é automação de testes | [Campinas / SP/ Brazil](https://goo.gl/maps/KFLFsi6ibYD1YY9m8) | :brazil: |
 
 
