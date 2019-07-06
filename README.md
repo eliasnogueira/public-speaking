@@ -16,8 +16,8 @@ The events are organized in reverse chronological order.
 ---
 
 * [Talks](#talks)
-   * [Coming soon (3)](#coming-soon)
-   * [Past presentations (79)](#past-presentations)
+   * [Coming soon (2)](#coming-soon)
+   * [Past presentations (80)](#past-presentations)
 * [Workshops (12)](#workshops)
 * [Volunteer (10)](#volunteer)
 * [Initiatives (9)](#initiatives)
@@ -29,12 +29,11 @@ The events are organized in reverse chronological order.
 ## Talks
 
 ### Coming soon
-3 in total
+2 in total
 
 | Date (dd/mm/yyyy) | Event          | Presentation  | Location | Language |
 |:-----------------:|----------------|---------------|----------|:--------:|
 | 27/07/2019 | [Agile in The Jungle](https://www.facebook.com/AgileInTheJungle/) | TBD | [Manaus / AM / Brazil](https://goo.gl/maps/Eb5DQjdUkYbzKTR9A) | :brazil: |
-| 03/08/2019 | [Dev Paraná Conf](https://www.devparana.org/conf/) | TBD | [Maringá / PR / Brazil](https://goo.gl/maps/WFZcJqd8gCLS9PHm6) | :brazil: |
 | 16/08/2019 | [DevCamp](https://www.devcamp.com.br/) | BDD não é automação de testes | [Campinas / SP/ Brazil](https://goo.gl/maps/KFLFsi6ibYD1YY9m8)
 
 
