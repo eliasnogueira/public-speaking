@@ -16,8 +16,8 @@ The events are organized in reverse chronological order.
 ---
 
 * [Talks](#talks)
-  * [Coming soon (2)](#coming-soon)
-  * [Past presentations (80)](#past-presentations)
+  * [Coming soon (1)](#coming-soon)
+  * [Past presentations (81)](#past-presentations)
 * [Workshops (12)](#workshops)
 * [Volunteer (10)](#volunteer)
 * [Initiatives (9)](#initiatives)
@@ -30,7 +30,7 @@ The events are organized in reverse chronological order.
 
 ### Coming soon
 
-2 in total
+1 in total
 
 | Date (dd/mm/yyyy) | Event          | Title / Slide Deck  | Location | Language |
 |:-----------------:|----------------|---------------|----------|:--------:|
@@ -38,7 +38,7 @@ The events are organized in reverse chronological order.
 
 ### Past presentations
 
-80 in total
+81 in total
 
 | Date (dd/mm/yyyy) | Event          | Title / Slide Deck  | Repository |  Language |
 |:-----------------:|----------------|-------------|:----------:| :--------:|
