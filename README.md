@@ -1,17 +1,6 @@
 # Elias Event Calendar, Initiatives and Activities
 
-The purpose of this repository is to consolidate in a single place all my participation at conferences, meetups, community activities and events in general.
-
-The events are organized in reverse chronological order.
-
-## My social networks
-
-[![logo](https://i.imgur.com/gUSPN17.png)](http://www.facebook.com/elias.nogueira.teste)
-[![logo](https://i.imgur.com/Rb8i3ps.png)](http://www.twitter.com/eliasnogueira)
-[![logo](https://i.imgur.com/HpCun4P.png)](http://www.linkedin.com/in/eliasnogueira)
-[![logo](https://i.imgur.com/7RGlFog.png)](https://www.slideshare.net/elias.nogueira)
-[![logo](https://i.imgur.com/bsJJKqZ.png)](https://www.youtube.com/channel/UCXcHBp-wlQ_fphoe6zdWyLA?view_as=subscriber)
-[![logo](https://i.imgur.com/9eolLfG.png)](https://www.goodreads.com/eliasnogueira)
+The purpose of this repository is to consolidate in a single place all my participation at conferences, meetups, community activities and events in general. The events are organized in reverse chronological order.
 
 ---
 
@@ -25,6 +14,7 @@ The events are organized in reverse chronological order.
 * [Books & eBooks (2)](#books-ebooks)
 * [Videos (36)](#videos)
 * [Awards (3)](#awards)
+* [My social networks](#my-social-networks)
 
 ## Talks
 
@@ -259,3 +249,12 @@ The events are organized in reverse chronological order.
 | 2017 | [TDC RockStar](http://www.thedevelopersconference.com.br/rockstars) | [The Developers Conference](http://www.thedevelopersconference.com.br) |
 | 2017 | Recognition for the contribution to the IT market | [iMasters - Android DevConf](https://imasters.com.br)
 | 2017 | Best participation during feedback | [Testathon](http://testathon.co) Chapter 13 - Facebook |
+
+## My social networks
+
+[![logo](https://i.imgur.com/gUSPN17.png)](http://www.facebook.com/elias.nogueira.teste)
+[![logo](https://i.imgur.com/Rb8i3ps.png)](http://www.twitter.com/eliasnogueira)
+[![logo](https://i.imgur.com/HpCun4P.png)](http://www.linkedin.com/in/eliasnogueira)
+[![logo](https://i.imgur.com/7RGlFog.png)](https://www.slideshare.net/elias.nogueira)
+[![logo](https://i.imgur.com/bsJJKqZ.png)](https://www.youtube.com/channel/UCXcHBp-wlQ_fphoe6zdWyLA?view_as=subscriber)
+[![logo](https://i.imgur.com/9eolLfG.png)](https://www.goodreads.com/eliasnogueira)
