@@ -16,7 +16,7 @@ The events are organized in reverse chronological order.
 ---
 
 * [Talks](#talks)
-  * [Coming soon (1)](#coming-soon)
+  * [Coming soon (0)](#coming-soon)
   * [Past presentations (81)](#past-presentations)
 * [Workshops (12)](#workshops)
 * [Volunteer (10)](#volunteer)
@@ -30,11 +30,11 @@ The events are organized in reverse chronological order.
 
 ### Coming soon
 
-1 in total
+0 in total
 
 | Date (dd/mm/yyyy) | Event          | Title / Slide Deck  | Location | Language |
 |:-----------------:|----------------|---------------|----------|:--------:|
-| 16/08/2019 | [DevCamp](https://www.devcamp.com.br/) | BDD não é automação de testes | [Campinas / SP/ Brazil](https://goo.gl/maps/KFLFsi6ibYD1YY9m8) | 🇧🇷 |
+
 
 ### Past presentations
 
