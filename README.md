@@ -12,7 +12,7 @@ The purpose of this repository is to consolidate in a single place all my partic
 * [Initiatives (9)](#initiatives)
 * [Teaching (6)](#teaching)
 * [Books & eBooks (2)](#books-ebooks)
-* [Videos (36)](#videos)
+* [Videos (37)](#videos)
 * [Awards (3)](#awards)
 * [My social networks](#my-social-networks)
 
@@ -199,10 +199,11 @@ The purpose of this repository is to consolidate in a single place all my partic
 
 ## Videos
 
-36 in total
+37 in total
 
 | Date | Title | Event | Language |
 |:----:|-------|-------|:--------:|
+| 2019 | [Coffee and IT #7 - O futuro do Teste de Software: QA x Software Engineer in Test](https://youtu.be/8wlcEJtVRFE) | Youtube channel: Coffee And IT Technology Information | 🇧🇷 |
 | 2019 | [Automação e Virtualização de serviços REST com RestAssured + Wiremock + Docker](http://bit.ly/2uWFgiF) | The Developers Conference - Florianópolis | 🇧🇷 |
 | 2019 | [Testes para Microservices](https://www.pscp.tv/w/1ZkKzrapEDvKv) | Oracle Groundbreakers Live | 🇧🇷 |
 | 2019 | [Como submeter uma palestra para um evento de tecnologia?](https://www.youtube.com/watch?v=Y_P2MJCfTIg) | The Developers Conference | 🇧🇷 |
