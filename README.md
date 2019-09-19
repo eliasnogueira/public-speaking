@@ -142,10 +142,10 @@ The purpose of this repository is to consolidate in a single place all my partic
 |:-----------:|------------------|:-----:|
 | 2019 | [Ministry of Testing - Eindhoven](https://www.meetup.com/Ministry-of-Testing-Eindhoven/) | Co-Organizer |
 | 2018 | [Programa de Mentoria em Teste de Software](https://www.linkedin.com/company/10035123/) | Mentor |
-| 2017 - now | [The Developers Conference Dev-Test Track - São Paulo / Porto Alegre](http://www.thedevelopersconference.com.br) | Coordinator / Organizer |
-| 2017 - now | [Agile Coach Meetup](https://www.meetup.com/agilecoach-porto-alegre/) | Creator and Organizer |
-| 2014 - now | [Agile Brazil](http://www.agilebrazil.com) | Reviewer |
-| 2010 - now | [The Developers Conference Test Track - São Paulo / Florianópolis / Porto Alegre](http://www.thedevelopersconference.com.br) | Coordinator / Organizer |
+| 2017 - 2019 | [The Developers Conference Dev-Test Track - São Paulo / Porto Alegre](http://www.thedevelopersconference.com.br) | Coordinator / Organizer |
+| 2017 - 2019 | [Agile Coach Meetup](https://www.meetup.com/agilecoach-porto-alegre/) | Creator and Organizer |
+| 2010 - 2019 | [The Developers Conference Test Track - São Paulo / Florianópolis / Porto Alegre](http://www.thedevelopersconference.com.br) | Coordinator / Organizer |
+| 2014 - 2018 | [Agile Brazil](http://www.agilebrazil.com) | Reviewer |
 | 2016 | GUMobile [Main site](http://www.sucesurs.org.br/gu/gu-mobile-rs/apresentacao/)  - [Wordpress](https://gumobilers.wordpress.com) | Organizer |
 | 2009 - 2010 | ALATS | Community Organizer |
 | 2008 - 2010 | java.net portal | Community Lead |
