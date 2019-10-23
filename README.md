@@ -24,6 +24,7 @@ The purpose of this repository is to consolidate in a single place all my partic
 
 | Date (dd/mm/yyyy) | Event          | Title / Slide Deck  | Location | Language |
 |:-----------------:|----------------|---------------|----------|:--------:|
+||||||
 
 
 ### Past presentations
