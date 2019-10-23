@@ -5,7 +5,7 @@ The purpose of this repository is to consolidate in a single place all my partic
 ---
 
 * [Talks](#talks)
-  * [Coming soon (1)](#coming-soon)
+  * [Coming soon (0)](#coming-soon)
   * [Past presentations (81)](#past-presentations)
 * [Workshops (12)](#workshops)
 * [Volunteer (11)](#volunteer)
