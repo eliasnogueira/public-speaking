@@ -24,7 +24,7 @@ The purpose of this repository is to consolidate in a single place all my partic
 
 | Date (dd/mm/yyyy) | Event          | Title / Slide Deck  | Location | Language |
 |:-----------------:|----------------|---------------|----------|:--------:|
-|28-11-2019|WAES Tech Talk|Create an architecture for web test automation|Eindhoven / Netherlands| 🇺🇸|
+| 28-11-2019 |[WAES Tech Talk](https://stuff.li/en/i/mN2T39mU8AuTcynLfdciVf) | Create an architecture for web test automation | [Eindhoven / Netherlands](https://goo.gl/maps/LQEmkL74HCkoHTii6) | 🇺🇸|
 
 
 ### Past presentations
