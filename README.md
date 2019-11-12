@@ -5,7 +5,7 @@ The purpose of this repository is to consolidate in a single place all my partic
 ---
 
 * [Talks](#talks)
-  * [Coming soon (0)](#coming-soon)
+  * [Coming soon (1)](#coming-soon)
   * [Past presentations (81)](#past-presentations)
 * [Workshops (12)](#workshops)
 * [Volunteer (11)](#volunteer)
@@ -20,11 +20,11 @@ The purpose of this repository is to consolidate in a single place all my partic
 
 ### Coming soon
 
-0 in total
+1 in total
 
 | Date (dd/mm/yyyy) | Event          | Title / Slide Deck  | Location | Language |
 |:-----------------:|----------------|---------------|----------|:--------:|
-||||||
+|28-11-2019|WAES Tech Talk|Create an architecture for web test automation|Eindhoven / Netherlands| 🇺🇸|
 
 
 ### Past presentations
