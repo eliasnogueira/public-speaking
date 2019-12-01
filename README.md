@@ -141,7 +141,7 @@ The purpose of this repository is to consolidate in a single place all my partic
 
 | Date        | Event            | Role  |
 |:-----------:|------------------|:-----:|
-| 2019 | [Ministry of Testing - Eindhoven](https://www.meetup.com/Ministry-of-Testing-Eindhoven/) | Co-Organizer |
+| 2019 - now | [Ministry of Testing - Eindhoven](https://www.meetup.com/Ministry-of-Testing-Eindhoven/) | Co-Organizer |
 | 2018 | [Programa de Mentoria em Teste de Software](https://www.linkedin.com/company/10035123/) | Mentor |
 | 2017 - 2019 | [The Developers Conference Dev-Test Track](http://www.thedevelopersconference.com.br) | Coordinator / Organizer |
 | 2017 - 2019 | [Agile Coach Meetup](https://www.meetup.com/agilecoach-porto-alegre/) | Creator and Organizer |
@@ -177,8 +177,8 @@ The purpose of this repository is to consolidate in a single place all my partic
 
 | Date | Institution | Subject | Location |
 |:----:|-------------|---------|----------|
-| 2018 | [Unidavi](https://unidavi.edu.br) | [Web and Mobile Development](https://unidavi.edu.br/posgraduacao/cursos/59676/) | Rio do Sul / SC / Brazil |
 | 2011 - now | [Unisinos](http://www.unisinos.br) | [Specialization in Software Quality](http://www.unisinos.br/especializacao/qualidade-de-software/ead/sao-leopoldo) | São Leopoldo and Porto Alegre / RS / Brazil |
+| 2018 | [Unidavi](https://unidavi.edu.br) | [Web and Mobile Development](https://unidavi.edu.br/posgraduacao/cursos/59676/) | Rio do Sul / SC / Brazil |
 | 2015 | [Uninassau](https://www.uninassau.edu.br) | Specialization in Software Quality | Recife / PE / Brazil |
 | 2014 | [Uniasselvi](https://portal.uniasselvi.com.br) | Specialization in Software Quality | Blumenau / SC / Brazil |
 
