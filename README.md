@@ -22,140 +22,149 @@ The purpose of this repository is to consolidate in a single place all my partic
 
 0 in total
 
-| Date (dd/mm/yyyy) | Event          | Title / Slide Deck  | Location | Language |
+| Date (dd-mm-yyyy) | Event          | Title / Slide Deck  | Location | Language |
 |:-----------------:|----------------|---------------|----------|:--------:|
-|  |   |  |  | |
+|  |  |  |  |  |
 
 
 ### Past presentations
-
 82 in total
 
-| Date (dd/mm/yyyy) | Event          | Title / Slide Deck  | Repository |  Language |
+All the presentations I did in the past, ordered by date.
+
+| Date (dd-mm-yyyy) | Event          | Title / Slide Deck  | Repository |  Language |
 |:-----------------:|----------------|-------------|:----------:| :--------:|
 | 28-11-2019 | WAES Tech Talk | [Create an architecture for web test automation](https://speakerdeck.com/eliasnogueira/create-an-architecture-for-web-test-automation)| [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/selenium-java-bootstrap) | 🇺🇸 |
-| 27/07/2019 | [Agile in The Jungle](https://www.facebook.com/AgileInTheJungle/) | [BDD não é automação de teste](https://www.slideshare.net/elias.nogueira/bdd-no-automao-de-teste-scrum-gathering)|  | 🇧🇷 |
-| 27/06/2019 | [Scrum Gathering Rio](http://scrumrio.com) | [Dê a máxima cobertura nos seus testes de API](https://www.slideshare.net/elias.nogueira/de-a-mxima-cobertura-nos-seus-testes-de-api) | [![logo](http://i.imgur.com/0o48UoR.png)](https://gitlab.com/elias.nogueira/credito-test)| 🇧🇷 |
-| 26/04/2019 | [The Developers Conference - Florianópolis](http://www.thedevelopersconference.com.br/tdc/2019/index.html) | [Automação em API REST - do Health check a Aceitação com a API do TDC](https://www.slideshare.net/elias.nogueira/automao-e-virtualizao-de-servios) | [![logo](http://i.imgur.com/0o48UoR.png)](https://gitlab.com/elias.nogueira/api-tdc-test) | 🇧🇷 | 
-| 08/12/2018 | [The Developers Conference - Florianópolis](http://www.thedevelopersconference.com.br/tdc/2019/florianopolis/trilha-containers) | [Usando container com auto-escala para execução de automação web](https://www.slideshare.net/elias.nogueira/usando-containers-com-autoescala-de-testes) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/selenium-java-bootstrap) | 🇧🇷 |
-| 26/04/2019 | [The Developers Conference - Florianópolis](http://www.thedevelopersconference.com.br/tdc/2019/index.html) | [Como um trabalho chamado Coach por Imersão tem ajudado na excelencia técnica](https://www.slideshare.net/elias.nogueira/coach-por-imersao) |  | 🇧🇷 | 
-| 25/04/2019 | [The Developers Conference - Florianópolis](http://www.thedevelopersconference.com.br/tdc/2019/index.html) | [Automação e Virtualização de serviços REST com RestAssured + Wiremock + Docker](https://www.slideshare.net/elias.nogueira/automao-e-virtualizao-de-servios) | [![logo](http://i.imgur.com/0o48UoR.png)](https://gitlab.com/elias.nogueira/api-tdc-test) | 🇧🇷 | 
-| 08/12/2018 | [The Developers Conference - Porto Alegre](http://www.thedevelopersconference.com.br/tdc/2018/index.html) | Como ser reconhecido no mercado como um profissional de alta performance |  | 🇧🇷 | 
-| 08/12/2018 | [The Developers Conference - Porto Alegre](http://www.thedevelopersconference.com.br/tdc/2018/index.html) | [Usando container com auto-escala para execução de automação web](https://www.slideshare.net/elias.nogueira/usando-containers-com-autoescala-de-testes) |  | 🇧🇷 | 
-| 06/12/2018 | [The Developers Conference - Porto Alegre](http://www.thedevelopersconference.com.br/tdc/2018/index.html) | [Como um trabalho chamado Coach por Imersão tem ajudado na excelencia técnica](https://www.slideshare.net/elias.nogueira/coach-por-imersao) |  | 🇧🇷 | 
-| 05/12/2018 | [The Developers Conference - Porto Alegre](http://www.thedevelopersconference.com.br/tdc/2018/index.html) | [O Agile Coach pode (e em alguns momentos deve) ser técnico](https://www.slideshare.net/elias.nogueira/o-agile-coach-pode-ser-tecnico) |  | 🇧🇷 | 
-| 05/12/2018 | [The Developers Conference - Porto Alegre](http://www.thedevelopersconference.com.br/tdc/2018/index.html) | [Como criar e executar testes paralelos web usando Selenium e containers](https://www.slideshare.net/elias.nogueira/como-criar-e-executar-testes-paralelos-web-usando-selenium-e-containers) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/selenium-java-bootstrap) | 🇧🇷 |
-| 22/10/2018 | [Oracle Code One](https://www.oracle.com/code-one/index.html) | [How to create an architecture for a web test automation](https://www.slideshare.net/elias.nogueira/create-an-architecture-for-web-test-automation) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/selenium-java-bootstrap) | 🇺🇸 | 
-| 05/10/2018 | [Agile Brazil](http://www.agilebrazil.com) | [Paralelize seus testes web e mobile para ter feedbacks mais rápidos](https://www.slideshare.net/elias.nogueira/paralelize-seus-testes-web-e-mobile-para-ter-feedbacks-mais-rpidos) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/workshop-ab-2018) | 🇧🇷 | 
-| 03/10/2018 | [Agile Brazil](http://www.agilebrazil.com) | [Como 4 Agile Coaches trabalham em uma Transformação Ágil](https://www.slideshare.net/elias.nogueira/como-4-agile-coaches-trabalham-em-uma-transformao-gil) |  | 🇧🇷 |
-| 21/09/2018 | [Seniortec Experience](https://www.sympla.com.br/seniortec-experience-2018__334110) | [O papel do QA na Transformação Ágil](https://www.slideshare.net/elias.nogueira/papel-do-qa-na-transformao-gil) |  | 🇧🇷 |
-| 15/09/2018 | [DevOpsDays - Porto Alegre](https://www.devopsdays.org) | [Provisionar ambientes para teste automatizado web com containers](https://www.slideshare.net/elias.nogueira/como-criar-e-executar-testes-paralelos-web-usando-selenium-e-containers) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/selenium-java-bootstrap) | 🇧🇷 |
-| 25/08/2018 | [GUTS-RS - Evolução da área de qualidade de software nos últimos 10 anos](http://guts-rs.blogspot.com) | [A evolução do papel do QA](https://www.slideshare.net/elias.nogueira/o-testador-esta-morto) | | 🇧🇷 |
-| 27/07/2018 | [Scrum Gathering Rio](https://scrumrio.com) | [BDD não é automação de teste](https://www.slideshare.net/elias.nogueira/bdd-no-automao-de-teste-scrum-gathering) |  | 🇧🇷 | 
-| 26/07/2018 | [Scrum Gathering Rio](https://scrumrio.com) | [Coaching the Agile Coach](https://www.slideshare.net/elias.nogueira/coach-the-agile-coach) |  | 🇧🇷 | 
-| 19/07/2018 | [The Developers Conference - São Paulo](http://www.thedevelopersconference.com.br/tdc/2018/saopaulo/trilha-testes) | [Como criar e executar testes paralelos web usando Selenium e containers](https://www.slideshare.net/elias.nogueira/como-criar-e-executar-testes-paralelos-web-usando-selenium-e-containers) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/selenium-java-bootstrap) | 🇧🇷 |
-| 21/06/2018 | [Oracle Code São Paulo](https://www.oracle.com/br/openworld/index.html) | [Improve Yourself -- Learn the Skills, Join the Community - Tests](https://www.slideshare.net/elias.nogueira/improve-yourself-learn-the-skills-join-the-community-tests) |  | 🇧🇷 |
-| 20/06/2018 | [Oracle Code São Paulo](https://www.oracle.com/br/openworld/index.html) | [Confie no seu pipeline: Teste automaticamente um aplicativo Java de ponta a ponta](https://www.slideshare.net/elias.nogueira/confie-no-seu-pipeline-teste-automaticamente-um-aplicativo-java-de-ponta-a-ponta) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/test-automation-javaone-2017) | 🇧🇷 |
-| 20/06/2018 | [Oracle Code São Paulo](https://www.oracle.com/br/openworld/index.html) | [Como criar ambientes de teste na nuvem e acelerar o feedback do seu pipeline](https://speakerdeck.com/eldermoraes/como-criar-ambientes-de-teste-na-nuvem-e-acelerar-o-feedback-do-seu-pipeline-1196) |  | 🇧🇷 |
-| 21/04/2018 | [The Developers Conference - Florianópolis](http://www.thedevelopersconference.com.br) | [Confie na sua pipeline: teste automaticamente sua aplicação Java](https://www.slideshare.net/elias.nogueira/trust-your-pipeline-automatically-testing-and-endtoend-java-application) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/test-automation-javaone-2017) | 🇧🇷 |
-| 20/04/2018 | [The Developers Conference - Florianópolis](http://www.thedevelopersconference.com.br) | [Criando uma grid para execução de testes paralelos com Appium](https://www.slideshare.net/elias.nogueira/criando-uma-grid-para-execuo-de-testes-paralelo-com-appium) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/appium-parallel-execution) | 🇧🇷 |
-| 19/04/2018 | [The Developers Conference - Florianópolis](http://www.thedevelopersconference.com.br) | [Como ter sucesso ministrado sua palestra técnica](https://www.slideshare.net/elias.nogueira/como-ter-sucesso-ministrando-uma-palestra-tcnica) |  | 🇧🇷 |
-| 19/04/2018 | [The Developers Conference - Florianópolis](http://www.thedevelopersconference.com.br) | [BDD não é automação de testes](https://www.slideshare.net/elias.nogueira/bdd-no-automao-de-testes) |  | 🇧🇷 |
-| 14/04/2018 | [XPConfBR](http://www.wildtech.com.br/xpconfbr/) | [Quais são os steps de que deve conter na sua pipeline?](https://www.slideshare.net/elias.nogueira/quais-so-os-steps-de-que-deve-conter-na-sua-pipeline) |  | 🇧🇷 |
-| 01/02/2018 | Campus Party Brasil - CPBR11 | [No que testes ajuda minha carreira como desenvolvedor](https://www.slideshare.net/elias.nogueira/tem-que-testar-mesmo) |  | 🇧🇷 |
-| 13/12/2017 | Semana da Agilidade - agilidade.org | [Teste em todos os níveis de planejamento](https://www.slideshare.net/elias.nogueira/testes-em-todos-os-niveis-de-planejamento) |  | 🇧🇷 |
-| 30/11/2017 | GUTS Talks | [Como planejar pensando em automação de teste em um time ágil](https://www.slideshare.net/GUTS-RS/gutsrs-guts-talks-automao-de-testes?ref=http://guts-rs.blogspot.com.br/) |  | 🇧🇷 |
-| 10/11/2017 | The Developers Conference - Porto Alegre | [Coaching the Agile Coach](https://www.slideshare.net/elias.nogueira/coaching-the-agile-coach) |  | 🇧🇷 |
-| 04/09/2017 | JavaOne 2017 - San Francisco | [Java Test Automation for REST, Web and Mobile](https://www.slideshare.net/secret/axAUvsYAqs3txI) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/appium-parallel-execution)  | 🇺🇸 |
-| 02/09/2017 | JavaOne 2017 - San Francisco | [Trust Your Pipeline - Automatically Testing and End-to-End Java Application](https://www.slideshare.net/elias.nogueira/trust-your-pipeline-automatically-testing-and-endtoend-java-application) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/test-automation-javaone-2017) | 🇺🇸 |
-| 19/09/2017 | Agile Coach Meetup - Porto Alegre | [O que é um Agile Coach](https://www.slideshare.net/elias.nogueira/o-que-e-um-agile-coach) |  | 🇧🇷 |
-| 16/09/2017 | GDG Campinas - QualityFest | [Criando uma grid para execução de teste automatizado funcional e e2e](https://www.slideshare.net/elias.nogueira/criando-uma-grid-para-execuo-de-teste-automatizado-funcional-e-e2e) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/appium-parallel-execution)  | 🇧🇷 |
-| 16/09/2017 | GDG Campinas - QualityFest | [A importância de teste em todos os aspectos](https://www.slideshare.net/elias.nogueira/a-importancia-de-testes-em-todos-os-aspectos) |  | 🇧🇷 |
-| 25/08/2017 | Android Dev Conf | [Testes de Ponta a Ponta](https://www.slideshare.net/elias.nogueira/testes-de-ponta-a-ponta) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/vilibra-testing) | 🇧🇷 |
-| 21/07/2017 | The Developers Conference - São Paulo | [Arquitetura Básica de Testes para seu projeto Java](https://www.slideshare.net/elias.nogueira/arquitetura-bsica-de-testes-para-seu-projeto-java) |  | 🇧🇷 |
-| 05/05/2017 | The Developers Conference - Florianópolis | [O Testador Técnico](https://www.slideshare.net/elias.nogueira/o-testador-tcnico) |  | 🇧🇷 |
-| 06/05/2017 | The Developers Conference - Florianópolis | [Apenas um script de teste para iOS e Android](https://www.slideshare.net/elias.nogueira/apenas-um-script-de-teste-para-ios-e-android) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/appium-cross-platform-example) | 🇧🇷 |
-| 18/03/2017 | Agile Floripa | [O Testador está Morto!](https://www.slideshare.net/elias.nogueira/o-testador-esta-morto) |  | 🇧🇷 |
-| 28/10/2016 | QA Ninja Conf | [Feedback mais rápido na sua build dividindo os testes funcionais](https://www.slideshare.net/elias.nogueira/feedback-mais-rpido-na-sua-build-dividindo-os-testes-funcionais) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/basic-pipeline-project-java-selenium) | 🇧🇷 |
-| 07/10/2016 | The Developers Conference - Porto Alegre | [Automatizando uma app Híbrida](https://www.slideshare.net/elias.nogueira/automatizando-uma-app-hbrida-66831023) |  | 🇧🇷 |
-| 07/10/2016 | The Developers Conference - Porto Alegre | [O que Evitar na Escrita de Criterios de Aceite](https://www.slideshare.net/elias.nogueira/o-que-evitar-na-escrita-de-criterios-de-aceite) |  | 🇧🇷 |
-| 05/10/2016 | The Devlopers Conference - Porto Alegre | [A Importância do Teste Continuo](https://www.slideshare.net/elias.nogueira/a-importncia-do-teste-continuo) |  | 🇧🇷 |
-| 22/09/2016 | GUTS-RS | [Tudo o que você precisa saber para começar a automação de testes em dispositivos móveis](https://www.slideshare.net/elias.nogueira/tudo-o-que-voc-precisa-saber-para-comear-a-automao-de-testes-em-dispositivos-mveis) |  | 🇧🇷 |
-| 09/07/2016| The Developers Conference - São Paulo | [Acelerando o feedback e deploy com Automação de Testes!](https://www.slideshare.net/elias.nogueira/acelerando-o-feedback-e-deploy-com-automao-de-testes) |  | 🇧🇷 |
-| 08/07/2016 | The Developers Conference - São Paulo | [Como ensinei mais de 1000 testadores a automatizar testes](https://www.slideshare.net/elias.nogueira/como-ensinei-mais-de-1000-testadores) |  | 🇧🇷 |
-| 07/07/2016 | The Developers Conference - São Paulo | [Automatizando uma app Híbrida](https://www.slideshare.net/elias.nogueira/automatizando-uma-app-hbrida) |  | 🇧🇷 |
-| 29/06/2016| JavaOne Latin America | [Automação de Teste para REST, Web e Mobile](https://www.slideshare.net/elias.nogueira/automao-de-teste-para-rest-web-e-mobile) |  | 🇧🇷 |
-| 14/05/2016 | The Developers Conference - Florianópolis | [Automação de Teste para iOS e Android com Appium](https://www.slideshare.net/elias.nogueira/automao-de-teste-para-ios-e-android-com-appium) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/automacao-mobile-ios-android-tdc2016) | 🇧🇷 |
-| 25/09/2015 | The Developers Conference - Porto Alegre | [Testes para Android de ponta a ponta](https://www.slideshare.net/elias.nogueira/testes-para-android-de-ponta-a-ponta) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/testes-android-ponta-a-ponta) | 🇧🇷 |
-| 22/07/2015 | The Developers Conference - São Paulo | [Como integrar um Agile Tester no seu time](https://www.slideshare.net/elias.nogueira/como-integrar-um-agile-tester-no-seu-time) |  | 🇧🇷 |
-| 22/07/2015 | The Developers Conference - São Paulo | [Automação em Wearables para Android](https://www.slideshare.net/elias.nogueira/automacao-em-wearables-para-android) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/appium-android-wear) | 🇧🇷 |
-| 21/07/2015 | The Developers Conference - São Paulo | [Automação de Teste em UI para Android](https://www.slideshare.net/elias.nogueira/automacao-de-teste-em-ui-para-android) |  | 🇧🇷 |
-| 15/05/2015 | The Developers Conference - São Paulo | [Agileze seus testes com automacao e grid](https://www.slideshare.net/elias.nogueira/agileze-seus-testes-com-automacao-e-grid) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/exemplo-appium-android-grid) | 🇧🇷 |
-| 13/05/2015 | The Developers Conference - São Paulo | [A importância dos Testes no Devops](https://www.slideshare.net/elias.nogueira/a-importancia-dos-testes-no-devops) |  | 🇧🇷 |
-| 13/12/2014 | Google Next Level Apps | [Teste sua app e aumente as chances de mantê-la no mercado](https://www.slideshare.net/elias.nogueira/teste-sua-app-e-aumente-as-chances-de-mantla-no-mercado) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/tche-mobile-automacao-android) | 🇧🇷 |
-| 04/12/2014 | TechTalks ADP Labs | [Testes em ambiente agil](https://www.slideshare.net/elias.nogueira/testes-em-ambiente-agil-tecktalks-adp-labs) |  | 🇧🇷 |
-| 22/11/2014 | UAI Test | [Automação de Teste não é um bicho de 7 cabeças](https://www.slideshare.net/elias.nogueira/automao-de-teste-no-um-bicho-de-7-cabeas) |  | 🇧🇷 |
-| 27/09/2014 | Tche Mobile | [Automação de Teste com Robotium](https://www.slideshare.net/elias.nogueira/automao-de-teste-com-robotium-tche-mobile-2014) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/tche-mobile-automacao-android) | 🇧🇷 |
-| 06/09/2014 | Caipira Ágil | [Automação de Teste em Front End - Caipira Ágil](https://www.slideshare.net/elias.nogueira/automao-de-teste-em-front-end-caipira-gil) |  | 🇧🇷 |
-| 14/08/2014 | Test Talk | [Testes de Performance na Nuvem com JMeter e Blazemeter](https://www.slideshare.net/elias.nogueira/testes-de-performance-na-nuvem-com-jmeter-e-blazemeter) |  | 🇧🇷 |
-| 07/08/2014 | [Simpósio Brasileiro de Qualidade de Software -SBQS](http://www.organizareventos.com.br/sbqs2014/?p=418) | Automação de Testes e Produtividade |  | 🇧🇷 |
-| 15/05/2014 | The Developers Conference - Florianópolis | [Como testar sua aplicação Android e iOS: uma abordagem prática](https://www.slideshare.net/elias.nogueira/como-testar-sua-aplicao-android-e-ios-uma-abordagem-prtica) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/exemplo-calabash-android) | 🇧🇷 |
-| 5/05/2014 | Encontro GTS-SE | [Agile Testing - entregando valor do início a fim](https://www.slideshare.net/elias.nogueira/agile-testing-entregando-valor-do-incio-a-fim) |  | 🇧🇷 |
-| 20/01/2014 | Campus Party | [Nunca foi tao facil testar](https://www.slideshare.net/elias.nogueira/nunca-foi-tao-facil-testar) |  | 🇧🇷 |
-| 27/10/2013 | Rio Agile | [Como tornar o testador parte da equipe](https://www.slideshare.net/elias.nogueira/como-tornar-o-testador-parte-da-equipe) |  | 🇧🇷 |
-| 25/10/2013 | BRATESTE | [Como se tornar Agile Tester](https://www.slideshare.net/elias.nogueira/como-se-tornar-agile-tester) |  | 🇧🇷 |
-| 12/07/2013 | The Developers Conference - São Paulo | [Reconhecendo suas habilidades como Testador](https://www.slideshare.net/elias.nogueira/tdc-2013-conheca-seus-skills) |  | 🇧🇷 |
-| 11/05/2013 | DevCamp | [O papel de um testador em uma equipe ágil](https://www.slideshare.net/elias.nogueira/dev-camp-o-papel-de-um-testador-em-uma-equipe-agil) |  | 🇧🇷 |
-| 2/2/2013 | Campus Party | [TDD - Test Driven Development](https://www.slideshare.net/elias.nogueira/tdd-test-driven-development-16315314) |  | 🇧🇷 |
-| 10/11/2012 | Rio Agile | [Todas as abordagens de testes dentro do ágil](https://www.slideshare.net/elias.nogueira/todas-as-abordagens-de-testes-dentro-do-gil) |  | 🇧🇷 |
-| 20/09/2012 | TestDay | [Arquitetura de Automação de Teste](https://www.slideshare.net/elias.nogueira/arquitetura-de-automao-de-teste) |  | 🇧🇷 |
-| 05/07/2012 | The Developers Conference - São Paulo | [Testes Funcionais em um ALM Open Source](https://www.slideshare.net/elias.nogueira/alm-testes-funcionais-open-source) |  | 🇧🇷 |
-| 19/08/2010 | Iterasys | [Hands on Selenium](https://www.slideshare.net/elias.nogueira/hands-on-selenium) |  | 🇧🇷 |
-| 18/06/2010 | BRATESTE 2010 | [Automação de Teste de Software](https://www.slideshare.net/elias.nogueira/brateste-2010-automacao-de-teste) |  | 🇧🇷 |
-| 30/07/2009 | 4° Encontro Mensal ALATS | [Automação de Teste - Mitos e Verdades](https://www.slideshare.net/elias.nogueira/4-encontro-mensal-alats-automao-de-teste-mitos-e-verdades) |  | 🇧🇷 |
-| 10/06/2009 | Semana Acadiemica FIAP/SP | [Teste de Software](https://www.slideshare.net/elias.nogueira/palestra-alats-sp-fiap-teste-de-software) |  | 🇧🇷 |
-| 05/08/2008 | Palestras TargetTrust| [Automação no Processo de Teste](https://www.slideshare.net/elias.nogueira/automaoo-no-processo-de-teste) |  | 🇧🇷 |
+| 27-07-2019 | [Agile in The Jungle](https://www.facebook.com/AgileInTheJungle/) | [BDD não é automação de teste](https://www.slideshare.net/elias.nogueira/bdd-no-automao-de-teste-scrum-gathering)|  | 🇧🇷 |
+| 27-06-2019 | [Scrum Gathering Rio](http://scrumrio.com) | [Dê a máxima cobertura nos seus testes de API](https://www.slideshare.net/elias.nogueira/de-a-mxima-cobertura-nos-seus-testes-de-api) | [![logo](http://i.imgur.com/0o48UoR.png)](https://gitlab.com/elias.nogueira/credito-test)| 🇧🇷 |
+| 26-04-2019 | [The Developers Conference - Florianópolis](http://www.thedevelopersconference.com.br/tdc/2019/index.html) | [Automação em API REST - do Health check a Aceitação com a API do TDC](https://www.slideshare.net/elias.nogueira/automao-e-virtualizao-de-servios) | [![logo](http://i.imgur.com/0o48UoR.png)](https://gitlab.com/elias.nogueira/api-tdc-test) | 🇧🇷 | 
+| 08-12-2018 | [The Developers Conference - Florianópolis](http://www.thedevelopersconference.com.br/tdc/2019/florianopolis/trilha-containers) | [Usando container com auto-escala para execução de automação web](https://www.slideshare.net/elias.nogueira/usando-containers-com-autoescala-de-testes) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/selenium-java-bootstrap) | 🇧🇷 |
+| 26-04-2019 | [The Developers Conference - Florianópolis](http://www.thedevelopersconference.com.br/tdc/2019/index.html) | [Como um trabalho chamado Coach por Imersão tem ajudado na excelencia técnica](https://www.slideshare.net/elias.nogueira/coach-por-imersao) |  | 🇧🇷 | 
+| 25-04-2019 | [The Developers Conference - Florianópolis](http://www.thedevelopersconference.com.br/tdc/2019/index.html) | [Automação e Virtualização de serviços REST com RestAssured + Wiremock + Docker](https://www.slideshare.net/elias.nogueira/automao-e-virtualizao-de-servios) | [![logo](http://i.imgur.com/0o48UoR.png)](https://gitlab.com/elias.nogueira/api-tdc-test) | 🇧🇷 | 
+| 08-12-2018 | [The Developers Conference - Porto Alegre](http://www.thedevelopersconference.com.br/tdc/2018/index.html) | Como ser reconhecido no mercado como um profissional de alta performance |  | 🇧🇷 | 
+| 08-12-2018 | [The Developers Conference - Porto Alegre](http://www.thedevelopersconference.com.br/tdc/2018/index.html) | [Usando container com auto-escala para execução de automação web](https://www.slideshare.net/elias.nogueira/usando-containers-com-autoescala-de-testes) |  | 🇧🇷 | 
+| 06-12-2018 | [The Developers Conference - Porto Alegre](http://www.thedevelopersconference.com.br/tdc/2018/index.html) | [Como um trabalho chamado Coach por Imersão tem ajudado na excelencia técnica](https://www.slideshare.net/elias.nogueira/coach-por-imersao) |  | 🇧🇷 | 
+| 05-12-2018 | [The Developers Conference - Porto Alegre](http://www.thedevelopersconference.com.br/tdc/2018/index.html) | [O Agile Coach pode (e em alguns momentos deve) ser técnico](https://www.slideshare.net/elias.nogueira/o-agile-coach-pode-ser-tecnico) |  | 🇧🇷 | 
+| 05-12-2018 | [The Developers Conference - Porto Alegre](http://www.thedevelopersconference.com.br/tdc/2018/index.html) | [Como criar e executar testes paralelos web usando Selenium e containers](https://www.slideshare.net/elias.nogueira/como-criar-e-executar-testes-paralelos-web-usando-selenium-e-containers) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/selenium-java-bootstrap) | 🇧🇷 |
+| 22-10-2018 | [Oracle Code One](https://www.oracle.com/code-one/index.html) | [How to create an architecture for a web test automation](https://www.slideshare.net/elias.nogueira/create-an-architecture-for-web-test-automation) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/selenium-java-bootstrap) | 🇺🇸 | 
+| 05-10-2018 | [Agile Brazil](http://www.agilebrazil.com) | [Paralelize seus testes web e mobile para ter feedbacks mais rápidos](https://www.slideshare.net/elias.nogueira/paralelize-seus-testes-web-e-mobile-para-ter-feedbacks-mais-rpidos) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/workshop-ab-2018) | 🇧🇷 | 
+| 03-10-2018 | [Agile Brazil](http://www.agilebrazil.com) | [Como 4 Agile Coaches trabalham em uma Transformação Ágil](https://www.slideshare.net/elias.nogueira/como-4-agile-coaches-trabalham-em-uma-transformao-gil) |  | 🇧🇷 |
+| 21-09-2018 | [Seniortec Experience](https://www.sympla.com.br/seniortec-experience-2018__334110) | [O papel do QA na Transformação Ágil](https://www.slideshare.net/elias.nogueira/papel-do-qa-na-transformao-gil) |  | 🇧🇷 |
+| 15-09-2018 | [DevOpsDays - Porto Alegre](https://www.devopsdays.org) | [Provisionar ambientes para teste automatizado web com containers](https://www.slideshare.net/elias.nogueira/como-criar-e-executar-testes-paralelos-web-usando-selenium-e-containers) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/selenium-java-bootstrap) | 🇧🇷 |
+| 25-08-2018 | [GUTS-RS - Evolução da área de qualidade de software nos últimos 10 anos](http://guts-rs.blogspot.com) | [A evolução do papel do QA](https://www.slideshare.net/elias.nogueira/o-testador-esta-morto) | | 🇧🇷 |
+| 27-07-2018 | [Scrum Gathering Rio](https://scrumrio.com) | [BDD não é automação de teste](https://www.slideshare.net/elias.nogueira/bdd-no-automao-de-teste-scrum-gathering) |  | 🇧🇷 | 
+| 26-07-2018 | [Scrum Gathering Rio](https://scrumrio.com) | [Coaching the Agile Coach](https://www.slideshare.net/elias.nogueira/coach-the-agile-coach) |  | 🇧🇷 | 
+| 19-07-2018 | [The Developers Conference - São Paulo](http://www.thedevelopersconference.com.br/tdc/2018/saopaulo/trilha-testes) | [Como criar e executar testes paralelos web usando Selenium e containers](https://www.slideshare.net/elias.nogueira/como-criar-e-executar-testes-paralelos-web-usando-selenium-e-containers) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/selenium-java-bootstrap) | 🇧🇷 |
+| 21-06-2018 | [Oracle Code São Paulo](https://www.oracle.com/br/openworld/index.html) | [Improve Yourself -- Learn the Skills, Join the Community - Tests](https://www.slideshare.net/elias.nogueira/improve-yourself-learn-the-skills-join-the-community-tests) |  | 🇧🇷 |
+| 20-06-2018 | [Oracle Code São Paulo](https://www.oracle.com/br/openworld/index.html) | [Confie no seu pipeline: Teste automaticamente um aplicativo Java de ponta a ponta](https://www.slideshare.net/elias.nogueira/confie-no-seu-pipeline-teste-automaticamente-um-aplicativo-java-de-ponta-a-ponta) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/test-automation-javaone-2017) | 🇧🇷 |
+| 20-06-2018 | [Oracle Code São Paulo](https://www.oracle.com/br/openworld/index.html) | [Como criar ambientes de teste na nuvem e acelerar o feedback do seu pipeline](https://speakerdeck.com/eldermoraes/como-criar-ambientes-de-teste-na-nuvem-e-acelerar-o-feedback-do-seu-pipeline-1196) |  | 🇧🇷 |
+| 21-04-2018 | [The Developers Conference - Florianópolis](http://www.thedevelopersconference.com.br) | [Confie na sua pipeline: teste automaticamente sua aplicação Java](https://www.slideshare.net/elias.nogueira/trust-your-pipeline-automatically-testing-and-endtoend-java-application) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/test-automation-javaone-2017) | 🇧🇷 |
+| 20-04-2018 | [The Developers Conference - Florianópolis](http://www.thedevelopersconference.com.br) | [Criando uma grid para execução de testes paralelos com Appium](https://www.slideshare.net/elias.nogueira/criando-uma-grid-para-execuo-de-testes-paralelo-com-appium) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/appium-parallel-execution) | 🇧🇷 |
+| 19-04-2018 | [The Developers Conference - Florianópolis](http://www.thedevelopersconference.com.br) | [Como ter sucesso ministrado sua palestra técnica](https://www.slideshare.net/elias.nogueira/como-ter-sucesso-ministrando-uma-palestra-tcnica) |  | 🇧🇷 |
+| 19-04-2018 | [The Developers Conference - Florianópolis](http://www.thedevelopersconference.com.br) | [BDD não é automação de testes](https://www.slideshare.net/elias.nogueira/bdd-no-automao-de-testes) |  | 🇧🇷 |
+| 14-04-2018 | [XPConfBR](http://www.wildtech.com.br/xpconfbr/) | [Quais são os steps de que deve conter na sua pipeline?](https://www.slideshare.net/elias.nogueira/quais-so-os-steps-de-que-deve-conter-na-sua-pipeline) |  | 🇧🇷 |
+| 01-02-2018 | Campus Party Brasil - CPBR11 | [No que testes ajuda minha carreira como desenvolvedor](https://www.slideshare.net/elias.nogueira/tem-que-testar-mesmo) |  | 🇧🇷 |
+| 13-12-2017 | Semana da Agilidade - agilidade.org | [Teste em todos os níveis de planejamento](https://www.slideshare.net/elias.nogueira/testes-em-todos-os-niveis-de-planejamento) |  | 🇧🇷 |
+| 30-11-2017 | GUTS Talks | [Como planejar pensando em automação de teste em um time ágil](https://www.slideshare.net/GUTS-RS/gutsrs-guts-talks-automao-de-testes?ref=http://guts-rs.blogspot.com.br/) |  | 🇧🇷 |
+| 10-11-2017 | The Developers Conference - Porto Alegre | [Coaching the Agile Coach](https://www.slideshare.net/elias.nogueira/coaching-the-agile-coach) |  | 🇧🇷 |
+| 04-09-2017 | JavaOne 2017 - San Francisco | [Java Test Automation for REST, Web and Mobile](https://www.slideshare.net/secret/axAUvsYAqs3txI) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/appium-parallel-execution)  | 🇺🇸 |
+| 02-09-2017 | JavaOne 2017 - San Francisco | [Trust Your Pipeline - Automatically Testing and End-to-End Java Application](https://www.slideshare.net/elias.nogueira/trust-your-pipeline-automatically-testing-and-endtoend-java-application) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/test-automation-javaone-2017) | 🇺🇸 |
+| 19-09-2017 | Agile Coach Meetup - Porto Alegre | [O que é um Agile Coach](https://www.slideshare.net/elias.nogueira/o-que-e-um-agile-coach) |  | 🇧🇷 |
+| 16-09-2017 | GDG Campinas - QualityFest | [Criando uma grid para execução de teste automatizado funcional e e2e](https://www.slideshare.net/elias.nogueira/criando-uma-grid-para-execuo-de-teste-automatizado-funcional-e-e2e) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/appium-parallel-execution)  | 🇧🇷 |
+| 16-09-2017 | GDG Campinas - QualityFest | [A importância de teste em todos os aspectos](https://www.slideshare.net/elias.nogueira/a-importancia-de-testes-em-todos-os-aspectos) |  | 🇧🇷 |
+| 25-08-2017 | Android Dev Conf | [Testes de Ponta a Ponta](https://www.slideshare.net/elias.nogueira/testes-de-ponta-a-ponta) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/vilibra-testing) | 🇧🇷 |
+| 21-07-2017 | The Developers Conference - São Paulo | [Arquitetura Básica de Testes para seu projeto Java](https://www.slideshare.net/elias.nogueira/arquitetura-bsica-de-testes-para-seu-projeto-java) |  | 🇧🇷 |
+| 05-05-2017 | The Developers Conference - Florianópolis | [O Testador Técnico](https://www.slideshare.net/elias.nogueira/o-testador-tcnico) |  | 🇧🇷 |
+| 06-05-2017 | The Developers Conference - Florianópolis | [Apenas um script de teste para iOS e Android](https://www.slideshare.net/elias.nogueira/apenas-um-script-de-teste-para-ios-e-android) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/appium-cross-platform-example) | 🇧🇷 |
+| 18-03-2017 | Agile Floripa | [O Testador está Morto!](https://www.slideshare.net/elias.nogueira/o-testador-esta-morto) |  | 🇧🇷 |
+| 28-10-2016 | QA Ninja Conf | [Feedback mais rápido na sua build dividindo os testes funcionais](https://www.slideshare.net/elias.nogueira/feedback-mais-rpido-na-sua-build-dividindo-os-testes-funcionais) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/basic-pipeline-project-java-selenium) | 🇧🇷 |
+| 07-10-2016 | The Developers Conference - Porto Alegre | [Automatizando uma app Híbrida](https://www.slideshare.net/elias.nogueira/automatizando-uma-app-hbrida-66831023) |  | 🇧🇷 |
+| 07-10-2016 | The Developers Conference - Porto Alegre | [O que Evitar na Escrita de Criterios de Aceite](https://www.slideshare.net/elias.nogueira/o-que-evitar-na-escrita-de-criterios-de-aceite) |  | 🇧🇷 |
+| 05-10-2016 | The Devlopers Conference - Porto Alegre | [A Importância do Teste Continuo](https://www.slideshare.net/elias.nogueira/a-importncia-do-teste-continuo) |  | 🇧🇷 |
+| 22-09-2016 | GUTS-RS | [Tudo o que você precisa saber para começar a automação de testes em dispositivos móveis](https://www.slideshare.net/elias.nogueira/tudo-o-que-voc-precisa-saber-para-comear-a-automao-de-testes-em-dispositivos-mveis) |  | 🇧🇷 |
+| 09-07-2016 | The Developers Conference - São Paulo | [Acelerando o feedback e deploy com Automação de Testes!](https://www.slideshare.net/elias.nogueira/acelerando-o-feedback-e-deploy-com-automao-de-testes) |  | 🇧🇷 |
+| 08-07-2016 | The Developers Conference - São Paulo | [Como ensinei mais de 1000 testadores a automatizar testes](https://www.slideshare.net/elias.nogueira/como-ensinei-mais-de-1000-testadores) |  | 🇧🇷 |
+| 07-07-2016 | The Developers Conference - São Paulo | [Automatizando uma app Híbrida](https://www.slideshare.net/elias.nogueira/automatizando-uma-app-hbrida) |  | 🇧🇷 |
+| 29-06-2016 | JavaOne Latin America | [Automação de Teste para REST, Web e Mobile](https://www.slideshare.net/elias.nogueira/automao-de-teste-para-rest-web-e-mobile) |  | 🇧🇷 |
+| 14-05-2016 | The Developers Conference - Florianópolis | [Automação de Teste para iOS e Android com Appium](https://www.slideshare.net/elias.nogueira/automao-de-teste-para-ios-e-android-com-appium) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/automacao-mobile-ios-android-tdc2016) | 🇧🇷 |
+| 25-09-2015 | The Developers Conference - Porto Alegre | [Testes para Android de ponta a ponta](https://www.slideshare.net/elias.nogueira/testes-para-android-de-ponta-a-ponta) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/testes-android-ponta-a-ponta) | 🇧🇷 |
+| 22-07-2015 | The Developers Conference - São Paulo | [Como integrar um Agile Tester no seu time](https://www.slideshare.net/elias.nogueira/como-integrar-um-agile-tester-no-seu-time) |  | 🇧🇷 |
+| 22-07-2015 | The Developers Conference - São Paulo | [Automação em Wearables para Android](https://www.slideshare.net/elias.nogueira/automacao-em-wearables-para-android) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/appium-android-wear) | 🇧🇷 |
+| 21-07-2015 | The Developers Conference - São Paulo | [Automação de Teste em UI para Android](https://www.slideshare.net/elias.nogueira/automacao-de-teste-em-ui-para-android) |  | 🇧🇷 |
+| 15-05-2015 | The Developers Conference - São Paulo | [Agileze seus testes com automacao e grid](https://www.slideshare.net/elias.nogueira/agileze-seus-testes-com-automacao-e-grid) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/exemplo-appium-android-grid) | 🇧🇷 |
+| 13-05-2015 | The Developers Conference - São Paulo | [A importância dos Testes no Devops](https://www.slideshare.net/elias.nogueira/a-importancia-dos-testes-no-devops) |  | 🇧🇷 |
+| 13-12-2014 | Google Next Level Apps | [Teste sua app e aumente as chances de mantê-la no mercado](https://www.slideshare.net/elias.nogueira/teste-sua-app-e-aumente-as-chances-de-mantla-no-mercado) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/tche-mobile-automacao-android) | 🇧🇷 |
+| 04-12-2014 | TechTalks ADP Labs | [Testes em ambiente agil](https://www.slideshare.net/elias.nogueira/testes-em-ambiente-agil-tecktalks-adp-labs) |  | 🇧🇷 |
+| 22-11-2014 | UAI Test | [Automação de Teste não é um bicho de 7 cabeças](https://www.slideshare.net/elias.nogueira/automao-de-teste-no-um-bicho-de-7-cabeas) |  | 🇧🇷 |
+| 27-09-2014 | Tche Mobile | [Automação de Teste com Robotium](https://www.slideshare.net/elias.nogueira/automao-de-teste-com-robotium-tche-mobile-2014) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/tche-mobile-automacao-android) | 🇧🇷 |
+| 06-09-2014 | Caipira Ágil | [Automação de Teste em Front End - Caipira Ágil](https://www.slideshare.net/elias.nogueira/automao-de-teste-em-front-end-caipira-gil) |  | 🇧🇷 |
+| 14-08-2014 | Test Talk | [Testes de Performance na Nuvem com JMeter e Blazemeter](https://www.slideshare.net/elias.nogueira/testes-de-performance-na-nuvem-com-jmeter-e-blazemeter) |  | 🇧🇷 |
+| 07-08-2014 | [Simpósio Brasileiro de Qualidade de Software -SBQS](http://www.organizareventos.com.br/sbqs2014/?p=418) | Automação de Testes e Produtividade |  | 🇧🇷 |
+| 15-05-2014 | The Developers Conference - Florianópolis | [Como testar sua aplicação Android e iOS: uma abordagem prática](https://www.slideshare.net/elias.nogueira/como-testar-sua-aplicao-android-e-ios-uma-abordagem-prtica) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/exemplo-calabash-android) | 🇧🇷 |
+| 05-05-2014 | Encontro GTS-SE | [Agile Testing - entregando valor do início a fim](https://www.slideshare.net/elias.nogueira/agile-testing-entregando-valor-do-incio-a-fim) |  | 🇧🇷 |
+| 20-01-2014 | Campus Party | [Nunca foi tao facil testar](https://www.slideshare.net/elias.nogueira/nunca-foi-tao-facil-testar) |  | 🇧🇷 |
+| 27-10-2013 | Rio Agile | [Como tornar o testador parte da equipe](https://www.slideshare.net/elias.nogueira/como-tornar-o-testador-parte-da-equipe) |  | 🇧🇷 |
+| 25-10-2013 | BRATESTE | [Como se tornar Agile Tester](https://www.slideshare.net/elias.nogueira/como-se-tornar-agile-tester) |  | 🇧🇷 |
+| 12-07-2013 | The Developers Conference - São Paulo | [Reconhecendo suas habilidades como Testador](https://www.slideshare.net/elias.nogueira/tdc-2013-conheca-seus-skills) |  | 🇧🇷 |
+| 11-05-2013 | DevCamp | [O papel de um testador em uma equipe ágil](https://www.slideshare.net/elias.nogueira/dev-camp-o-papel-de-um-testador-em-uma-equipe-agil) |  | 🇧🇷 |
+| 02-02-2013 | Campus Party | [TDD - Test Driven Development](https://www.slideshare.net/elias.nogueira/tdd-test-driven-development-16315314) |  | 🇧🇷 |
+| 10-11-2012 | Rio Agile | [Todas as abordagens de testes dentro do ágil](https://www.slideshare.net/elias.nogueira/todas-as-abordagens-de-testes-dentro-do-gil) |  | 🇧🇷 |
+| 20-09-2012 | TestDay | [Arquitetura de Automação de Teste](https://www.slideshare.net/elias.nogueira/arquitetura-de-automao-de-teste) |  | 🇧🇷 |
+| 05-07-2012 | The Developers Conference - São Paulo | [Testes Funcionais em um ALM Open Source](https://www.slideshare.net/elias.nogueira/alm-testes-funcionais-open-source) |  | 🇧🇷 |
+| 19-08-2010 | Iterasys | [Hands on Selenium](https://www.slideshare.net/elias.nogueira/hands-on-selenium) |  | 🇧🇷 |
+| 18-06-2010 | BRATESTE 2010 | [Automação de Teste de Software](https://www.slideshare.net/elias.nogueira/brateste-2010-automacao-de-teste) |  | 🇧🇷 |
+| 30-07-2009 | 4° Encontro Mensal ALATS | [Automação de Teste - Mitos e Verdades](https://www.slideshare.net/elias.nogueira/4-encontro-mensal-alats-automao-de-teste-mitos-e-verdades) |  | 🇧🇷 |
+| 10-06-2009 | Semana Acadiemica FIAP/SP | [Teste de Software](https://www.slideshare.net/elias.nogueira/palestra-alats-sp-fiap-teste-de-software) |  | 🇧🇷 |
+| 05-08-2008 | Palestras TargetTrust| [Automação no Processo de Teste](https://www.slideshare.net/elias.nogueira/automaoo-no-processo-de-teste) |  | 🇧🇷 |
 
 ## Workshops
-
 12 in total
 
-| Date (dd/mm/yyyy) | Event            | Subject       | Language  |
+All the formal workshops I did. Here workshop means a mini-course with a small audiance where I can show challanges about the subject and the audiance can practice with my help.
+
+| Date (dd-mm-yyyy) | Event            | Subject       | Language  |
 |:-----------------:|------------------|---------------|:---------:|
-| 19/04/2018 | The Developers Conference - Florianópolis | Testes Manuais e Automatizados para uma API REST | 🇧🇷 |
-| 14/04/2018 | [XPConfBR](http://www.wildtech.com.br/xpconfbr/) | [Criação de arquitetura para execução de testes paralelos na web](https://github.com/eliasnogueira/workshop-selenium-grid) | 🇧🇷 |
-| 22/07/2017 | The Developers Conference - São Paulo | Testes Manuais e Automatizados para uma API REST | 🇧🇷 |
-| 06/07/2017 | Scrum Gathering Rio | [Agile Testing Mindset](https://www.slideshare.net/elias.nogueira/workshop-agile-testing-mindset) | 🇧🇷 |
-| 07/11/2016 | Agile Brazil | Agile Testing Mindset | 🇧🇷 |
-| 08/10/2016 | The Developers Conference - Porto Alegre | Agile Testing | 🇧🇷 |
-| 07/07/2016 | The Developers Conference - São Paulo | Agile Testing | 🇧🇷 |
-| 13/05/2016 | The Developers Conference - Florianópolis | Automação de Testes para REST, Web e Mobile | 🇧🇷 |
-| 16/07/2015 | Encontro GUTS-RS | Testes Automatizados para dispositivos móveis com Appium | 🇧🇷 |
-| 13/10/2014 | HUB 2014 | Behavior Driven Development com Java Usando JBehave e Selenium | 🇧🇷 |
-| 06/09/2014 | Caipira Ágil | [Automação de Teste em Front End](https://www.slideshare.net/elias.nogueira/automao-de-teste-em-front-end-caipira-gil) | 🇧🇷 |
-| 08/08/2014 | [Simpósio Brasileiro de Qualidade de Software -SBQS](http://www.organizareventos.com.br/sbqs2014/?p=418) | Agile Testing - como funciona na prática ? | 🇧🇷 |
+| 19-04-2018 | The Developers Conference - Florianópolis | Testes Manuais e Automatizados para uma API REST | 🇧🇷 |
+| 14-04-2018 | [XPConfBR](http://www.wildtech.com.br/xpconfbr/) | [Criação de arquitetura para execução de testes paralelos na web](https://github.com/eliasnogueira/workshop-selenium-grid) | 🇧🇷 |
+| 22-07-2017 | The Developers Conference - São Paulo | Testes Manuais e Automatizados para uma API REST | 🇧🇷 |
+| 06-07-2017 | Scrum Gathering Rio | [Agile Testing Mindset](https://www.slideshare.net/elias.nogueira/workshop-agile-testing-mindset) | 🇧🇷 |
+| 07-11-2016 | Agile Brazil | Agile Testing Mindset | 🇧🇷 |
+| 08-10-2016 | The Developers Conference - Porto Alegre | Agile Testing | 🇧🇷 |
+| 07-07-2016 | The Developers Conference - São Paulo | Agile Testing | 🇧🇷 |
+| 13-05-2016 | The Developers Conference - Florianópolis | Automação de Testes para REST, Web e Mobile | 🇧🇷 |
+| 16-07-2015 | Encontro GUTS-RS | Testes Automatizados para dispositivos móveis com Appium | 🇧🇷 |
+| 13-10-2014 | HUB 2014 | Behavior Driven Development com Java Usando JBehave e Selenium | 🇧🇷 |
+| 06-09-2014 | Caipira Ágil | [Automação de Teste em Front End](https://www.slideshare.net/elias.nogueira/automao-de-teste-em-front-end-caipira-gil) | 🇧🇷 |
+| 08-08-2014 | [Simpósio Brasileiro de Qualidade de Software -SBQS](http://www.organizareventos.com.br/sbqs2014/?p=418) | Agile Testing - como funciona na prática ? | 🇧🇷 |
 
 ## Volunteer
-
 11 in total
 
-| Date        | Event            | Role  |
-|:-----------:|------------------|:-----:|
-| 2019 - now | [Ministry of Testing - Eindhoven](https://www.meetup.com/Ministry-of-Testing-Eindhoven/) | Co-Organizer |
-| 2018 | [Programa de Mentoria em Teste de Software](https://www.linkedin.com/company/10035123/) | Mentor |
-| 2017 - 2019 | [The Developers Conference Dev-Test Track](http://www.thedevelopersconference.com.br) | Coordinator / Organizer |
-| 2017 - 2019 | [Agile Coach Meetup](https://www.meetup.com/agilecoach-porto-alegre/) | Creator and Organizer |
-| 2010 - 2019 | [The Developers Conference Test Track](http://www.thedevelopersconference.com.br) | Coordinator / Organizer |
-| 2014 - 2018 | [Agile Brazil](http://www.agilebrazil.com) | Reviewer |
-| 2016 | GUMobile [Main site](http://www.sucesurs.org.br/gu/gu-mobile-rs/apresentacao/)  - [Wordpress](https://gumobilers.wordpress.com) | Organizer |
-| 2009 - 2010 | ALATS | Community Organizer |
-| 2008 - 2010 | java.net portal | Community Lead |
-| 2007 - 2010 | java.net Global Education and Learning Community| Community Lead |
-| 2008 | [GUTS](http://www.sucesurs.org.br/gu/guts/pagina-inicial/) | Founder and Organizer |
+Work for the software development and testing community to help them, and me, to grown.  
+
+| Date        | Event            | Type | Role |
+|:-----------:|------------------|:----:|:----:|
+| 2019 - now | [Ministry of Testing - Eindhoven](https://www.meetup.com/Ministry-of-Testing-Eindhoven/) | Meetup | Co-Organizer |
+| 2018 | [Programa de Mentoria em Teste de Software](https://www.linkedin.com/company/10035123/) | Online mentorship program | Mentor |
+| 2017 - 2019 | [The Developers Conference Dev-Test Track](http://www.thedevelopersconference.com.br) | Event | Coordinator / Organizer |
+| 2017 - 2019 | [Agile Coach Meetup](https://www.meetup.com/agilecoach-porto-alegre/) | Meetup | Creator and Organizer |
+| 2010 - 2019 | [The Developers Conference Test Track](http://www.thedevelopersconference.com.br) | Event | Coordinator / Organizer |
+| 2014 - 2018 | [Agile Brazil](http://www.agilebrazil.com) | Event |Reviewer |
+| 2016 | [GUMobile](http://www.sucesurs.org.br/gu/gu-mobile-rs/apresentacao/) | Meetup |Organizer |
+| 2009 - 2010 | ALATS | User group |Community Organizer |
+| 2008 - 2010 | java.net portal | Global community |Community Lead |
+| 2007 - 2010 | java.net Global Education and Learning Community| Global community | Community Lead |
+| 2008 | [GUTS](http://www.sucesurs.org.br/gu/guts/pagina-inicial/) | User group | Founder and Organizer |
+
+### Facts
+ * The Developers Conference Test Track is the largest event in Brazil with more than 400 attendees in three different cities
+ * The Developers Conference Dev-Test Track is an event dedicate only on technical subjects for QAs
+ * The GUTS is the first testing user group in Brazil and is still active
 
 ## Initiatives
-
 9 in total
+
+Manly blog posts in different websites and portals.
 
 | Initiative name | Focus | Language |
 |-----------------|-------|:--------:|
@@ -172,8 +181,9 @@ The purpose of this repository is to consolidate in a single place all my partic
 ## Teaching
 
 ### University
-
 4 in total
+
+My role as a professor in postgraduate courses at private universities.
 
 | Date | Institution | Subject | Location |
 |:----:|-------------|---------|----------|
@@ -183,8 +193,9 @@ The purpose of this repository is to consolidate in a single place all my partic
 | 2014 | [Uniasselvi](https://portal.uniasselvi.com.br) | Specialization in Software Quality | Blumenau / SC / Brazil |
 
 ### Private School
-
 2 in total
+
+My role as a teacher in Testing Automation courses in private schools.
 
 | Date | Institution | Subject | Location |
 |:----:|-------------|---------|----------|
@@ -192,8 +203,9 @@ The purpose of this repository is to consolidate in a single place all my partic
 | 2008 - 2009 | [TargetThrust](https://targettrust.com.br) | Software Test Training | Porto Alegre / RS / Brazil |
 
 ## Books eBooks
-
 2 in total
+
+Books and eBooks I've released.
 
 | Type | Title | Language |
 |:----:|-------|:--------:|
@@ -201,8 +213,9 @@ The purpose of this repository is to consolidate in a single place all my partic
 | ebook | [Visões sobre Teste de Software](http://eliasnogueira.com/o-mundo-de-teste-de-software/) | 🇧🇷 |
 
 ## Videos
-
 37 in total
+
+Videos about my presentations in events and me being intweviwed by different content channels.
 
 | Date | Title | Event | Language |
 |:----:|-------|-------|:--------:|
@@ -245,8 +258,9 @@ The purpose of this repository is to consolidate in a single place all my partic
 | 2013 | [Test Web Meeting - CasperJS](https://www.youtube.com/watch?v=_I-QaOESaSk) | WebTest Meeting | 🇧🇷 |
 
 ## Awards
-
 3 in total
+
+Recognition for working in the software development community
 
 | Date | Award | Event |
 |:----:|-------|-------|
@@ -255,6 +269,7 @@ The purpose of this repository is to consolidate in a single place all my partic
 | 2017 | Best participation during feedback | [Testathon](http://testathon.co) Chapter 13 - Facebook |
 
 ## My social networks
+My social networks, in case you want to follow me.
 
 [![logo](https://i.imgur.com/gUSPN17.png)](http://www.facebook.com/elias.nogueira.teste)
 [![logo](https://i.imgur.com/Rb8i3ps.png)](http://www.twitter.com/eliasnogueira)
