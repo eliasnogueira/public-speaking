@@ -5,7 +5,7 @@ The purpose of this repository is to consolidate in a single place all my partic
 ---
 
 * [Talks](#talks)
-  * [Coming soon (0)](#coming-soon)
+  * [Coming soon (1)](#coming-soon)
   * [Past presentations (82)](#past-presentations)
 * [Workshops (12)](#workshops)
 * [Volunteer (11)](#volunteer)
@@ -20,11 +20,11 @@ The purpose of this repository is to consolidate in a single place all my partic
 
 ### Coming soon
 
-0 in total
+1 in total
 
 | Date | Event          | Title / Slide Deck  | Location | Language |
 |:----:|----------------|---------------------|----------|:--------:|
-|  |  |  |  |  |
+| 07/04/2020 | [QA Experience](https://www.qaxperience.com/) | Criando uma arquiterura para seus testes de API com RestAssured | Online | 🇧🇷|
 
 
 ### Past presentations
