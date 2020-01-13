@@ -5,7 +5,7 @@ The purpose of this repository is to consolidate in a single place all my partic
 ---
 
 * [Talks](#talks)
-  * [Coming soon (1)](#coming-soon)
+  * [Coming soon (2)](#coming-soon)
   * [Past presentations (82)](#past-presentations)
 * [Workshops (12)](#workshops)
 * [Volunteer (11)](#volunteer)
@@ -20,10 +20,11 @@ The purpose of this repository is to consolidate in a single place all my partic
 
 ### Coming soon
 
-1 in total
+2 in total
 
 | Date | Event          | Title / Slide Deck  | Location | Language |
 |:----:|----------------|---------------------|----------|:--------:|
+| 21-22 Feb, 2020 | [SeleniumCamp](https://seleniumcamp.com/) | TBD | Kyiv, Ukraine | 🇺🇸|
 | 07/04/2020 | [QA Experience](https://www.qaxperience.com/) | Criando uma arquiterura para seus testes de API com RestAssured | Online | 🇧🇷|
 
 
