@@ -181,17 +181,16 @@ Manly blog posts in different websites and portals.
 | [CSS Selector Game](https://eliasnogueira.github.io/css-locator-game/) | Automated Software Testing | 🇧🇷 |
 
 ## Open Source
-2 in total
+3 in total
 
-This is a list of my simple open source contributions.
+My small contributions to open source projects.
 All my projects on GitHub are open sourced too.
 
 | Project | Link |
 |---------|------|
-| webdrivermanager | https://github.com/bonigarcia/webdrivermanager |
-| bb-fuel | https://github.com/Backbase/bb-fuel |
 | appium | https://github.com/appium |
-
+| bb-fuel | https://github.com/Backbase/bb-fuel |
+| webdrivermanager | https://github.com/bonigarcia/webdrivermanager |
 
 ## Teaching
 
