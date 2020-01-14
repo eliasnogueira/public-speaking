@@ -10,6 +10,7 @@ The purpose of this repository is to consolidate in a single place all my partic
 * [Workshops (12)](#workshops)
 * [Volunteer (11)](#volunteer)
 * [Initiatives (9)](#initiatives)
+* [Open Source (3)](#open-source)
 * [Teaching (6)](#teaching)
 * [Books & eBooks (2)](#books-ebooks)
 * [Videos (37)](#videos)
@@ -178,6 +179,19 @@ Manly blog posts in different websites and portals.
 | [EuroStar Test Huddle](https://huddle.eurostarsoftwaretesting.com/members/elias-nogueira/activity/) | Appium series - tutorial | 🇺🇸 |
 | [Desafio Selenium](http://eliasnogueira.com/arquivos_blog/selenium/desafio/) | Automated Software Testing | 🇧🇷 |
 | [CSS Selector Game](https://eliasnogueira.github.io/css-locator-game/) | Automated Software Testing | 🇧🇷 |
+
+## Open Source
+2 in total
+
+This is a list of my simple open source contributions.
+All my projects on GitHub are open sourced too.
+
+| Project | Link |
+|---------|------|
+| webdrivermanager | https://github.com/bonigarcia/webdrivermanager |
+| bb-fuel | https://github.com/Backbase/bb-fuel |
+| appium | https://github.com/appium |
+
 
 ## Teaching
 
