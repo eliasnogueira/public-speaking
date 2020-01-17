@@ -5,7 +5,7 @@ The purpose of this repository is to consolidate in a single place all my partic
 ---
 
 * [Talks](#talks)
-  * [Coming soon (2)](#coming-soon)
+  * [Coming soon (3)](#coming-soon)
   * [Past presentations (82)](#past-presentations)
 * [Workshops (12)](#workshops)
 * [Volunteer (11)](#volunteer)
@@ -21,11 +21,12 @@ The purpose of this repository is to consolidate in a single place all my partic
 
 ### Coming soon
 
-2 in total
+3 in total
 
 | Date | Event          | Title / Slide Deck  | Location | Language |
 |:----:|----------------|---------------------|----------|:--------:|
 | 21-22 Feb, 2020 | [SeleniumCamp](https://seleniumcamp.com/) | TBD | Kyiv, Ukraine | 🇺🇸|
+| 12/03/2019 | [Let's Check Amsterdam](https://www.eventbrite.com/e/lets-check-amsterdam-spring-edition-tickets-90299571449) | Create an architecture for web test automation | Amsterdam, Netherlands | 🇺🇸| 
 | 07/04/2020 | [QA Experience](https://www.qaxperience.com/) | Criando uma arquiterura para seus testes de API com RestAssured | Online | 🇧🇷|
 
 
