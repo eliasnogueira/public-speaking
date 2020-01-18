@@ -14,7 +14,7 @@ The purpose of this repository is to consolidate in a single place all my partic
 * [Teaching (6)](#teaching)
 * [Books & eBooks (2)](#books-ebooks)
 * [Videos (37)](#videos)
-* [Awards & Recognitios (4)](#awards--recognition)
+* [Awards & Recognitios (4)](#awards--recognitions)
 * [My social networks](#my-social-networks)
 
 ## Talks
