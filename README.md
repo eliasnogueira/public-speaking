@@ -14,7 +14,7 @@ The purpose of this repository is to consolidate in a single place all my partic
 * [Teaching (6)](#teaching)
 * [Books & eBooks (2)](#books-ebooks)
 * [Videos (37)](#videos)
-* [Awards & Recognitios (4)](#awards-recognition)
+* [Awards & Recognitios (4)](#awards--recognition)
 * [My social networks](#my-social-networks)
 
 ## Talks
@@ -279,7 +279,7 @@ Recognition for working in the software development community
 
 | Date | Award | Event |
 |:----:|-------|-------|
-| 2019 | Top 5 most famous Test Automation Engineer in Brazil | [Social Testers](https://www.socialtesters.org/resultado-2019) |
+| 2019 | [Top 5 most famous Test Automation Engineer in Brazil](https://www.socialtesters.org/resultado-2019) | [Social Testers](https://www.socialtesters.org) |
 | 2017 | [TDC RockStar](http://www.thedevelopersconference.com.br/rockstars) | [The Developers Conference](http://www.thedevelopersconference.com.br) |
 | 2017 | Recognition for the contribution to the IT market | [iMasters - Android DevConf](https://imasters.com.br)
 | 2017 | Best participation during feedback | [Testathon](http://testathon.co) Chapter 13 - Facebook |
