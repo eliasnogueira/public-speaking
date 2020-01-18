@@ -273,7 +273,7 @@ Videos about my presentations in events and me being intweviwed by different con
 | 2013 | [Test Web Meeting - CasperJS](https://www.youtube.com/watch?v=_I-QaOESaSk) | WebTest Meeting | 🇧🇷 |
 
 ## Awards & Recognitions
-3 in total
+4 in total
 
 Recognition for working in the software development community
 
