@@ -25,7 +25,7 @@ The purpose of this repository is to consolidate in a single place all my partic
 
 | Date | Event          | Title / Slide Deck  | Location | Language |
 |:----:|----------------|---------------------|----------|:--------:|
-| 21-22 Feb, 2020 | [SeleniumCamp](https://seleniumcamp.com/) | TBD | Kyiv, Ukraine | 🇺🇸|
+| 21-22 Feb, 2020 | [SeleniumCamp](https://seleniumcamp.com/) | API Testing following the Test Pyramid | Kyiv, Ukraine | 🇺🇸|
 | 12/03/2019 | [Let's Check Amsterdam](https://www.eventbrite.com/e/lets-check-amsterdam-spring-edition-tickets-90299571449) | Create an architecture for web test automation | Amsterdam, Netherlands | 🇺🇸| 
 | 07/04/2020 | [QA Experience](https://www.qaxperience.com/) | Criando uma arquiterura para seus testes de API com RestAssured | Online | 🇧🇷|
 
