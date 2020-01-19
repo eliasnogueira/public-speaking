@@ -1,21 +1,19 @@
 # Elias Event Calendar, Initiatives and Activities
 
-The purpose of this repository is to consolidate in a single place all my participation at conferences, meetups, community activities and events in general. The events are organized in reverse chronological order.
+The purpose of this repository is to consolidate in a single place all my participation at conferences, meetups, community activities and events in general.
 
 ---
-
-* [Talks](#talks)
-  * [Coming soon (3)](#coming-soon)
-  * [Past presentations (82)](#past-presentations)
-* [Workshops (12)](#workshops)
-* [Volunteer (11)](#volunteer)
-* [Initiatives (9)](#initiatives)
-* [Open Source (3)](#open-source)
-* [Teaching (6)](#teaching)
-* [Books & eBooks (2)](#books-ebooks)
-* [Videos (37)](#videos)
-* [Awards & Recognitios (4)](#awards--recognitions)
+* Talks
+   * [Coming soon talks <sup>3</sup>](#coming-soon) | [Past presentations <sup>82</sup>](#past-presentations)
+* Initiatives
+   * [Open Source <sup>3</sup>](#open-source) | [Community <sup>11</sup>](#community)
+* Sharing knowledge
+   * [Blog posts and content <sup>9</sup>](#blog-posts-and-content) | [Workshops <sup>12</sup>](#workshops) | [Books & eBooks <sup>2</sup>](#books-ebooks) | [Videos <sup>37</sup>](#videos)
+* Teaching
+   * [University <sup>4</sup>](#university) | [Private schools <sup>2</sup>](#private-schools) 
+* [Awards & Recognitios <sup>4</sup>](#awards--recognitions)   
 * [My social networks](#my-social-networks)
+
 
 ## Talks
 
@@ -120,7 +118,64 @@ All the presentations I did in the past, ordered by date.
 | 10/06/2009 | Semana Acadiemica FIAP/SP | [Teste de Software](https://www.slideshare.net/elias.nogueira/palestra-alats-sp-fiap-teste-de-software) |  | 🇧🇷 |
 | 05/08/2008 | Palestras TargetTrust| [Automação no Processo de Teste](https://www.slideshare.net/elias.nogueira/automaoo-no-processo-de-teste) |  | 🇧🇷 |
 
-## Workshops
+## Initiatives
+
+### Open Source
+3 in total
+
+My small contributions to open source projects.
+All my projects on GitHub are open sourced too.
+
+| Project | Link |
+|---------|------|
+| appium | https://github.com/appium |
+| bb-fuel | https://github.com/Backbase/bb-fuel |
+| webdrivermanager | https://github.com/bonigarcia/webdrivermanager |
+
+### Community
+11 in total
+
+Work for the software development and testing community to help them, and me, to grown.  
+
+| Date        | Event            | Type | Role |
+|:-----------:|------------------|:----:|:----:|
+| 2019 - now | [Ministry of Testing - Eindhoven](https://www.meetup.com/Ministry-of-Testing-Eindhoven/) | Meetup | Co-Organizer |
+| 2018 | [Programa de Mentoria em Teste de Software](https://www.linkedin.com/company/10035123/) | Online mentorship program | Mentor |
+| 2017 - 2019 | [The Developers Conference Dev-Test Track](http://www.thedevelopersconference.com.br) | Event | Coordinator / Organizer |
+| 2017 - 2019 | [Agile Coach Meetup](https://www.meetup.com/agilecoach-porto-alegre/) | Meetup | Creator and Organizer |
+| 2010 - 2019 | [The Developers Conference Test Track](http://www.thedevelopersconference.com.br) | Event | Coordinator / Organizer |
+| 2014 - 2018 | [Agile Brazil](http://www.agilebrazil.com) | Event |Reviewer |
+| 2016 | [GUMobile](http://www.sucesurs.org.br/gu/gu-mobile-rs/apresentacao/) | Meetup |Organizer |
+| 2009 - 2010 | ALATS | User group |Community Organizer |
+| 2008 - 2010 | java.net portal | Global community |Community Lead |
+| 2007 - 2010 | java.net Global Education and Learning Community| Global community | Community Lead |
+| 2008 | [GUTS](http://www.sucesurs.org.br/gu/guts/pagina-inicial/) | User group | Founder and Organizer |
+
+#### Facts
+ * The Developers Conference Test Track is the largest event in Brazil with more than 400 attendees in three different cities
+ * The Developers Conference Dev-Test Track is an event dedicate only on technical subjects for QAs
+ * The GUTS is the first testing user group in Brazil and is still active
+
+## Sharing knowledge
+
+### Blog posts and content
+9 in total
+
+Manly blog posts in different websites and portals.
+
+| Initiative name | Focus | Language |
+|-----------------|-------|:--------:|
+| [Personal blog](http://eliasnogueira.com) | Software Quality and Test posts | 🇧🇷 |
+| [Facebook page](https://www.facebook.com/elias.nogueira.teste/) | Daily posts about software testing | 🇧🇷 |
+| [iMasters](http://imasters.com.br/perfil/eliasnogueira/?trace=3182418120&source=single) | Software Quality and Test posts | 🇧🇷 |
+| [InfoQ Brazil](https://www.infoq.com/br/author/Elias-Nogueira) | Software Quality and Test videos | 🇧🇷 |
+| [DZone posts](https://dzone.com/users/190109/eliasn.html) | Software Quality and Test posts | 🇺🇸 |
+| [Medium posts](https://medium.com/@eliasnogueira) | Software Quality and Test posts | 🇺🇸 |
+| [EuroStar Test Huddle](https://huddle.eurostarsoftwaretesting.com/members/elias-nogueira/activity/) | Appium series - tutorial | 🇺🇸 |
+| [Desafio Selenium](http://eliasnogueira.com/arquivos_blog/selenium/desafio/) | Automated Software Testing | 🇧🇷 |
+| [CSS Selector Game](https://eliasnogueira.github.io/css-locator-game/) | Automated Software Testing | 🇧🇷 |
+
+### Workshops
 12 in total
 
 All the formal workshops I did. Here workshop means a mini-course with a small audiance where I can show challanges about the subject and the audiance can practice with my help.
@@ -140,84 +195,7 @@ All the formal workshops I did. Here workshop means a mini-course with a small a
 | 06/09/2014 | Caipira Ágil | [Automação de Teste em Front End](https://www.slideshare.net/elias.nogueira/automao-de-teste-em-front-end-caipira-gil) | 🇧🇷 |
 | 08/08/2014 | [Simpósio Brasileiro de Qualidade de Software -SBQS](http://www.organizareventos.com.br/sbqs2014/?p=418) | Agile Testing - como funciona na prática ? | 🇧🇷 |
 
-## Volunteer
-11 in total
-
-Work for the software development and testing community to help them, and me, to grown.  
-
-| Date        | Event            | Type | Role |
-|:-----------:|------------------|:----:|:----:|
-| 2019 - now | [Ministry of Testing - Eindhoven](https://www.meetup.com/Ministry-of-Testing-Eindhoven/) | Meetup | Co-Organizer |
-| 2018 | [Programa de Mentoria em Teste de Software](https://www.linkedin.com/company/10035123/) | Online mentorship program | Mentor |
-| 2017 - 2019 | [The Developers Conference Dev-Test Track](http://www.thedevelopersconference.com.br) | Event | Coordinator / Organizer |
-| 2017 - 2019 | [Agile Coach Meetup](https://www.meetup.com/agilecoach-porto-alegre/) | Meetup | Creator and Organizer |
-| 2010 - 2019 | [The Developers Conference Test Track](http://www.thedevelopersconference.com.br) | Event | Coordinator / Organizer |
-| 2014 - 2018 | [Agile Brazil](http://www.agilebrazil.com) | Event |Reviewer |
-| 2016 | [GUMobile](http://www.sucesurs.org.br/gu/gu-mobile-rs/apresentacao/) | Meetup |Organizer |
-| 2009 - 2010 | ALATS | User group |Community Organizer |
-| 2008 - 2010 | java.net portal | Global community |Community Lead |
-| 2007 - 2010 | java.net Global Education and Learning Community| Global community | Community Lead |
-| 2008 | [GUTS](http://www.sucesurs.org.br/gu/guts/pagina-inicial/) | User group | Founder and Organizer |
-
-### Facts
- * The Developers Conference Test Track is the largest event in Brazil with more than 400 attendees in three different cities
- * The Developers Conference Dev-Test Track is an event dedicate only on technical subjects for QAs
- * The GUTS is the first testing user group in Brazil and is still active
-
-## Initiatives
-9 in total
-
-Manly blog posts in different websites and portals.
-
-| Initiative name | Focus | Language |
-|-----------------|-------|:--------:|
-| [Personal blog](http://eliasnogueira.com) | Software Quality and Test posts | 🇧🇷 |
-| [Facebook page](https://www.facebook.com/elias.nogueira.teste/) | Daily posts about software testing | 🇧🇷 |
-| [iMasters](http://imasters.com.br/perfil/eliasnogueira/?trace=3182418120&source=single) | Software Quality and Test posts | 🇧🇷 |
-| [InfoQ Brazil](https://www.infoq.com/br/author/Elias-Nogueira) | Software Quality and Test videos | 🇧🇷 |
-| [DZone posts](https://dzone.com/users/190109/eliasn.html) | Software Quality and Test posts | 🇺🇸 |
-| [Medium posts](https://medium.com/@eliasnogueira) | Software Quality and Test posts | 🇺🇸 |
-| [EuroStar Test Huddle](https://huddle.eurostarsoftwaretesting.com/members/elias-nogueira/activity/) | Appium series - tutorial | 🇺🇸 |
-| [Desafio Selenium](http://eliasnogueira.com/arquivos_blog/selenium/desafio/) | Automated Software Testing | 🇧🇷 |
-| [CSS Selector Game](https://eliasnogueira.github.io/css-locator-game/) | Automated Software Testing | 🇧🇷 |
-
-## Open Source
-3 in total
-
-My small contributions to open source projects.
-All my projects on GitHub are open sourced too.
-
-| Project | Link |
-|---------|------|
-| appium | https://github.com/appium |
-| bb-fuel | https://github.com/Backbase/bb-fuel |
-| webdrivermanager | https://github.com/bonigarcia/webdrivermanager |
-
-## Teaching
-
-### University
-4 in total
-
-My role as a professor in postgraduate courses at private universities.
-
-| Date | Institution | Subject | Location |
-|:----:|-------------|---------|----------|
-| 2011 - now | [Unisinos](http://www.unisinos.br) | [Specialization in Software Quality](http://www.unisinos.br/especializacao/qualidade-de-software/ead/sao-leopoldo) | São Leopoldo and Porto Alegre / RS / Brazil |
-| 2018 | [Unidavi](https://unidavi.edu.br) | [Web and Mobile Development](https://unidavi.edu.br/posgraduacao/cursos/59676/) | Rio do Sul / SC / Brazil |
-| 2015 | [Uninassau](https://www.uninassau.edu.br) | Specialization in Software Quality | Recife / PE / Brazil |
-| 2014 | [Uniasselvi](https://portal.uniasselvi.com.br) | Specialization in Software Quality | Blumenau / SC / Brazil |
-
-### Private School
-2 in total
-
-My role as a teacher in Testing Automation courses in private schools.
-
-| Date | Institution | Subject | Location |
-|:----:|-------------|---------|----------|
-| 2009 - 2011 | [Iterasys](http://www.iterasys.com.br) | Software Test Training | Sao Paulo / SP / Brazil |
-| 2008 - 2009 | [TargetThrust](https://targettrust.com.br) | Software Test Training | Porto Alegre / RS / Brazil |
-
-## Books eBooks
+### Books eBooks
 2 in total
 
 Books and eBooks I've released.
@@ -227,7 +205,7 @@ Books and eBooks I've released.
 | eBook | [Passos para aprender automação web](http://eliasnogueira.com/ebook-passos-para-aprender-automacao-web/) | 🇧🇷 |
 | ebook | [Visões sobre Teste de Software](http://eliasnogueira.com/o-mundo-de-teste-de-software/) | 🇧🇷 |
 
-## Videos
+### Videos
 37 in total
 
 Videos about my presentations in events and me being intweviwed by different content channels.
@@ -271,6 +249,30 @@ Videos about my presentations in events and me being intweviwed by different con
 | 2013 | [O papel de um testador em uma equipe ágil](https://www.infoq.com/br/presentations/testador-equipe-agil) | DevCamp | 🇧🇷 |
 | 2013 | [(Quase) Todas as abordagens de testes dentro do Agile](https://www.infoq.com/br/presentations/quase-todas-abordagens-testes-agil) | Rio Agile | 🇧🇷 |
 | 2013 | [Test Web Meeting - CasperJS](https://www.youtube.com/watch?v=_I-QaOESaSk) | WebTest Meeting | 🇧🇷 |
+
+## Teaching
+
+### University
+4 in total
+
+My role as a professor in postgraduate courses at private universities.
+
+| Date | Institution | Subject | Location |
+|:----:|-------------|---------|----------|
+| 2011 - now | [Unisinos](http://www.unisinos.br) | [Specialization in Software Quality](http://www.unisinos.br/especializacao/qualidade-de-software/ead/sao-leopoldo) | São Leopoldo and Porto Alegre / RS / Brazil |
+| 2018 | [Unidavi](https://unidavi.edu.br) | [Web and Mobile Development](https://unidavi.edu.br/posgraduacao/cursos/59676/) | Rio do Sul / SC / Brazil |
+| 2015 | [Uninassau](https://www.uninassau.edu.br) | Specialization in Software Quality | Recife / PE / Brazil |
+| 2014 | [Uniasselvi](https://portal.uniasselvi.com.br) | Specialization in Software Quality | Blumenau / SC / Brazil |
+
+### Private School
+2 in total
+
+My role as a teacher in Testing Automation courses in private schools.
+
+| Date | Institution | Subject | Location |
+|:----:|-------------|---------|----------|
+| 2009 - 2011 | [Iterasys](http://www.iterasys.com.br) | Software Test Training | Sao Paulo / SP / Brazil |
+| 2008 - 2009 | [TargetThrust](https://targettrust.com.br) | Software Test Training | Porto Alegre / RS / Brazil |
 
 ## Awards & Recognitions
 4 in total
