@@ -119,6 +119,8 @@ All the presentations I did in the past, ordered by date.
 | 10/06/2009 | Semana Acadiemica FIAP/SP | [Teste de Software](https://www.slideshare.net/elias.nogueira/palestra-alats-sp-fiap-teste-de-software) |  | 🇧🇷 |
 | 05/08/2008 | Palestras TargetTrust| [Automação no Processo de Teste](https://www.slideshare.net/elias.nogueira/automaoo-no-processo-de-teste) |  | 🇧🇷 |
 
+[:arrow_up: back to the top](#toc)
+
 ## Initiatives
 
 ### Open Source
@@ -132,6 +134,8 @@ All my projects on GitHub are open sourced too.
 | appium | https://github.com/appium |
 | bb-fuel | https://github.com/Backbase/bb-fuel |
 | webdrivermanager | https://github.com/bonigarcia/webdrivermanager |
+
+[:arrow_up: back to the top](#toc)
 
 ### Community
 11 in total
@@ -156,6 +160,8 @@ Work for the software development and testing community to help them, and me, to
  * The Developers Conference Test Track is the largest event in Brazil with more than 400 attendees in three different cities
  * The Developers Conference Dev-Test Track is an event dedicate only on technical subjects for QAs
  * The GUTS is the first testing user group in Brazil and is still active
+ 
+[:arrow_up: back to the top](#toc)
 
 ## Sharing knowledge
 
@@ -175,6 +181,8 @@ Manly blog posts in different websites and portals.
 | [EuroStar Test Huddle](https://huddle.eurostarsoftwaretesting.com/members/elias-nogueira/activity/) | Appium series - tutorial | 🇺🇸 |
 | [Desafio Selenium](http://eliasnogueira.com/arquivos_blog/selenium/desafio/) | Automated Software Testing | 🇧🇷 |
 | [CSS Selector Game](https://eliasnogueira.github.io/css-locator-game/) | Automated Software Testing | 🇧🇷 |
+
+[:arrow_up: back to the top](#toc)
 
 ### Workshops
 12 in total
@@ -196,6 +204,8 @@ All the formal workshops I did. Here workshop means a mini-course with a small a
 | 06/09/2014 | Caipira Ágil | [Automação de Teste em Front End](https://www.slideshare.net/elias.nogueira/automao-de-teste-em-front-end-caipira-gil) | 🇧🇷 |
 | 08/08/2014 | [Simpósio Brasileiro de Qualidade de Software -SBQS](http://www.organizareventos.com.br/sbqs2014/?p=418) | Agile Testing - como funciona na prática ? | 🇧🇷 |
 
+[:arrow_up: back to the top](#toc)
+
 ### Books eBooks
 2 in total
 
@@ -205,6 +215,8 @@ Books and eBooks I've released.
 |:----:|-------|:--------:|
 | eBook | [Passos para aprender automação web](http://eliasnogueira.com/ebook-passos-para-aprender-automacao-web/) | 🇧🇷 |
 | ebook | [Visões sobre Teste de Software](http://eliasnogueira.com/o-mundo-de-teste-de-software/) | 🇧🇷 |
+
+[:arrow_up: back to the top](#toc)
 
 ### Videos
 37 in total
@@ -251,6 +263,8 @@ Videos about my presentations in events and me being intweviwed by different con
 | 2013 | [(Quase) Todas as abordagens de testes dentro do Agile](https://www.infoq.com/br/presentations/quase-todas-abordagens-testes-agil) | Rio Agile | 🇧🇷 |
 | 2013 | [Test Web Meeting - CasperJS](https://www.youtube.com/watch?v=_I-QaOESaSk) | WebTest Meeting | 🇧🇷 |
 
+[:arrow_up: back to the top](#toc)
+
 ## Teaching
 
 ### University
@@ -265,6 +279,8 @@ My role as a professor in postgraduate courses at private universities.
 | 2015 | [Uninassau](https://www.uninassau.edu.br) | Specialization in Software Quality | Recife / PE / Brazil |
 | 2014 | [Uniasselvi](https://portal.uniasselvi.com.br) | Specialization in Software Quality | Blumenau / SC / Brazil |
 
+[:arrow_up: back to the top](#toc)
+
 ### Private School
 2 in total
 
@@ -274,6 +290,8 @@ My role as a teacher in Testing Automation courses in private schools.
 |:----:|-------------|---------|----------|
 | 2009 - 2011 | [Iterasys](http://www.iterasys.com.br) | Software Test Training | Sao Paulo / SP / Brazil |
 | 2008 - 2009 | [TargetThrust](https://targettrust.com.br) | Software Test Training | Porto Alegre / RS / Brazil |
+
+[:arrow_up: back to the top](#toc)
 
 ## Awards & Recognitions
 4 in total
@@ -287,6 +305,8 @@ Recognition for working in the software development community
 | 2017 | Recognition for the contribution to the IT market | [iMasters - Android DevConf](https://imasters.com.br)
 | 2017 | Best participation during feedback | [Testathon](http://testathon.co) Chapter 13 - Facebook |
 
+[:arrow_up: back to the top](#toc)
+
 ## My social networks
 My social networks, in case you want to follow me.
 
@@ -296,3 +316,5 @@ My social networks, in case you want to follow me.
 [![logo](https://i.imgur.com/7RGlFog.png)](https://www.slideshare.net/elias.nogueira)
 [![logo](https://i.imgur.com/bsJJKqZ.png)](https://www.youtube.com/channel/UCXcHBp-wlQ_fphoe6zdWyLA?view_as=subscriber)
 [![logo](https://i.imgur.com/9eolLfG.png)](https://www.goodreads.com/eliasnogueira)
+
+[:arrow_up: back to the top](#toc)
