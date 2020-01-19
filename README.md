@@ -2,7 +2,7 @@
 
 The purpose of this repository is to consolidate in a single place all my participation at conferences, meetups, community activities and events in general.
 
----
+## TOC
 * Talks
    * [Coming soon talks <sup>3</sup>](#coming-soon) | [Past presentations <sup>82</sup>](#past-presentations)
 * Initiatives
@@ -27,6 +27,7 @@ The purpose of this repository is to consolidate in a single place all my partic
 | 12/03/2019 | [Let's Check Amsterdam](https://www.eventbrite.com/e/lets-check-amsterdam-spring-edition-tickets-90299571449) | Create an architecture for web test automation | Amsterdam, Netherlands | 🇺🇸| 
 | 07/04/2020 | [QA Experience](https://www.qaxperience.com/) | Criando uma arquiterura para seus testes de API com RestAssured | Online | 🇧🇷|
 
+[:arrow_up: back to the top](#toc)
 
 ### Past presentations
 82 in total
