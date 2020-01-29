@@ -6,7 +6,7 @@ The purpose of this repository is to consolidate in a single place all my partic
 * Talks
    * [Coming soon talks <sup>3</sup>](#coming-soon) | [Past presentations <sup>82</sup>](#past-presentations)
 * Initiatives
-   * [Open Source <sup>3</sup>](#open-source) | [Community <sup>11</sup>](#community)
+   * [Open Source <sup>4</sup>](#open-source) | [Community <sup>11</sup>](#community)
 * Sharing knowledge
    * [Blog posts and content <sup>10</sup>](#blog-posts-and-content) | [Workshops <sup>12</sup>](#workshops) | [Books & eBooks <sup>2</sup>](#books-ebooks) | [Videos <sup>37</sup>](#videos)
 * Teaching
@@ -124,7 +124,7 @@ All the presentations I did in the past, ordered by date.
 ## Initiatives
 
 ### Open Source
-3 in total
+4 in total
 
 My small contributions to open source projects.
 All my projects on GitHub are open sourced too.
@@ -134,6 +134,7 @@ All my projects on GitHub are open sourced too.
 | appium | https://github.com/appium |
 | bb-fuel | https://github.com/Backbase/bb-fuel |
 | webdrivermanager | https://github.com/bonigarcia/webdrivermanager |
+| awesome-netherlands | https://github.com/jeanbauer/awesome-netherlands |
 
 [:arrow_up: back to the top](#toc)
 
