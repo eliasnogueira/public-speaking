@@ -166,13 +166,14 @@ Work for the software development and testing community to help them, and me, to
 ## Sharing knowledge
 
 ### Blog posts and content
-9 in total
+10 in total
 
 Manly blog posts in different websites and portals.
 
 | Initiative name | Focus | Language |
 |-----------------|-------|:--------:|
-| [Personal blog](http://eliasnogueira.com) | Software Quality and Test posts | 🇧🇷 |
+| [Personal blog in English](http://eliasnogueira.com) | Software Quality and Test posts | 🇺🇸 |
+| [Personal blog in pt_BR](http://br.eliasnogueira.com) | Software Quality and Test posts | 🇧🇷 |
 | [Facebook page](https://www.facebook.com/elias.nogueira.teste/) | Daily posts about software testing | 🇧🇷 |
 | [iMasters](http://imasters.com.br/perfil/eliasnogueira/?trace=3182418120&source=single) | Software Quality and Test posts | 🇧🇷 |
 | [InfoQ Brazil](https://www.infoq.com/br/author/Elias-Nogueira) | Software Quality and Test videos | 🇧🇷 |
