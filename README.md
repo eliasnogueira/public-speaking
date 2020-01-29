@@ -8,7 +8,7 @@ The purpose of this repository is to consolidate in a single place all my partic
 * Initiatives
    * [Open Source <sup>3</sup>](#open-source) | [Community <sup>11</sup>](#community)
 * Sharing knowledge
-   * [Blog posts and content <sup>9</sup>](#blog-posts-and-content) | [Workshops <sup>12</sup>](#workshops) | [Books & eBooks <sup>2</sup>](#books-ebooks) | [Videos <sup>37</sup>](#videos)
+   * [Blog posts and content <sup>10</sup>](#blog-posts-and-content) | [Workshops <sup>12</sup>](#workshops) | [Books & eBooks <sup>2</sup>](#books-ebooks) | [Videos <sup>37</sup>](#videos)
 * Teaching
    * [University <sup>4</sup>](#university) | [Private schools <sup>2</sup>](#private-school) 
 * [Awards & Recognitios <sup>4</sup>](#awards--recognitions)   
