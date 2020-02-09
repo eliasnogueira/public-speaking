@@ -3,6 +3,7 @@
 The purpose of this repository is to consolidate in a single place all my participation at conferences, meetups, community activities and events in general.
 
 ## TOC
+* News
 * Talks
    * [Coming soon talks <sup>3</sup>](#coming-soon) | [Past presentations <sup>82</sup>](#past-presentations)
 * Initiatives
@@ -14,6 +15,16 @@ The purpose of this repository is to consolidate in a single place all my partic
 * [Awards & Recognitios <sup>4</sup>](#awards--recognitions)   
 * [My social networks](#my-social-networks)
 
+## News
+I'm pleased to announce a book in Portuguese and English about REST API Test Automation.
+Interested? Click on the link and subscribe to receive an alert when the book is finished.
+
+The price: $0 (zero)
+
+| Book title | Link | Language |
+|------------|------|:--------:|
+| API Testing with Postman and RestAssured | https://leanpub.com/api-testing-postman-rest-assured-v1 | 🇺🇸| 
+| Testes para uma API com PostMan e RestAssured | https://leanpub.com/testes-api-postman-rest-assured-v1 | 🇧🇷|
 
 ## Talks
 
