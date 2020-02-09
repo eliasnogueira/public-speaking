@@ -24,7 +24,7 @@ The price: $0 (zero)
 | Book title | Link | Language |
 |------------|------|:--------:|
 | API Testing with Postman and RestAssured | https://leanpub.com/api-testing-postman-rest-assured-v1 | 🇺🇸| 
-| Testes para uma API com PostMan e RestAssured | https://leanpub.com/testes-api-postman-rest-assured-v1 | 🇧🇷|
+| Testes para uma API com Postman e RestAssured | https://leanpub.com/testes-api-postman-rest-assured-v1 | 🇧🇷|
 
 ## Talks
 
