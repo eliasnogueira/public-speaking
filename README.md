@@ -5,13 +5,13 @@ The purpose of this repository is to consolidate in a single place all my partic
 ## TOC
 * News
 * Talks
-   * [Coming soon talks <sup>3</sup>](#coming-soon) | [Past presentations <sup>82</sup>](#past-presentations)
+   * [Coming soon talks <sup>3</sup>](#coming-soon) -- [Past presentations <sup>82</sup>](#past-presentations)
 * Initiatives
-   * [Open Source <sup>4</sup>](#open-source) | [Community <sup>11</sup>](#community)
+   * [Open Source <sup>4</sup>](#open-source) -- [Community <sup>11</sup>](#community)
 * Sharing knowledge
-   * [Blog posts and content <sup>10</sup>](#blog-posts-and-content) | [Workshops <sup>12</sup>](#workshops) | [Books & eBooks <sup>2</sup>](#books-ebooks) | [Videos <sup>37</sup>](#videos)
+   * [Blog posts and content <sup>10</sup>](#blog-posts-and-content) -- [Workshops <sup>12</sup>](#workshops) -- [Books & eBooks <sup>2</sup>](#books-ebooks) -- [Videos <sup>37</sup>](#videos)
 * Teaching
-   * [University <sup>4</sup>](#university) | [Private schools <sup>2</sup>](#private-school) 
+   * [University <sup>4</sup>](#university) -- [Private schools <sup>2</sup>](#private-school) 
 * [Awards & Recognitios <sup>4</sup>](#awards--recognitions)   
 * [My social networks](#my-social-networks)
 
