@@ -30,23 +30,23 @@ The price: $0 (zero)
 
 ### Coming soon
 
-3 in total
+2 in total
 
 | Date | Event          | Title / Slide Deck  | Location | Language |
 |:----:|----------------|---------------------|----------|:--------:|
-| 21-22 Feb, 2020 | [SeleniumCamp](https://seleniumcamp.com/) | API Testing following the Test Pyramid | Kyiv, Ukraine | 🇺🇸|
 | 12/03/2019 | [Let's Check Amsterdam](https://www.eventbrite.com/e/lets-check-amsterdam-spring-edition-tickets-90299571449) | Create an architecture for web test automation | Amsterdam, Netherlands | 🇺🇸| 
 | 07/04/2020 | [QA Experience](https://www.qaxperience.com/) | Criando uma arquiterura para seus testes de API com RestAssured | Online | 🇧🇷|
 
 [:arrow_up: back to the top](#toc)
 
 ### Past presentations
-82 in total
+83 in total
 
 All the presentations I did in the past, ordered by date.
 
 | Date | Event          | Title / Slide Deck  | Repository |  Language |
 |:----:|----------------|---------------------|:----------:| :--------:|
+| 21/02/2020 | [SeleniumCamp](https://seleniumcamp.com/) | API Testing following the Test Pyramid | [![logo](http://i.imgur.com/0o48UoR.png)](https://gitlab.com/elias.nogueira/test-combined-credit-api) | 🇺🇸 |
 | 28/11/2019 | WAES Tech Talk | [Create an architecture for web test automation](https://speakerdeck.com/eliasnogueira/create-an-architecture-for-web-test-automation)| [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/selenium-java-bootstrap) | 🇺🇸 |
 | 27/07/2019 | [Agile in The Jungle](https://www.facebook.com/AgileInTheJungle/) | [BDD não é automação de teste](https://www.slideshare.net/elias.nogueira/bdd-no-automao-de-teste-scrum-gathering)|  | 🇧🇷 |
 | 27/06/2019 | [Scrum Gathering Rio](http://scrumrio.com) | [Dê a máxima cobertura nos seus testes de API](https://www.slideshare.net/elias.nogueira/de-a-mxima-cobertura-nos-seus-testes-de-api) | [![logo](http://i.imgur.com/0o48UoR.png)](https://gitlab.com/elias.nogueira/credito-test)| 🇧🇷 |
