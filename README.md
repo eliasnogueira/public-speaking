@@ -35,7 +35,7 @@ The price: $0 (zero)
 | Date | Event          | Title / Slide Deck  | Location | Language |
 |:----:|----------------|---------------------|----------|:--------:|
 | 12/03/2019 | [Let's Check Amsterdam](https://www.eventbrite.com/e/lets-check-amsterdam-spring-edition-tickets-90299571449) | Create an architecture for web test automation | Amsterdam, Netherlands | 🇺🇸| 
-| 07/04/2020 | [QA Experience](https://www.qaxperience.com/) | Criando uma arquiterura para seus testes de API com RestAssured | Online | 🇧🇷|
+| 07/04/2020 | [QA Experience](http://qaxperience.com/) | Criando uma arquiterura para seus testes de API com RestAssured | Online | 🇧🇷|
 
 [:arrow_up: back to the top](#toc)
 
