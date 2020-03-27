@@ -5,7 +5,7 @@ The purpose of this repository is to consolidate in a single place all my partic
 ## TOC
 * News
 * Talks
-   * [Coming soon talks <sup>2</sup>](#coming-soon) -- [Past presentations <sup>83</sup>](#past-presentations)
+   * [Coming soon talks <sup>3</sup>](#coming-soon) -- [Past presentations <sup>83</sup>](#past-presentations)
 * Initiatives
    * [Open Source <sup>4</sup>](#open-source) -- [Community <sup>11</sup>](#community)
 * Sharing knowledge
@@ -30,12 +30,13 @@ The price: $0 (zero)
 
 ### Coming soon
 
-2 in total
+3 in total
 
 | Date | Event          | Title / Slide Deck  | Location | Language |
 |:----:|----------------|---------------------|----------|:--------:|
+| Hold on due the CONVID-19 | [Let's Check Amsterdam](https://www.eventbrite.com/e/lets-check-amsterdam-spring-edition-tickets-90299571449) | Create an architecture for web test automation | Amsterdam, Netherlands | 🇺🇸| 
 | 07/04/2020 | [QA Experience](http://qaxperience.com/) | Criando uma arquiterura para seus testes de API com RestAssured | Online | 🇧🇷|
-| TBD | [Let's Check Amsterdam](https://www.eventbrite.com/e/lets-check-amsterdam-spring-edition-tickets-90299571449) | Create an architecture for web test automation | Amsterdam, Netherlands | 🇺🇸| 
+| 14-15 October | [TestCon Europe](https://testcon.lt/) | Lean Test Framework for Web Testing | Vilnius, Lithuania | 🇺🇸| 
 
 [⬆️ back to the top](#toc)
 
