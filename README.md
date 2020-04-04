@@ -36,7 +36,7 @@ The price: $0 (zero)
 |:----:|----------------|---------------------|----------|:--------:|
 | Hold on due the CONVID-19 | [Let's Check Amsterdam](https://www.eventbrite.com/e/lets-check-amsterdam-spring-edition-tickets-90299571449) | Create an architecture for web test automation | Amsterdam, Netherlands | 🇺🇸| 
 | 07/04/2020 | [QA Experience](http://qaxperience.com/) | Criando uma arquiterura para seus testes de API com RestAssured | Online | 🇧🇷|
-| 14-15 October | [TestCon Europe](https://testcon.lt/) | Lean Test Framework for Web Testing | Vilnius, Lithuania | 🇺🇸| 
+| 14-15 October | [TestCon Europe](https://testcon.lt/) | [Lean Test Framework for Web Testing](https://testcon.lt/elias-nogueira/) | Vilnius, Lithuania | 🇺🇸| 
 
 [⬆️ back to the top](#toc)
 
