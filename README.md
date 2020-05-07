@@ -9,7 +9,7 @@ The purpose of this repository is to consolidate in a single place all my partic
 * Initiatives
    * [Open Source <sup>4</sup>](#open-source) -- [Community <sup>11</sup>](#community)
 * Sharing knowledge
-   * [Blog posts and content <sup>10</sup>](#blog-posts-and-content) -- [Workshops <sup>12</sup>](#workshops) -- [Books & eBooks <sup>2</sup>](#books-ebooks) -- [Videos <sup>39</sup>](#videos)
+   * [Blog posts and content <sup>10</sup>](#blog-posts-and-content) -- [Workshops <sup>12</sup>](#workshops) -- [Books & eBooks <sup>2</sup>](#books-ebooks) -- [Videos <sup>40</sup>](#videos)
 * Teaching
    * [University <sup>4</sup>](#university) -- [Private schools <sup>2</sup>](#private-school) 
 * [Awards & Recognitios <sup>4</sup>](#awards--recognitions)   
@@ -239,6 +239,7 @@ Videos about my presentations in events and me being intweviwed by different con
 
 | Date | Title | Event | Language |
 |:----:|-------|-------|:--------:|
+| 2020 | [A História dos Testes de Software contada pelas maiores referências no Brasil](https://www.youtube.com/watch?v=W9eH_vD_vrg) | | [4All Tests](http://4alltests.com.br/) | 🇧🇷 |
 | 2020 | [Criando uma arquiterura para seus testes de API com RestAssured](https://youtu.be/hhvHGLfoQQQ?t=1162) | [QAXPerience](http://qaxperience.com/) | 🇧🇷 |
 | 2020 | [API Testing following the Test Pyramid](https://youtu.be/vRl2oO7hCFY) | [SeleniumCamp](https://seleniumcamp.com/) | 🇺🇸|
 | 2019 | [Coffee and IT #7 - O futuro do Teste de Software: QA x Software Engineer in Test](https://youtu.be/8wlcEJtVRFE) | Youtube channel: Coffee And IT Technology Information | 🇧🇷 |
