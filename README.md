@@ -233,7 +233,7 @@ Books and eBooks I've released.
 [⬆️ back to the top](#toc)
 
 ### Videos
-39 in total
+40 in total
 
 Videos about my presentations in events and me being intweviwed by different content channels.
 
