@@ -34,7 +34,7 @@ The price: $0 (zero)
 
 | Date | Event          | Title / Slide Deck  | Location | Language |
 |:----:|----------------|---------------------|----------|:--------:|
-| Hold on due the CONVID-19 | [Let's Check Amsterdam](https://www.eventbrite.com/e/lets-check-amsterdam-spring-edition-tickets-90299571449) | Create an architecture for web test automation | Amsterdam, Netherlands | 🇺🇸| 
+| 14/05/2020 | [Let's Check Amsterdam](https://www.eventbrite.com/e/online-lets-check-amsterdam-spring-edition-supported-by-harver-tickets-90299571449) | Create an architecture for web test automation | Amsterdam, Netherlands | 🇺🇸| 
 | 14-15 October | [TestCon Europe](https://testcon.lt/) | [Lean Test Framework for Web Testing](https://testcon.lt/elias-nogueira/) | Vilnius, Lithuania | 🇺🇸| 
 
 [⬆️ back to the top](#toc)
