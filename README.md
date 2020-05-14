@@ -5,7 +5,7 @@ The purpose of this repository is to consolidate in a single place all my partic
 ## TOC
 * News
 * Talks
-   * [Coming soon talks <sup>2</sup>](#coming-soon) -- [Past presentations <sup>84</sup>](#past-presentations)
+   * [Coming soon talks <sup>1</sup>](#coming-soon) -- [Past presentations <sup>85</sup>](#past-presentations)
 * Initiatives
    * [Open Source <sup>4</sup>](#open-source) -- [Community <sup>11</sup>](#community)
 * Sharing knowledge
@@ -30,22 +30,22 @@ The price: $0 (zero)
 
 ### Coming soon
 
-2 in total
+1 in total
 
 | Date | Event          | Title / Slide Deck  | Location | Language |
 |:----:|----------------|---------------------|----------|:--------:|
-| 14/05/2020 | [Let's Check Amsterdam](https://www.eventbrite.com/e/online-lets-check-amsterdam-spring-edition-supported-by-harver-tickets-90299571449) | Create an architecture for web test automation | Amsterdam, Netherlands | 🇺🇸| 
 | 14-15 October | [TestCon Europe](https://testcon.lt/) | [Lean Test Framework for Web Testing](https://testcon.lt/elias-nogueira/) | Vilnius, Lithuania | 🇺🇸| 
 
 [⬆️ back to the top](#toc)
 
 ### Past presentations
-84 in total
+85 in total
 
 All the presentations I did in the past, ordered by date.
 
 | Date | Event          | Title / Slide Deck  | Repository |  Language |
 |:----:|----------------|---------------------|:----------:| :--------:|
+| 14/05/2020 | [Let's Check Amsterdam](https://www.facebook.com/letscheckcommunity) | [Create an architecture for web test automation](https://speakerdeck.com/eliasnogueira/create-an-architecture-for-web-test-automation)| [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/selenium-java-bootstrap) | 🇺🇸 |
 | 07/04/2020 | [QA Experience](http://qaxperience.com/) | [Criando uma arquiterura para seus testes de API com RestAssured](https://www.slideshare.net/elias.nogueira/criando-uma-arquitetura-para-seus-testes-de-api-com-restassured) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/palestra-arquitetura-teste-restassured) | 🇧🇷 |
 | 21/02/2020 | [SeleniumCamp](https://seleniumcamp.com/) | [API Testing following the Test Pyramid](https://www.slideshare.net/elias.nogueira/api-testing-following-the-test-pyramid) | [![logo](http://i.imgur.com/0o48UoR.png)](https://gitlab.com/elias.nogueira/test-combined-credit-api) | 🇺🇸 |
 | 28/11/2019 | WAES Tech Talk | [Create an architecture for web test automation](https://speakerdeck.com/eliasnogueira/create-an-architecture-for-web-test-automation)| [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/selenium-java-bootstrap) | 🇺🇸 |
