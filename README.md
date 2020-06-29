@@ -1,6 +1,7 @@
 # Elias Event Calendar, Initiatives and Activities
 
 The purpose of this repository is to consolidate in a single place all my participation at conferences, meetups, community activities and events in general.
+Blog posts at: [http://eliasnogueira.com](http://eliasnogueira.com)
 
 ## TOC
 * News
@@ -9,7 +10,7 @@ The purpose of this repository is to consolidate in a single place all my partic
 * Initiatives
    * [Open Source <sup>4</sup>](#open-source) -- [Community <sup>11</sup>](#community)
 * Sharing knowledge
-   * [Blog posts and content <sup>10</sup>](#blog-posts-and-content) -- [Workshops <sup>12</sup>](#workshops) -- [Books & eBooks <sup>2</sup>](#books-ebooks) -- [Videos <sup>40</sup>](#videos)
+   * [Blog posts and content <sup>10</sup>](#blog-posts-and-content) -- [Workshops <sup>12</sup>](#workshops) -- [Books & eBooks <sup>2</sup>](#books-ebooks) -- [Videos <sup>40</sup>](#videos) -- [Poscast <sup>2</sup>](#podcast)
 * Teaching
    * [University <sup>4</sup>](#university) -- [Private schools <sup>2</sup>](#private-school) 
 * [Awards & Recognitios <sup>4</sup>](#awards--recognitions)   
@@ -279,6 +280,18 @@ Videos about my presentations in events and me being intweviwed by different con
 | 2013 | [O papel de um testador em uma equipe ágil](https://www.infoq.com/br/presentations/testador-equipe-agil) | DevCamp | 🇧🇷 |
 | 2013 | [(Quase) Todas as abordagens de testes dentro do Agile](https://www.infoq.com/br/presentations/quase-todas-abordagens-testes-agil) | Rio Agile | 🇧🇷 |
 | 2013 | [Test Web Meeting - CasperJS](https://www.youtube.com/watch?v=_I-QaOESaSk) | WebTest Meeting | 🇧🇷 |
+
+[⬆️ back to the top](#toc)
+
+### Podcast
+2 in total
+
+Participation on podcasts
+
+| Podcast | Episode | Language |
+|---------|---------|:--------:|
+| [Love the Problem]((https://open.spotify.com/show/06fPDUqQapNcfIE01IQHhE) | [Ep. 22 - Testes automatizados num mundo cada vez mais digital](https://open.spotify.com/episode/50vGeY2ao3l1xVjFlZG2Is) | 🇧🇷 |
+| [Julio de Lima Podcast](https://anchor.fm/juliodelimas/) | [Episódio #5: Carreira no Exterior, Habilidades Técnicas e uma super entrevista com Elias Nogueira](https://anchor.fm/juliodelimas/episodes/Episdio-5-Carreira-no-Exterior--Habilidades-Tcnicas-e-uma-super-entrevista-com-Elias-Nogueira-edgqla) | 🇧🇷 |
 
 [⬆️ back to the top](#toc)
 
