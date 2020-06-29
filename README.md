@@ -290,7 +290,7 @@ Participation on podcasts
 
 | Podcast | Episode | Language |
 |---------|---------|:--------:|
-| [Love the Problem]((https://open.spotify.com/show/06fPDUqQapNcfIE01IQHhE) | [Ep. 22 - Testes automatizados num mundo cada vez mais digital](https://open.spotify.com/episode/50vGeY2ao3l1xVjFlZG2Is) | 🇧🇷 |
+| [Love the Problem](https://open.spotify.com/show/06fPDUqQapNcfIE01IQHhE) | [Ep. 22 - Testes automatizados num mundo cada vez mais digital](https://open.spotify.com/episode/50vGeY2ao3l1xVjFlZG2Is) | 🇧🇷 |
 | [Julio de Lima Podcast](https://anchor.fm/juliodelimas/) | [Episódio #5: Carreira no Exterior, Habilidades Técnicas e uma super entrevista com Elias Nogueira](https://anchor.fm/juliodelimas/episodes/Episdio-5-Carreira-no-Exterior--Habilidades-Tcnicas-e-uma-super-entrevista-com-Elias-Nogueira-edgqla) | 🇧🇷 |
 
 [⬆️ back to the top](#toc)
