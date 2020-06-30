@@ -228,8 +228,8 @@ Books and eBooks I've released.
 
 | Type | Title | Language |
 |:----:|-------|:--------:|
-| eBook | [Passos para aprender automação web](http://eliasnogueira.com/ebook-passos-para-aprender-automacao-web/) | 🇧🇷 |
-| ebook | [Visões sobre Teste de Software](http://eliasnogueira.com/o-mundo-de-teste-de-software/) | 🇧🇷 |
+| eBook | [Passos para aprender automação web](http://br.eliasnogueira.com/ebook-passos-para-aprender-automacao-web/) | 🇧🇷 |
+| ebook | [Visões sobre Teste de Software](http://br.eliasnogueira.com/o-mundo-de-teste-de-software/) | 🇧🇷 |
 
 [⬆️ back to the top](#toc)
 
