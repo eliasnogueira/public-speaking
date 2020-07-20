@@ -35,7 +35,7 @@ The price: $0 (zero)
 
 | Date | Event          | Title / Slide Deck  | Location | Language |
 |:----:|----------------|---------------------|----------|:--------:|
-| July 24 | [The Developer Career Day](https://hopin.to/events/dev-career-day-jully-2020) | API Testing - from zero to continuous delivery | Free online event | 🇺🇸 |
+| July 23 | [The Developer Career Day](https://hopin.to/events/dev-career-day-jully-2020) | API Testing - from zero to continuous delivery | Free online event | 🇺🇸 |
 | 14-15 October | [TestCon Europe](https://testcon.lt/) | [Lean Test Framework for Web Testing](https://testcon.lt/elias-nogueira/) | Vilnius, Lithuania | 🇺🇸 | 
 
 [⬆️ back to the top](#toc)
