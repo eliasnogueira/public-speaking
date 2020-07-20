@@ -6,7 +6,7 @@ Blog posts at: [http://eliasnogueira.com](http://eliasnogueira.com)
 ## TOC
 * News
 * Talks
-   * [Coming soon talks <sup>1</sup>](#coming-soon) -- [Past presentations <sup>85</sup>](#past-presentations)
+   * [Coming soon talks <sup>2</sup>](#coming-soon) -- [Past presentations <sup>85</sup>](#past-presentations)
 * Initiatives
    * [Open Source <sup>4</sup>](#open-source) -- [Community <sup>11</sup>](#community)
 * Sharing knowledge
@@ -31,11 +31,12 @@ The price: $0 (zero)
 
 ### Coming soon
 
-1 in total
+2 in total
 
 | Date | Event          | Title / Slide Deck  | Location | Language |
 |:----:|----------------|---------------------|----------|:--------:|
-| 14-15 October | [TestCon Europe](https://testcon.lt/) | [Lean Test Framework for Web Testing](https://testcon.lt/elias-nogueira/) | Vilnius, Lithuania | 🇺🇸| 
+| July 24 | [The Developer Career Day](https://hopin.to/events/dev-career-day-jully-2020) | API Testing - from zero to continuous delivery | Free online event | 🇺🇸 |
+| 14-15 October | [TestCon Europe](https://testcon.lt/) | [Lean Test Framework for Web Testing](https://testcon.lt/elias-nogueira/) | Vilnius, Lithuania | 🇺🇸 | 
 
 [⬆️ back to the top](#toc)
 
