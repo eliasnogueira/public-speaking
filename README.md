@@ -6,11 +6,11 @@ Blog posts at: [http://eliasnogueira.com](http://eliasnogueira.com)
 ## TOC
 * News
 * Talks
-   * [Coming soon talks <sup>2</sup>](#coming-soon) -- [Past presentations <sup>85</sup>](#past-presentations)
+   * [Coming soon talks <sup>1</sup>](#coming-soon) -- [Past presentations <sup>86</sup>](#past-presentations)
 * Initiatives
    * [Open Source <sup>4</sup>](#open-source) -- [Community <sup>11</sup>](#community)
 * Sharing knowledge
-   * [Blog posts and content <sup>10</sup>](#blog-posts-and-content) -- [Workshops <sup>12</sup>](#workshops) -- [Books & eBooks <sup>2</sup>](#books-ebooks) -- [Videos <sup>40</sup>](#videos) -- [Poscast <sup>2</sup>](#podcast)
+   * [Blog posts and content <sup>10</sup>](#blog-posts-and-content) -- [Workshops <sup>12</sup>](#workshops) -- [Books & eBooks <sup>3</sup>](#books-ebooks) -- [Videos <sup>40</sup>](#videos) -- [Poscast <sup>2</sup>](#podcast)
 * Teaching
    * [University <sup>4</sup>](#university) -- [Private schools <sup>2</sup>](#private-school) 
 * [Awards & Recognitios <sup>4</sup>](#awards--recognitions)   
@@ -31,22 +31,22 @@ The price: $0 (zero)
 
 ### Coming soon
 
-2 in total
+1 in total
 
 | Date | Event          | Title / Slide Deck  | Location | Language |
 |:----:|----------------|---------------------|----------|:--------:|
-| July 23 | [The Developer Career Day](https://hopin.to/events/dev-career-day-jully-2020) | API Testing - from zero to continuous delivery | Free online event | 🇺🇸 |
 | 14-15 October | [TestCon Europe](https://testcon.lt/) | [Lean Test Framework for Web Testing](https://testcon.lt/elias-nogueira/) | Vilnius, Lithuania | 🇺🇸 | 
 
 [⬆️ back to the top](#toc)
 
 ### Past presentations
-85 in total
+86 in total
 
 All the presentations I did in the past, ordered by date.
 
 | Date | Event          | Title / Slide Deck  | Repository |  Language |
 |:----:|----------------|---------------------|:----------:| :--------:|
+| 23/07/2020 | [The Developer Career Day](https://hopin.to/events/dev-career-day-jully-2020) | API Testing - from zero to continuous delivery |  | 🇺🇸 |
 | 14/05/2020 | [Let's Check Amsterdam](https://www.facebook.com/letscheckcommunity) | [Create an architecture for web test automation](https://speakerdeck.com/eliasnogueira/create-an-architecture-for-web-test-automation)| [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/selenium-java-bootstrap) | 🇺🇸 |
 | 07/04/2020 | [QA Experience](http://qaxperience.com/) | [Criando uma arquiterura para seus testes de API com RestAssured](https://www.slideshare.net/elias.nogueira/criando-uma-arquitetura-para-seus-testes-de-api-com-restassured) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/palestra-arquitetura-teste-restassured) | 🇧🇷 |
 | 21/02/2020 | [SeleniumCamp](https://seleniumcamp.com/) | [API Testing following the Test Pyramid](https://www.slideshare.net/elias.nogueira/api-testing-following-the-test-pyramid) | [![logo](http://i.imgur.com/0o48UoR.png)](https://gitlab.com/elias.nogueira/test-combined-credit-api) | 🇺🇸 |
@@ -223,12 +223,13 @@ All the formal workshops I did. Here workshop means a mini-course with a small a
 [⬆️ back to the top](#toc)
 
 ### Books eBooks
-2 in total
+3 in total
 
 Books and eBooks I've released.
 
 | Type | Title | Language |
 |:----:|-------|:--------:|
+| eBook | [5 Tools Java Developers can use to deliver high-quality software](http://www.eliasnogueira.com/5-tools-java-developers-can-use-to-deliver-high-quality-software) | 🇺🇸 |
 | eBook | [Passos para aprender automação web](http://br.eliasnogueira.com/ebook-passos-para-aprender-automacao-web/) | 🇧🇷 |
 | ebook | [Visões sobre Teste de Software](http://br.eliasnogueira.com/o-mundo-de-teste-de-software/) | 🇧🇷 |
 
@@ -243,7 +244,7 @@ Videos about my presentations in events and me being intweviwed by different con
 |:----:|-------|-------|:--------:|
 | 2020 | [A História dos Testes de Software contada pelas maiores referências no Brasil](https://www.youtube.com/watch?v=W9eH_vD_vrg) | | [4All Tests](http://4alltests.com.br/) | 🇧🇷 |
 | 2020 | [Criando uma arquiterura para seus testes de API com RestAssured](https://youtu.be/hhvHGLfoQQQ?t=1162) | [QAXPerience](http://qaxperience.com/) | 🇧🇷 |
-| 2020 | [API Testing following the Test Pyramid](https://youtu.be/vRl2oO7hCFY) | [SeleniumCamp](https://seleniumcamp.com/) | 🇺🇸|
+| 2020 | [API Testing following the Test Pyramid](https://youtu.be/vRl2oO7hCFY) | [SeleniumCamp](https://seleniumcamp.com/) | 🇺🇸 |
 | 2019 | [Coffee and IT #7 - O futuro do Teste de Software: QA x Software Engineer in Test](https://youtu.be/8wlcEJtVRFE) | Youtube channel: Coffee And IT Technology Information | 🇧🇷 |
 | 2019 | [Automação e Virtualização de serviços REST com RestAssured + Wiremock + Docker](http://bit.ly/2uWFgiF) | The Developers Conference - Florianópolis | 🇧🇷 |
 | 2019 | [Testes para Microservices](https://www.pscp.tv/w/1ZkKzrapEDvKv) | Oracle Groundbreakers Live | 🇧🇷 |
