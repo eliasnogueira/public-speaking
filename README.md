@@ -1,7 +1,9 @@
-# Elias Event Calendar, Initiatives and Activities
+# Elias Public Speaking
 
 The purpose of this repository is to consolidate in a single place all my participation at conferences, meetups, community activities and events in general.
-Blog posts at: [http://eliasnogueira.com](http://eliasnogueira.com)
+Blog posts at: [http://eliasnogueira.com](http://eliasnogueira.com).
+
+You can see my mini-bio [here](BIO.MD).
 
 ## TOC
 * News
