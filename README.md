@@ -8,7 +8,7 @@ You can see my mini-bio [here](BIO.MD).
 ## TOC
 * News
 * Talks
-   * [Coming soon talks <sup>1</sup>](#coming-soon) -- [Past presentations <sup>86</sup>](#past-presentations)
+   * [Coming soon talks <sup>2</sup>](#coming-soon) -- [Past presentations <sup>86</sup>](#past-presentations)
 * Initiatives
    * [Open Source <sup>4</sup>](#open-source) -- [Community <sup>11</sup>](#community)
 * Sharing knowledge
@@ -33,10 +33,11 @@ The price: $0 (zero)
 
 ### Coming soon
 
-1 in total
+2 in total
 
 | Date | Event          | Title / Slide Deck  | Location | Language |
 |:----:|----------------|---------------------|----------|:--------:|
+| August 26 | [The Developers Conference - Career Track](https://thedevconf.com/tdc/2020/sampaonline/trilha-carreira-e-mentoria) | Lançando sua Carreira Internacional esse ano ainda | Online | 🇧🇷 |
 | 14-15 October | [TestCon Europe](https://testcon.lt/) | [Lean Test Framework for Web Testing](https://testcon.lt/elias-nogueira/) | Vilnius, Lithuania | 🇺🇸 | 
 
 [⬆️ back to the top](#toc)
