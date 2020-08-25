@@ -38,7 +38,8 @@ The price: $0 (zero)
 | Date | Event          | Title / Slide Deck  | Location | Language |
 |:----:|----------------|---------------------|----------|:--------:|
 | August 26 | [The Developers Conference - Career Track](https://thedevconf.com/tdc/2020/sampaonline/trilha-carreira-e-mentoria) | Lançando sua Carreira Internacional esse ano ainda | Online | 🇧🇷 |
-| 14-15 October | [TestCon Europe](https://testcon.lt/) | [Lean Test Framework for Web Testing](https://testcon.lt/elias-nogueira/) | Vilnius, Lithuania | 🇺🇸 | 
+| October 5 | [Open Quality Conference](https://openqualityconf.com) | Expanding API test coverage through a pipeline | Online | 🇺🇸 |
+| October 15 | [TestCon Europe](https://testcon.lt) | [Lean Test Framework for Web Testing](https://testcon.lt/elias-nogueira/) | Vilnius, Lithuania | 🇺🇸 | 
 
 [⬆️ back to the top](#toc)
 
