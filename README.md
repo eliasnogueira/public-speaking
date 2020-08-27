@@ -49,7 +49,7 @@ All the presentations I did in the past, ordered by date.
 
 | Date | Event          | Title / Slide Deck  | Repository |  Language |
 |:----:|----------------|---------------------|:----------:| :--------:|
-| 26/08/2020 | [The Developers Conference - Career Track](https://thedevconf.com/tdc/2020/sampaonline/trilha-carreira-e-mentoria) | Lançando sua Carreira Internacional esse ano ainda | 🇧🇷 | 
+| 26/08/2020 | [The Developers Conference - Career Track](https://thedevconf.com/tdc/2020/sampaonline/trilha-carreira-e-mentoria) | Lançando sua Carreira Internacional esse ano ainda | | 🇧🇷 | 
 | 23/07/2020 | [The Developer Career Day](https://hopin.to/events/dev-career-day-jully-2020) | API Testing - from zero to continuous delivery |  | 🇺🇸 |
 | 14/05/2020 | [Let's Check Amsterdam](https://www.facebook.com/letscheckcommunity) | [Create an architecture for web test automation](https://speakerdeck.com/eliasnogueira/create-an-architecture-for-web-test-automation)| [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/selenium-java-bootstrap) | 🇺🇸 |
 | 07/04/2020 | [QA Experience](http://qaxperience.com/) | [Criando uma arquiterura para seus testes de API com RestAssured](https://www.slideshare.net/elias.nogueira/criando-uma-arquitetura-para-seus-testes-de-api-com-restassured) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/palestra-arquitetura-teste-restassured) | 🇧🇷 |
