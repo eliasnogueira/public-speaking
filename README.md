@@ -35,21 +35,21 @@ The price: $0 (zero)
 
 2 in total
 
-| Date | Event          | Title / Slide Deck  | Location | Language |
+| Date | Event          | Title | Location | Language |
 |:----:|----------------|---------------------|----------|:--------:|
-| August 26 | [The Developers Conference - Career Track](https://thedevconf.com/tdc/2020/sampaonline/trilha-carreira-e-mentoria) | Lançando sua Carreira Internacional esse ano ainda | Online | 🇧🇷 |
 | October 5 | [Open Quality Conference](https://openqualityconf.com) | Expanding API test coverage through a pipeline | Online | 🇺🇸 |
 | October 15 | [TestCon Europe](https://testcon.lt) | [Lean Test Framework for Web Testing](https://testcon.lt/elias-nogueira/) | Vilnius, Lithuania | 🇺🇸 | 
 
 [⬆️ back to the top](#toc)
 
 ### Past presentations
-86 in total
+87 in total
 
 All the presentations I did in the past, ordered by date.
 
 | Date | Event          | Title / Slide Deck  | Repository |  Language |
 |:----:|----------------|---------------------|:----------:| :--------:|
+| 26/08/2020 | [The Developers Conference - Career Track](https://thedevconf.com/tdc/2020/sampaonline/trilha-carreira-e-mentoria) | Lançando sua Carreira Internacional esse ano ainda | 🇧🇷 | 
 | 23/07/2020 | [The Developer Career Day](https://hopin.to/events/dev-career-day-jully-2020) | API Testing - from zero to continuous delivery |  | 🇺🇸 |
 | 14/05/2020 | [Let's Check Amsterdam](https://www.facebook.com/letscheckcommunity) | [Create an architecture for web test automation](https://speakerdeck.com/eliasnogueira/create-an-architecture-for-web-test-automation)| [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/selenium-java-bootstrap) | 🇺🇸 |
 | 07/04/2020 | [QA Experience](http://qaxperience.com/) | [Criando uma arquiterura para seus testes de API com RestAssured](https://www.slideshare.net/elias.nogueira/criando-uma-arquitetura-para-seus-testes-de-api-com-restassured) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/palestra-arquitetura-teste-restassured) | 🇧🇷 |
