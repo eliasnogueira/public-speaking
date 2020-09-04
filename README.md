@@ -37,7 +37,7 @@ The price: $0 (zero)
 
 | Date | Event          | Title | Location | Language |
 |:----:|----------------|---------------------|----------|:--------:|
-| October 5 | [Open Quality Conference](https://openqualityconf.com) | Expanding API test coverage through a pipeline | Online | 🇺🇸 |
+| October 6 | [Open Quality Conference](https://openqualityconf.com) | [Expanding API test coverage through a pipeline](https://2020.openqualityconf.com/talks/expanding-api-test-coverage-through-a-pipeline/) | Online | 🇺🇸 |
 | October 15 | [TestCon Europe](https://testcon.lt) | [Lean Test Framework for Web Testing](https://testcon.lt/elias-nogueira/) | Vilnius, Lithuania | 🇺🇸 | 
 
 [⬆️ back to the top](#toc)
