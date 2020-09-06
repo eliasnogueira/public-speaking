@@ -3,31 +3,19 @@
 The purpose of this repository is to consolidate in a single place all my participation at conferences, meetups, community activities and events in general.
 Blog posts at: [http://eliasnogueira.com](http://eliasnogueira.com).
 
-You can see my mini-bio [here](BIO.MD).
+You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/blob/master/BIO.md).
 
 ## TOC
-* News
 * Talks
    * [Coming soon talks <sup>2</sup>](#coming-soon) -- [Past presentations <sup>87</sup>](#past-presentations)
 * Initiatives
    * [Open Source <sup>4</sup>](#open-source) -- [Community <sup>12</sup>](#community)
 * Sharing knowledge
-   * [Blog posts and content <sup>10</sup>](#blog-posts-and-content) -- [Workshops <sup>12</sup>](#workshops) -- [Books & eBooks <sup>3</sup>](#books-ebooks) -- [Videos <sup>40</sup>](#videos) -- [Poscast <sup>2</sup>](#podcast)
+   * [Blog posts and content <sup>10</sup>](#blog-posts-and-content) -- [Workshops <sup>12</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>40</sup>](#videos) -- [Poscast <sup>2</sup>](#podcast)
 * Teaching
    * [University <sup>4</sup>](#university) -- [Private schools <sup>2</sup>](#private-school) 
 * [Awards & Recognitios <sup>4</sup>](#awards--recognitions)   
 * [My social networks](#my-social-networks)
-
-## News
-I'm pleased to announce a book in Portuguese and English about REST API Test Automation.
-Interested? Click on the link and subscribe to receive an alert when the book is finished.
-
-The price: $0 (zero)
-
-| Book title | Link | Language |
-|------------|------|:--------:|
-| API Testing with Postman and RestAssured | [https://leanpub.com/api-testing-postman-rest-assured-v1](https://leanpub.com/api-testing-postman-rest-assured-v1) |🇺🇸 | 
-| Testes para uma API com Postman e RestAssured | [https://leanpub.com/testes-api-postman-rest-assured-v1](https://leanpub.com/testes-api-postman-rest-assured-v1) | 🇧🇷 |
 
 ## Talks
 
@@ -228,12 +216,14 @@ All the formal workshops I did. Here workshop means a mini-course with a small a
 [⬆️ back to the top](#toc)
 
 ### Books eBooks
-3 in total
+5 in total
 
 Books and eBooks I've released.
 
 | Type | Title | Language |
 |:----:|-------|:--------:|
+| book | [API Testing with Postman and RestAssured](https://leanpub.com/api-testing-postman-rest-assured-v1) | 🇺🇸 | 
+| book | [Testes para uma API com Postman e RestAssured](https://leanpub.com/testes-api-postman-rest-assured-v1) | 🇧🇷 |
 | eBook | [5 Tools Java Developers can use to deliver high-quality software](http://www.eliasnogueira.com/5-tools-java-developers-can-use-to-deliver-high-quality-software) | 🇺🇸 |
 | eBook | [Passos para aprender automação web](http://br.eliasnogueira.com/ebook-passos-para-aprender-automacao-web/) | 🇧🇷 |
 | ebook | [Visões sobre Teste de Software](http://br.eliasnogueira.com/o-mundo-de-teste-de-software/) | 🇧🇷 |
