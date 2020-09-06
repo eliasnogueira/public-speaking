@@ -8,9 +8,9 @@ You can see my mini-bio [here](BIO.MD).
 ## TOC
 * News
 * Talks
-   * [Coming soon talks <sup>2</sup>](#coming-soon) -- [Past presentations <sup>86</sup>](#past-presentations)
+   * [Coming soon talks <sup>2</sup>](#coming-soon) -- [Past presentations <sup>87</sup>](#past-presentations)
 * Initiatives
-   * [Open Source <sup>4</sup>](#open-source) -- [Community <sup>11</sup>](#community)
+   * [Open Source <sup>4</sup>](#open-source) -- [Community <sup>12</sup>](#community)
 * Sharing knowledge
    * [Blog posts and content <sup>10</sup>](#blog-posts-and-content) -- [Workshops <sup>12</sup>](#workshops) -- [Books & eBooks <sup>3</sup>](#books-ebooks) -- [Videos <sup>40</sup>](#videos) -- [Poscast <sup>2</sup>](#podcast)
 * Teaching
@@ -157,12 +157,13 @@ All my projects on GitHub are open sourced too.
 [⬆️ back to the top](#toc)
 
 ### Community
-11 in total
+12 in total
 
 Work for the software development and testing community to help them, and me, to grown.  
 
 | Date        | Event            | Type | Role |
 |:-----------:|------------------|:----:|:----:|
+| 2020 | [The Developers Conference World Edition](https://promo.thedevelopersconference.com.br/tdcsp2020-international) | Event | Program committee | 
 | 2019 - now | [Ministry of Testing - Eindhoven](https://www.meetup.com/Ministry-of-Testing-Eindhoven/) | Meetup | Co-Organizer |
 | 2018 | [Programa de Mentoria em Teste de Software](https://www.linkedin.com/company/10035123/) | Online mentorship program | Mentor |
 | 2017 - 2019 | [The Developers Conference Dev-Test Track](http://www.thedevelopersconference.com.br) | Event | Coordinator / Organizer |
