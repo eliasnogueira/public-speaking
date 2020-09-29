@@ -7,7 +7,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ## TOC
 * Talks
-   * [Coming soon talks <sup>3</sup>](#coming-soon) -- [Past presentations <sup>87</sup>](#past-presentations)
+   * [Coming soon talks <sup>4</sup>](#coming-soon) -- [Past presentations <sup>87</sup>](#past-presentations)
 * Initiatives
    * [Open Source <sup>4</sup>](#open-source) -- [Community <sup>12</sup>](#community)
 * Sharing knowledge
@@ -21,13 +21,14 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ### Coming soon
 
-3 in total
+4 in total
 
 | Date | Event          | Title | Location | Language |
 |:----:|----------------|---------------------|----------|:--------:|
 | October 6 | [Open Quality Conference](https://openqualityconf.com) | [Expanding API test coverage through a pipeline](https://2020.openqualityconf.com/talks/expanding-api-test-coverage-through-a-pipeline/) | Online | 🇺🇸 |
 | October 15 | [TestCon Europe](https://testcon.lt) | [Lean Test Framework for Web Testing](https://testcon.lt/elias-nogueira/) | Vilnius, Lithuania | 🇺🇸 | 
 | October 29 | [The Developer Conference - Recife](https://thedevconf.com) | [Como criar projetos de teste modulares para Microservices](https://thedevconf.com/tdc/2020/recifeonline/trilha-microservices) | Online | 🇧🇷 | 
+| November 4-7 | [Heisenbug](https://heisenbug.ru/en/) | How to create modularity microservice test projects | Online | 🇺🇸  |
 
 [⬆️ back to the top](#toc)
 
