@@ -7,7 +7,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ## TOC
 * Talks
-   * [Coming soon talks <sup>2</sup>](#coming-soon) -- [Past presentations <sup>89</sup>](#past-presentations)
+   * [Coming soon talks <sup>1</sup>](#coming-soon) -- [Past presentations <sup>89</sup>](#past-presentations)
 * Initiatives
    * [Open Source <sup>4</sup>](#open-source) -- [Community <sup>12</sup>](#community)
 * Sharing knowledge
@@ -21,12 +21,11 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ### Coming soon
 
-2 in total
+1 in total
 
 | Date | Event          | Title | Location | Language |
 |:----:|----------------|---------------------|----------|:--------:|
 | October 29 | [The Developer Conference - Recife](https://thedevconf.com) | [Como criar projetos de teste modulares para Microservices](https://thedevconf.com/tdc/2020/recifeonline/trilha-microservices) | Online | 🇧🇷 | 
-| November 4-7 | [Heisenbug](https://heisenbug.ru/en/) | How to create modularity microservice test projects | Online | 🇺🇸  |
 
 [⬆️ back to the top](#toc)
 
