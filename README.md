@@ -7,7 +7,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ## TOC
 * Talks
-   * [Coming soon talks <sup>1</sup>](#coming-soon) -- [Past presentations <sup>89</sup>](#past-presentations)
+   * [Coming soon talks <sup>0</sup>](#coming-soon) -- [Past presentations <sup>90</sup>](#past-presentations)
 * Initiatives
    * [Open Source <sup>4</sup>](#open-source) -- [Community <sup>12</sup>](#community)
 * Sharing knowledge
@@ -21,21 +21,22 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ### Coming soon
 
-1 in total
+0 in total
 
 | Date | Event          | Title | Location | Language |
 |:----:|----------------|---------------------|----------|:--------:|
-| October 29 | [The Developer Conference - Recife](https://thedevconf.com) | [Como criar projetos de teste modulares para Microservices](https://thedevconf.com/tdc/2020/recifeonline/trilha-microservices) | Online | 🇧🇷 | 
+
 
 [⬆️ back to the top](#toc)
 
 ### Past presentations
-89 in total
+90 in total
 
 All the presentations I did in the past, ordered by date.
 
 | Date | Event          | Title / Slide Deck  | Repository |  Language |
 |:----:|----------------|---------------------|:----------:| :--------:|
+| 29/10/2020 | [The Developer Conference - Recife](https://thedevconf.com) | [Como criar projetos de teste modulares para Microservices](https://speakerdeck.com/eliasnogueira/como-criar-projetos-de-teste-modulares-para-microservices) | [![logo](http://i.imgur.com/0o48UoR.png)](https://gist.github.com/eliasnogueira/8b791bc42adc7fe3e31fb3d406804cda) | 🇧🇷 |
 | 15/10/2020 | [TestCon Europe](https://testcon.lt) | [Lean Test Framework for Web Testing](https://speakerdeck.com/eliasnogueira/lean-test-framework-for-web-testing) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/selenium-java-lean-test-achitecture) | 🇺🇸 |
 | 06/10/2020 | [Open Quality Conference](https://openqualityconf.com) | [Expanding API test coverage through a pipeline](https://speakerdeck.com/eliasnogueira/expanding-api-test-coverage-through-a-pipeline) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/restassured-complete-basic-example) | 🇺🇸 |
 | 26/08/2020 | [The Developers Conference - Career Track](https://thedevconf.com/tdc/2020/sampaonline/trilha-carreira-e-mentoria) | Lançando sua Carreira Internacional esse ano ainda | | 🇧🇷 | 
