@@ -158,12 +158,12 @@ Work for the software development and testing community to help them, and me, to
 | 2017 - 2019 | [The Developers Conference Dev-Test Track](http://www.thedevelopersconference.com.br) | Event | Coordinator / Organizer |
 | 2017 - 2019 | [Agile Coach Meetup](https://www.meetup.com/agilecoach-porto-alegre/) | Meetup | Creator and Organizer |
 | 2010 - 2019 | [The Developers Conference Test Track](http://www.thedevelopersconference.com.br) | Event | Coordinator / Organizer |
-| 2014 - 2018 | [Agile Brazil](http://www.agilebrazil.com) | Event |Reviewer |
 | 2016 | [GUMobile](http://www.sucesurs.org.br/gu/gu-mobile-rs/apresentacao/) | Meetup |Organizer |
+| 2014 - 2018 | [Agile Brazil](http://www.agilebrazil.com) | Event |Reviewer |
 | 2009 - 2010 | ALATS | User group |Community Organizer |
 | 2008 - 2010 | java.net portal | Global community |Community Lead |
+| 2008 | [GUTS](http://www.sucesurs.org.br/gu/guts/pagina-inicial/) | User group (the first testing community in Brazil | Founder and Organizer |
 | 2007 - 2010 | java.net Global Education and Learning Community| Global community | Community Lead |
-| 2008 | [GUTS](http://www.sucesurs.org.br/gu/guts/pagina-inicial/) | User group | Founder and Organizer |
 
 #### Facts
  * The Developers Conference Test Track is the largest event in Brazil with more than 400 attendees in three different cities
