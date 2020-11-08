@@ -3,6 +3,14 @@
 The purpose of this repository is to consolidate in a single place all my participation at conferences, meetups, community activities and events in general.
 Blog posts at: [http://eliasnogueira.com](http://eliasnogueira.com).
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/eliasnogueira?style=social)](https://twitter.com/eliasnogueira)
+[![Linkedin Badge](https://img.shields.io/badge/-Add&nbsp;Me-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliasnogueira/)](https://www.linkedin.com/in/eliasnogueira/)
+[![Facebook Badge](https://img.shields.io/badge/-My&nbsp;page-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/elias.nogueira.test)](https://www.facebook.com/elias.nogueira.test)
+[![Slidehare Badge](https://img.shields.io/badge/-My&nbsp;Slideshare-58a1a3?style=flat-square&logo=Slideshare&logoColor=white&link=https://www.slideshare.net/elias.nogueira)](https://www.slideshare.net/elias.nogueira)
+[![Speaker Deck Badge](https://img.shields.io/badge/-My&nbsp;Speaker&nbsp;deck-009287?style=flat-square&logo=speaker-deck&logoColor=white&link=https://speakerdeck.com/eliasnogueira)](https://speakerdeck.com/eliasnogueira)
+[![Youtube Channel](https://img.shields.io/badge/-Follow%20my%20channel-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/c/EliasNogueira)](https://www.youtube.com/c/EliasNogueira) 
+[![Leanpub](https://img.shields.io/badge/-My%20books-FDFDFD?style=flat-square&logo=leanpub&logoColor=black&link=https://leanpub.com/u/eliasnogueira)](https://leanpub.com/u/eliasnogueira) 
+
 You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/blob/master/BIO.md).
 
 ## TOC
@@ -162,7 +170,7 @@ Work for the software development and testing community to help them, and me, to
 | 2014 - 2018 | [Agile Brazil](http://www.agilebrazil.com) | Event |Reviewer |
 | 2009 - 2010 | ALATS | User group |Community Organizer |
 | 2008 - 2010 | java.net portal | Global community |Community Lead |
-| 2008 | [GUTS](http://www.sucesurs.org.br/gu/guts/pagina-inicial/) | User group (the first testing community in Brazil | Founder and Organizer |
+| 2008 | [GUTS](http://www.sucesurs.org.br/gu/guts/pagina-inicial/) | User group | Founder and Organizer |
 | 2007 - 2010 | java.net Global Education and Learning Community| Global community | Community Lead |
 
 #### Facts
@@ -199,7 +207,7 @@ Manly blog posts in different websites and portals.
 
 All the formal workshops I did. Here workshop means a mini-course with a small audiance where I can show challanges about the subject and the audiance can practice with my help.
 
-| Date (dd-mm-yyyy) | Event            | Subject       | Language  |
+| Date | Event            | Subject       | Language  |
 |:-----------------:|------------------|---------------|:---------:|
 | 19/04/2018 | The Developers Conference - Florianópolis | Testes Manuais e Automatizados para uma API REST | 🇧🇷 |
 | 14/04/2018 | [XPConfBR](http://www.wildtech.com.br/xpconfbr/) | [Criação de arquitetura para execução de testes paralelos na web](https://github.com/eliasnogueira/workshop-selenium-grid) | 🇧🇷 |
