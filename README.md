@@ -9,7 +9,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 * Talks
    * [Coming soon talks <sup>0</sup>](#coming-soon) -- [Past presentations <sup>90</sup>](#past-presentations)
 * Initiatives
-   * [Open Source <sup>4</sup>](#open-source) -- [Community <sup>12</sup>](#community)
+   * [Open Source <sup>3</sup>](#open-source) -- [Community <sup>12</sup>](#community)
 * Sharing knowledge
    * [Blog posts and content <sup>10</sup>](#blog-posts-and-content) -- [Workshops <sup>12</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>41</sup>](#videos) -- [Poscast <sup>2</sup>](#podcast)
 * Teaching
@@ -132,14 +132,13 @@ All the presentations I did in the past, ordered by date.
 ## Initiatives
 
 ### Open Source
-4 in total
+3 in total
 
 My small contributions to open source projects.
 All my projects on GitHub are open sourced too.
 
 | Project | Link |
 |---------|------|
-| appium | https://github.com/appium |
 | bb-fuel | https://github.com/Backbase/bb-fuel |
 | webdrivermanager | https://github.com/bonigarcia/webdrivermanager |
 | awesome-netherlands | https://github.com/jeanbauer/awesome-netherlands |
