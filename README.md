@@ -15,7 +15,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ## TOC
 * Talks
-   * [Coming soon talks <sup>0</sup>](#coming-soon) -- [Past presentations <sup>90</sup>](#past-presentations)
+   * [Coming soon talks <sup>1</sup>](#coming-soon) -- [Past presentations <sup>90</sup>](#past-presentations)
 * Initiatives
    * [Open Source <sup>3</sup>](#open-source) -- [Community <sup>12</sup>](#community)
 * Sharing knowledge
@@ -29,10 +29,11 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ### Coming soon
 
-0 in total
+1 in total
 
 | Date | Event          | Title | Location | Language |
-|:----:|----------------|---------------------|----------|:--------:|
+|:----:|----------------|-------|----------|:--------:|
+| 24/02/2020 | [KraQA](https://www.meetup.com/KraQA-pl/) | How to automate your REST API with Rest-Assured | Online (Poland) | 🇺🇸  |
 
 
 [⬆️ back to the top](#toc)
