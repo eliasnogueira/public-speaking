@@ -33,7 +33,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 | Date | Event          | Title | Location | Language |
 |:----:|----------------|-------|----------|:--------:|
-| 11/02/2020 | [SouJava](https://soujava.org.br/) | [MOTU Custos e Benefícios dos testes em sua arquitetura](https://www.youtube.com/watch?v=AK4ELlxdECM&ab_channel=SouJava) | Streaming) | 🇧🇷   |
+| 11/02/2020 | [SouJava](https://soujava.org.br/) | [MOTU Custos e Benefícios dos testes em sua arquitetura](https://www.youtube.com/watch?v=AK4ELlxdECM&ab_channel=SouJava) | Streaming | 🇧🇷  |
 | 25/02/2020 | [KraQA](https://www.meetup.com/KraQA-pl/) | How to automate your REST API with Rest-Assured | Online (Poland) | 🇺🇸  |
 
 
