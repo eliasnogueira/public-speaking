@@ -15,11 +15,11 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ## TOC
 * Talks
-   * [Coming soon talks <sup>2</sup>](#coming-soon) -- [Past presentations <sup>90</sup>](#past-presentations)
+   * [Coming soon talks <sup>1</sup>](#coming-soon) -- [Past presentations <sup>90</sup>](#past-presentations)
 * Initiatives
    * [Open Source <sup>3</sup>](#open-source) -- [Community <sup>12</sup>](#community)
 * Sharing knowledge
-   * [Blog posts and content <sup>10</sup>](#blog-posts-and-content) -- [Workshops <sup>12</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>41</sup>](#videos) -- [Poscast <sup>2</sup>](#podcast)
+   * [Blog posts and content <sup>10</sup>](#blog-posts-and-content) -- [Workshops <sup>12</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>42</sup>](#videos) -- [Poscast <sup>2</sup>](#podcast)
 * Teaching
    * [University <sup>4</sup>](#university) -- [Private schools <sup>2</sup>](#private-school) 
 * [Awards & Recognitios <sup>5</sup>](#awards--recognitions)   
@@ -29,11 +29,10 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ### Coming soon
 
-2 in total
+1 in total
 
 | Date | Event          | Title | Location | Language |
 |:----:|----------------|-------|----------|:--------:|
-| 11/02/2020 | [SouJava](https://soujava.org.br/) | [MOTU Custos e Benefícios dos testes em sua arquitetura](https://www.youtube.com/watch?v=AK4ELlxdECM&ab_channel=SouJava) | Streaming | 🇧🇷  |
 | 25/02/2020 | [KraQA](https://www.meetup.com/KraQA-pl/) | [How to automate your REST API with Rest-Assured](https://www.meetup.com/KraQA-pl/events/276290652/) | Online (Poland) | 🇺🇸  |
 
 
@@ -242,12 +241,13 @@ Books and eBooks I've released.
 [⬆️ back to the top](#toc)
 
 ### Videos
-41 in total
+42 in total
 
 Videos about my presentations in events and me being intweviwed by different content channels.
 
 | Date | Title | Event | Language |
 |:----:|-------|-------|:--------:|
+| 2021 | [MOTU Custos e Benefícios dos testes em sua arquitetura](https://www.youtube.com/watch?v=AK4ELlxdECM) | [SouJava](https://soujava.org.br/) | 🇧🇷  |
 | 2020 | [Elias Nogueira conta: A história dos testes no Brasil #1](https://www.youtube.com/watch?v=Dxd0KOY5tes&ab_channel=4ALLTests) | [4All Tests](http://4alltests.com.br/) | 🇧🇷 |
 | 2020 | [A História dos Testes de Software contada pelas maiores referências no Brasil](https://www.youtube.com/watch?v=W9eH_vD_vrg) | [4All Tests](http://4alltests.com.br/) | 🇧🇷 |
 | 2020 | [Criando uma arquiterura para seus testes de API com RestAssured](https://youtu.be/hhvHGLfoQQQ?t=1162) | [QAXPerience](http://qaxperience.com/) | 🇧🇷 |
