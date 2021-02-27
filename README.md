@@ -19,7 +19,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 * Initiatives
    * [Open Source <sup>3</sup>](#open-source) -- [Community <sup>12</sup>](#community)
 * Sharing knowledge
-   * [Blog posts and content <sup>10</sup>](#blog-posts-and-content) -- [Workshops <sup>12</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>42</sup>](#videos) -- [Poscast <sup>2</sup>](#podcast)
+   * [Blog posts and content <sup>10</sup>](#blog-posts-and-content) -- [Workshops <sup>13</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>42</sup>](#videos) -- [Poscast <sup>2</sup>](#podcast)
 * Teaching
    * [University <sup>4</sup>](#university) -- [Private schools <sup>2</sup>](#private-school) 
 * [Awards & Recognitios <sup>5</sup>](#awards--recognitions)   
@@ -33,7 +33,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 | Date | Event          | Title | Location | Language |
 |:----:|----------------|-------|----------|:--------:|
-| 25/02/2020 | [KraQA](https://www.meetup.com/KraQA-pl/) | [How to automate your REST API with Rest-Assured](https://www.meetup.com/KraQA-pl/events/276290652/) | Online (Poland) | 🇺🇸  |
+| 23/03/2021 | [The Developers Conference](https://thedevconf.com/) | [Como criar projetos de teste modulares para Microservices](https://thedevconf.com/tdc/2021/innovation/trilha-devtest) | Online (Brazil) | 🇧🇷 |
 
 
 [⬆️ back to the top](#toc)
@@ -204,12 +204,13 @@ Manly blog posts in different websites and portals.
 [⬆️ back to the top](#toc)
 
 ### Workshops
-12 in total
+13 in total
 
 All the formal workshops I did. Here workshop means a mini-course with a small audiance where I can show challanges about the subject and the audiance can practice with my help.
 
 | Date | Event            | Subject       | Language  |
 |:-----------------:|------------------|---------------|:---------:|
+| 25/02/2020 | [KraQA](https://www.meetup.com/KraQA-pl/) | [How to automate your REST API with Rest-Assured](https://www.meetup.com/KraQA-pl/events/276290652/) | 🇺🇸  |
 | 19/04/2018 | The Developers Conference - Florianópolis | Testes Manuais e Automatizados para uma API REST | 🇧🇷 |
 | 14/04/2018 | [XPConfBR](http://www.wildtech.com.br/xpconfbr/) | [Criação de arquitetura para execução de testes paralelos na web](https://github.com/eliasnogueira/workshop-selenium-grid) | 🇧🇷 |
 | 22/07/2017 | The Developers Conference - São Paulo | Testes Manuais e Automatizados para uma API REST | 🇧🇷 |
