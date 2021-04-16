@@ -15,7 +15,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ## TOC
 * Talks
-   * [Coming soon talks <sup>2</sup>](#coming-soon) -- [Past presentations <sup>90</sup>](#past-presentations)
+   * [Coming soon talks <sup>0</sup>](#coming-soon) -- [Past presentations <sup>92</sup>](#past-presentations)
 * Initiatives
    * [Open Source <sup>3</sup>](#open-source) -- [Community <sup>12</sup>](#community)
 * Sharing knowledge
@@ -29,23 +29,24 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ### Coming soon
 
-2 in total
+0 in total
 
 | Date | Event          | Title | Location | Language |
 |:----:|----------------|-------|----------|:--------:|
-| 24/03/2021 | [The Developers Conference](https://thedevconf.com/) | [Desafios ou barreiras para inovar em testes de software! ](https://thedevconf.com/tdc/2021/innovation/trilha-testes) | Online (Brazil) | 🇧🇷 |
-| 16/04/2021 | [Cloud Conference Day - Rio](https://www.cloudconferenceday.com/) | Como a nuvem pode te ajudar na qualidade da sua aplicação | Online (Brazil) | 🇧🇷 |
+
 
 
 [⬆️ back to the top](#toc)
 
 ### Past presentations
-91 in total
+93 in total
 
 All the presentations I did in the past, ordered by date.
 
 | Date | Event          | Title / Slide Deck  | Repository |  Language |
 |:----:|----------------|---------------------|:----------:| :--------:|
+| 16/04/2021 | [Cloud Conference Day - Rio](https://www.cloudconferenceday.com/) | [Como a nuvem pode te ajudar na qualidade da sua aplicação](https://speakerdeck.com/eliasnogueira/como-a-nuvem-pode-te-ajudar-na-qualidade-da-sua-aplicacao) | | 🇧🇷 |
+| 24/03/2021 | [The Developers Conference](https://thedevconf.com/) | [Desafios ou barreiras para inovar em testes de software! ](https://thedevconf.com/tdc/2021/innovation/trilha-testes) | | 🇧🇷 |
 | 23/03/2021 | [The Developers Conference - Innovation](https://thedevconf.com/) | [Como criar projetos de teste modulares para Microservices](https://speakerdeck.com/eliasnogueira/como-criar-projetos-de-teste-modulares-para-microservices) | [![logo](http://i.imgur.com/0o48UoR.png)](https://gist.github.com/eliasnogueira/8b791bc42adc7fe3e31fb3d406804cda) | 🇧🇷 |
 | 29/10/2020 | [The Developer Conference - Recife](https://thedevconf.com) | [Como criar projetos de teste modulares para Microservices](https://speakerdeck.com/eliasnogueira/como-criar-projetos-de-teste-modulares-para-microservices) | [![logo](http://i.imgur.com/0o48UoR.png)](https://gist.github.com/eliasnogueira/8b791bc42adc7fe3e31fb3d406804cda) | 🇧🇷 |
 | 15/10/2020 | [TestCon Europe](https://testcon.lt) | [Lean Test Framework for Web Testing](https://speakerdeck.com/eliasnogueira/lean-test-framework-for-web-testing) | [![logo](http://i.imgur.com/0o48UoR.png)](https://github.com/eliasnogueira/selenium-java-lean-test-achitecture) | 🇺🇸 |
