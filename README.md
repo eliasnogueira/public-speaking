@@ -15,7 +15,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ## TOC
 * Talks
-   * [Coming soon talks <sup>0</sup>](#coming-soon) -- [Past presentations <sup>92</sup>](#past-presentations)
+   * [Coming soon talks <sup>0</sup>](#coming-soon) -- [Past presentations <sup>93</sup>](#past-presentations)
 * Initiatives
    * [Open Source <sup>3</sup>](#open-source) -- [Community <sup>12</sup>](#community)
 * Sharing knowledge
