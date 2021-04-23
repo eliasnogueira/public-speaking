@@ -19,7 +19,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 * Initiatives
    * [Open Source <sup>3</sup>](#open-source) -- [Community <sup>12</sup>](#community)
 * Sharing knowledge
-   * [Blog posts and content <sup>10</sup>](#blog-posts-and-content) -- [Workshops <sup>13</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>42</sup>](#videos) -- [Poscast <sup>2</sup>](#podcast)
+   * [Blog posts and content <sup>10</sup>](#blog-posts-and-content) -- [Workshops <sup>13</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>43</sup>](#videos) -- [Poscast <sup>2</sup>](#podcast)
 * Teaching
    * [University <sup>4</sup>](#university) -- [Private schools <sup>2</sup>](#private-school) 
 * [Awards & Recognitios <sup>5</sup>](#awards--recognitions)   
@@ -245,12 +245,13 @@ Books and eBooks I've released.
 [⬆️ back to the top](#toc)
 
 ### Videos
-42 in total
+43 in total
 
 Videos about my presentations in events and me being intweviwed by different content channels.
 
 | Date | Title | Event | Language |
 |:----:|-------|-------|:--------:|
+| 2021 | [Lean Test Framework for Web Testing ](https://youtu.be/fN9LOGawVmI) | [TestCon Europe](https://testcon.lt/) | 🇺🇸 |
 | 2021 | [MOTU Custos e Benefícios dos testes em sua arquitetura](https://www.youtube.com/watch?v=AK4ELlxdECM) | [SouJava](https://soujava.org.br/) | 🇧🇷  |
 | 2020 | [Elias Nogueira conta: A história dos testes no Brasil #1](https://www.youtube.com/watch?v=Dxd0KOY5tes&ab_channel=4ALLTests) | [4All Tests](http://4alltests.com.br/) | 🇧🇷 |
 | 2020 | [A História dos Testes de Software contada pelas maiores referências no Brasil](https://www.youtube.com/watch?v=W9eH_vD_vrg) | [4All Tests](http://4alltests.com.br/) | 🇧🇷 |
