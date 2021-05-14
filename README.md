@@ -33,7 +33,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 | Date | Event          | Title | Location | Language |
 |:----:|----------------|-------|----------|:--------:|
-| 29/09/2021 | [EuroSTART Conference](https://conference.eurostarsoftwaretesting.com/) | [Technical Aspects of implementing the Shift Left Approach](https://conference.eurostarsoftwaretesting.com/event/2021/technical-aspects-of-implementing-the-shift-left-approach/) | 🇺🇸 |
+| 29/09/2021 | [EuroSTART Conference](https://conference.eurostarsoftwaretesting.com/) | [Technical Aspects of implementing the Shift Left Approach](https://conference.eurostarsoftwaretesting.com/event/2021/technical-aspects-of-implementing-the-shift-left-approach/) | Online | 🇺🇸 |
 
 
 
