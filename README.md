@@ -262,7 +262,7 @@ Videos about my presentations in events and me being intweviwed by different con
 | 2019 | [Automação e Virtualização de serviços REST com RestAssured + Wiremock + Docker](http://bit.ly/2uWFgiF) | The Developers Conference - Florianópolis | 🇧🇷 |
 | 2019 | [Testes para Microservices](https://www.pscp.tv/w/1ZkKzrapEDvKv) | Oracle Groundbreakers Live | 🇧🇷 |
 | 2019 | [Como submeter uma palestra para um evento de tecnologia?](https://www.youtube.com/watch?v=Y_P2MJCfTIg) | The Developers Conference | 🇧🇷 |
-| 2018 | [BDD não é automação de teste](https://www.infoq.com/br/presentations/bdd-nao-e-automacao-de-teste) | Scrum Gathering Rio | 🇧🇷 |
+| 2018 | [BDD não é automação de teste](https://youtu.be/O_FiotmX0R4) | Scrum Gathering Rio | 🇧🇷 |
 | 2018 | [O Agile Coach pode (e em alguns momentos deve) ser técnico](http://bit.ly/2Bs8XMJ) | The Developers Conference - Porto Alegre | 🇧🇷 | 
 | 2018 | [How to create an architecture for web test automation](https://www.youtube.com/watch?v=lrUoCD1yrnU) | Oracle CodeOne San Francisco | 🇺🇸 |
 | 2018 | [Como criar uma arquitetura para automação de teste da Web - Dicas](https://www.youtube.com/watch?v=HEIbsCkN0lI&t=2s) | Oracle CodeOne San Francisco | 🇧🇷 |
