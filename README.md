@@ -15,7 +15,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ## TOC
 * Talks
-   * [Coming soon talks <sup>1</sup>](#coming-soon) -- [Past presentations <sup>93</sup>](#past-presentations)
+   * [Coming soon talks <sup>2</sup>](#coming-soon) -- [Past presentations <sup>93</sup>](#past-presentations)
 * Initiatives
    * [Open Source <sup>3</sup>](#open-source) -- [Community <sup>12</sup>](#community)
 * Sharing knowledge
@@ -29,10 +29,11 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ### Coming soon
 
-1 in total
+2 in total
 
 | Date | Event          | Title | Location | Language |
 |:----:|----------------|-------|----------|:--------:|
+| 17-19 Aug 2021 | [QA Global Summit 21 - Vol2](https://geekle.us/qa_volume2) | 3 Design Patterns and Architecture Decisions you must use in your project | Online | 🇺🇸 |
 | 29/09/2021 | [EuroSTART Conference](https://conference.eurostarsoftwaretesting.com/) | [Technical Aspects of implementing the Shift Left Approach](https://conference.eurostarsoftwaretesting.com/event/2021/technical-aspects-of-implementing-the-shift-left-approach/) | Online | 🇺🇸 |
 
 
