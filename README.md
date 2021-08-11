@@ -15,7 +15,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ## TOC
 * Talks
-   * [Coming soon talks <sup>2</sup>](#coming-soon) -- [Past presentations <sup>93</sup>](#past-presentations)
+   * [Coming soon talks <sup>1</sup>](#coming-soon) -- [Past presentations <sup>94</sup>](#past-presentations)
 * Initiatives
    * [Open Source <sup>3</sup>](#open-source) -- [Community <sup>12</sup>](#community)
 * Sharing knowledge
@@ -29,24 +29,23 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ### Coming soon
 
-2 in total
+1 in total
 
 | Date | Event          | Title | Location | Language |
 |:----:|----------------|-------|----------|:--------:|
-| 17/08/2021 | [QA Global Summit 21 - Vol2](https://geekle.us/qa_volume2) | 3 Design Patterns and Architecture Decisions you must use in your project | Online | 🇺🇸 |
 | 30/09/2021 | [EuroSTART Conference](https://conference.eurostarsoftwaretesting.com/) | [Technical Aspects of implementing the Shift Left Approach](https://conference.eurostarsoftwaretesting.com/event/2021/technical-aspects-of-implementing-the-shift-left-approach/) | Online | 🇺🇸 |
-
 
 
 [⬆️ back to the top](#toc)
 
 ### Past presentations
-93 in total
+94 in total
 
 All the presentations I did in the past, ordered by date.
 
 | Date | Event          | Title / Slide Deck  | Repository |  Language |
 |:----:|----------------|---------------------|:----------:| :--------:|
+| 17/08/2021 | [QA Global Summit 21 - Vol2](https://geekle.us/qa_volume2) | [3 Design Patterns and Architecture Decisions you must use in your project](https://speakerdeck.com/eliasnogueira/3-design-patterns-and-architecture-decisions-you-must-use-in-your-project) | [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/3-design-patters-arch-decisions) | 🇺🇸  |
 | 16/04/2021 | [Cloud Conference Day - Rio](https://www.cloudconferenceday.com/) | [Como a nuvem pode te ajudar na qualidade da sua aplicação](https://speakerdeck.com/eliasnogueira/como-a-nuvem-pode-te-ajudar-na-qualidade-da-sua-aplicacao) | | 🇧🇷 |
 | 24/03/2021 | [The Developers Conference](https://thedevconf.com/) | [Desafios ou barreiras para inovar em testes de software! ](https://thedevconf.com/tdc/2021/innovation/trilha-testes) | | 🇧🇷 |
 | 23/03/2021 | [The Developers Conference - Innovation](https://thedevconf.com/) | [Como criar projetos de teste modulares para Microservices](https://speakerdeck.com/eliasnogueira/como-criar-projetos-de-teste-modulares-para-microservices) | [![logo](https://i.imgur.com/244dUgB.png)](https://gist.github.com/eliasnogueira/8b791bc42adc7fe3e31fb3d406804cda) | 🇧🇷 |
