@@ -33,7 +33,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 | Date | Event          | Title | Location | Language |
 |:----:|----------------|-------|----------|:--------:|
-| 30/09/2021 | [KraQA](https://www.meetup.com/KraQA-pl) | How to create modularity micro-services test project | Online | 🇺🇸 |
+| 21/09/2021 | [KraQA](https://www.meetup.com/KraQA-pl) | How to create modularity micro-services test project | Online | 🇺🇸 |
 | 30/09/2021 | [EuroSTART Conference](https://conference.eurostarsoftwaretesting.com/) | [Technical Aspects of implementing the Shift Left Approach](https://conference.eurostarsoftwaretesting.com/event/2021/technical-aspects-of-implementing-the-shift-left-approach/) | Online | 🇺🇸 |
 
 
