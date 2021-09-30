@@ -15,7 +15,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ## TOC
 * Talks
-   * [Coming soon talks <sup>1</sup>](#coming-soon) -- [Past presentations <sup>95</sup>](#past-presentations)
+   * [Coming soon talks <sup>0</sup>](#coming-soon) -- [Past presentations <sup>96</sup>](#past-presentations)
 * Initiatives
    * [Open Source <sup>3</sup>](#open-source) -- [Community <sup>12</sup>](#community)
 * Sharing knowledge
@@ -29,22 +29,23 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ### Coming soon
 
-1 in total
+0 in total
 
 | Date | Event          | Title | Location | Language |
 |:----:|----------------|-------|----------|:--------:|
-| 30/09/2021 | [EuroSTART Conference](https://conference.eurostarsoftwaretesting.com/) | [Technical Aspects of implementing the Shift Left Approach](https://conference.eurostarsoftwaretesting.com/event/2021/technical-aspects-of-implementing-the-shift-left-approach/) | Online | 🇺🇸 |
+| | | | |
 
 
 [⬆️ back to the top](#toc)
 
 ### Past presentations
-95 in total
+96 in total
 
 All the presentations I did in the past, ordered by date.
 
 | Date | Event          | Title / Slide Deck  | Repository |  Language |
 |:----:|----------------|---------------------|:----------:| :--------:|
+| 30/09/2021 | [EuroSTART Conference](https://conference.eurostarsoftwaretesting.com/) | [Technical Aspects of implementing the Shift Left Approach](https://speakerdeck.com/eliasnogueira/technical-aspects-of-implementing-the-shift-left-approach) |  | 🇺🇸 |
 | 21/09/2021 | [KraQA](https://www.meetup.com/KraQA-pl) | [How to create modularity micro-services test project](https://speakerdeck.com/eliasnogueira/how-to-create-modular-microservices-test-project) | [![logo](https://i.imgur.com/244dUgB.png)](https://gist.github.com/eliasnogueira/232cced0927953bce043bbae8b702cee) | 🇺🇸  |
 | 17/08/2021 | [QA Global Summit 21 - Vol2](https://geekle.us/qa_volume2) | [3 Design Patterns and Architecture Decisions you must use in your project](https://speakerdeck.com/eliasnogueira/3-design-patterns-and-architecture-decisions-you-must-use-in-your-project) | [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/3-design-patters-arch-decisions) | 🇺🇸  |
 | 16/04/2021 | [Cloud Conference Day - Rio](https://www.cloudconferenceday.com/) | [Como a nuvem pode te ajudar na qualidade da sua aplicação](https://speakerdeck.com/eliasnogueira/como-a-nuvem-pode-te-ajudar-na-qualidade-da-sua-aplicacao) | | 🇧🇷 |
