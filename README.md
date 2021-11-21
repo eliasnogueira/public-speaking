@@ -17,7 +17,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 * Talks
    * [Coming soon talks <sup>3</sup>](#coming-soon) -- [Past presentations <sup>96</sup>](#past-presentations)
 * Initiatives
-   * [Open Source <sup>3</sup>](#open-source) -- [Community <sup>12</sup>](#community)
+   * [Open Source <sup>3</sup>](#open-source) -- [Community <sup>13</sup>](#community)
 * Sharing knowledge
    * [Blog posts and content <sup>10</sup>](#blog-posts-and-content) -- [Workshops <sup>13</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>43</sup>](#videos) -- [Poscast <sup>2</sup>](#podcast)
 * Teaching
@@ -163,12 +163,13 @@ All my projects on GitHub are open sourced too.
 [⬆️ back to the top](#toc)
 
 ### Community
-12 in total
+13 in total
 
 Work for the software development and testing community to help them, and me, to grown.  
 
 | Date        | Event            | Type | Role |
 |:-----------:|------------------|:----:|:----:|
+| 2021 | [EuroStart Testing Conference](https://conference.eurostarsoftwaretesting.com/) | Event | Reviewer |
 | 2020 | [The Developers Conference World Edition](https://promo.thedevelopersconference.com.br/tdcsp2020-international) | Event | Program committee | 
 | 2019 - now | [Ministry of Testing - Eindhoven](https://www.meetup.com/Ministry-of-Testing-Eindhoven/) | Meetup | Co-Organizer |
 | 2018 | [Programa de Mentoria em Teste de Software](https://www.linkedin.com/company/10035123/) | Online mentorship program | Mentor |
