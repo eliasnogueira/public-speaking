@@ -15,7 +15,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ## TOC
 * Talks
-   * [Coming soon talks <sup>3</sup>](#coming-soon) -- [Past presentations <sup>96</sup>](#past-presentations)
+   * [Coming soon talks <sup>2</sup>](#coming-soon) -- [Past presentations <sup>96</sup>](#past-presentations)
 * Initiatives
    * [Open Source <sup>3</sup>](#open-source) -- [Community <sup>13</sup>](#community)
 * Sharing knowledge
@@ -29,13 +29,12 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ### Coming soon
 
-3 in total
+2 in total
 
 | Date | Event | Title | Location | Language |
 |:----:|-------|-------|----------|:--------:|
 | 01/12/2021 | [TDC Future - Testing Track International](https://thedevconf.com/tdc/2021/future/testing-track) | What's future of the QA role? | Online | 🇺🇸 |
 | 01/12/2021 | [Oracle - Modern Devs](https://promo.thedevconf.com/future-oracle) | A saga para o One Click Release | Online | 🇧🇷 |
-| 13/12/2021 | [Utrecht Java User Group Meetup](https://www.meetup.com/Utrecht-Java-User-Group/events/281792019/) | How to create modular microservice test projects | Nieuwegein, The Netherlands | 🇺🇸 |
 
 
 [⬆️ back to the top](#toc)
