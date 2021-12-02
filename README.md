@@ -15,7 +15,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ## TOC
 * Talks
-   * [Coming soon talks <sup>2</sup>](#coming-soon) -- [Past presentations <sup>96</sup>](#past-presentations)
+   * [Coming soon talks <sup>0</sup>](#coming-soon) -- [Past presentations <sup>98</sup>](#past-presentations)
 * Initiatives
    * [Open Source <sup>3</sup>](#open-source) -- [Community <sup>13</sup>](#community)
 * Sharing knowledge
@@ -29,23 +29,23 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ### Coming soon
 
-2 in total
+0 in total
 
 | Date | Event | Title | Location | Language |
 |:----:|-------|-------|----------|:--------:|
-| 01/12/2021 | [TDC Future - Testing Track International](https://thedevconf.com/tdc/2021/future/testing-track) | What's future of the QA role? | Online | 🇺🇸 |
-| 01/12/2021 | [Oracle - Modern Devs](https://promo.thedevconf.com/future-oracle) | A saga para o One Click Release | Online | 🇧🇷 |
 
 
 [⬆️ back to the top](#toc)
 
 ### Past presentations
-96 in total
+98 in total
 
 All the presentations I did in the past, ordered by date.
 
 | Date | Event          | Title / Slide Deck  | Repository |  Language |
 |:----:|----------------|---------------------|:----------:| :--------:|
+| 01/12/2021 | [Oracle - Modern Devs](https://promo.thedevconf.com/future-oracle) | [A saga para o One Click Release](https://speakerdeck.com/eliasnogueira/a-saga-para-o-one-click-release) |  | 🇧🇷 |
+| 01/12/2021 | [TDC Future - Testing Track International](https://thedevconf.com/tdc/2021/future/testing-track) | What's future of the QA role? |  | 🇺🇸 |
 | 30/09/2021 | [EuroSTART Conference](https://conference.eurostarsoftwaretesting.com/) | [Technical Aspects of implementing the Shift Left Approach](https://speakerdeck.com/eliasnogueira/technical-aspects-of-implementing-the-shift-left-approach) |  | 🇺🇸 |
 | 21/09/2021 | [KraQA](https://www.meetup.com/KraQA-pl) | [How to create modularity micro-services test project](https://speakerdeck.com/eliasnogueira/how-to-create-modular-microservices-test-project) | [![logo](https://i.imgur.com/244dUgB.png)](https://gist.github.com/eliasnogueira/232cced0927953bce043bbae8b702cee) | 🇺🇸  |
 | 17/08/2021 | [QA Global Summit 21 - Vol2](https://geekle.us/qa_volume2) | [3 Design Patterns and Architecture Decisions you must use in your project](https://speakerdeck.com/eliasnogueira/3-design-patterns-and-architecture-decisions-you-must-use-in-your-project) | [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/3-design-patters-arch-decisions) | 🇺🇸  |
