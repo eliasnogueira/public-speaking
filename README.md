@@ -15,11 +15,11 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ## TOC
 * Talks
-   * [Coming soon talks <sup>0</sup>](#coming-soon) -- [Past presentations <sup>98</sup>](#past-presentations)
+   * [Coming soon talks <sup>0</sup>](#coming-soon) -- [Past presentations <sup>99</sup>](#past-presentations)
 * Initiatives
    * [Open Source <sup>3</sup>](#open-source) -- [Community <sup>13</sup>](#community)
 * Sharing knowledge
-   * [Blog posts and content <sup>10</sup>](#blog-posts-and-content) -- [Workshops <sup>13</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>44</sup>](#videos) -- [Poscast <sup>2</sup>](#podcast)
+   * [Blog posts and content <sup>10</sup>](#blog-posts-and-content) -- [Workshops <sup>13</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>45</sup>](#videos) -- [Poscast <sup>2</sup>](#podcast)
 * Teaching
    * [University <sup>4</sup>](#university) -- [Private schools <sup>2</sup>](#private-school) 
 * [Awards & Recognitios <sup>5</sup>](#awards--recognitions)   
@@ -38,12 +38,13 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 [⬆️ back to the top](#toc)
 
 ### Past presentations
-98 in total
+99 in total
 
 All the presentations I did in the past, ordered by date.
 
 | Date | Event          | Title / Slide Deck  | Repository |  Language |
 |:----:|----------------|---------------------|:----------:| :--------:|
+| 03/03/2022 | [XGeeks](https://xgeeks.io/) | [How to create modularity micro-services test project](https://speakerdeck.com/eliasnogueira/how-to-create-modular-microservices-test-project) | [![logo](https://i.imgur.com/244dUgB.png)](https://gist.github.com/eliasnogueira/232cced0927953bce043bbae8b702cee) | 🇺🇸  |
 | 01/12/2021 | [Oracle - Modern Devs](https://promo.thedevconf.com/future-oracle) | [A saga para o One Click Release](https://speakerdeck.com/eliasnogueira/a-saga-para-o-one-click-release) |  | 🇧🇷 |
 | 01/12/2021 | [TDC Future - Testing Track International](https://thedevconf.com/tdc/2021/future/testing-track) | What's future of the QA role? |  | 🇺🇸 |
 | 30/09/2021 | [EuroSTART Conference](https://conference.eurostarsoftwaretesting.com/) | [Technical Aspects of implementing the Shift Left Approach](https://speakerdeck.com/eliasnogueira/technical-aspects-of-implementing-the-shift-left-approach) |  | 🇺🇸 |
@@ -250,12 +251,13 @@ Books and eBooks I've released.
 [⬆️ back to the top](#toc)
 
 ### Videos
-44 in total
+45 in total
 
 Videos about my presentations in events and me being intweviwed by different content channels.
 
 | Date | Title | Event | Language |
 |:----:|-------|-------|:--------:|
+| 2022 | [How to create modular microservice test projects](https://www.youtube.com/watch?v=MF_5Q-wwR7c&ab_channel=xgeeks) | XGeeks Youtube Channel |🇺🇸 | 
 | 2021 | [How to create modular microservice test projects](https://www.youtube.com/watch?v=g-UW80oXsSE&ab_channel=Backbase) | KraQA - Backbase Youtube Channel |🇺🇸 | 
 | 2021 | [Lean Test Framework for Web Testing ](https://youtu.be/fN9LOGawVmI) | [TestCon Europe](https://testcon.lt/) | 🇺🇸 |
 | 2021 | [MOTU Custos e Benefícios dos testes em sua arquitetura](https://www.youtube.com/watch?v=AK4ELlxdECM) | [SouJava](https://soujava.org.br/) | 🇧🇷  |
