@@ -257,7 +257,7 @@ Videos about my presentations in events and me being intweviwed by different con
 
 | Date | Title | Event | Language |
 |:----:|-------|-------|:--------:|
-| 2022 | [How to create modular microservice test projects](https://www.youtube.com/watch?v=MF_5Q-wwR7c&ab_channel=xgeeks) | XGeeks Youtube Channel |🇺🇸 | 
+| 2022 | [How to create modular microservice test projects](https://www.youtube.com/watch?v=MF_5Q-wwR7c) | XGeeks Youtube Channel |🇺🇸 | 
 | 2021 | [How to create modular microservice test projects](https://www.youtube.com/watch?v=g-UW80oXsSE&ab_channel=Backbase) | KraQA - Backbase Youtube Channel |🇺🇸 | 
 | 2021 | [Lean Test Framework for Web Testing ](https://youtu.be/fN9LOGawVmI) | [TestCon Europe](https://testcon.lt/) | 🇺🇸 |
 | 2021 | [MOTU Custos e Benefícios dos testes em sua arquitetura](https://www.youtube.com/watch?v=AK4ELlxdECM) | [SouJava](https://soujava.org.br/) | 🇧🇷  |
