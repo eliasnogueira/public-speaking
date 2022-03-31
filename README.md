@@ -15,7 +15,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ## TOC
 * Talks
-   * [Coming soon talks <sup>0</sup>](#coming-soon) -- [Past presentations <sup>99</sup>](#past-presentations)
+   * [Coming soon talks <sup>1</sup>](#coming-soon) -- [Past presentations <sup>99</sup>](#past-presentations)
 * Initiatives
    * [Open Source <sup>3</sup>](#open-source) -- [Community <sup>13</sup>](#community)
 * Sharing knowledge
@@ -29,11 +29,11 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ### Coming soon
 
-0 in total
+1 in total
 
 | Date | Event | Title | Location | Language |
 |:----:|-------|-------|----------|:--------:|
-
+| 19/04/2022 | [Utrecht Java Users Group](https://www.meetup.com/Utrecht-Java-User-Group/events/284755492/) | [How to create modularity micro-services test project](https://speakerdeck.com/eliasnogueira/how-to-create-modular-microservices-test-project) | Utrecht, the Netherlands | 🇺🇸  |
 
 [⬆️ back to the top](#toc)
 
