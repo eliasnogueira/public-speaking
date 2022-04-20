@@ -33,7 +33,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 | Date | Event | Title | Location | Language |
 |:----:|-------|-------|----------|:--------:|
-| 19/04/2022 | [Utrecht Java Users Group](https://www.meetup.com/Utrecht-Java-User-Group/events/284755492/) | [How to create modularity micro-services test project](https://speakerdeck.com/eliasnogueira/how-to-create-modular-microservices-test-project) | Utrecht, the Netherlands | 🇺🇸  |
+
 
 [⬆️ back to the top](#toc)
 
