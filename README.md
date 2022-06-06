@@ -15,7 +15,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ## TOC
 * Talks
-   * [Coming soon talks <sup>0</sup>](#coming-soon) -- [Past presentations <sup>100</sup>](#past-presentations)
+   * [Coming soon talks <sup>1</sup>](#coming-soon) -- [Past presentations <sup>100</sup>](#past-presentations)
 * Initiatives
    * [Open Source <sup>3</sup>](#open-source) -- [Community <sup>13</sup>](#community)
 * Sharing knowledge
@@ -29,10 +29,11 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ### Coming soon
 
-0 in total
+1 in total
 
 | Date | Event | Title | Location | Language |
 |:----:|-------|-------|----------|:--------:|
+| 09/08/2022 | [Test Automation Talks](https://www.meetup.com/test-automation-talks/) | [3 Design Patterns and Architecture Decisions in your test project](https://www.meetup.com/test-automation-talks/events/286087828/) | Online | 🇺🇸  |
 
 
 [⬆️ back to the top](#toc)
