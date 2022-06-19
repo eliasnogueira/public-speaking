@@ -19,7 +19,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 * Initiatives
    * [Open Source <sup>3</sup>](#open-source) -- [Community <sup>13</sup>](#community)
 * Sharing knowledge
-   * [Blog posts and content <sup>10</sup>](#blog-posts-and-content) -- [Workshops <sup>13</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>45</sup>](#videos) -- [Poscast <sup>2</sup>](#podcast)
+   * [Blog posts and content <sup>10</sup>](#blog-posts-and-content) -- [Workshops <sup>13</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>46</sup>](#videos) -- [Poscast <sup>2</sup>](#podcast)
 * Teaching
    * [University <sup>4</sup>](#university) -- [Private schools <sup>2</sup>](#private-school) 
 * [Awards & Recognitios <sup>5</sup>](#awards--recognitions)   
@@ -253,13 +253,14 @@ Books and eBooks I've released.
 [⬆️ back to the top](#toc)
 
 ### Videos
-45 in total
+46 in total
 
 Videos about my presentations in events and me being intweviwed by different content channels.
 
 | Date | Title | Event | Language |
 |:----:|-------|-------|:--------:|
-| 2022 | [How to create modular microservice test projects](https://www.youtube.com/watch?v=MF_5Q-wwR7c) | XGeeks Youtube Channel |🇺🇸 | 
+| 2022 | [E depois de sênios, vem o quê?](https://www.youtube.com/watch?v=bodnkZ-w57o&ab_channel=ElderMoraes) | [Elder Moraes Youtube Channel](https://www.youtube.com/c/ElderMoraes) | 🇧🇷 |
+| 2022 | [How to create modular microservice test projects](https://www.youtube.com/watch?v=MF_5Q-wwR7c) | XGeeks Youtube Channel | 🇺🇸 | 
 | 2021 | [How to create modular microservice test projects](https://www.youtube.com/watch?v=g-UW80oXsSE&ab_channel=Backbase) | KraQA - Backbase Youtube Channel |🇺🇸 | 
 | 2021 | [Lean Test Framework for Web Testing ](https://youtu.be/fN9LOGawVmI) | [TestCon Europe](https://testcon.lt/) | 🇺🇸 |
 | 2021 | [MOTU Custos e Benefícios dos testes em sua arquitetura](https://www.youtube.com/watch?v=AK4ELlxdECM) | [SouJava](https://soujava.org.br/) | 🇧🇷  |
