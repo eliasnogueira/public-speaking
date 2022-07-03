@@ -15,7 +15,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ## TOC
 * Talks
-   * [Coming soon talks <sup>2</sup>](#coming-soon) -- [Past presentations <sup>100</sup>](#past-presentations)
+   * [Coming soon talks <sup>3</sup>](#coming-soon) -- [Past presentations <sup>100</sup>](#past-presentations)
 * Initiatives
    * [Open Source <sup>3</sup>](#open-source) -- [Community <sup>13</sup>](#community)
 * Sharing knowledge
@@ -29,12 +29,13 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ### Coming soon
 
-2 in total
+3 in total
 
 | Date | Event | Title | Location | Language |
 |:----:|-------|-------|----------|:--------:|
-| 09/08/2022 | [Test Automation Talks](https://www.meetup.com/test-automation-talks/) | [3 Design Patterns and Architecture Decisions in your test project](https://www.meetup.com/test-automation-talks/events/286087828/) | Online | 🇺🇸  |
-| September 7th - 8th 2022 | [JavaZone](https://2022.javazone.no/) | How to test complex API integrations | Oslo, Norway | 🇺🇸  |
+| 09/08/2022 | [Test Automation Talks](https://www.meetup.com/test-automation-talks/) | [3 Design Patterns and Architecture Decisions in your test project](https://www.meetup.com/test-automation-talks/events/286087828/) | Amsterdam, the Nethelands (Online) | 🇺🇸 |
+| 01/09/2022 | [Agile Test|Automation|Meetup VIENNA](https://www.meetup.com/Agile-Test-Automation-Meetup-VIENNA/) | How to create modular microservice test projects | Vienna, Austria (Online) | 🇺🇸 |
+| September 7th - 8th 2022 | [JavaZone](https://2022.javazone.no/) | How to test complex API integrations | Oslo, Norway | 🇺🇸 |
 
 
 [⬆️ back to the top](#toc)
