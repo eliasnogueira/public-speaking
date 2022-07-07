@@ -34,7 +34,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 | Date | Event | Title | Location | Language |
 |:----:|-------|-------|----------|:--------:|
 | 09/08/2022 | [Test Automation Talks](https://www.meetup.com/test-automation-talks/) | [3 Design Patterns and Architecture Decisions in your test project](https://www.meetup.com/test-automation-talks/events/286087828/) | Amsterdam, the Nethelands (Online) | 🇺🇸 |
-| 01/09/2022 | [Agile Test, Automation, Meetup VIENNA](https://www.meetup.com/Agile-Test-Automation-Meetup-VIENNA/) | How to create modular microservice test projects | Vienna, Austria (Online) | 🇺🇸 |
+| 01/09/2022 | [Agile Test, Automation, Meetup VIENNA](https://www.meetup.com/Agile-Test-Automation-Meetup-VIENNA/) | [How to create modular microservice test projects](https://www.meetup.com/agile-test-automation-meetup-vienna/events/286952645/) | Vienna, Austria (Online) | 🇺🇸 |
 | September 7th - 8th 2022 | [JavaZone](https://2022.javazone.no/) | How to test complex API integrations | Oslo, Norway | 🇺🇸 |
 
 
