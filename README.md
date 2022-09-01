@@ -29,31 +29,31 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ### Coming soon
 
-2 in total
+1 in total
 
 | Date | Event | Title | Location | Language |
 |:----:|-------|-------|----------|:--------:|
-| 01/09/2022 | [Agile Test, Automation, Meetup VIENNA](https://www.meetup.com/Agile-Test-Automation-Meetup-VIENNA/) | [How to create modular microservice test projects](https://www.meetup.com/agile-test-automation-meetup-vienna/events/286952645/) | Vienna, Austria (Online) | 🇺🇸 |
 | 07/09/2022 | [JavaZone](https://2022.javazone.no/) | [How to test complex API integrations](https://2022.javazone.no/#/program/32dc4585-b497-41d8-a77e-12cc650bcb63) | Oslo, Norway | 🇺🇸 |
 
 
 [⬆️ back to the top](#toc)
 
 ### Past presentations
-101 in total
+102 in total
 
 All the presentations I did in the past, ordered by date.
 
 | Date | Event          | Title / Slide Deck  | Repository |  Language |
 |:----:|----------------|---------------------|:----------:| :--------:|
-| 09/08/2022 | [Test Automation Talks](https://www.meetup.com/test-automation-talks/) | [3 Design Patterns and Architecture Decisions you must use in your project](https://speakerdeck.com/eliasnogueira/3-design-patterns-and-architecture-decisions-you-must-use-in-your-project) | [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/3-design-patters-arch-decisions) | 🇺🇸  |
-| 19/04/2022 | [Utrecht Java Users Group](https://www.meetup.com/Utrecht-Java-User-Group/) | [How to create modularity micro-services test project](https://speakerdeck.com/eliasnogueira/how-to-create-modular-microservices-test-project) | [![logo](https://i.imgur.com/244dUgB.png)](https://gist.github.com/eliasnogueira/232cced0927953bce043bbae8b702cee) | 🇺🇸  |
-| 03/03/2022 | [XGeeks](https://xgeeks.io/) | [How to create modularity micro-services test project](https://speakerdeck.com/eliasnogueira/how-to-create-modular-microservices-test-project) | [![logo](https://i.imgur.com/244dUgB.png)](https://gist.github.com/eliasnogueira/232cced0927953bce043bbae8b702cee) | 🇺🇸  |
+| 01/09/2022 | [Agile Test, Automation, Meetup VIENNA](https://www.meetup.com/Agile-Test-Automation-Meetup-VIENNA/) | [How to create modularity micro-services test project](https://speakerdeck.com/eliasnogueira/how-to-create-modular-microservices-test-project) | [![logo](https://i.imgur.com/244dUgB.png)](https://gist.github.com/eliasnogueira/232cced0927953bce043bbae8b702cee) | 🇺🇸 |
+| 09/08/2022 | [Test Automation Talks](https://www.meetup.com/test-automation-talks/) | [3 Design Patterns and Architecture Decisions you must use in your project](https://speakerdeck.com/eliasnogueira/3-design-patterns-and-architecture-decisions-you-must-use-in-your-project) | [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/3-design-patters-arch-decisions) | 🇺🇸 |
+| 19/04/2022 | [Utrecht Java Users Group](https://www.meetup.com/Utrecht-Java-User-Group/) | [How to create modularity micro-services test project](https://speakerdeck.com/eliasnogueira/how-to-create-modular-microservices-test-project) | [![logo](https://i.imgur.com/244dUgB.png)](https://gist.github.com/eliasnogueira/232cced0927953bce043bbae8b702cee) | 🇺🇸 |
+| 03/03/2022 | [XGeeks](https://xgeeks.io/) | [How to create modularity micro-services test project](https://speakerdeck.com/eliasnogueira/how-to-create-modular-microservices-test-project) | [![logo](https://i.imgur.com/244dUgB.png)](https://gist.github.com/eliasnogueira/232cced0927953bce043bbae8b702cee) | 🇺🇸 |
 | 01/12/2021 | [Oracle - Modern Devs](https://promo.thedevconf.com/future-oracle) | [A saga para o One Click Release](https://speakerdeck.com/eliasnogueira/a-saga-para-o-one-click-release) |  | 🇧🇷 |
 | 01/12/2021 | [TDC Future - Testing Track International](https://thedevconf.com/tdc/2021/future/testing-track) | What's future of the QA role? |  | 🇺🇸 |
 | 30/09/2021 | [EuroSTAR Conference](https://conference.eurostarsoftwaretesting.com/) | [Technical Aspects of implementing the Shift Left Approach](https://speakerdeck.com/eliasnogueira/technical-aspects-of-implementing-the-shift-left-approach) |  | 🇺🇸 |
-| 21/09/2021 | [KraQA](https://www.meetup.com/KraQA-pl) | [How to create modularity micro-services test project](https://speakerdeck.com/eliasnogueira/how-to-create-modular-microservices-test-project) | [![logo](https://i.imgur.com/244dUgB.png)](https://gist.github.com/eliasnogueira/232cced0927953bce043bbae8b702cee) | 🇺🇸  |
-| 17/08/2021 | [QA Global Summit 21 - Vol2](https://geekle.us/qa_volume2) | [3 Design Patterns and Architecture Decisions you must use in your project](https://speakerdeck.com/eliasnogueira/3-design-patterns-and-architecture-decisions-you-must-use-in-your-project) | [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/3-design-patters-arch-decisions) | 🇺🇸  |
+| 21/09/2021 | [KraQA](https://www.meetup.com/KraQA-pl) | [How to create modularity micro-services test project](https://speakerdeck.com/eliasnogueira/how-to-create-modular-microservices-test-project) | [![logo](https://i.imgur.com/244dUgB.png)](https://gist.github.com/eliasnogueira/232cced0927953bce043bbae8b702cee) | 🇺🇸 |
+| 17/08/2021 | [QA Global Summit 21 - Vol2](https://geekle.us/qa_volume2) | [3 Design Patterns and Architecture Decisions you must use in your project](https://speakerdeck.com/eliasnogueira/3-design-patterns-and-architecture-decisions-you-must-use-in-your-project) | [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/3-design-patters-arch-decisions) | 🇺🇸 |
 | 16/04/2021 | [Cloud Conference Day - Rio](https://www.cloudconferenceday.com/) | [Como a nuvem pode te ajudar na qualidade da sua aplicação](https://speakerdeck.com/eliasnogueira/como-a-nuvem-pode-te-ajudar-na-qualidade-da-sua-aplicacao) | | 🇧🇷 |
 | 24/03/2021 | [The Developers Conference](https://thedevconf.com/) | [Desafios ou barreiras para inovar em testes de software! ](https://thedevconf.com/tdc/2021/innovation/trilha-testes) | | 🇧🇷 |
 | 23/03/2021 | [The Developers Conference - Innovation](https://thedevconf.com/) | [Como criar projetos de teste modulares para Microservices](https://speakerdeck.com/eliasnogueira/como-criar-projetos-de-teste-modulares-para-microservices) | [![logo](https://i.imgur.com/244dUgB.png)](https://gist.github.com/eliasnogueira/8b791bc42adc7fe3e31fb3d406804cda) | 🇧🇷 |
