@@ -15,7 +15,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ## TOC
 * Talks
-   * [Coming soon talks <sup>2</sup>](#coming-soon) -- [Past presentations <sup>101</sup>](#past-presentations)
+   * [Coming soon talks <sup>0</sup>](#coming-soon) -- [Past presentations <sup>103</sup>](#past-presentations)
 * Initiatives
    * [Open Source <sup>3</sup>](#open-source) -- [Community <sup>13</sup>](#community)
 * Sharing knowledge
@@ -29,22 +29,23 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ### Coming soon
 
-1 in total
+0 in total
 
 | Date | Event | Title | Location | Language |
 |:----:|-------|-------|----------|:--------:|
-| 07/09/2022 | [JavaZone](https://2022.javazone.no/) | [How to test complex API integrations](https://2022.javazone.no/#/program/32dc4585-b497-41d8-a77e-12cc650bcb63) | Oslo, Norway | 🇺🇸 |
+| | | | |
 
 
 [⬆️ back to the top](#toc)
 
 ### Past presentations
-102 in total
+103 in total
 
 All the presentations I did in the past, ordered by date.
 
 | Date | Event          | Title / Slide Deck  | Repository |  Language |
 |:----:|----------------|---------------------|:----------:| :--------:|
+| 07/09/2022 | [JavaZone](https://2022.javazone.no/) | [How to test complex API integrations](https://speakerdeck.com/eliasnogueira/how-to-test-complex-api-integrations) | [![logo](https://i.imgur.com/244dUgB.png)](https://gist.github.com/eliasnogueira/232cced0927953bce043bbae8b702cee) | 🇺🇸 |
 | 01/09/2022 | [Agile Test, Automation, Meetup VIENNA](https://www.meetup.com/Agile-Test-Automation-Meetup-VIENNA/) | [How to create modularity micro-services test project](https://speakerdeck.com/eliasnogueira/how-to-create-modular-microservices-test-project) | [![logo](https://i.imgur.com/244dUgB.png)](https://gist.github.com/eliasnogueira/232cced0927953bce043bbae8b702cee) | 🇺🇸 |
 | 09/08/2022 | [Test Automation Talks](https://www.meetup.com/test-automation-talks/) | [3 Design Patterns and Architecture Decisions you must use in your project](https://speakerdeck.com/eliasnogueira/3-design-patterns-and-architecture-decisions-you-must-use-in-your-project) | [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/3-design-patters-arch-decisions) | 🇺🇸 |
 | 19/04/2022 | [Utrecht Java Users Group](https://www.meetup.com/Utrecht-Java-User-Group/) | [How to create modularity micro-services test project](https://speakerdeck.com/eliasnogueira/how-to-create-modular-microservices-test-project) | [![logo](https://i.imgur.com/244dUgB.png)](https://gist.github.com/eliasnogueira/232cced0927953bce043bbae8b702cee) | 🇺🇸 |
