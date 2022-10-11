@@ -15,7 +15,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ## TOC
 * Talks
-   * [Coming soon talks <sup>1</sup>](#coming-soon) -- [Past presentations <sup>103</sup>](#past-presentations)
+   * [Coming soon talks <sup>0</sup>](#coming-soon) -- [Past presentations <sup>104</sup>](#past-presentations)
 * Initiatives
    * [Open Source <sup>4</sup>](#open-source) -- [Community <sup>13</sup>](#community)
 * Sharing knowledge
@@ -29,22 +29,23 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ### Coming soon
 
-1 in total
+0 in total
 
 | Date | Event | Title | Location | Language |
 |:----:|-------|-------|----------|:--------:|
-| 11/10/2022 | [Devoxx Belgium](https://devoxx.be/) | [Ultra-fast Java Microservices: overcome the pitfalls of data persistence](https://devoxx.be/talk/?id=20173) | Antwerp, Belgium | 🇺🇸 |
+
 
 
 [⬆️ back to the top](#toc)
 
 ### Past presentations
-103 in total
+104 in total
 
 All the presentations I did in the past, ordered by date.
 
 | Date | Event          | Title / Slide Deck  | Repository |  Language |
 |:----:|----------------|---------------------|:----------:| :--------:|
+| 11/10/2022 | [Devoxx Belgium](https://devoxx.be/) | [Ultra-fast Java Microservices: overcome the pitfalls of data persistence](https://devoxx.be/talk/?id=20173) | [![logo](https://i.imgur.com/244dUgB.png)](https://gist.github.com/eliasnogueira/55543f1aea6dc4ba69f5ed0b81bfc39e) | 🇺🇸 |
 | 07/09/2022 | [JavaZone](https://2022.javazone.no/) | [How to test complex API integrations](https://speakerdeck.com/eliasnogueira/how-to-test-complex-api-integrations) | [![logo](https://i.imgur.com/244dUgB.png)](https://gist.github.com/eliasnogueira/232cced0927953bce043bbae8b702cee) | 🇺🇸 |
 | 01/09/2022 | [Agile Test, Automation, Meetup VIENNA](https://www.meetup.com/Agile-Test-Automation-Meetup-VIENNA/) | [How to create modularity micro-services test project](https://speakerdeck.com/eliasnogueira/how-to-create-modular-microservices-test-project) | [![logo](https://i.imgur.com/244dUgB.png)](https://gist.github.com/eliasnogueira/232cced0927953bce043bbae8b702cee) | 🇺🇸 |
 | 09/08/2022 | [Test Automation Talks](https://www.meetup.com/test-automation-talks/) | [3 Design Patterns and Architecture Decisions you must use in your project](https://speakerdeck.com/eliasnogueira/3-design-patterns-and-architecture-decisions-you-must-use-in-your-project) | [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/3-design-patters-arch-decisions) | 🇺🇸 |
