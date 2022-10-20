@@ -22,7 +22,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
    * [Blog posts and content <sup>10</sup>](#blog-posts-and-content) -- [Workshops <sup>13</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>48</sup>](#videos) -- [Poscast <sup>2</sup>](#podcast)
 * Teaching
    * [University <sup>4</sup>](#university) -- [Private schools <sup>2</sup>](#private-school) 
-* [Awards & Recognitios <sup>5</sup>](#awards--recognitions)   
+* [Awards & Recognitions <sup>6</sup>](#awards--recognitions)   
 * [My social networks](#my-social-networks)
 
 ## Talks
@@ -356,16 +356,17 @@ My role as a teacher in Testing Automation courses in private schools.
 [⬆️ back to the top](#toc)
 
 ## Awards & Recognitions
-5 in total
+6 in total
 
 Recognition for working in the software development community
 
 | Date | Award | Event |
 |:----:|-------|-------|
-| 2020 | Tester of the Day - 08/10/2020 | [Tester of the Day](https://tester-of-the-day.netlify.app)
+| 2022 | Oracle ACE: Java](https://apexapps.oracle.com/pls/apex/r/ace_program/oracle-aces/ace?ace_id=2337&clear=2&session=114105440544267) | [Oracle ACE](https://ace.oracle.com) |
+| 2020 | Tester of the Day - 08/10/2020 | [Tester of the Day](https://tester-of-the-day.netlify.app) |
 | 2019 | [Top 5 most famous Test Automation Engineer in Brazil](https://www.socialtesters.org/resultado-2019) | [Social Testers](https://www.socialtesters.org) |
 | 2017 | [TDC RockStar](http://www.thedevelopersconference.com.br/rockstars) | [The Developers Conference](http://www.thedevelopersconference.com.br) |
-| 2017 | Recognition for the contribution to the IT market | [iMasters - Android DevConf](https://imasters.com.br)
+| 2017 | Recognition for the contribution to the IT market | [iMasters - Android DevConf](https://imasters.com.br) |
 | 2017 | Best participation during feedback | [Testathon](http://testathon.co) Chapter 13 - Facebook |
 
 [⬆️ back to the top](#toc)
