@@ -362,7 +362,7 @@ Recognition for working in the software development community
 
 | Date | Award | Event |
 |:----:|-------|-------|
-| 2022 | [Oracle ACE - Focus area: Java](https://apexapps.oracle.com/pls/apex/r/ace_program/oracle-aces/ace?ace_id=2337) | [Oracle ACE](https://ace.oracle.com) |
+| 2022 | [ACE Associate: Java](https://apexapps.oracle.com/pls/apex/r/ace_program/oracle-aces/ace?ace_id=2337) | [Oracle ACE](https://ace.oracle.com) |
 | 2020 | Tester of the Day - 08/10/2020 | [Tester of the Day](https://tester-of-the-day.netlify.app) |
 | 2019 | [Top 5 most famous Test Automation Engineer in Brazil](https://www.socialtesters.org/resultado-2019) | [Social Testers](https://www.socialtesters.org) |
 | 2017 | [TDC RockStar](http://www.thedevelopersconference.com.br/rockstars) | [The Developers Conference](http://www.thedevelopersconference.com.br) |
