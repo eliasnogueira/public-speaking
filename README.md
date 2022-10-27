@@ -15,7 +15,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ## TOC
 * Talks
-   * [Coming soon talks <sup>1</sup>](#coming-soon) -- [Past presentations <sup>104</sup>](#past-presentations)
+   * [Coming soon talks <sup>2</sup>](#coming-soon) -- [Past presentations <sup>104</sup>](#past-presentations)
 * Initiatives
    * [Open Source <sup>3</sup>](#open-source) -- [Community <sup>13</sup>](#community)
 * Sharing knowledge
@@ -29,10 +29,11 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ### Coming soon
 
-1 in total
+2 in total
 
 | Date | Event | Title | Location | Language |
 |:----:|-------|-------|----------|:--------:|
+| 20/01/2022 | [Voxxed Days - Ticino](https://voxxeddays.com/ticino/) | Parallel frontend test execution using Selenium and Docker | Lugano, Switzerland | 🇺🇸 | 
 | 06/02/2022 | [Jfokus](https://www.jfokus.se/) | [Hands-on-lab: Build robust API tests with RestAssured](https://www.jfokus.se/talks/1305) | Stockholm, Sweden | 🇺🇸 |
 
 
