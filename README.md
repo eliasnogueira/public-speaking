@@ -33,7 +33,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 | Date | Event | Title | Location | Language |
 |:----:|-------|-------|----------|:--------:|
-| 20/01/2023 | [Voxxed Days - Ticino](https://voxxeddays.com/ticino/) | Parallel frontend test execution using Selenium and Docker | Lugano, Switzerland | 🇺🇸 | 
+| 20/01/2023 | [Voxxed Days - Ticino](https://voxxeddays.com/ticino/) | [Parallel frontend test execution using Selenium and Docker](https://voxxeddays.com/ticino/talk-details/?id=6366) | Lugano, Switzerland | 🇺🇸 | 
 | 06/02/2023 | [Jfokus](https://www.jfokus.se/) | [Hands-on-lab: Build robust API tests with RestAssured](https://www.jfokus.se/talks/1305) | Stockholm, Sweden | 🇺🇸 |
 | 22/03/2023 | [JavaLand](https://www.javaland.eu/en/home/) | Managing Test Data | Brühl, Germany | 🇺🇸 | 
  
