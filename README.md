@@ -15,7 +15,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ## TOC
 * Talks
-   * [Coming soon talks <sup>2</sup>](#coming-soon) -- [Past presentations <sup>104</sup>](#past-presentations)
+   * [Coming soon talks <sup>3</sup>](#coming-soon) -- [Past presentations <sup>104</sup>](#past-presentations)
 * Initiatives
    * [Open Source <sup>3</sup>](#open-source) -- [Community <sup>13</sup>](#community)
 * Sharing knowledge
@@ -29,12 +29,14 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ### Coming soon
 
-2 in total
+3 in total
 
 | Date | Event | Title | Location | Language |
 |:----:|-------|-------|----------|:--------:|
-| 20/01/2022 | [Voxxed Days - Ticino](https://voxxeddays.com/ticino/) | Parallel frontend test execution using Selenium and Docker | Lugano, Switzerland | 🇺🇸 | 
-| 06/02/2022 | [Jfokus](https://www.jfokus.se/) | [Hands-on-lab: Build robust API tests with RestAssured](https://www.jfokus.se/talks/1305) | Stockholm, Sweden | 🇺🇸 |
+| 20/01/2023 | [Voxxed Days - Ticino](https://voxxeddays.com/ticino/) | Parallel frontend test execution using Selenium and Docker | Lugano, Switzerland | 🇺🇸 | 
+| 06/02/2023 | [Jfokus](https://www.jfokus.se/) | [Hands-on-lab: Build robust API tests with RestAssured](https://www.jfokus.se/talks/1305) | Stockholm, Sweden | 🇺🇸 |
+| 22/03/2023 | [JavaLand](https://www.javaland.eu/en/home/) | Managing Test Data | Brühl, Germany | 🇺🇸 | 
+ 
 
 
 [⬆️ back to the top](#toc)
