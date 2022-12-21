@@ -17,7 +17,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 * Talks
    * [Coming soon talks <sup>2</sup>](#coming-soon) -- [Past presentations <sup>104</sup>](#past-presentations)
 * Initiatives
-   * [Open Source <sup>3</sup>](#open-source) -- [Community <sup>13</sup>](#community)
+   * [Open Source <sup>3</sup>](#open-source) -- [Community <sup>14</sup>](#community)
 * Sharing knowledge
    * [Blog posts and content <sup>10</sup>](#blog-posts-and-content) -- [Workshops <sup>13</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>48</sup>](#videos) -- [Poscast <sup>2</sup>](#podcast)
 * Teaching
@@ -177,9 +177,10 @@ Work for the software development and testing community to help them, and me, to
 
 | Date        | Event            | Type | Role |
 |:-----------:|------------------|:----:|:----:|
+| 2022 - now | [Java Magazine Netherlands](https://nljug.org/category/java-magazine/) | Magazine | Content editor |  
 | 2021 | [EuroStart Testing Conference](https://conference.eurostarsoftwaretesting.com/) | Event | Reviewer |
 | 2020 | [The Developers Conference World Edition](https://promo.thedevelopersconference.com.br/tdcsp2020-international) | Event | Program committee | 
-| 2019 - now | [Ministry of Testing - Eindhoven](https://www.meetup.com/Ministry-of-Testing-Eindhoven/) | Meetup | Co-Organizer |
+| 2019 | [Ministry of Testing - Eindhoven](https://www.meetup.com/Ministry-of-Testing-Eindhoven/) | Meetup | Co-Organizer |
 | 2018 | [Programa de Mentoria em Teste de Software](https://www.linkedin.com/company/10035123/) | Online mentorship program | Mentor |
 | 2017 - 2019 | [The Developers Conference Dev-Test Track](http://www.thedevelopersconference.com.br) | Event | Coordinator / Organizer |
 | 2017 - 2019 | [Agile Coach Meetup](https://www.meetup.com/agilecoach-porto-alegre/) | Meetup | Creator and Organizer |
