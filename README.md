@@ -19,7 +19,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 * Initiatives
    * [Open Source <sup>3</sup>](#open-source) -- [Community <sup>14</sup>](#community)
 * Sharing knowledge
-   * [Blog posts and content <sup>10</sup>](#blog-posts-and-content) -- [Workshops <sup>13</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>48</sup>](#videos) -- [Poscast <sup>2</sup>](#podcast)
+   * [Blog posts and content <sup>11</sup>](#blog-posts-and-content) -- [Workshops <sup>13</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>48</sup>](#videos) -- [Poscast <sup>2</sup>](#podcast)
 * Teaching
    * [University <sup>4</sup>](#university) -- [Private schools <sup>2</sup>](#private-school) 
 * [Awards & Recognitions <sup>7</sup>](#awards--recognitions)   
@@ -202,12 +202,13 @@ Work for the software development and testing community to help them, and me, to
 ## Sharing knowledge
 
 ### Blog posts and content
-10 in total
+11 in total
 
 Manly blog posts in different websites and portals.
 
 | Initiative name | Focus | Language |
 |-----------------|-------|:--------:|
+| [JVM Advent Calendar 2022](https://www.javaadvent.com/2022/12/how-a-service-virtualization-approach-can-save-your-and-others-time-playing-with-mocks.html)| Guest post about Wiremock | 🇺🇸 |
 | [Personal blog in English](http://eliasnogueira.com) | Software Quality and Test posts | 🇺🇸 |
 | [Personal blog in pt_BR](http://br.eliasnogueira.com) | Software Quality and Test posts | 🇧🇷 |
 | [Facebook page](https://www.facebook.com/elias.nogueira.teste/) | Daily posts about software testing | 🇧🇷 |
