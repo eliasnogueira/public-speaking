@@ -15,7 +15,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ## TOC
 * Talks
-   * [Coming soon talks <sup>2</sup>](#coming-soon) -- [Past presentations <sup>104</sup>](#past-presentations)
+   * [Coming soon talks <sup>3</sup>](#coming-soon) -- [Past presentations <sup>104</sup>](#past-presentations)
 * Initiatives
    * [Open Source <sup>3</sup>](#open-source) -- [Community <sup>14</sup>](#community)
 * Sharing knowledge
@@ -29,11 +29,12 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ### Coming soon
 
-2 in total
+3 in total
 
 | Date | Event | Title | Location | Language |
 |:----:|-------|-------|----------|:--------:|
 | 06/02/2023 | [Jfokus](https://www.jfokus.se/) | [Hands-on-lab: Build robust API tests with RestAssured](https://www.jfokus.se/talks/1305) | Stockholm, Sweden | 🇺🇸 |
+| 07/02/2023 | [Jfokus](https://www.jfokus.se/) | [How to fast generate your API Test with OpenAPI Tools and Rest-Assured](https://www.jfokus.se/talks/1228) | Stockholm, Sweden | 🇺🇸 |
 | 22/03/2023 | [JavaLand](https://www.javaland.eu/en/home/) | Managing Test Data | Brühl, Germany | 🇺🇸 | 
  
 
