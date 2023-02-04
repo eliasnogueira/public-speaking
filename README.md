@@ -15,11 +15,11 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ## TOC
 * Talks
-   * [Coming soon talks <sup>3</sup>](#coming-soon) -- [Past presentations <sup>104</sup>](#past-presentations)
+   * [Coming soon talks <sup>1</sup>](#coming-soon) -- [Past presentations <sup>105</sup>](#past-presentations)
 * Initiatives
    * [Open Source <sup>3</sup>](#open-source) -- [Community <sup>14</sup>](#community)
 * Sharing knowledge
-   * [Blog posts and content <sup>11</sup>](#blog-posts-and-content) -- [Workshops <sup>13</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>48</sup>](#videos) -- [Poscast <sup>2</sup>](#podcast)
+   * [Blog posts and content <sup>11</sup>](#blog-posts-and-content) -- [Workshops <sup>14</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>48</sup>](#videos) -- [Poscast <sup>2</sup>](#podcast)
 * Teaching
    * [University <sup>4</sup>](#university) -- [Private schools <sup>2</sup>](#private-school) 
 * [Awards & Recognitions <sup>7</sup>](#awards--recognitions)   
@@ -29,12 +29,10 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ### Coming soon
 
-3 in total
+1 in total
 
 | Date | Event | Title | Location | Language |
 |:----:|-------|-------|----------|:--------:|
-| 06/02/2023 | [Jfokus](https://www.jfokus.se/) | [Hands-on-lab: Build robust API tests with RestAssured](https://www.jfokus.se/talks/1305) | Stockholm, Sweden | 🇺🇸 |
-| 07/02/2023 | [Jfokus](https://www.jfokus.se/) | [How to fast generate your API Test with OpenAPI Tools and Rest-Assured](https://www.jfokus.se/talks/1228) | Stockholm, Sweden | 🇺🇸 |
 | 22/03/2023 | [JavaLand](https://www.javaland.eu/en/home/) | Managing Test Data | Brühl, Germany | 🇺🇸 | 
  
 
@@ -42,12 +40,13 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 [⬆️ back to the top](#toc)
 
 ### Past presentations
-104 in total
+105 in total
 
 All the presentations I did in the past, ordered by date.
 
 | Date | Event          | Title / Slide Deck  | Repository |  Language |
 |:----:|----------------|---------------------|:----------:| :--------:|
+| 07/02/2023 | [Jfokus](https://www.jfokus.se/) | [How to fast generate your API Test with OpenAPI Tools and Rest-Assured](https://speakerdeck.com/eliasnogueira/how-to-fast-generate-your-api-test-with-openapi-tools-and-rest-assured) | [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/rest-assured-open-api-generator-talk) | 🇺🇸 |
 | 11/10/2022 | [Devoxx Belgium](https://devoxx.be/) | [Ultra-fast Java Microservices: overcome the pitfalls of data persistence](https://devoxx.be/talk/?id=20173) | [![logo](https://i.imgur.com/244dUgB.png)](https://gist.github.com/eliasnogueira/55543f1aea6dc4ba69f5ed0b81bfc39e) | 🇺🇸 |
 | 07/09/2022 | [JavaZone](https://2022.javazone.no/) | [How to test complex API integrations](https://speakerdeck.com/eliasnogueira/how-to-test-complex-api-integrations) | [![logo](https://i.imgur.com/244dUgB.png)](https://gist.github.com/eliasnogueira/232cced0927953bce043bbae8b702cee) | 🇺🇸 |
 | 01/09/2022 | [Agile Test, Automation, Meetup VIENNA](https://www.meetup.com/Agile-Test-Automation-Meetup-VIENNA/) | [How to create modularity micro-services test project](https://speakerdeck.com/eliasnogueira/how-to-create-modular-microservices-test-project) | [![logo](https://i.imgur.com/244dUgB.png)](https://gist.github.com/eliasnogueira/232cced0927953bce043bbae8b702cee) | 🇺🇸 |
@@ -224,13 +223,14 @@ Manly blog posts in different websites and portals.
 [⬆️ back to the top](#toc)
 
 ### Workshops
-13 in total
+14 in total
 
 All the formal workshops I did. Here workshop means a mini-course with a small audiance where I can show challanges about the subject and the audiance can practice with my help.
 
 | Date | Event            | Subject       | Language  |
 |:-----------------:|------------------|---------------|:---------:|
-| 25/02/2020 | [KraQA](https://www.meetup.com/KraQA-pl/) | [How to automate your REST API with Rest-Assured](https://www.meetup.com/KraQA-pl/events/276290652/) | 🇺🇸  |
+| 06/02/2023 | [Jfokus](https://www.jfokus.se/) | [Hands-on-lab: Build robust API tests with RestAssured](https://www.jfokus.se/talks/1305) | 🇺🇸 |
+| 25/02/2020 | [KraQA](https://www.meetup.com/KraQA-pl/) | [How to automate your REST API with Rest-Assured](https://www.meetup.com/KraQA-pl/events/276290652/) | 🇺🇸 |
 | 19/04/2018 | The Developers Conference - Florianópolis | Testes Manuais e Automatizados para uma API REST | 🇧🇷 |
 | 14/04/2018 | [XPConfBR](http://www.wildtech.com.br/xpconfbr/) | [Criação de arquitetura para execução de testes paralelos na web](https://github.com/eliasnogueira/workshop-selenium-grid) | 🇧🇷 |
 | 22/07/2017 | The Developers Conference - São Paulo | Testes Manuais e Automatizados para uma API REST | 🇧🇷 |
