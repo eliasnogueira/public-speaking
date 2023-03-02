@@ -19,7 +19,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 * Initiatives
    * [Open Source <sup>3</sup>](#open-source) -- [Community <sup>14</sup>](#community)
 * Sharing knowledge
-   * [Blog posts and content <sup>11</sup>](#blog-posts-and-content) -- [Workshops <sup>14</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>48</sup>](#videos) -- [Poscast <sup>2</sup>](#podcast)
+   * [Blog posts and content <sup>11</sup>](#blog-posts-and-content) -- [Workshops <sup>14</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>49</sup>](#videos) -- [Poscast <sup>2</sup>](#podcast)
 * Teaching
    * [University <sup>4</sup>](#university) -- [Private schools <sup>2</sup>](#private-school) 
 * [Awards & Recognitions <sup>7</sup>](#awards--recognitions)   
@@ -262,12 +262,13 @@ Books and eBooks I've released.
 [⬆️ back to the top](#toc)
 
 ### Videos
-48 in total
+49 in total
 
 Videos about my presentations in events and me being intweviwed by different content channels.
 
 | Date | Title | Event | Language |
 |:----:|-------|-------|:--------:|
+| 2023 | [How to fast generate your API Test with OpenAPI Tools and Rest-Assured](https://youtu.be/uIzb6QiGXsE) | [Jfokus](https://www.jfokus.se/) | 🇺🇸 |
 | 2022 | [How to test complex API integrations](https://vimeo.com/747697896?embedded=true&source=video_title&owner=7540193) | [Javazone](https://2022.javazone.no/#/) | 🇺🇸 |
 | 2022 | [E depois de sênios, vem o quê?](https://www.youtube.com/watch?v=bodnkZ-w57o&ab_channel=ElderMoraes) | [Elder Moraes Youtube Channel](https://www.youtube.com/c/ElderMoraes) | 🇧🇷 |
 | 2022 | [How to create modular microservice test projects](https://www.youtube.com/watch?v=MF_5Q-wwR7c) | XGeeks Youtube Channel | 🇺🇸 | 
