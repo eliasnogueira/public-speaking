@@ -35,6 +35,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 |:----:|-------|-------|----------|:--------:|
 | 22/03/2023 | [JavaLand](https://www.javaland.eu/en/home/) | Managing Test Data | Brühl, Germany | 🇺🇸 | 
 | 30-31 April | [jPrime](https://jprime.io/) | Modern Testing Tools for Java Developers | Sofia, Bulgaria | 🇺🇸 | 
+| 30-31 April | [jPrime](https://jprime.io/) | API Tests using Rest-Assured, from zero to a fast, lightweight and bullet-proof architecture | Sofia, Bulgaria | 🇺🇸 | 
  
 
 
