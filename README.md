@@ -33,7 +33,6 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 | Date | Event | Title | Location | Language |
 |:----:|-------|-------|----------|:--------:|
-| 22/03/2023 | [JavaLand](https://www.javaland.eu/en/home/) | Managing Test Data | Brühl, Germany | 🇺🇸 | 
 | 30-31 April | [jPrime](https://jprime.io/) | Modern Testing Tools for Java Developers | Sofia, Bulgaria | 🇺🇸 | 
 | 30-31 April | [jPrime](https://jprime.io/) | API Tests using Rest-Assured, from zero to a fast, lightweight and bullet-proof architecture | Sofia, Bulgaria | 🇺🇸 | 
  
@@ -48,6 +47,7 @@ All the presentations I did in the past, ordered by date.
 
 | Date | Event          | Title / Slide Deck  | Repository |  Language |
 |:----:|----------------|---------------------|:----------:| :--------:|
+| 22/03/2023 | [JavaLand](https://www.javaland.eu/en/home/) | [Managing Test Data](https://speakerdeck.com/eliasnogueira/managing-test-data) | [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/manage-testing-data-java)  [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/credit-api/tree/manage-data)| 🇺🇸 |
 | 07/02/2023 | [Jfokus](https://www.jfokus.se/) | [How to fast generate your API Test with OpenAPI Tools and Rest-Assured](https://speakerdeck.com/eliasnogueira/how-to-fast-generate-your-api-test-with-openapi-tools-and-rest-assured) | [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/rest-assured-open-api-generator-talk) | 🇺🇸 |
 | 11/10/2022 | [Devoxx Belgium](https://devoxx.be/) | [Ultra-fast Java Microservices: overcome the pitfalls of data persistence](https://devoxx.be/talk/?id=20173) | [![logo](https://i.imgur.com/244dUgB.png)](https://gist.github.com/eliasnogueira/55543f1aea6dc4ba69f5ed0b81bfc39e) | 🇺🇸 |
 | 07/09/2022 | [JavaZone](https://2022.javazone.no/) | [How to test complex API integrations](https://speakerdeck.com/eliasnogueira/how-to-test-complex-api-integrations) | [![logo](https://i.imgur.com/244dUgB.png)](https://gist.github.com/eliasnogueira/232cced0927953bce043bbae8b702cee) | 🇺🇸 |
