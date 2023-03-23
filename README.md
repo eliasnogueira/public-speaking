@@ -15,7 +15,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ## TOC
 * Talks
-   * [Coming soon talks <sup>3</sup>](#coming-soon) -- [Past presentations <sup>105</sup>](#past-presentations)
+   * [Coming soon talks <sup>3</sup>](#coming-soon) -- [Past presentations <sup>106</sup>](#past-presentations)
 * Initiatives
    * [Open Source <sup>3</sup>](#open-source) -- [Community <sup>14</sup>](#community)
 * Sharing knowledge
@@ -35,13 +35,14 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 |:----:|-------|-------|----------|:--------:|
 | 30-31 April | [jPrime](https://jprime.io/) | Modern Testing Tools for Java Developers | Sofia, Bulgaria | 🇺🇸 | 
 | 30-31 April | [jPrime](https://jprime.io/) | API Tests using Rest-Assured, from zero to a fast, lightweight and bullet-proof architecture | Sofia, Bulgaria | 🇺🇸 | 
+| 12/06/2023 | [BrabantJUG](https://foojay.social/@brabantjug) | TBD | 's-Hertogenbosch, the Netherlands | 🇺🇸 | 
  
 
 
 [⬆️ back to the top](#toc)
 
 ### Past presentations
-105 in total
+106 in total
 
 All the presentations I did in the past, ordered by date.
 
