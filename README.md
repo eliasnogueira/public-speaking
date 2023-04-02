@@ -33,8 +33,8 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 | Date | Event | Title | Location | Language |
 |:----:|-------|-------|----------|:--------:|
-| 30-31 April | [jPrime](https://jprime.io/) | Modern Testing Tools for Java Developers | Sofia, Bulgaria | 🇺🇸 | 
-| 30-31 April | [jPrime](https://jprime.io/) | API Tests using Rest-Assured, from zero to a fast, lightweight and bullet-proof architecture | Sofia, Bulgaria | 🇺🇸 | 
+| 30-31 May | [jPrime](https://jprime.io/) | Modern Testing Tools for Java Developers | Sofia, Bulgaria | 🇺🇸 | 
+| 30-31 May| [jPrime](https://jprime.io/) | API Tests using Rest-Assured, from zero to a fast, lightweight and bullet-proof architecture | Sofia, Bulgaria | 🇺🇸 | 
 | 12/06/2023 | [BrabantJUG](https://foojay.social/@brabantjug) | TBD | 's-Hertogenbosch, the Netherlands | 🇺🇸 | 
  
 
