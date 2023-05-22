@@ -35,8 +35,8 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 |:----:|-------|-------|----------|:--------:|
 | 30/05/2023 | [jPrime](https://jprime.io/) | Modern Testing Tools for Java Developers | Sofia, Bulgaria | 🇺🇸 | 
 | 31/05/2023 | [jPrime](https://jprime.io/) | API Tests using Rest-Assured, from zero to a fast, lightweight and bullet-proof architecture | Sofia, Bulgaria | 🇺🇸 | 
-| 06/06/2023 | [jPrime](https://jprime.io/) | Modern Testing Tools for Java Developers | Coimbra, Portugal | 🇺🇸 | 
-| 07/06/2023| [jPrime](https://jprime.io/) | Build robust API tests with RestAssured | Coimbra, Portugal | 🇺🇸 | 
+| 06/06/2023 | [JNation](https://jnation.pt/) | Modern Testing Tools for Java Developers | Coimbra, Portugal | 🇺🇸 | 
+| 07/06/2023| [JNation](https://jnation.pt/) | Build robust API tests with RestAssured | Coimbra, Portugal | 🇺🇸 | 
 | 12/06/2023 | [BrabantJUG](https://foojay.social/@brabantjug) | Managing Test Data | 's-Hertogenbosch, the Netherlands | 🇺🇸 | 
  
 
