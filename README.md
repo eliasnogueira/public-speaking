@@ -15,7 +15,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ## TOC
 * Talks
-   * [Coming soon talks <sup>5</sup>](#coming-soon) -- [Past presentations <sup>106</sup>](#past-presentations)
+   * [Coming soon talks <sup>3</sup>](#coming-soon) -- [Past presentations <sup>106</sup>](#past-presentations)
 * Initiatives
    * [Open Source <sup>3</sup>](#open-source) -- [Community <sup>14</sup>](#community)
 * Sharing knowledge
@@ -29,12 +29,10 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ### Coming soon
 
-5 in total
+3 in total
 
 | Date | Event | Title | Location | Language |
 |:----:|-------|-------|----------|:--------:|
-| 30/05/2023 | [jPrime](https://jprime.io/) | Modern Testing Tools for Java Developers | Sofia, Bulgaria | 🇺🇸 | 
-| 31/05/2023 | [jPrime](https://jprime.io/) | API Tests using Rest-Assured, from zero to a fast, lightweight and bullet-proof architecture | Sofia, Bulgaria | 🇺🇸 | 
 | 06/06/2023 | [JNation](https://jnation.pt/) | Modern Testing Tools for Java Developers | Coimbra, Portugal | 🇺🇸 | 
 | 07/06/2023| [JNation](https://jnation.pt/) | Build robust API tests with RestAssured | Coimbra, Portugal | 🇺🇸 | 
 | 12/06/2023 | [BrabantJUG](https://foojay.social/@brabantjug) | Managing Test Data | 's-Hertogenbosch, the Netherlands | 🇺🇸 | 
@@ -50,6 +48,7 @@ All the presentations I did in the past, ordered by date.
 
 | Date | Event          | Title / Slide Deck  | Repository |  Place | Language |
 |:----:|----------------|---------------------|:----------:|:------:|:---------:
+| 30/05/2023 | [jPrime](https://jprime.io/) | [Modern Testing Tools for Java Developers]() | [![logo](https://i.imgur.com/244dUgB.png)](https://gist.github.com/eliasnogueira/69ea4f5907d582de4ba6ee6b36ad2186) | Sofia, Bulgaria | 🇺🇸 | 
 | 22/03/2023 | [JavaLand](https://www.javaland.eu/en/home/) | [Managing Test Data](https://speakerdeck.com/eliasnogueira/managing-test-data) | [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/manage-testing-data-java)  [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/credit-api/tree/manage-data)| Brühl, Germany | 🇺🇸 |
 | 07/02/2023 | [Jfokus](https://www.jfokus.se/) | [How to fast generate your API Test with OpenAPI Tools and Rest-Assured](https://speakerdeck.com/eliasnogueira/how-to-fast-generate-your-api-test-with-openapi-tools-and-rest-assured) | [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/rest-assured-open-api-generator-talk) | Stockholm, Sweeden | 🇺🇸 |
 | 11/10/2022 | [Devoxx Belgium](https://devoxx.be/) | [Ultra-fast Java Microservices: overcome the pitfalls of data persistence](https://devoxx.be/talk/?id=20173) | [![logo](https://i.imgur.com/244dUgB.png)](https://gist.github.com/eliasnogueira/55543f1aea6dc4ba69f5ed0b81bfc39e) | Antwerp, Belgium | 🇺🇸 |
