@@ -33,7 +33,6 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 | Date | Event | Title | Location | Language |
 |:----:|-------|-------|----------|:--------:|
-| 06/06/2023 | [JNation](https://jnation.pt/) | Modern Testing Tools for Java Developers | Coimbra, Portugal | 🇺🇸 | 
 | 07/06/2023 | [JNation](https://jnation.pt/) | Build robust API tests with RestAssured | Coimbra, Portugal | 🇺🇸 | 
 | 12/06/2023 | [BrabantJUG](https://foojay.social/@brabantjug) | Managing Test Data | 's-Hertogenbosch, the Netherlands | 🇺🇸 | 
  
