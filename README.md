@@ -1,7 +1,7 @@
 # Elias Public Speaking
 
 The purpose of this repository is to consolidate in a single place all my participation at conferences, meetups, community activities and events in general.
-Blog posts at: [http://eliasnogueira.com](http://eliasnogueira.com).
+Blog posts at [http://eliasnogueira.com](http://eliasnogueira.com).
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/eliasnogueira?style=social)](https://twitter.com/eliasnogueira)
 [![Linkedin Badge](https://img.shields.io/badge/-Add&nbsp;Me-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliasnogueira/)](https://www.linkedin.com/in/eliasnogueira/)
@@ -15,7 +15,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ## TOC
 * Talks
-   * [Coming soon talks <sup>0</sup>](#coming-soon) -- [Past presentations <sup>109</sup>](#past-presentations)
+   * [Coming soon talks <sup>1</sup>](#coming-soon) -- [Past presentations <sup>109</sup>](#past-presentations)
 * Initiatives
    * [Open Source <sup>3</sup>](#open-source) -- [Community <sup>14</sup>](#community)
 * Sharing knowledge
@@ -29,11 +29,11 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ### Coming soon
 
-0 in total
+1 in total
 
 | Date | Event | Title | Location | Language |
 |:----:|-------|-------|----------|:--------:|
-|      |       |       |          |          |
+| 07/07/2023 | [Belgian Java User Group](https://www.meetup.com/belgian-java-user-group/) | Managing Test Data | Gembloux, Belgium | 🇺🇸 | 
 
 
 [⬆️ back to the top](#toc)
