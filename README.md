@@ -19,7 +19,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 * Initiatives
    * [Open Source <sup>3</sup>](#open-source) -- [Community <sup>14</sup>](#community)
 * Sharing knowledge
-   * [Blog posts and content <sup>11</sup>](#blog-posts-and-content) -- [Workshops <sup>14</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>50</sup>](#videos) -- [Poscast <sup>2</sup>](#podcast)
+   * [Blog posts and content <sup>11</sup>](#blog-posts-and-content) -- [Workshops <sup>14</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>50</sup>](#videos) -- [Poscast <sup>3</sup>](#podcast)
 * Teaching
    * [University <sup>4</sup>](#university) -- [Private schools <sup>2</sup>](#private-school) 
 * [Awards & Recognitions <sup>7</sup>](#awards--recognitions)   
@@ -325,12 +325,13 @@ Videos about my presentations in events and me being intweviwed by different con
 [⬆️ back to the top](#toc)
 
 ### Podcast
-2 in total
+3 in total
 
 Participation on podcasts
 
 | Podcast | Episode | Language |
 |---------|---------|:--------:|
+| [ZupCast](https://www.zup.com.br/zupcast) | [Quality Assurance vs Quality Engineering](https://open.spotify.com/episode/2pZP8EgEB6UHP9TBwivamg?si=trWUMV-GRvaATL23mdRxaA&nd=1) | 🇧🇷 |
 | [Love the Problem](https://open.spotify.com/show/06fPDUqQapNcfIE01IQHhE) | [Ep. 22 - Testes automatizados num mundo cada vez mais digital](https://open.spotify.com/episode/50vGeY2ao3l1xVjFlZG2Is) | 🇧🇷 |
 | [Julio de Lima Podcast](https://anchor.fm/juliodelimas/) | [Episódio #5: Carreira no Exterior, Habilidades Técnicas e uma super entrevista com Elias Nogueira](https://anchor.fm/juliodelimas/episodes/Episdio-5-Carreira-no-Exterior--Habilidades-Tcnicas-e-uma-super-entrevista-com-Elias-Nogueira-edgqla) | 🇧🇷 |
 
