@@ -1,6 +1,6 @@
 # Elias Public Speaking
 
-The purpose of this repository is to consolidate in a single place all my participation at conferences, meetups, community activities and events in general.
+The purpose of this repository is to consolidate in a single place all my participation at conferences, meetups, community activities, and events in general.
 Blog posts at [http://eliasnogueira.com](http://eliasnogueira.com).
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/eliasnogueira?style=social)](https://twitter.com/eliasnogueira)
@@ -17,9 +17,9 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 * Talks
    * [Coming soon talks <sup>1</sup>](#coming-soon) -- [Past presentations <sup>109</sup>](#past-presentations)
 * Initiatives
-   * [Open Source <sup>3</sup>](#open-source) -- [Community <sup>14</sup>](#community)
+   * [Open Source <sup>4</sup>](#open-source) -- [Community <sup>14</sup>](#community)
 * Sharing knowledge
-   * [Blog posts and content <sup>11</sup>](#blog-posts-and-content) -- [Workshops <sup>14</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>50</sup>](#videos) -- [Poscast <sup>3</sup>](#podcast)
+   * [Blog posts and content <sup>11</sup>](#blog-posts-and-content) -- [Workshops <sup>16</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>50</sup>](#videos) -- [Poscast <sup>3</sup>](#podcast)
 * Teaching
    * [University <sup>4</sup>](#university) -- [Private schools <sup>2</sup>](#private-school) 
 * [Awards & Recognitions <sup>7</sup>](#awards--recognitions)   
@@ -41,7 +41,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 ### Past presentations
 109 in total
 
-All the presentations I did in the past, ordered by date.
+All the presentations I did in the past, are ordered by date.
 
 | Date | Event          | Title / Slide Deck  | Repository |  Place | Language |
 |:----:|----------------|---------------------|:----------:|:------:|:--------:|
@@ -160,13 +160,14 @@ All the presentations I did in the past, ordered by date.
 ## Initiatives
 
 ### Open Source
-3 in total
+4 in total
 
 My small contributions to open source projects.
-All my projects on GitHub are open sourced too.
+All my projects on GitHub are open-sourced too.
 
 | Project | Link |
 |---------|------|
+| Eclipse JNoSQL | https://github.com/eclipse/jnosql |
 | Jakarta Data Specification | https://github.com/jakartaee/data/ |
 | bb-fuel | https://github.com/Backbase/bb-fuel |
 | webdrivermanager | https://github.com/bonigarcia/webdrivermanager |
@@ -176,7 +177,7 @@ All my projects on GitHub are open sourced too.
 ### Community
 13 in total
 
-Work for the software development and testing community to help them, and me, to grown.  
+Work for the software development and testing community to help them, and me, to grow.  
 
 | Date        | Event            | Type | Role |
 |:-----------:|------------------|:----:|:----:|
@@ -197,7 +198,7 @@ Work for the software development and testing community to help them, and me, to
 
 #### Facts
  * The Developers Conference Test Track is the largest event in Brazil with more than 400 attendees in three different cities
- * The Developers Conference Dev-Test Track is an event dedicate only on technical subjects for QAs
+ * The Developers Conference Dev-Test Track is an event dedicated only on technical subjects for QAs
  * The GUTS is the first testing user group in Brazil and is still active
  
 [⬆️ back to the top](#toc)
@@ -207,7 +208,7 @@ Work for the software development and testing community to help them, and me, to
 ### Blog posts and content
 11 in total
 
-Manly blog posts in different websites and portals.
+Manly blog posts on different websites and portals.
 
 | Initiative name | Focus | Language |
 |-----------------|-------|:--------:|
@@ -226,12 +227,14 @@ Manly blog posts in different websites and portals.
 [⬆️ back to the top](#toc)
 
 ### Workshops
-14 in total
+16 in total
 
-All the formal workshops I did. Here workshop means a mini-course with a small audiance where I can show challanges about the subject and the audiance can practice with my help.
+All the formal workshops I did. Here workshop means a mini-course with a small audience where I can show challenges about the subject and the audience can practice with my help.
 
-| Date | Event            | Subject       | Language  |
-|:-----------------:|------------------|---------------|:---------:|
+| Date | Event | Subject | Language  |
+|:----:|-------|---------|:---------:|
+| 06/07/2023 | [JNation](https://jnation.pt/) | Build robust API tests with RestAssured | 🇺🇸 |
+| 31/05/2023 | [jPrime][https://jprime.io/] | [API Tests using Rest-Assured, from zero to a fast, lightweight and bullet-proof architecture](https://jprime.io/agenda/180) | 🇺🇸 |
 | 06/02/2023 | [Jfokus](https://www.jfokus.se/) | [Hands-on-lab: Build robust API tests with RestAssured](https://www.jfokus.se/talks/1305) | 🇺🇸 |
 | 25/02/2020 | [KraQA](https://www.meetup.com/KraQA-pl/) | [How to automate your REST API with Rest-Assured](https://www.meetup.com/KraQA-pl/events/276290652/) | 🇺🇸 |
 | 19/04/2018 | The Developers Conference - Florianópolis | Testes Manuais e Automatizados para uma API REST | 🇧🇷 |
@@ -267,7 +270,7 @@ Books and eBooks I've released.
 ### Videos
 50 in total
 
-Videos about my presentations in events and me being intweviwed by different content channels.
+Videos about my presentations at events and interviews from different content channels.
 
 | Date | Title | Event | Language |
 |:----:|-------|-------|:--------:|
