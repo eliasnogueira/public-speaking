@@ -15,7 +15,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ## TOC
 * Talks
-   * [Coming soon talks <sup>1</sup>](#coming-soon) -- [Past presentations <sup>109</sup>](#past-presentations)
+   * [Coming soon talks <sup>2</sup>](#coming-soon) -- [Past presentations <sup>109</sup>](#past-presentations)
 * Initiatives
    * [Open Source <sup>4</sup>](#open-source) -- [Community <sup>14</sup>](#community)
 * Sharing knowledge
@@ -29,11 +29,12 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ### Coming soon
 
-1 in total
+2 in total
 
 | Date | Event | Title | Location | Language |
 |:----:|-------|-------|----------|:--------:|
 | 07/07/2023 | [Belgian Java User Group](https://www.meetup.com/belgian-java-user-group/) | Managing Test Data | Gembloux, Belgium | 🇺🇸 | 
+| 16-19 Oct 2023 | [EclipseCon](https://www.eclipsecon.org/2023) | [The Power of Data-Driven Testing: A Deep Dive into Jakarta Persistence Specifications and NoSQL](https://www.eclipsecon.org/2023/sessions/power-data-driven-testing-deep-dive-jakarta-persistence-specifications-and-nosql) | 🇺🇸 | 
 
 
 [⬆️ back to the top](#toc)
