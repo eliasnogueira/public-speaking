@@ -15,7 +15,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ## TOC
 * Talks
-   * [Coming soon talks <sup>7</sup>](#coming-soon) -- [Past presentations <sup>109</sup>](#past-presentations)
+   * [Coming soon talks <sup>6</sup>](#coming-soon) -- [Past presentations <sup>110</sup>](#past-presentations)
 * Initiatives
    * [Open Source <sup>4</sup>](#open-source) -- [Community <sup>14</sup>](#community)
 * Sharing knowledge
@@ -29,11 +29,10 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ### Coming soon
 
-7 in total
+6 in total
 
 | Date | Event | Title | Location | Language |
 |:----:|-------|-------|----------|:--------:|
-| 15/09/2023 | [EuroSTAR Automation - Deep Dive](https://automation.eurostarsoftwaretesting.com/test-automation-deep-dive/) | Managing Test Data | Online | 🇺🇸 | 
 | 2/10/2023 | [Devoxx Belgium](https://devoxx.be/) | [Hands-on Lab: Build robust API tests with RestAssured](https://devoxx.be/2023-schedule/speaker-details/?id=3752) | Antwerp, Belgium |🇺🇸 | 
 | 11/10/2023 | [Voxxed Days Cluj](https://romania.voxxeddays.com/voxxed-days-cluj-2023/) |[Exploring NoSQL and Polyglot Persistence with Java](https://romania.voxxeddays.com/exploring-nosql-and-polyglot-persistence-with-java-workshop/) | Cluj-Napoca, Romania | 🇺🇸 | 
 | 12/10/2023 | [Voxxed Days Cluj](https://romania.voxxeddays.com/voxxed-days-cluj-2023/) | Modern Testing Tools for Java Developers | Cluj-Napoca, Romania | 🇺🇸 | 
@@ -45,12 +44,13 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 [⬆️ back to the top](#toc)
 
 ### Past presentations
-109 in total
+110 in total
 
 All the presentations I did in the past, are ordered by date.
 
 | Date | Event          | Title / Slide Deck  | Repository |  Place | Language |
 |:----:|----------------|---------------------|:----------:|:------:|:--------:|
+| 15/09/2023 | [EuroSTAR Automation - Deep Dive](https://automation.eurostarsoftwaretesting.com/test-automation-deep-dive/) | [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/manage-testing-data-java)  [![logo](https://i.imgur.com/244dUgB.png)]
 | 12/06/2023 | [BrabantJUG](https://foojay.social/@brabantjug) | [Managing Test Data](https://speakerdeck.com/eliasnogueira/managing-test-data) | [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/manage-testing-data-java)  [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/credit-api/tree/manage-data)| 's-Hertogenbosch, the Netherlands | 🇺🇸 | 
 | 06/06/2023 | [JNation](https://jnation.pt/) | [Modern Testing Tools for Java Developers](https://speakerdeck.com/eliasnogueira/modern-testing-tools) | [![logo](https://i.imgur.com/244dUgB.png)](https://gist.github.com/eliasnogueira/69ea4f5907d582de4ba6ee6b36ad2186) | Sofia, Bulgaria | 🇺🇸 | 
 | 30/05/2023 | [jPrime](https://jprime.io/) | [Modern Testing Tools for Java Developers](https://speakerdeck.com/eliasnogueira/modern-testing-tools) | [![logo](https://i.imgur.com/244dUgB.png)](https://gist.github.com/eliasnogueira/69ea4f5907d582de4ba6ee6b36ad2186) | Sofia, Bulgaria | 🇺🇸 | 
