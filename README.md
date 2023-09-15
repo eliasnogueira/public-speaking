@@ -35,7 +35,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 |:----:|-------|-------|----------|:--------:|
 | 2/10/2023 | [Devoxx Belgium](https://devoxx.be/) | [Hands-on Lab: Build robust API tests with RestAssured](https://devoxx.be/2023-schedule/speaker-details/?id=3752) | Antwerp, Belgium |🇺🇸 | 
 | 11/10/2023 | [Voxxed Days Cluj](https://romania.voxxeddays.com/voxxed-days-cluj-2023/) |[Exploring NoSQL and Polyglot Persistence with Java](https://romania.voxxeddays.com/exploring-nosql-and-polyglot-persistence-with-java-workshop/) | Cluj-Napoca, Romania | 🇺🇸 | 
-| 12/10/2023 | [Voxxed Days Cluj](https://romania.voxxeddays.com/voxxed-days-cluj-2023/) | Modern Testing Tools for Java Developers | Cluj-Napoca, Romania | 🇺🇸 | 
+| 12/10/2023 | [Voxxed Days Cluj](https://romania.voxxeddays.com/voxxed-days-cluj-2023/) | [Modern Testing Tools for Java Developers](https://romania.voxxeddays.com/modern-testing-tools-for-java-developers/) | Cluj-Napoca, Romania | 🇺🇸 | 
 | 18/10/2023 | [EclipseCon](https://www.eclipsecon.org/2023) | [The Power of Data-Driven Testing: A Deep Dive into Jakarta Persistence Specifications and NoSQL](https://www.eclipsecon.org/2023/sessions/power-data-driven-testing-deep-dive-jakarta-persistence-specifications-and-nosql) | Ludwigsburg, Germany | 🇺🇸 | 
 | 13/11/2023 | [OnlineTestConf](https://www.onlinetestconf.com/) | [How to fast generate your API Test with OpenAPI Tools and Rest-Assured](https://www.onlinetestconf.com/schedule/#elias-nogueira) | Online | 🇺🇸 | 
 | 21/11/2023 | [JCON World](https://2023.world.jcon.one/) | [ Modern Testing Tools for Java Developers](https://2023.world.jcon.one/speaker) | Online | 🇺🇸 | 
