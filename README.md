@@ -15,7 +15,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ## TOC
 * Talks
-   * [Coming soon talks <sup>5</sup>](#coming-soon) -- [Past presentations <sup>111</sup>](#past-presentations)
+   * [Coming soon talks <sup>4</sup>](#coming-soon) -- [Past presentations <sup>112</sup>](#past-presentations)
 * Initiatives
    * [Open Source <sup>4</sup>](#open-source) -- [Community <sup>14</sup>](#community)
 * Sharing knowledge
@@ -29,11 +29,10 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ### Coming soon
 
-5 in total
+4 in total
 
 | Date | Event | Title | Location | Language |
 |:----:|-------|-------|----------|:--------:|
-| 18/10/2023 | [EclipseCon](https://www.eclipsecon.org/2023) | [The Power of Data-Driven Testing: A Deep Dive into Jakarta Persistence Specifications and NoSQL](https://www.eclipsecon.org/2023/sessions/power-data-driven-testing-deep-dive-jakarta-persistence-specifications-and-nosql) | Ludwigsburg, Germany | 🇺🇸 | 
 | 09/11/2023 | [JFall](https://jfall.nl) | Managing Test Data | Ede, the Netherlands | 🇺🇸 | 
 | 11/11/2023 | [Cloud Conference Day](https://www.cloudconferenceday.com/) | Ferramentas de Testes Modernas para Desenvolvedores Java | Online | 🇧🇷 | 
 | 13/11/2023 | [OnlineTestConf](https://www.onlinetestconf.com/) | [How to fast generate your API Test with OpenAPI Tools and Rest-Assured](https://www.onlinetestconf.com/schedule/#elias-nogueira) | Online | 🇺🇸 | 
@@ -43,12 +42,13 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 [⬆️ back to the top](#toc)
 
 ### Past presentations
-111 in total
+112 in total
 
 All the presentations I did in the past, are ordered by date.
 
 | Date | Event          | Title / Slide Deck  | Repository |  Place | Language |
 |:----:|----------------|---------------------|:----------:|:------:|:--------:|
+| 18/10/2023 | [EclipseCon](https://www.eclipsecon.org/2023) | [The Power of Data-Driven Testing: A Deep Dive into Jakarta Persistence Specifications and NoSQL](https://speakerdeck.com/eliasnogueira/the-power-of-data-driven-testing) | [![logo](https://i.imgur.com/244dUgB.png)]([https://gist.github.com/eliasnogueira/69ea4f5907d582de4ba6ee6b36ad2186](https://github.com/eclipse/jnosql)) | Ludwigsburg, Germany | 🇺🇸 | 
 | 12/10/2023 | [Voxxed Days Cluj](https://romania.voxxeddays.com/voxxed-days-cluj-2023/) | [Modern Testing Tools for Java Developers](https://romania.voxxeddays.com/modern-testing-tools-for-java-developers/) | [![logo](https://i.imgur.com/244dUgB.png)](https://gist.github.com/eliasnogueira/69ea4f5907d582de4ba6ee6b36ad2186) | Cluj-Napoca, Romania | 🇺🇸 | 
 | 02/10/2023 | [Devoxx Belgium](https://devoxx.be/) | [Hands-on Lab: Build robust API tests with RestAssured](https://devoxx.be/2023-schedule/speaker-details/?id=3752) | | Antwerp, Belgium | 🇺🇸 | 
 | 15/09/2023 | [EuroSTAR Automation - Deep Dive](https://automation.eurostarsoftwaretesting.com/test-automation-deep-dive/) | [Managing Test Data](https://speakerdeck.com/eliasnogueira/managing-test-data) | [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/manage-testing-data-java)  [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/credit-api/tree/manage-data)| Online | 🇺🇸 | 
