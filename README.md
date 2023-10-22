@@ -34,7 +34,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 | Date | Event | Title | Location | Language |
 |:----:|-------|-------|----------|:--------:|
 | 09/11/2023 | [JFall](https://jfall.nl) | Managing Test Data | Ede, the Netherlands | 🇺🇸 | 
-| 11/11/2023 | [Cloud Conference Day](https://www.cloudconferenceday.com/) | Ferramentas de Testes Modernas para Desenvolvedores Java | Online | 🇧🇷 | 
+| 11/11/2023 | [Cloud Conference Day](https://www.cloudconferenceday.com/) | [Ferramentas de Testes Modernas para Desenvolvedores Java](https://www.cloudconferenceday.com/java) | Online | 🇧🇷 | 
 | 13/11/2023 | [OnlineTestConf](https://www.onlinetestconf.com/) | [How to fast generate your API Test with OpenAPI Tools and Rest-Assured](https://www.onlinetestconf.com/schedule/#elias-nogueira) | Online | 🇺🇸 | 
 | 21/11/2023 | [JCON World](https://2023.world.jcon.one/) | [ Modern Testing Tools for Java Developers](https://2023.world.jcon.one/speaker) | Online | 🇺🇸 | 
 
