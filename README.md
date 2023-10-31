@@ -19,7 +19,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 * Initiatives
    * [Open Source <sup>4</sup>](#open-source) -- [Community <sup>14</sup>](#community)
 * Sharing knowledge
-   * [Blog posts and content <sup>11</sup>](#blog-posts-and-content) -- [Workshops <sup>18</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>51</sup>](#videos) -- [Poscast <sup>3</sup>](#podcast)
+   * [Blog posts and content <sup>11</sup>](#blog-posts-and-content) -- [Workshops <sup>18</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>52</sup>](#videos) -- [Poscast <sup>3</sup>](#podcast)
 * Teaching
    * [University <sup>4</sup>](#university) -- [Private schools <sup>2</sup>](#private-school) 
 * [Awards & Recognitions <sup>7</sup>](#awards--recognitions)   
@@ -277,12 +277,13 @@ Books and eBooks I've released.
 [⬆️ back to the top](#toc)
 
 ### Videos
-51 in total
+52 in total
 
 Videos about my presentations at events and interviews from different content channels.
 
 | Date | Title | Event | Language |
 |:----:|-------|-------|:--------:|
+| 2023 | [Modern Testing Tools for Java Developers]([https://youtu.be/8NWgy1YRS8M?si=xlpjo0GvRIODaYgt](https://www.youtube.com/watch?v=CvkMUO3rZ8M&ab_channel=Devoxx)) | [VoxxedDays Cluj]([http://jnation.pt](https://romania.voxxeddays.com/)) | 🇺🇸 |
 | 2023 | [Modern Testing Tools for Java Developers](https://youtu.be/8NWgy1YRS8M?si=xlpjo0GvRIODaYgt) | [JNation](http://jnation.pt) | 🇺🇸 |
 | 2023 | [Modern Testing Tools for Java Developers](https://www.youtube.com/live/npNE3sFrKDE?feature=share&t=20902) | [jPrime](http://jprime.io) | 🇺🇸 |
 | 2023 | [How to fast generate your API Test with OpenAPI Tools and Rest-Assured](https://youtu.be/uIzb6QiGXsE) | [Jfokus](https://www.jfokus.se/) | 🇺🇸 |
