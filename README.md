@@ -14,38 +14,39 @@ Blog posts at [http://eliasnogueira.com](http://eliasnogueira.com).
 You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/blob/master/BIO.md).
 
 ## TOC
+
 * Talks
-   * [Coming soon talks <sup>2</sup>](#coming-soon) -- [Past presentations <sup>114</sup>](#past-presentations)
+   * [Coming soon talks <sup>1</sup>](#coming-soon) -- [Past presentations <sup>115</sup>](#past-presentations)
 * Initiatives
    * [Open Source <sup>4</sup>](#open-source) -- [Community <sup>14</sup>](#community)
 * Sharing knowledge
    * [Blog posts and content <sup>11</sup>](#blog-posts-and-content) -- [Workshops <sup>18</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>52</sup>](#videos) -- [Poscast <sup>3</sup>](#podcast)
 * Teaching
    * [University <sup>4</sup>](#university) -- [Private schools <sup>2</sup>](#private-school) 
-* [Awards & Recognitions <sup>7</sup>](#awards--recognitions)   
+* [Awards & Recognitions <sup>8</sup>](#awards--recognitions)   
 * [My social networks](#my-social-networks)
 
 ## Talks
 
 ### Coming soon
 
-2 in total
+1 in total
 
 | Date | Event | Title | Location | Language |
 |:----:|-------|-------|----------|:--------:|
-| 13/11/2023 | [OnlineTestConf](https://www.onlinetestconf.com/) | [How to fast generate your API Test with OpenAPI Tools and Rest-Assured](https://www.onlinetestconf.com/schedule/#elias-nogueira) | Online | 🇺🇸 | 
 | 21/11/2023 | [JCON World](https://2023.world.jcon.one/) | [ Modern Testing Tools for Java Developers](https://2023.world.jcon.one/speaker) | Online | 🇺🇸 | 
 
 
 [⬆️ back to the top](#toc)
 
 ### Past presentations
-114 in total
+115 in total
 
 All the presentations I did in the past, are ordered by date.
 
 | Date | Event          | Title / Slide Deck  | Repository |  Place | Language |
 |:----:|----------------|---------------------|:----------:|:------:|:--------:|
+| 13/11/2023 | [OnlineTestConf](https://www.onlinetestconf.com/) | [How to fast generate your API Test with OpenAPI Tools and Rest-Assured](https://speakerdeck.com/eliasnogueira/how-to-fast-generate-your-api-test-with-openapi-tools-and-rest-assured) | [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/rest-assured-open-api-generator-talk) | Online | 🇺🇸 |
 | 11/11/2023 | [Cloud Conference Day](https://www.cloudconferenceday.com/) | [Ferramentas Modernas para Desenvolvedores Java](https://speakerdeck.com/eliasnogueira/modern-testing-tools) | [![logo](https://i.imgur.com/244dUgB.png)](https://gist.github.com/eliasnogueira/69ea4f5907d582de4ba6ee6b36ad2186) | Online | 🇧🇷 |
 | 09/11/2023 | [JFall](https://jfall.nl) | [Managing Test Data](https://speakerdeck.com/eliasnogueira/managing-test-data) | [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/manage-testing-data-java)  [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/credit-api/tree/manage-data)| Ede, the Netherlands | 🇺🇸 | 
 | 18/10/2023 | [EclipseCon](https://www.eclipsecon.org/2023) | [The Power of Data-Driven Testing: A Deep Dive into Jakarta Persistence Specifications and NoSQL](https://speakerdeck.com/eliasnogueira/the-power-of-data-driven-testing) | [![logo](https://i.imgur.com/244dUgB.png)]([https://gist.github.com/eliasnogueira/69ea4f5907d582de4ba6ee6b36ad2186](https://github.com/eclipse/jnosql)) | Ludwigsburg, Germany | 🇺🇸 | 
@@ -380,12 +381,13 @@ My role as a teacher in Testing Automation courses in private schools.
 [⬆️ back to the top](#toc)
 
 ## Awards & Recognitions
-6 in total
+7 in total
 
 Recognition for working in the software development community
 
 | Date | Award | Event |
 |:----:|-------|-------|
+| 2023 | [Java Champion](https://javachampions.org/members.html) | [Java Champions](https://javachampions.org/) |
 | 2022 | [ACE Associate: Java](https://apexapps.oracle.com/pls/apex/r/ace_program/oracle-aces/ace?ace_id=2337) | [Oracle ACE](https://ace.oracle.com) |
 | 2022 | [BrowserStack Champion](https://www.browserstack.com/browserstack-champions?champion-search=elias) | [BrowserStack](https://www.browserstack.com) |
 | 2020 | Tester of the Day - 08/10/2020 | [Tester of the Day](https://tester-of-the-day.netlify.app) |
