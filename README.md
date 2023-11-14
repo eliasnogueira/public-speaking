@@ -35,7 +35,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 | Date | Event | Title | Location | Language |
 |:----:|-------|-------|----------|:--------:|
 | 21/11/2023 | [JCON World](https://2023.world.jcon.one/) | [Modern Testing Tools for Java Developers](https://2023.world.jcon.one/speaker) | Online | 🇺🇸 | 
-| 19/01/2023 | [JakartaOne Livestream - Portuguese](https://jakartaone.org/2024/portuguese/) | O poder do data-driven testing: um mergulho nas especificações Jakarta Persistense e NoSQL | Online | 🇧🇷 | 
+| 19/01/2024 | [JakartaOne Livestream - Portuguese](https://jakartaone.org/2024/portuguese/) | O poder do data-driven testing: um mergulho nas especificações Jakarta Persistense e NoSQL | Online | 🇧🇷 | 
 
 
 [⬆️ back to the top](#toc)
