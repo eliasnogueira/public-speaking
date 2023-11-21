@@ -16,7 +16,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 ## TOC
 
 * Talks
-   * [Coming soon talks <sup>2</sup>](#coming-soon) -- [Past presentations <sup>115</sup>](#past-presentations)
+   * [Coming soon talks <sup>1</sup>](#coming-soon) -- [Past presentations <sup>115</sup>](#past-presentations)
 * Initiatives
    * [Open Source <sup>4</sup>](#open-source) -- [Community <sup>14</sup>](#community)
 * Sharing knowledge
@@ -30,23 +30,23 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ### Coming soon
 
-2 in total
+1 in total
 
 | Date | Event | Title | Location | Language |
 |:----:|-------|-------|----------|:--------:|
-| 21/11/2023 | [JCON World](https://2023.world.jcon.one/) | [Modern Testing Tools for Java Developers](https://2023.world.jcon.one/speaker) | Online | 🇺🇸 | 
 | 19/01/2024 | [JakartaOne Livestream - Portuguese](https://jakartaone.org/2024/portuguese/) | O poder do data-driven testing: um mergulho nas especificações Jakarta Persistense e NoSQL | Online | 🇧🇷 | 
 
 
 [⬆️ back to the top](#toc)
 
 ### Past presentations
-115 in total
+116 in total
 
 All the presentations I did in the past, are ordered by date.
 
 | Date | Event          | Title / Slide Deck  | Repository |  Place | Language |
 |:----:|----------------|---------------------|:----------:|:------:|:--------:|
+| 21/11/2023 | [JCON World](https://2023.world.jcon.one/) | [Modern Testing Tools for Java Developers](https://speakerdeck.com/eliasnogueira/modern-testing-tools) | [![logo](https://i.imgur.com/244dUgB.png)](https://gist.github.com/eliasnogueira/69ea4f5907d582de4ba6ee6b36ad2186) | Online | 🇺🇸 | 
 | 13/11/2023 | [OnlineTestConf](https://www.onlinetestconf.com/) | [How to fast generate your API Test with OpenAPI Tools and Rest-Assured](https://speakerdeck.com/eliasnogueira/how-to-fast-generate-your-api-test-with-openapi-tools-and-rest-assured) | [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/rest-assured-open-api-generator-talk) | Online | 🇺🇸 |
 | 11/11/2023 | [Cloud Conference Day](https://www.cloudconferenceday.com/) | [Ferramentas Modernas para Desenvolvedores Java](https://speakerdeck.com/eliasnogueira/modern-testing-tools) | [![logo](https://i.imgur.com/244dUgB.png)](https://gist.github.com/eliasnogueira/69ea4f5907d582de4ba6ee6b36ad2186) | Online | 🇧🇷 |
 | 09/11/2023 | [JFall](https://jfall.nl) | [Managing Test Data](https://speakerdeck.com/eliasnogueira/managing-test-data) | [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/manage-testing-data-java)  [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/credit-api/tree/manage-data)| Ede, the Netherlands | 🇺🇸 | 
