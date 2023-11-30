@@ -286,7 +286,7 @@ Videos about my presentations at events and interviews from different content ch
 | Date | Title | Event | Language |
 |:----:|-------|-------|:--------:|
 | 2023 | [The Power of Data-Driven Testing: A Deep Dive into Jakarta Persistence Specifications and NoSQL](https://www.youtube.com/watch?v=BFiOshs70dE&ab_channel=EclipseFoundation) | [EclipseCon](https://eclipsecon.org/) | 🇺🇸 |
-| 2023 | [Modern Testing Tools for Java Developers](https://youtu.be/8NWgy1YRS8M?si=xlpjo0GvRIODaYgt](https://www.youtube.com/watch?v=CvkMUO3rZ8M&ab_channel=Devoxx) | [VoxxedDays Cluj]([http://jnation.pt](https://romania.voxxeddays.com/)) | 🇺🇸 |
+| 2023 | [Modern Testing Tools for Java Developers](https://youtu.be/8NWgy1YRS8M?si=xlpjo0GvRIODaYgt) | [VoxxedDays Cluj]([http://jnation.pt](https://romania.voxxeddays.com/)) | 🇺🇸 |
 | 2023 | [Modern Testing Tools for Java Developers](https://youtu.be/8NWgy1YRS8M?si=xlpjo0GvRIODaYgt) | [JNation](http://jnation.pt) | 🇺🇸 |
 | 2023 | [Modern Testing Tools for Java Developers](https://www.youtube.com/live/npNE3sFrKDE?feature=share&t=20902) | [jPrime](http://jprime.io) | 🇺🇸 |
 | 2023 | [How to fast generate your API Test with OpenAPI Tools and Rest-Assured](https://youtu.be/uIzb6QiGXsE) | [Jfokus](https://www.jfokus.se/) | 🇺🇸 |
