@@ -34,6 +34,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 | Date | Event | Title | Location | Language |
 |:----:|-------|-------|----------|:--------:|
+| 11/12/2023 | [QA Global Summit 23 vol.2](https://geekle.us/schedule/qa232) | How to fast generate your API Test with OpenAPI Tools and Rest-Assured | Online | 🇺🇸 | 
 | 19/01/2024 | [JakartaOne Livestream - Portuguese](https://jakartaone.org/2024/portuguese/) | O poder do data-driven testing: um mergulho nas especificações Jakarta Persistense e NoSQL | Online | 🇧🇷 | 
 
 
