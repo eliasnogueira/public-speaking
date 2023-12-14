@@ -20,7 +20,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 * Initiatives
    * [Open Source <sup>4</sup>](#open-source) -- [Community <sup>14</sup>](#community)
 * Sharing knowledge
-   * [Blog posts and content <sup>11</sup>](#blog-posts-and-content) -- [Workshops <sup>18</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>53</sup>](#videos) -- [Poscast <sup>3</sup>](#podcast)
+   * [Blog posts and content <sup>12</sup>](#blog-posts-and-content) -- [Workshops <sup>18</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>53</sup>](#videos) -- [Poscast <sup>3</sup>](#podcast)
 * Teaching
    * [University <sup>4</sup>](#university) -- [Private schools <sup>2</sup>](#private-school) 
 * [Awards & Recognitions <sup>8</sup>](#awards--recognitions)   
@@ -189,7 +189,7 @@ All my projects on GitHub are open-sourced too.
 ### Community
 13 in total
 
-Work for the software development and testing community to help them, and me, to grow.  
+Work for the software development and testing community to help them, and me, grow.  
 
 | Date        | Event            | Type | Role |
 |:-----------:|------------------|:----:|:----:|
@@ -210,7 +210,7 @@ Work for the software development and testing community to help them, and me, to
 
 #### Facts
  * The Developers Conference Test Track is the largest event in Brazil with more than 400 attendees in three different cities
- * The Developers Conference Dev-Test Track is an event dedicated only on technical subjects for QAs
+ * The Developers Conference Dev-Test Track is an event dedicated only to technical subjects for QAs
  * The GUTS is the first testing user group in Brazil and is still active
  
 [⬆️ back to the top](#toc)
@@ -218,12 +218,13 @@ Work for the software development and testing community to help them, and me, to
 ## Sharing knowledge
 
 ### Blog posts and content
-11 in total
+12 in total
 
 Manly blog posts on different websites and portals.
 
 | Initiative name | Focus | Language |
 |-----------------|-------|:--------:|
+| [JVM Advent Calendar 2023](https://www.javaadvent.com/2023/12/assert-with-grace-custom-assertions-for-cleaner-code.html) | How to write custom assertions with AssertJ | 🇺🇸 |
 | [JVM Advent Calendar 2022](https://www.javaadvent.com/2022/12/how-a-service-virtualization-approach-can-save-your-and-others-time-playing-with-mocks.html)| Guest post about Wiremock | 🇺🇸 |
 | [Personal blog in English](http://eliasnogueira.com) | Software Quality and Test posts | 🇺🇸 |
 | [Personal blog in pt_BR](http://br.eliasnogueira.com) | Software Quality and Test posts | 🇧🇷 |
