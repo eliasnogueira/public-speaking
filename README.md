@@ -16,7 +16,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 ## TOC
 
 * Talks
-   * [Coming soon talks <sup>3</sup>](#coming-soon) -- [Past presentations <sup>117</sup>](#past-presentations)
+   * [Coming soon talks <sup>2</sup>](#coming-soon) -- [Past presentations <sup>118</sup>](#past-presentations)
 * Initiatives
    * [Open Source <sup>4</sup>](#open-source) -- [Community <sup>14</sup>](#community)
 * Sharing knowledge
@@ -30,11 +30,10 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ### Coming soon
 
-3 in total
+2 in total
 
 | Date | Event | Title | Location | Language |
 |:----:|-------|-------|----------|:--------:|
-| 19/01/2024 | [JakartaOne Livestream - Portuguese](https://jakartaone.org/2024/portuguese/) | O poder do data-driven testing: um mergulho nas especificações Jakarta Persistense e NoSQL | Online | 🇧🇷 | 
 | April 9-11, 2024 | [Devnexus](https://devnexus.com/) | [Modern Testing Tools for Java Developers](https://devnexus.com/presentations/modern-testing-tools-for-java-developers/) | Atlanta, U.S | 🇺🇸 |
 | May 22-23, 2024 | [InfoShare Conference](https://infoshare.pl/conference/) | Managing Testing Data | Gdańsk, Poland | 🇺🇸 |
 
@@ -42,12 +41,13 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 [⬆️ back to the top](#toc)
 
 ### Past presentations
-117 in total
+118 in total
 
 All the presentations I did in the past, are ordered by date.
 
 | Date | Event          | Title / Slide Deck  | Repository |  Place | Language |
 |:----:|----------------|---------------------|:----------:|:------:|:--------:|
+| 19/01/2024 | [JakartaOne Livestream - Portuguese](https://jakartaone.org/2024/portuguese/) | [O poder do data-driven testing: um mergulho nas especificações Jakarta Persistense e NoSQL](https://speakerdeck.com/eliasnogueira/the-power-of-data-driven-testing) | [![logo](https://i.imgur.com/244dUgB.png)]([https://gist.github.com/eliasnogueira/69ea4f5907d582de4ba6ee6b36ad2186](https://github.com/eclipse/jnosql)) | Online | 🇧🇷 | 
 | 13/12/2023 | [QA Global Summit 23 vol.2](https://geekle.us) | [How to fast generate your API Test with OpenAPI Tools and Rest-Assured](https://speakerdeck.com/eliasnogueira/short-version-how-to-fast-generate-your-api-test-with-openapi-tools-and-rest-assured) | [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/rest-assured-open-api-generator-talk) | Online | 🇺🇸 |
 | 21/11/2023 | [JCON World](https://2023.world.jcon.one/) | [Modern Testing Tools for Java Developers](https://speakerdeck.com/eliasnogueira/modern-testing-tools) | [![logo](https://i.imgur.com/244dUgB.png)](https://gist.github.com/eliasnogueira/69ea4f5907d582de4ba6ee6b36ad2186) | Online | 🇺🇸 | 
 | 13/11/2023 | [OnlineTestConf](https://www.onlinetestconf.com/) | [How to fast generate your API Test with OpenAPI Tools and Rest-Assured](https://speakerdeck.com/eliasnogueira/how-to-fast-generate-your-api-test-with-openapi-tools-and-rest-assured) | [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/rest-assured-open-api-generator-talk) | Online | 🇺🇸 |
