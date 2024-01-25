@@ -36,7 +36,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 |:----:|-------|-------|----------|:--------:|
 | 07/02/2024 | [Geekle Online Summit for Java Devs](https://events.geekle.us/java24/) | Modern Testing Tools for Java Developers | Online | 🇺🇸 |
 | April 9-11, 2024 | [Devnexus](https://devnexus.com/) | [Modern Testing Tools for Java Developers](https://devnexus.com/presentations/modern-testing-tools-for-java-developers/) | Atlanta, U.S | 🇺🇸 |
-| 15/05/2024 | [JCON Europe](https://2024.europe.jcon.one/) | [Managing Test Data](https://jconeurope2024.sched.com/event/1YwRC?iframe=no)  | 🇺🇸 | Cologne, Germany |
+| 15/05/2024 | [JCON Europe](https://2024.europe.jcon.one/) | [Managing Test Data](https://jconeurope2024.sched.com/event/1YwRC?iframe=no) | Cologne, Germany |
 | May 22-23, 2024 | [InfoShare Conference](https://infoshare.pl/conference/) | Managing Testing Data | Gdańsk, Poland | 🇺🇸 |
 
 
