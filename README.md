@@ -16,7 +16,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 ## TOC
 
 * Talks
-   * [Coming soon talks <sup>4</sup>](#coming-soon) -- [Past presentations <sup>118</sup>](#past-presentations)
+   * [Coming soon talks <sup>5</sup>](#coming-soon) -- [Past presentations <sup>118</sup>](#past-presentations)
 * Initiatives
    * [Open Source <sup>4</sup>](#open-source) -- [Community <sup>14</sup>](#community)
 * Sharing knowledge
@@ -30,12 +30,13 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ### Coming soon
 
-4 in total
+5 in total
 
 | Date | Event | Title | Location | Language |
 |:----:|-------|-------|----------|:--------:|
 | 07/02/2024 | [Geekle Online Summit for Java Devs](https://events.geekle.us/java24/) | Modern Testing Tools for Java Developers | Online | 🇺🇸 |
 | April 9-11, 2024 | [Devnexus](https://devnexus.com/) | [Modern Testing Tools for Java Developers](https://devnexus.com/presentations/modern-testing-tools-for-java-developers/) | Atlanta, U.S | 🇺🇸 |
+| May 8-10, 2024 | [Devoxx UK](https://www.devoxx.co.uk/) |Datafaker: the most powerful fake data generator library | London, United Kingdom | 🇺🇸 |
 | 15/05/2024 | [JCON Europe](https://2024.europe.jcon.one/) | [Managing Test Data](https://jconeurope2024.sched.com/event/1YwRC?iframe=no) | Cologne, Germany | 🇺🇸 |
 | May 22-23, 2024 | [InfoShare Conference](https://infoshare.pl/conference/) | Managing Testing Data | Gdańsk, Poland | 🇺🇸 |
 
