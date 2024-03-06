@@ -253,7 +253,7 @@ All the formal workshops I did. Here workshop means a mini-course with a small a
 | 11/10/2023 | [Voxxed Days Cluj](https://romania.voxxeddays.com/voxxed-days-cluj-2023/) | [Exploring NoSQL and Polyglot Persistence with Java](https://romania.voxxeddays.com/exploring-nosql-and-polyglot-persistence-with-java-workshop/) | 🇺🇸 |
 | 02/10/2023 | [Devoxx Belgium](https://devoxx.be/) | [Hands-on Lab: Build robust API tests with RestAssured](https://devoxx.be/2023-schedule/speaker-details/?id=3752) | 🇺🇸 | 
 | 06/07/2023 | [JNation](https://jnation.pt/) | Build robust API tests with RestAssured | 🇺🇸 |
-| 31/05/2023 | [jPrime][https://jprime.io/] | [API Tests using Rest-Assured, from zero to a fast, lightweight and bullet-proof architecture](https://jprime.io/agenda/180) | 🇺🇸 |
+| 31/05/2023 | [jPrime](https://jprime.io/) | [API Tests using Rest-Assured, from zero to a fast, lightweight and bullet-proof architecture](https://jprime.io/agenda/180) | 🇺🇸 |
 | 06/02/2023 | [Jfokus](https://www.jfokus.se/) | [Hands-on-lab: Build robust API tests with RestAssured](https://www.jfokus.se/talks/1305) | 🇺🇸 |
 | 25/02/2020 | [KraQA](https://www.meetup.com/KraQA-pl/) | [How to automate your REST API with Rest-Assured](https://www.meetup.com/KraQA-pl/events/276290652/) | 🇺🇸 |
 | 19/04/2018 | The Developers Conference - Florianópolis | Testes Manuais e Automatizados para uma API REST | 🇧🇷 |
