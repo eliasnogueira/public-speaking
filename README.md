@@ -15,14 +15,10 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ## TOC
 
-* Talks
-   * [Coming soon talks <sup>3</sup>](#coming-soon) -- [Past presentations <sup>121</sup>](#past-presentations)
-* Initiatives
-   * [Open Source <sup>4</sup>](#open-source) -- [Community <sup>14</sup>](#community)
-* Sharing knowledge
-   * [Blog posts and content <sup>12</sup>](#blog-posts-and-content) -- [Workshops <sup>18</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>56</sup>](#videos) -- [Poscast <sup>4</sup>](#podcast)
-* Teaching
-   * [University <sup>4</sup>](#university) -- [Private schools <sup>2</sup>](#private-school) 
+* Talks: [Coming soon talks <sup>4</sup>](#coming-soon) -- [Past presentations <sup>121</sup>](#past-presentations)
+* Initiatives: [Open Source <sup>4</sup>](#open-source) -- [Community <sup>14</sup>](#community)
+* Sharing knowledge: [Blog posts and content <sup>12</sup>](#blog-posts-and-content) -- [Workshops <sup>18</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>56</sup>](#videos) -- [Poscast <sup>4</sup>](#podcast)
+* Teaching: [University <sup>4</sup>](#university) -- [Private schools <sup>2</sup>](#private-school) 
 * [Awards & Recognitions <sup>8</sup>](#awards--recognitions)   
 * [My social networks](#my-social-networks)
 
@@ -30,13 +26,14 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ### Coming soon
 
-3 in total
+4 in total
 
 | Date | Event | Title | Location | Language |
 |:----:|-------|-------|----------|:--------:|
-| May 8-10, 2024 | [Devoxx UK](https://www.devoxx.co.uk/) | [Datafaker: the most powerful fake data generator library](https://www.devoxx.co.uk/talk/?id=11195) | London, United Kingdom | 🇺🇸 |
+| 10/05/2024 | [Devoxx UK](https://www.devoxx.co.uk/) | [Datafaker: the most powerful fake data generator library](https://www.devoxx.co.uk/talk/?id=11195) | London, United Kingdom | 🇺🇸 |
 | 15/05/2024 | [JCON Europe](https://2024.europe.jcon.one/) | [Managing Test Data](https://jconeurope2024.sched.com/event/1YwRC?iframe=no) | Cologne, Germany | 🇺🇸 |
-| May 22-23, 2024 | [InfoShare Conference](https://infoshare.pl/conference/) | [Managing Testing Data](https://infoshare.pl/conference/speakers/#speaker2137) | Gdańsk, Poland | 🇺🇸 |
+| 22/05/2024 | [InfoShare Conference](https://infoshare.pl/conference/) | [Managing Testing Data](https://infoshare.pl/conference/speakers/#speaker2137) | Gdańsk, Poland | 🇺🇸 |
+| 30/05/2024 | [Utrecht JUG](https://www.meetup.com/utrecht-java-user-group/) | [Datafaker: the most powerful fake data generator library](https://www.meetup.com/utrecht-java-user-group/events/299097782/) | Utrecht, the Netherlands | 🇺🇸 |
 
 
 [⬆️ back to the top](#toc)
