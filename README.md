@@ -15,7 +15,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ## TOC
 
-* Talks: [Coming soon talks <sup>4</sup>](#coming-soon) -- [Past presentations <sup>121</sup>](#past-presentations)
+* Talks: [Coming soon talks <sup>5</sup>](#coming-soon) -- [Past presentations <sup>121</sup>](#past-presentations)
 * Initiatives: [Open Source <sup>4</sup>](#open-source) -- [Community <sup>14</sup>](#community)
 * Sharing knowledge: [Blog posts and content <sup>12</sup>](#blog-posts-and-content) -- [Workshops <sup>18</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>56</sup>](#videos) -- [Poscast <sup>4</sup>](#podcast)
 * Teaching: [University <sup>4</sup>](#university) -- [Private schools <sup>2</sup>](#private-school) 
@@ -26,7 +26,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ### Coming soon
 
-4 in total
+5 in total
 
 | Date | Event | Title | Location | Language |
 |:----:|-------|-------|----------|:--------:|
@@ -34,6 +34,8 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 | 15/05/2024 | [JCON Europe](https://2024.europe.jcon.one/) | [Managing Test Data](https://jconeurope2024.sched.com/event/1YwRC?iframe=no) | Cologne, Germany | 🇺🇸 |
 | 22/05/2024 | [InfoShare Conference](https://infoshare.pl/conference/) | [Managing Testing Data](https://infoshare.pl/conference/speakers/#speaker2137) | Gdańsk, Poland | 🇺🇸 |
 | 30/05/2024 | [Utrecht JUG](https://www.meetup.com/utrecht-java-user-group/) | [Datafaker: the most powerful fake data generator library](https://www.meetup.com/utrecht-java-user-group/events/299097782/) | Utrecht, the Netherlands | 🇺🇸 |
+| 04/06/2024 | Xebia KDE | Managing Test Data | Hilversum, the Netherlands | 🇺🇸 |
+
 
 
 [⬆️ back to the top](#toc)
