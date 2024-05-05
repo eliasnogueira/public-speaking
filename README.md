@@ -17,7 +17,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 * Talks: [Coming soon talks <sup>5</sup>](#coming-soon) -- [Past presentations <sup>121</sup>](#past-presentations)
 * Initiatives: [Open Source <sup>4</sup>](#open-source) -- [Community <sup>14</sup>](#community)
-* Sharing knowledge: [Blog posts and content <sup>12</sup>](#blog-posts-and-content) -- [Workshops <sup>18</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>56</sup>](#videos) -- [Poscast <sup>4</sup>](#podcast)
+* Sharing knowledge: [Blog posts and content <sup>12</sup>](#blog-posts-and-content) -- [Workshops <sup>18</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>58</sup>](#videos) -- [Poscast <sup>4</sup>](#podcast)
 * Teaching: [University <sup>4</sup>](#university) -- [Private schools <sup>2</sup>](#private-school) 
 * [Awards & Recognitions <sup>8</sup>](#awards--recognitions)   
 * [My social networks](#my-social-networks)
@@ -286,12 +286,14 @@ Books and eBooks I've released.
 [⬆️ back to the top](#toc)
 
 ### Videos
-56 in total
+58 in total
 
 Videos about my presentations at events and interviews from different content channels.
 
 | Date | Title | Event | Language |
 |:----:|-------|-------|:--------:|
+| 2024 | [Esquenta JakartaOne Livestream Portuguese 2024: Otavio Santana entrevista Elias Nogueira](https://www.youtube.com/watch?v=lOFnVQnphD8&pp=ygUOZWxpYXMgbm9ndWVpcmE%3D) | JakartaOne | 🇧🇷 |
+| 2023 | [Managing Testing Data](https://www.youtube.com/watch?v=eEFEgfUNJ_8&ab_channel=NLJUG) | J-Fall | 🇺🇸 |
 | 2023 | [Java Champions Brazucas](https://www.youtube.com/watch?v=aR3F8lDMXFY&ab_channel=ElderMoraes) | Elder Moraes Youtube channel | 🇧🇷 |
 | 2023 | [How to fast generate your API Test with OpenAPI Tools and Rest-Assured](https://www.youtube.com/watch?v=Fc-L_Wp2Hv4&ab_channel=PractiTest) | [OnlineTestConf](https://www.onlinetestconf.com/) | 🇺🇸 |
 | 2023 | [Modern Testing Tools for Java Developers](https://www.youtube.com/watch?v=jHWUIGIq6WA&ab_channel=JAVAPRO) | [JCon](https://jcon.one/) | 🇺🇸 |
