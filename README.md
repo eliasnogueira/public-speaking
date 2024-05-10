@@ -15,7 +15,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ## TOC
 
-* Talks: [Coming soon talks <sup>5</sup>](#coming-soon) -- [Past presentations <sup>121</sup>](#past-presentations)
+* Talks: [Coming soon talks <sup>4</sup>](#coming-soon) -- [Past presentations <sup>122</sup>](#past-presentations)
 * Initiatives: [Open Source <sup>4</sup>](#open-source) -- [Community <sup>14</sup>](#community)
 * Sharing knowledge: [Blog posts and content <sup>12</sup>](#blog-posts-and-content) -- [Workshops <sup>18</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>58</sup>](#videos) -- [Poscast <sup>4</sup>](#podcast)
 * Teaching: [University <sup>4</sup>](#university) -- [Private schools <sup>2</sup>](#private-school) 
@@ -26,11 +26,10 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ### Coming soon
 
-5 in total
+4 in total
 
 | Date | Event | Title | Location | Language |
 |:----:|-------|-------|----------|:--------:|
-| 10/05/2024 | [Devoxx UK](https://www.devoxx.co.uk/) | [Datafaker: the most powerful fake data generator library](https://www.devoxx.co.uk/talk/?id=11195) | London, United Kingdom | 🇺🇸 |
 | 15/05/2024 | [JCON Europe](https://2024.europe.jcon.one/) | [Managing Test Data](https://jconeurope2024.sched.com/event/1YwRC?iframe=no) | Cologne, Germany | 🇺🇸 |
 | 22/05/2024 | [InfoShare Conference](https://infoshare.pl/conference/) | [Managing Testing Data](https://infoshare.pl/conference/speakers/#speaker2137) | Gdańsk, Poland | 🇺🇸 |
 | 30/05/2024 | [Utrecht JUG](https://www.meetup.com/utrecht-java-user-group/) | [Datafaker: the most powerful fake data generator library](https://www.meetup.com/utrecht-java-user-group/events/299097782/) | Utrecht, the Netherlands | 🇺🇸 |
@@ -41,12 +40,13 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 [⬆️ back to the top](#toc)
 
 ### Past presentations
-121 in total
+122 in total
 
 All the presentations I did in the past, are ordered by date.
 
 | Date | Event          | Title / Slide Deck  | Repository |  Place | Language |
 |:----:|----------------|---------------------|:----------:|:------:|:--------:|
+| 10/05/2024 | [Devoxx UK](https://www.devoxx.co.uk/) | [Datafaker: the most powerful fake data generator library](https://speakerdeck.com/eliasnogueira/datafaker-the-most-powerful-fake-data-generation-library) | [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/datafaker-java-examples) | London, United Kingdom | 🇺🇸 |
 | 11/04/2024 | [Devnexus](https://devnexus.com/) | [Modern Testing Tools for Java Developers](https://speakerdeck.com/eliasnogueira/modern-testing-tools) | [![logo](https://i.imgur.com/244dUgB.png)](https://gist.github.com/eliasnogueira/69ea4f5907d582de4ba6ee6b36ad2186) | Atlanta, USA | 🇺🇸 |
 | 04/04/2024 | [TestBustersNight](https://www.linkedin.com/events/53rd-testbustersnight7167512837949382656/) | [How to fast generate your API Test with OpenAPI Tools and Rest-Assured](https://speakerdeck.com/eliasnogueira/how-to-fast-generate-your-api-test-with-openapi-tools-and-rest-assured) | [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/rest-assured-open-api-generator-talk) | Online | 🇺🇸 |
 | 07/02/2024 | [Geekle Online Summit for Java Devs](https://events.geekle.us/java24/) | [Modern Testing Tools for Java Developers](https://speakerdeck.com/eliasnogueira/modern-testing-tools) | [![logo](https://i.imgur.com/244dUgB.png)](https://gist.github.com/eliasnogueira/69ea4f5907d582de4ba6ee6b36ad2186) | Online | 🇺🇸 | 
