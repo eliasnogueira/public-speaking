@@ -16,7 +16,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ## TOC
 
-* Talks: [Coming soon talks <sup>0</sup>](#coming-soon) -- [Past presentations <sup>125</sup>](#past-presentations)
+* Talks: [Coming soon talks <sup>2</sup>](#coming-soon) -- [Past presentations <sup>125</sup>](#past-presentations)
 * Initiatives: [Open Source <sup>4</sup>](#open-source) -- [Community <sup>14</sup>](#community)
 * Sharing knowledge: [Blog posts and content <sup>12</sup>](#blog-posts-and-content) -- [Workshops <sup>18</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>61</sup>](#videos) -- [Poscast <sup>4</sup>](#podcast)
 * Teaching: [University <sup>4</sup>](#university) -- [Private schools <sup>2</sup>](#private-school) 
@@ -27,10 +27,12 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ### Coming soon
 
-0 in total
+2 in total
 
 | Date | Event | Title | Location | Language |
 |:----:|-------|-------|----------|:--------:|
+| 17/07/2024 | [Test Automation Talks](https://www.meetup.com/test-automation-talks) | Managing Testing Data and Datafaker: the most powerful fake data generator library | Amsterdam, the Netherlands | 🇺🇸 |
+| 21/07/2024 | [Testμ Conference](https://www.lambdatest.com/testmuconf-2024/) | Managing Testing Data | Online | 🇺🇸 |
 
 
 [⬆️ back to the top](#toc)
