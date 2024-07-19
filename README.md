@@ -31,7 +31,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 | Date | Event | Title | Location | Language |
 |:----:|-------|-------|----------|:--------:|
-| 21/07/2024 | [Testμ Conference](https://www.lambdatest.com/testmuconf-2024/) | Managing Testing Data | Online | 🇺🇸 |
+| 21/08/2024 | [Testμ Conference](https://www.lambdatest.com/testmuconf-2024/) | Managing Testing Data | Online | 🇺🇸 |
 
 
 [⬆️ back to the top](#toc)
