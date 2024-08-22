@@ -16,7 +16,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ## TOC
 
-* Talks: [Coming soon talks <sup>1</sup>](#coming-soon) -- [Past presentations <sup>126</sup>](#past-presentations)
+* Talks: [Coming soon talks <sup>0</sup>](#coming-soon) -- [Past presentations <sup>127</sup>](#past-presentations)
 * Initiatives: [Open Source <sup>4</sup>](#open-source) -- [Community <sup>14</sup>](#community)
 * Sharing knowledge: [Blog posts and content <sup>12</sup>](#blog-posts-and-content) -- [Workshops <sup>18</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>62</sup>](#videos) -- [Poscast <sup>4</sup>](#podcast)
 * Teaching: [University <sup>4</sup>](#university) -- [Private schools <sup>2</sup>](#private-school) 
@@ -27,22 +27,23 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ### Coming soon
 
-1 in total
+0 in total
 
 | Date | Event | Title | Location | Language |
 |:----:|-------|-------|----------|:--------:|
-| 21/08/2024 | [Testμ Conference](https://www.lambdatest.com/testmuconf-2024/) | Managing Testing Data | Online | 🇺🇸 |
+
 
 
 [⬆️ back to the top](#toc)
 
 ### Past presentations
-126 in total
+127 in total
 
 All the presentations I did in the past, are ordered by date.
 
 | Date | Event          | Title / Slide Deck  | Repository |  Place | Language |
 |:----:|----------------|---------------------|:----------:|:------:|:--------:|
+| 21/08/2024 | [Testμ Conference](https://www.lambdatest.com/testmuconf-2024/) | [Managing Testing Data and Datafaker: the most powerful fake data generator library](https://speakerdeck.com/eliasnogueira/datafaker-the-most-powerful-fake-data-generation-library) | [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/datafaker-java-examples) | Online | 🇺🇸 |
 | 17/07/2024 | [Test Automation Talks](https://www.meetup.com/test-automation-talks) | [Managing Testing Data and Datafaker: the most powerful fake data generator library](https://speakerdeck.com/eliasnogueira/datafaker-the-most-powerful-fake-data-generation-library) | [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/datafaker-java-examples) | Amsterdam, the Netherlands | 🇺🇸 |
 | 30/05/2024 | [Utrecht JUG](https://www.meetup.com/utrecht-java-user-group/) | [Datafaker: the most powerful fake data generator library](https://speakerdeck.com/eliasnogueira/datafaker-the-most-powerful-fake-data-generation-library) | [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/datafaker-java-examples) | Utrecht, the Netherlands | 🇺🇸 |
 | 22/05/2024 | [InfoShare Conference](https://infoshare.pl/conference/) | [Managing Test Data](https://speakerdeck.com/eliasnogueira/managing-test-data) | [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/manage-testing-data-java)  [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/credit-api/tree/manage-data)| Gdańsk, Poland | 🇺🇸 |
