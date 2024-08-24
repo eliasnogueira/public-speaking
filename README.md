@@ -18,7 +18,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 * Talks: [Coming soon talks <sup>0</sup>](#coming-soon) -- [Past presentations <sup>127</sup>](#past-presentations)
 * Initiatives: [Open Source <sup>4</sup>](#open-source) -- [Community <sup>14</sup>](#community)
-* Sharing knowledge: [Blog posts and content <sup>12</sup>](#blog-posts-and-content) -- [Workshops <sup>18</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>62</sup>](#videos) -- [Poscast <sup>4</sup>](#podcast)
+* Sharing knowledge: [Blog posts and content <sup>12</sup>](#blog-posts-and-content) -- [Workshops <sup>18</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>62</sup>](#videos) -- [Poscast <sup>5</sup>](#podcast)
 * Teaching: [University <sup>4</sup>](#university) -- [Private schools <sup>2</sup>](#private-school) 
 * [Awards & Recognitions <sup>8</sup>](#awards--recognitions)   
 * [My social networks](#my-social-networks)
@@ -360,12 +360,13 @@ Videos about my presentations at events and interviews from different content ch
 [⬆️ back to the top](#toc)
 
 ### Podcast
-4 in total
+5 in total
 
 Participation on podcasts
 
 | Podcast | Episode | Language |
 |---------|---------|:--------:|
+|[Java Duke's Cornern Poadcast](https://podcasts.apple.com/us/podcast/dukes-corner/id1200664984) | [Share Everything you Know!](https://podcasts.apple.com/us/podcast/elias-nogueira-share-everything-you-know/id1200664984?i=1000666216541) | |
 | [Beyond Coding Podcast](https://www.youtube.com/@BeyondCoding) | [Mature Software Delivery](https://www.youtube.com/watch?v=jUQcq8NLxDk&ab_channel=BeyondCoding) | 🇺🇸 |
 | [ZupCast](https://www.zup.com.br/zupcast) | [Quality Assurance vs Quality Engineering](https://open.spotify.com/episode/2pZP8EgEB6UHP9TBwivamg?si=trWUMV-GRvaATL23mdRxaA&nd=1) | 🇧🇷 |
 | [Love the Problem](https://open.spotify.com/show/06fPDUqQapNcfIE01IQHhE) | [Ep. 22 - Testes automatizados num mundo cada vez mais digital](https://open.spotify.com/episode/50vGeY2ao3l1xVjFlZG2Is) | 🇧🇷 |
