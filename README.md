@@ -295,7 +295,7 @@ Videos about my presentations at events and interviews from different content ch
 
 | Date | Title | Event | Language |
 |:----:|-------|-------|:--------:|
-| 2024 | [Manage Testing Data](https://www.youtube.com/watch?v=QwmVSNV2Tqs](https://www.youtube.com/watch?v=R8j5vRuS8IA) | [TestMu](https://www.lambdatest.com/testmuconf-2024) | 🇺🇸 |
+| 2024 | [Manage Testing Data](https://www.youtube.com/watch?v=R8j5vRuS8IA) | [TestMu](https://www.lambdatest.com/testmuconf-2024) | 🇺🇸 |
 | 2024 | [Manage Testing Data](https://www.youtube.com/watch?v=QwmVSNV2Tqs) | [JCon](https://jcon.one/) | 🇺🇸 |
 | 2024 | [Modern Testing Tools for Java Developers](https://www.youtube.com/watch?v=hxPFH9cTLpw&ab_channel=devnexus) | [DevNexus](https://devnexus.com/) | 🇺🇸 |
 | 2024 | [Graddle Youtube channel](https://www.youtube.com/@GradleInc) | [Gradle BuildPropulsionLab at JCON](https://www.youtube.com/watch?v=USjFo0LPX3k&ab_channel=Gradle) | 🇺🇸 |
