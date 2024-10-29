@@ -18,7 +18,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 * Talks: [Coming soon talks <sup>0</sup>](#coming-soon) -- [Past presentations <sup>128</sup>](#past-presentations)
 * Initiatives: [Open Source <sup>4</sup>](#open-source) -- [Community <sup>14</sup>](#community)
-* Sharing knowledge: [Blog posts and content <sup>12</sup>](#blog-posts-and-content) -- [Workshops <sup>18</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>63</sup>](#videos) -- [Poscast <sup>5</sup>](#podcast)
+* Sharing knowledge: [Blog posts and content <sup>12</sup>](#blog-posts-and-content) -- [Workshops <sup>18</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>64</sup>](#videos) -- [Poscast <sup>5</sup>](#podcast)
 * Teaching: [University <sup>4</sup>](#university) -- [Private schools <sup>2</sup>](#private-school) 
 * [Awards & Recognitions <sup>8</sup>](#awards--recognitions)   
 * [My social networks](#my-social-networks)
@@ -289,16 +289,16 @@ Books and eBooks I've released.
 [⬆️ back to the top](#toc)
 
 ### Videos
-63 in total
+64 in total
 
 Videos about my presentations at events and interviews from different content channels.
 
 | Date | Title | Event | Language |
 |:----:|-------|-------|:--------:|
-| 2024 | [TestMu](https://www.lambdatest.com/testmuconf-2024) | [Manage Testing Data]([https://www.youtube.com/watch?v=QwmVSNV2Tqs](https://www.youtube.com/watch?v=R8j5vRuS8IA)) | 🇺🇸 |
-| 2024 | [JCon](https://jcon.one/) | [Manage Testing Data](https://www.youtube.com/watch?v=QwmVSNV2Tqs) | 🇺🇸 |
-| 2024 | [DevNexus](https://devnexus.com/) | [Modern Testing Tools for Java Developers](https://www.youtube.com/watch?v=hxPFH9cTLpw&ab_channel=devnexus) | 🇺🇸 |
-| 2024 | [Gradle BuildPropulsionLab at JCON](https://www.youtube.com/watch?v=USjFo0LPX3k&ab_channel=Gradle) | [Graddle Youtube channel](https://www.youtube.com/@GradleInc) | 🇺🇸 |
+| 2024 | [Manage Testing Data](https://www.youtube.com/watch?v=QwmVSNV2Tqs](https://www.youtube.com/watch?v=R8j5vRuS8IA) | [TestMu](https://www.lambdatest.com/testmuconf-2024) | 🇺🇸 |
+| 2024 | [Manage Testing Data](https://www.youtube.com/watch?v=QwmVSNV2Tqs) | [JCon](https://jcon.one/) | 🇺🇸 |
+| 2024 | [Modern Testing Tools for Java Developers](https://www.youtube.com/watch?v=hxPFH9cTLpw&ab_channel=devnexus) | [DevNexus](https://devnexus.com/) | 🇺🇸 |
+| 2024 | [Graddle Youtube channel](https://www.youtube.com/@GradleInc) | [Gradle BuildPropulsionLab at JCON](https://www.youtube.com/watch?v=USjFo0LPX3k&ab_channel=Gradle) | 🇺🇸 |
 | 2024 | [Datafaker: the most powerful fake data generator library](https://www.youtube.com/watch?v=S6Z7vB5zc0g&pp=ygUOZWxpYXMgbm9ndWVpcmE%3D) | [Devoxx UK](https://www.devoxx.co.uk/) | 🇺🇸 |
 | 2024 | [Esquenta JakartaOne Livestream Portuguese 2024: Otavio Santana entrevista Elias Nogueira](https://www.youtube.com/watch?v=lOFnVQnphD8&pp=ygUOZWxpYXMgbm9ndWVpcmE%3D) | JakartaOne | 🇧🇷 |
 | 2023 | [Managing Testing Data](https://www.youtube.com/watch?v=eEFEgfUNJ_8&ab_channel=NLJUG) | J-Fall | 🇺🇸 |
