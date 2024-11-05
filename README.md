@@ -16,7 +16,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ## TOC
 
-* Talks: [Coming soon talks <sup>0</sup>](#coming-soon) -- [Past presentations <sup>128</sup>](#past-presentations)
+* Talks: [Coming soon talks <sup>2</sup>](#coming-soon) -- [Past presentations <sup>128</sup>](#past-presentations)
 * Initiatives: [Open Source <sup>4</sup>](#open-source) -- [Community <sup>14</sup>](#community)
 * Sharing knowledge: [Blog posts and content <sup>12</sup>](#blog-posts-and-content) -- [Workshops <sup>18</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>64</sup>](#videos) -- [Poscast <sup>5</sup>](#podcast)
 * Teaching: [University <sup>4</sup>](#university) -- [Private schools <sup>2</sup>](#private-school) 
@@ -27,11 +27,12 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ### Coming soon
 
-0 in total
+2 in total
 
 | Date | Event | Title | Location | Language |
 |:----:|-------|-------|----------|:--------:|
-
+| 07/11/2024 | [JFall](https://jfall.nl/) | Datafaker: the most powerful fake data generator library | Ede, the Netherlands | 🇺🇸 |
+| 4-6 Mar 2025 | [DevNexus](https://devnexus.com/) | [Enhancing Project Integrity: A Modernization for Bug-Free Code](https://devnexus.com/presentations/enhancing-project-integrity-a-modernization-for-bug-free-code/) | Atlanta, USA | 🇺🇸 |
 
 
 [⬆️ back to the top](#toc)
