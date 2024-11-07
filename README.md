@@ -16,7 +16,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ## TOC
 
-* Talks: [Coming soon talks <sup>2</sup>](#coming-soon) -- [Past presentations <sup>128</sup>](#past-presentations)
+* Talks: [Coming soon talks <sup>1</sup>](#coming-soon) -- [Past presentations <sup>129</sup>](#past-presentations)
 * Initiatives: [Open Source <sup>4</sup>](#open-source) -- [Community <sup>14</sup>](#community)
 * Sharing knowledge: [Blog posts and content <sup>12</sup>](#blog-posts-and-content) -- [Workshops <sup>18</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>64</sup>](#videos) -- [Poscast <sup>5</sup>](#podcast)
 * Teaching: [University <sup>4</sup>](#university) -- [Private schools <sup>2</sup>](#private-school) 
@@ -27,23 +27,23 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ### Coming soon
 
-2 in total
+1 in total
 
 | Date | Event | Title | Location | Language |
 |:----:|-------|-------|----------|:--------:|
-| 07/11/2024 | [JFall](https://jfall.nl/) | Datafaker: the most powerful fake data generator library | Ede, the Netherlands | 🇺🇸 |
 | 4-6 Mar 2025 | [DevNexus](https://devnexus.com/) | [Enhancing Project Integrity: A Modernization for Bug-Free Code](https://devnexus.com/presentations/enhancing-project-integrity-a-modernization-for-bug-free-code/) | Atlanta, USA | 🇺🇸 |
 
 
 [⬆️ back to the top](#toc)
 
 ### Past presentations
-128 in total
+129 in total
 
 All the presentations I did in the past, are ordered by date.
 
 | Date | Event          | Title / Slide Deck  | Repository |  Place | Language |
 |:----:|----------------|---------------------|:----------:|:------:|:--------:|
+| 07/11/2024 | [JFall](https://jfall.nl/) | [Datafaker: the most powerful fake data generator library](https://speakerdeck.com/eliasnogueira/datafaker-the-most-powerful-fake-data-generation-library) | [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/datafaker-java-examples) | Ede, the Netherlands | 🇺🇸 |
 | 24/10/2024 | [TestCon Europe](https://testcon.lt/) | [Datafaker: the most powerful fake data generator library](https://speakerdeck.com/eliasnogueira/datafaker-the-most-powerful-fake-data-generation-library) | [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/datafaker-java-examples) | Online | 🇺🇸 |
 | 21/08/2024 | [Testμ Conference](https://www.lambdatest.com/testmuconf-2024/) | [Managing Testing Data and Datafaker: the most powerful fake data generator library](https://speakerdeck.com/eliasnogueira/datafaker-the-most-powerful-fake-data-generation-library) | [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/datafaker-java-examples) | Online | 🇺🇸 |
 | 17/07/2024 | [Test Automation Talks](https://www.meetup.com/test-automation-talks) | [Managing Testing Data and Datafaker: the most powerful fake data generator library](https://speakerdeck.com/eliasnogueira/datafaker-the-most-powerful-fake-data-generation-library) | [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/datafaker-java-examples) | Amsterdam, the Netherlands | 🇺🇸 |
