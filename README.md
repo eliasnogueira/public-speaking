@@ -31,9 +31,9 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 | Date | Event | Title | Location | Language |
 |------|-------|-------|----------|:--------:|
+| 23/01/2025 | [JChampions Conference](https://jchampionsconf.com/) | [Managing Testing Data](https://jchampionsconf.com/schedule.html#nogueiraCard) | Online | 🇺🇸 |
 | 14/01/2025 | [JUG Noord](https://www.meetup.com/jug-noord/) | Datafaker: the most powerful fake data generator library | Leeuwarden, the Netherlands | 🇺🇸 |
 | 13/02/2025 | [WAES - Server Side Chat](https://www.meetup.com/server-side-chat) | [Transform your testing: Data, tools, and strategies](https://www.meetup.com/server-side-chat/events/304685332) | Eindhoven, the Netherlands | 🇺🇸 |
-| 23/01/2025 | [JChampions Conference](https://jchampionsconf.com/) | [Managing Testing Data](https://jchampionsconf.com/schedule.html#nogueiraCard) | Online | 🇺🇸 |
 | 27-28 Feb 2025 | [DevWorld](https://devworldconference.com) | Modern Testing Tools for Java Developers | Amsterdam, the Netherlands | 🇺🇸 |
 | 4-6 Mar 2025 | [DevNexus](https://devnexus.com/) | [Enhancing Project Integrity: A Modernization for Bug-Free Code](https://devnexus.com/presentations/enhancing-project-integrity-a-modernization-for-bug-free-code/) | Atlanta, USA | 🇺🇸 |
 
