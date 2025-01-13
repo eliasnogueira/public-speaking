@@ -16,7 +16,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ## TOC
 
-* Talks: [Coming soon talks <sup>6</sup>](#coming-soon) -- [Past presentations <sup>129</sup>](#past-presentations)
+* Talks: [Coming soon talks <sup>5</sup>](#coming-soon) -- [Past presentations <sup>129</sup>](#past-presentations)
 * Initiatives: [Open Source <sup>4</sup>](#open-source) -- [Community <sup>14</sup>](#community)
 * Sharing knowledge: [Blog posts and content <sup>12</sup>](#blog-posts-and-content) -- [Workshops <sup>18</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>65</sup>](#videos) -- [Poscast <sup>5</sup>](#podcast)
 * Teaching: [University <sup>4</sup>](#university) -- [Private schools <sup>2</sup>](#private-school) 
@@ -27,11 +27,10 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ### Coming soon
 
-6 in total
+5 in total
 
 | Date | Event | Title | Location | Language |
 |------|-------|-------|----------|:--------:|
-| 14/01/2025 | [JUG Noord](https://www.meetup.com/jug-noord/) | Datafaker: the most powerful fake data generator library | Leeuwarden, the Netherlands | 🇺🇸 |
 | 27/01/2025 | [Dublin Java User Group](https://www.dubjug.org/) + [JChampions Conference](https://jchampionsconf.com/) | Managing Testing Data | Online | 🇺🇸 |
 | 06/02/2025 | [Amsterdam JUG](http://amsterdamjug.com/) | [Amsterdam JUG Meetup at Picnic](https://www.meetup.com/amsterdam-java-user-group/events/305160853) | Amsterdam, the Netherlands | 🇺🇸 |
 | 13/02/2025 | [WAES - Server Side Chat](https://www.meetup.com/server-side-chat) | [Transform your testing: Data, tools, and strategies](https://www.meetup.com/server-side-chat/events/304685332) | Eindhoven, the Netherlands | 🇺🇸 |
