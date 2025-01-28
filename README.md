@@ -34,7 +34,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 | 06/02/2025 | [Amsterdam JUG](http://amsterdamjug.com/) | Datafaker: the most powerful fake data generator library | Amsterdam, the Netherlands | 🇺🇸 |
 | 13/02/2025 | [WAES - Server Side Chat](https://www.meetup.com/server-side-chat) | [Transform your testing: Data, tools, and strategies](https://www.meetup.com/server-side-chat/events/304685332) | Eindhoven, the Netherlands | 🇺🇸 |
 | 27-28 Feb 2025 | [DevWorld](https://devworldconference.com) | Modern Testing Tools for Java Developers | Amsterdam, the Netherlands | 🇺🇸 |
-| 4-6 Mar 2025 | [DevNexus](https://devnexus.com/) | [Enhancing Project Integrity: A Modernization for Bug-Free Code](https://devnexus.com/presentations/enhancing-project-integrity-a-modernization-for-bug-free-code/) | Atlanta, USA | 🇺🇸 |
+| 6 Mar 2025 | [DevNexus](https://devnexus.com/) | [Enhancing Project Integrity: A Modernization for Bug-Free Code](https://devnexus.com/presentations/enhancing-project-integrity-a-modernization-for-bug-free-code/) | Atlanta, USA | 🇺🇸 |
 
 [⬆️ back to the top](#toc)
 
