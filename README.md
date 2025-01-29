@@ -18,7 +18,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 * Talks: [Coming soon talks <sup>4</sup>](#coming-soon) -- [Past presentations <sup>131</sup>](#past-presentations)
 * Initiatives: [Open Source <sup>4</sup>](#open-source) -- [Community <sup>14</sup>](#community)
-* Sharing knowledge: [Blog posts and content <sup>12</sup>](#blog-posts-and-content) -- [Workshops <sup>18</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>65</sup>](#videos) -- [Poscast <sup>5</sup>](#podcast)
+* Sharing knowledge: [Blog posts and content <sup>12</sup>](#blog-posts-and-content) -- [Workshops <sup>18</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>66</sup>](#videos) -- [Poscast <sup>5</sup>](#podcast)
 * Teaching: [University <sup>4</sup>](#university) -- [Private schools <sup>2</sup>](#private-school) 
 * [Awards & Recognitions <sup>8</sup>](#awards--recognitions)   
 * [My social networks](#my-social-networks)
@@ -294,12 +294,13 @@ Books and eBooks I've released.
 [⬆️ back to the top](#toc)
 
 ### Videos
-65 in total
+66 in total
 
 Videos about my presentations at events and interviews from different content channels.
 
 | Date | Title | Event | Language |
 |:----:|-------|-------|:--------:|
+| 2025 | [Manage Testing Data](https://www.youtube.com/watch?v=P5D7Bly5CNs) | [jChampions Conference](https://jchampionsconf.com/) | 🇺🇸 |
 | 2024 | [Datafaker: the most powerful fake data generator library](https://www.youtube.com/watch?v=_kAfHJB10kE&ab_channel=NLJUG) | [J-Fall](https://jfall.nl/) | 🇺🇸 |
 | 2024 | [Manage Testing Data](https://www.youtube.com/watch?v=R8j5vRuS8IA) | [TestMu](https://www.lambdatest.com/testmuconf-2024) | 🇺🇸 |
 | 2024 | [Manage Testing Data](https://www.youtube.com/watch?v=QwmVSNV2Tqs) | [JCon](https://jcon.one/) | 🇺🇸 |
