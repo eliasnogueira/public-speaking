@@ -300,7 +300,7 @@ Videos about my presentations at events and interviews from different content ch
 
 | Date | Title | Event | Language |
 |:----:|-------|-------|:--------:|
-| 2025 | (3 Game-Changing Testing Strategies Every Senior Java Dev Must Know - Java Rockstar Career #12)[https://www.youtube.com/watch?v=unqhaHrWaLY] | [Java Challengers Youtube channel](https://www.youtube.com/@JavaChallengers) | 🇺🇸 |
+| 2025 | [3 Game-Changing Testing Strategies Every Senior Java Dev Must Know - Java Rockstar Career #12](https://www.youtube.com/watch?v=unqhaHrWaLY) | [Java Challengers Youtube channel](https://www.youtube.com/@JavaChallengers) | 🇺🇸 |
 | 2025 | [Manage Testing Data](https://www.youtube.com/watch?v=P5D7Bly5CNs) | [jChampions Conference](https://jchampionsconf.com/) | 🇺🇸 |
 | 2024 | [Datafaker: the most powerful fake data generator library](https://www.youtube.com/watch?v=_kAfHJB10kE&ab_channel=NLJUG) | [J-Fall](https://jfall.nl/) | 🇺🇸 |
 | 2024 | [Manage Testing Data](https://www.youtube.com/watch?v=R8j5vRuS8IA) | [TestMu](https://www.lambdatest.com/testmuconf-2024) | 🇺🇸 |
