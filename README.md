@@ -16,7 +16,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ## TOC
 
-* Talks: [Coming soon talks <sup>4</sup>](#coming-soon) -- [Past presentations <sup>131</sup>](#past-presentations)
+* Talks: [Coming soon talks <sup>3</sup>](#coming-soon) -- [Past presentations <sup>132</sup>](#past-presentations)
 * Initiatives: [Open Source <sup>4</sup>](#open-source) -- [Community <sup>14</sup>](#community)
 * Sharing knowledge: [Blog posts and content <sup>12</sup>](#blog-posts-and-content) -- [Workshops <sup>18</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>67</sup>](#videos) -- [Poscast <sup>5</sup>](#podcast)
 * Teaching: [University <sup>4</sup>](#university) -- [Private schools <sup>2</sup>](#private-school) 
@@ -27,11 +27,10 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ### Coming soon
 
-4 in total
+3 in total
 
 | Date | Event | Title | Location | Language |
 |------|-------|-------|----------|:--------:|
-| 06/02/2025 | [Amsterdam JUG](http://amsterdamjug.com/) | Datafaker: the most powerful fake data generator library | Amsterdam, the Netherlands | 🇺🇸 |
 | 13/02/2025 | [WAES - Server Side Chat](https://www.meetup.com/server-side-chat) | [Transform your testing: Data, tools, and strategies](https://www.meetup.com/server-side-chat/events/304685332) | Eindhoven, the Netherlands | 🇺🇸 |
 | 27-28 Feb 2025 | [DevWorld](https://devworldconference.com) | Modern Testing Tools for Java Developers | Amsterdam, the Netherlands | 🇺🇸 |
 | 6 Mar 2025 | [DevNexus](https://devnexus.com/) | [Enhancing Project Integrity: A Modernization for Bug-Free Code](https://devnexus.com/presentations/enhancing-project-integrity-a-modernization-for-bug-free-code/) | Atlanta, USA | 🇺🇸 |
@@ -39,12 +38,13 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 [⬆️ back to the top](#toc)
 
 ### Past presentations
-131 in total
+132 in total
 
 All the presentations I did in the past, are ordered by date.
 
 | Date | Event          | Title / Slide Deck  | Repository |  Place | Language |
 |:----:|----------------|---------------------|:----------:|:------:|:--------:|
+| 06/02/2025 | [Amsterdam JUG](http://amsterdamjug.com/) | [Datafaker: the most powerful fake data generator library](https://speakerdeck.com/eliasnogueira/datafaker-the-most-powerful-fake-data-generation-library) | [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/datafaker-java-examples) | Amsterdam, the Netherlands | 🇺🇸 |
 | 27/01/2025 | [Dublin Java User Group](https://www.dubjug.org/) | [Datafaker: the most powerful fake data generator library](https://speakerdeck.com/eliasnogueira/datafaker-the-most-powerful-fake-data-generation-library) | [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/datafaker-java-examples) | Dublin, Ireland | 🇺🇸 |
 | 27/01/2025 | [JChampions Conference](https://jchampionsconf.com/)| [Managing Test Data](https://speakerdeck.com/eliasnogueira/managing-test-data) | [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/manage-testing-data-java)  [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/credit-api/tree/manage-data)| Online | 🇺🇸 |
 | 07/11/2024 | [JFall](https://jfall.nl/) | [Datafaker: the most powerful fake data generator library](https://speakerdeck.com/eliasnogueira/datafaker-the-most-powerful-fake-data-generation-library) | [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/datafaker-java-examples) | Ede, the Netherlands | 🇺🇸 |
