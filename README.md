@@ -16,7 +16,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ## TOC
 
-* Talks: [Coming soon talks <sup>3</sup>](#coming-soon) -- [Past presentations <sup>132</sup>](#past-presentations)
+* Talks: [Coming soon talks <sup>4</sup>](#coming-soon) -- [Past presentations <sup>132</sup>](#past-presentations)
 * Initiatives: [Open Source <sup>4</sup>](#open-source) -- [Community <sup>14</sup>](#community)
 * Sharing knowledge: [Blog posts and content <sup>12</sup>](#blog-posts-and-content) -- [Workshops <sup>18</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>67</sup>](#videos) -- [Poscast <sup>5</sup>](#podcast)
 * Teaching: [University <sup>4</sup>](#university) -- [Private schools <sup>2</sup>](#private-school) 
@@ -27,11 +27,12 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ### Coming soon
 
-3 in total
+4 in total
 
 | Date | Event | Title | Location | Language |
 |------|-------|-------|----------|:--------:|
 | 13/02/2025 | [WAES - Server Side Chat](https://www.meetup.com/server-side-chat) | [Transform your testing: Data, tools, and strategies](https://www.meetup.com/server-side-chat/events/304685332) | Eindhoven, the Netherlands | 🇺🇸 |
+| 20/02/2025 | [JUG Noord](https://www.meetup.com/jug-noord) | [Datafaker: the most powerful fake data generator library](https://www.meetup.com/jug-noord/events/305959500) | Groningen, the Netherlands | 🇺🇸 |
 | 27-28 Feb 2025 | [DevWorld](https://devworldconference.com) | Modern Testing Tools for Java Developers | Amsterdam, the Netherlands | 🇺🇸 |
 | 6 Mar 2025 | [DevNexus](https://devnexus.com/) | [Enhancing Project Integrity: A Modernization for Bug-Free Code](https://devnexus.com/presentations/enhancing-project-integrity-a-modernization-for-bug-free-code/) | Atlanta, USA | 🇺🇸 |
 
