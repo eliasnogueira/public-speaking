@@ -32,8 +32,8 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 | Date | Event | Title | Location | Language |
 |------|-------|-------|----------|:--------:|
 | 20/02/2025 | [JUG Noord](https://www.meetup.com/jug-noord) | [Datafaker: the most powerful fake data generator library](https://www.meetup.com/jug-noord/events/305959500) | Groningen, the Netherlands | 🇺🇸 |
-| 27-28 Feb 2025 | [DevWorld](https://devworldconference.com) | Modern Testing Tools for Java Developers | Amsterdam, the Netherlands | 🇺🇸 |
-| 6 Mar 2025 | [DevNexus](https://devnexus.com/) | [Enhancing Project Integrity: A Modernization for Bug-Free Code](https://devnexus.com/presentations/enhancing-project-integrity-a-modernization-for-bug-free-code/) | Atlanta, USA | 🇺🇸 |
+| 27/02/2025 | [DevWorld](https://devworldconference.com) | [Modern Testing Tools for Java Developers](https://devworldconference.com/tracks/j-world) | Amsterdam, the Netherlands | 🇺🇸 |
+| 6/03/2025 | [DevNexus](https://devnexus.com/) | [Enhancing Project Integrity: A Modernization for Bug-Free Code](https://devnexus.com/presentations/enhancing-project-integrity-a-modernization-for-bug-free-code/) | Atlanta, USA | 🇺🇸 |
 
 [⬆️ back to the top](#toc)
 
