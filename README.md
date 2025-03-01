@@ -10,7 +10,6 @@ Blog posts at [http://eliasnogueira.com](http://eliasnogueira.com).
 [![Speaker Deck Badge](https://img.shields.io/badge/-My&nbsp;Speaker&nbsp;deck-009287?style=flat-square&logo=speaker-deck&logoColor=white&link=https://speakerdeck.com/eliasnogueira)](https://speakerdeck.com/eliasnogueira)
 [![Youtube Channel](https://img.shields.io/badge/-Follow%20my%20channel-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/c/EliasNogueira)](https://www.youtube.com/c/EliasNogueira) 
 [![Leanpub](https://img.shields.io/badge/-My%20books-FDFDFD?style=flat-square&logo=leanpub&logoColor=black&link=https://leanpub.com/u/eliasnogueira)](https://leanpub.com/u/eliasnogueira) 
-[![committers.top badge](https://user-badge.committers.top/netherlands/eliasnogueira.svg)](https://user-badge.committers.top/netherlands/eliasnogueira)
 
 You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/blob/master/BIO.md).
 
