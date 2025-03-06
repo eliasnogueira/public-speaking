@@ -15,7 +15,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ## TOC
 
-* Talks: [Coming soon talks <sup>1</sup>](#coming-soon) -- [Past presentations <sup>135</sup>](#past-presentations)
+* Talks: [Coming soon talks <sup>0</sup>](#coming-soon) -- [Past presentations <sup>136</sup>](#past-presentations)
 * Initiatives: [Open Source <sup>4</sup>](#open-source) -- [Community <sup>14</sup>](#community)
 * Sharing knowledge: [Blog posts and content <sup>12</sup>](#blog-posts-and-content) -- [Workshops <sup>18</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>67</sup>](#videos) -- [Poscast <sup>5</sup>](#podcast)
 * Teaching: [University <sup>4</sup>](#university) -- [Private schools <sup>2</sup>](#private-school) 
@@ -26,22 +26,23 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ### Coming soon
 
-1 in total
+0 in total
 
 | Date | Event | Title | Location | Language |
 |------|-------|-------|----------|:--------:|
-| 6/03/2025 | [DevNexus](https://devnexus.com/) | [Enhancing Project Integrity: A Modernization for Bug-Free Code](https://devnexus.com/presentations/enhancing-project-integrity-a-modernization-for-bug-free-code/) | Atlanta, USA | 🇺🇸 |
+
 
 [⬆️ back to the top](#toc)
 
 ### Past presentations
-135 in total
+136 in total
 
 All the presentations I did in the past, are ordered by date.
 
 | Date | Event          | Title / Slide Deck  | Repository |  Place | Language |
 |:----:|----------------|---------------------|:----------:|:------:|:--------:|
-| 27/02/2025 | [DevWorld](https://devworldconference.com) | [Modern Testing Tools for Java Developers](https://speakerdeck.com/eliasnogueira/modern-testing-tools) | [![logo](https://i.imgur.com/244dUgB.png)](https://gist.github.com/eliasnogueira/69ea4f5907d582de4ba6ee6b36ad2186) | Amsterdam, the Netherlands | 🇺🇸 || 
+| 06/03/2025 | [DevNexus](https://devnexus.com/) | [Enhancing Project Integrity: A Modernization for Bug-Free Code](https://speakerdeck.com/eliasnogueira/enhancing-project-integrity-a-modernization-for-bug-free-code) | [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/payment-system) | Atlanta, USA | 🇺🇸 | 
+| 27/02/2025 | [DevWorld](https://devworldconference.com) | [Modern Testing Tools for Java Developers](https://speakerdeck.com/eliasnogueira/modern-testing-tools) | [![logo](https://i.imgur.com/244dUgB.png)](https://gist.github.com/eliasnogueira/69ea4f5907d582de4ba6ee6b36ad2186) | Amsterdam, the Netherlands | 🇺🇸 | 
 | 13/02/2025 | [JUG Noord](https://www.meetup.com/jug-noord) | [Datafaker: the most powerful fake data generator library](https://speakerdeck.com/eliasnogueira/datafaker-the-most-powerful-fake-data-generation-library) | [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/datafaker-java-examples) | Groningen, the Netherlands | 🇺🇸 |
 | 13/02/2025 | [WAES - Server Side Chat](https://www.meetup.com/server-side-chat) | [Transform your testing: Data, tools, and strategies](https://speakerdeck.com/eliasnogueira/datafaker-the-most-powerful-fake-data-generation-library) | [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/datafaker-java-examples) | Eindhoven, the Netherlands | 🇺🇸 |
 | 06/02/2025 | [Amsterdam JUG](http://amsterdamjug.com/) | [Datafaker: the most powerful fake data generator library](https://speakerdeck.com/eliasnogueira/datafaker-the-most-powerful-fake-data-generation-library) | [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/datafaker-java-examples) | Amsterdam, the Netherlands | 🇺🇸 |
