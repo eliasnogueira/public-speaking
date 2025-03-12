@@ -3,7 +3,8 @@
 This repository consolidates all my participation in conferences, meetups, community activities, and events in general in a single place.
 Blog posts at [http://eliasnogueira.com](http://eliasnogueira.com).
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/eliasnogueira?style=social)](https://twitter.com/eliasnogueira)
+[![X Follow](https://img.shields.io/twitter/follow/eliasnogueira?style=social)](https://twitter.com/eliasnogueira)
+[![Follow me on Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&label=Follow%20me%20on&color=0285FF)](https://bsky.app/profile/eliasnogueira.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Add&nbsp;Me-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliasnogueira/)](https://www.linkedin.com/in/eliasnogueira/)
 [![Facebook Badge](https://img.shields.io/badge/-My&nbsp;page-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/elias.nogueira.test)](https://www.facebook.com/elias.nogueira.test)
 [![Slidehare Badge](https://img.shields.io/badge/-My&nbsp;Slideshare-58a1a3?style=flat-square&logo=Slideshare&logoColor=white&link=https://www.slideshare.net/elias.nogueira)](https://www.slideshare.net/elias.nogueira)
