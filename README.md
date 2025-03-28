@@ -31,7 +31,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 | Date | Event | Title | Location | Language |
 |------|-------|-------|----------|:--------:|
-| 15/04/2025 | [Amsterda JUG](https://www.meetup.com/amsterdam-java-user-group/events/306940336/) | Beyond Unit Tests: Practical Tools for High-Quality Java Code | Amsterdam, the Netherlands | 🇺🇸 | 
+| 15/04/2025 | [Amsterdam JUG](https://www.meetup.com/amsterdam-java-user-group/events/306940336/) | Beyond Unit Tests: Practical Tools for High-Quality Java Code | Amsterdam, the Netherlands | 🇺🇸 | 
 
 [⬆️ back to the top](#toc)
 
