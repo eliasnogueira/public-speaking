@@ -31,14 +31,14 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 | Date | Event | Title | Location | Language |
 |------|-------|-------|----------|:--------:|
-| 02/04/2025 | [JavaLand](https://www.javaland.eu/) | Datafaker: the most powerful fake data generator library | Nurburgring, Germany | 🇺🇸 | 
+| 15/04/2025 | [Amsterda JUG](https://www.meetup.com/amsterdam-java-user-group/events/306940336/) | Beyond Unit Tests: Practical Tools for High-Quality Java Code | Amsterdam, the Netherlands | 🇺🇸 | 
 
 [⬆️ back to the top](#toc)
 
 ### Past presentations
 136 in total
 
-All the presentations I did in the past, are ordered by date.
+All the presentations I have done in the past are ordered by date.
 
 | Date | Event          | Title / Slide Deck  | Repository |  Place | Language |
 |:----:|----------------|---------------------|:----------:|:------:|:--------:|
@@ -188,7 +188,7 @@ All the presentations I did in the past, are ordered by date.
 4 in total
 
 My small contributions to open source projects.
-All my projects on GitHub are open-sourced too.
+All my projects on GitHub are open-sourced, too.
 
 | Project | Link |
 |---------|------|
