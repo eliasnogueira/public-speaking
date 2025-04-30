@@ -18,7 +18,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 * Talks: [Coming soon talks <sup>0</sup>](#coming-soon) -- [Past presentations <sup>137</sup>](#past-presentations)
 * Initiatives: [Open Source <sup>4</sup>](#open-source) -- [Community <sup>14</sup>](#community)
-* Sharing knowledge: [Blog posts and content <sup>12</sup>](#blog-posts-and-content) -- [Workshops <sup>18</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>67</sup>](#videos) -- [Poscast <sup>5</sup>](#podcast)
+* Sharing knowledge: [Blog posts and content <sup>12</sup>](#blog-posts-and-content) -- [Workshops <sup>18</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>68</sup>](#videos) -- [Poscast <sup>5</sup>](#podcast)
 * Teaching: [University <sup>4</sup>](#university) -- [Private schools <sup>2</sup>](#private-school) 
 * [Awards & Recognitions <sup>8</sup>](#awards--recognitions)   
 * [My social networks](#my-social-networks)
@@ -234,7 +234,7 @@ Work for the software development and testing community to help them, and me, gr
 ### Blog posts and content
 12 in total
 
-Manly blog posts on different websites and portals.
+Blog posts on different websites and portals.
 
 | Initiative name | Focus | Language |
 |-----------------|-------|:--------:|
@@ -256,7 +256,7 @@ Manly blog posts on different websites and portals.
 ### Workshops
 18 in total
 
-All the formal workshops I did. Here workshop means a mini-course with a small audience where I can show challenges about the subject and the audience can practice with my help.
+All the formal workshops I did. Here, workshop means a mini-course with a small audience where I can show challenges about the subject and the audience can practice with my help.
 
 | Date | Event | Subject | Language  |
 |:----:|-------|---------|:---------:|
@@ -297,12 +297,13 @@ Books and eBooks I've released.
 [⬆️ back to the top](#toc)
 
 ### Videos
-67 in total
+68 in total
 
 Videos about my presentations at events and interviews from different content channels.
 
 | Date | Title | Event | Language |
 |:----:|-------|-------|:--------:|
+| 2025 | [More Than Just Unit Tests: How API Tests Create a Safety Net for Your Microservices](https://www.youtube.com/live/GH9zHv79-vs) | [Bellsoft Youtube Channel](https://www.youtube.com/@libericajdk) | 🇺🇸 |
 | 2025 | [3 Game-Changing Testing Strategies Every Senior Java Dev Must Know - Java Rockstar Career #12](https://www.youtube.com/watch?v=unqhaHrWaLY) | [Java Challengers Youtube channel](https://www.youtube.com/@JavaChallengers) | 🇺🇸 |
 | 2025 | [Manage Testing Data](https://www.youtube.com/watch?v=P5D7Bly5CNs) | [jChampions Conference](https://jchampionsconf.com/) | 🇺🇸 |
 | 2024 | [Datafaker: the most powerful fake data generator library](https://www.youtube.com/watch?v=_kAfHJB10kE&ab_channel=NLJUG) | [J-Fall](https://jfall.nl/) | 🇺🇸 |
@@ -375,7 +376,7 @@ Videos about my presentations at events and interviews from different content ch
 ### Podcast
 5 in total
 
-Participation on podcasts
+Participation in podcasts
 
 | Podcast | Episode | Language |
 |---------|---------|:--------:|
