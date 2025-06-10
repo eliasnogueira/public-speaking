@@ -16,7 +16,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ## TOC
 
-* Talks: [Coming soon talks <sup>1</sup>](#coming-soon) -- [Past presentations <sup>137</sup>](#past-presentations)
+* Talks: [Coming soon talks <sup>0</sup>](#coming-soon) -- [Past presentations <sup>138</sup>](#past-presentations)
 * Initiatives: [Open Source <sup>4</sup>](#open-source) -- [Community <sup>14</sup>](#community)
 * Sharing knowledge: [Blog posts and content <sup>12</sup>](#blog-posts-and-content) -- [Workshops <sup>18</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>68</sup>](#videos) -- [Poscast <sup>5</sup>](#podcast)
 * Teaching: [University <sup>4</sup>](#university) -- [Private schools <sup>2</sup>](#private-school) 
@@ -27,7 +27,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ### Coming soon
 
-1 in total
+0 in total
 
 | Date | Event | Title | Location | Language |
 |------|-------|-------|----------|:--------:|
@@ -36,12 +36,13 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 [⬆️ back to the top](#toc)
 
 ### Past presentations
-137 in total
+138 in total
 
-All the presentations I have done in the past are ordered by date.
+All the presentations I have given in the past are listed in chronological order.
 
 | Date | Event          | Title / Slide Deck  | Repository |  Place | Language |
 |:----:|----------------|---------------------|:----------:|:------:|:--------:|
+| 10/06/2025 | [InfoQ Dev Summit](https://devsummit.infoq.com/) | [Test Smarter, Not Harder: Achieving Confidence in Complex Distributed Systems](https://speakerdeck.com/eliasnogueira/test-smarter-not-harder-achieving-confidence-in-complex-distributed-systems) | [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/infoq-talk-test-distributed-systems) | Amsterdam, the Netherlands | 🇺🇸 | 
 | 15/04/2025 | [Amsterdam JUG](https://www.meetup.com/amsterdam-java-user-group/events/306940336) | [Beyond Unit Tests: Practical Tools for High-Quality Java Code](https://speakerdeck.com/eliasnogueira/enhancing-project-integrity-a-modernization-for-bug-free-code) | [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/payment-system) | Amsterdam, the Netherlands | 🇺🇸 | 
 | 06/03/2025 | [DevNexus](https://devnexus.com/) | [Enhancing Project Integrity: A Modernization for Bug-Free Code](https://speakerdeck.com/eliasnogueira/enhancing-project-integrity-a-modernization-for-bug-free-code) | [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/payment-system) | Atlanta, USA | 🇺🇸 | 
 | 27/02/2025 | [DevWorld](https://devworldconference.com) | [Modern Testing Tools for Java Developers](https://speakerdeck.com/eliasnogueira/modern-testing-tools) | [![logo](https://i.imgur.com/244dUgB.png)](https://gist.github.com/eliasnogueira/69ea4f5907d582de4ba6ee6b36ad2186) | Amsterdam, the Netherlands | 🇺🇸 | 
