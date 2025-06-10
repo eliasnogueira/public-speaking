@@ -31,7 +31,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 | Date | Event | Title | Location | Language |
 |------|-------|-------|----------|:--------:|
-| 10/06/2025 | [InfoQ Dev Summit](https://devsummit.infoq.com/) | [Test Smarter, Not Harder: Achieving Confidence in Complex Distributed Systems](https://devsummit.infoq.com/presentation/boston2025/test-smarter-not-harder-achieving-confidence-complex-distributed-systems) | Boston, USA | 🇺🇸 | 
+| | | | |
 
 [⬆️ back to the top](#toc)
 
