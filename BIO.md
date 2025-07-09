@@ -1,7 +1,8 @@
 # Bio
 
-## Mini-Bio (72 words 501 characters)
-Elias is a Java Champion, Oracle ACE Pro, Java Magazine NL, and Senior Principal Software Engineer at Backbase.
+## Mini-Bio
+Elias is a Java Champion, Oracle ACE Pro, Java Magazine NL, and Lead Principal Software Engineer.
+He's currently working at Booking.com in the Fintech Quality Foundations team.
 He shares content related to Java, OSS, and Quality Engineering at conferences, meetups, articles, and open-source conferences.
 
 ## Social Networks
