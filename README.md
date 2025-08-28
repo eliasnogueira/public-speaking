@@ -31,8 +31,8 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 | Date | Event | Title | Location | Language |
 |------|-------|-------|----------|:--------:|
-| 10/09/2026 | [Riyadh Java User Group](https://www.meetup.com/riyadh-java-users-group/) | Test Smarter, Not Harder and Achieving confidence with Managing Test Data | Online | 🇺🇸 |
-| 21-22 Oct | [JDD 2025](https://jdd.org.pl/) | Datafaker: the most powerful fake data generator library | Kraków, Poland | 🇺🇸 | 
+| 10/09/2026 | [Riyadh Java User Group](https://www.meetup.com/riyadh-java-users-group/) | [Test Smarter, Not Harder and Achieving confidence with Managing Test Data](https://www.meetup.com/riyadh-java-users-group/events/310742877) | Online | 🇺🇸 |
+| 21-22 Oct | [JDD 2025](https://jdd.org.pl/) | [Datafaker: the most powerful fake data generator library](https://jdd.org.pl/lecture_2025/#id=102221) | Kraków, Poland | 🇺🇸 | 
 
 [⬆️ back to the top](#toc)
 
