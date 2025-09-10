@@ -16,7 +16,7 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ## TOC
 
-* Talks: [Coming soon talks <sup>2</sup>](#coming-soon) -- [Past presentations <sup>138</sup>](#past-presentations)
+* Talks: [Coming soon talks <sup>1</sup>](#coming-soon) -- [Past presentations <sup>138</sup>](#past-presentations)
 * Initiatives: [Open Source <sup>4</sup>](#open-source) -- [Community <sup>14</sup>](#community)
 * Sharing knowledge: [Blog posts and content <sup>12</sup>](#blog-posts-and-content) -- [Workshops <sup>18</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>69</sup>](#videos) -- [Poscast <sup>5</sup>](#podcast)
 * Teaching: [University <sup>4</sup>](#university) -- [Private schools <sup>2</sup>](#private-school) 
@@ -27,12 +27,11 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ### Coming soon
 
-2 in total
+1 in total
 
 | Date | Event | Title | Location | Language |
 |------|-------|-------|----------|:--------:|
 | 10/09/2026 | [Riyadh Java User Group](https://www.meetup.com/riyadh-java-users-group/) | [Test Smarter, Not Harder and Achieving confidence with Managing Test Data](https://www.meetup.com/riyadh-java-users-group/events/310742877) | Online | 🇺🇸 |
-| 21-22 Oct | [JDD 2025](https://jdd.org.pl/) | [Datafaker: the most powerful fake data generator library](https://jdd.org.pl/lecture_2025/#id=102221) | Kraków, Poland | 🇺🇸 | 
 
 [⬆️ back to the top](#toc)
 
