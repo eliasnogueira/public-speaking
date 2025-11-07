@@ -16,9 +16,9 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ## TOC
 
-* Talks: [Coming soon talks <sup>1</sup>](#coming-soon) -- [Past presentations <sup>138</sup>](#past-presentations)
+* Talks: [Coming soon talks <sup>1</sup>](#coming-soon) -- [Past presentations <sup>139</sup>](#past-presentations)
 * Initiatives: [Open Source <sup>4</sup>](#open-source) -- [Community <sup>14</sup>](#community)
-* Sharing knowledge: [Blog posts and content <sup>12</sup>](#blog-posts-and-content) -- [Workshops <sup>18</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>69</sup>](#videos) -- [Poscast <sup>5</sup>](#podcast)
+* Sharing knowledge: [Blog posts and content <sup>12</sup>](#blog-posts-and-content) -- [Workshops <sup>18</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>70</sup>](#videos) -- [Poscast <sup>5</sup>](#podcast)
 * Teaching: [University <sup>4</sup>](#university) -- [Private schools <sup>2</sup>](#private-school) 
 * [Awards & Recognitions <sup>8</sup>](#awards--recognitions)   
 * [My social networks](#my-social-networks)
@@ -27,21 +27,21 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ### Coming soon
 
-1 in total
+0 in total
 
 | Date | Event | Title | Location | Language |
 |------|-------|-------|----------|:--------:|
-| 10/09/2026 | [Riyadh Java User Group](https://www.meetup.com/riyadh-java-users-group/) | [Test Smarter, Not Harder and Achieving confidence with Managing Test Data](https://www.meetup.com/riyadh-java-users-group/events/310742877) | Online | 🇺🇸 |
 
 [⬆️ back to the top](#toc)
 
 ### Past presentations
-138 in total
+139 in total
 
 All the presentations I have given in the past are listed in chronological order.
 
 | Date | Event          | Title / Slide Deck  | Repository |  Place | Language |
 |:----:|----------------|---------------------|:----------:|:------:|:--------:|
+| 10/09/2026 | [Riyadh Java User Group](https://www.meetup.com/riyadh-java-users-group/) | [Test Smarter, Not Harder](https://speakerdeck.com/eliasnogueira/test-smarter-not-harder-achieving-confidence-in-complex-distributed-systems) and [Achieving confidence with Managing Test Data](https://speakerdeck.com/eliasnogueira/managing-test-data) | [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/infoq-talk-test-distributed-systems) [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/datafaker-java-examples) | Online | 🇺🇸 |
 | 10/06/2025 | [InfoQ Dev Summit](https://devsummit.infoq.com/) | [Test Smarter, Not Harder: Achieving Confidence in Complex Distributed Systems](https://speakerdeck.com/eliasnogueira/test-smarter-not-harder-achieving-confidence-in-complex-distributed-systems) | [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/infoq-talk-test-distributed-systems) | Boston, USA | 🇺🇸 | 
 | 15/04/2025 | [Amsterdam JUG](https://www.meetup.com/amsterdam-java-user-group/events/306940336) | [Beyond Unit Tests: Practical Tools for High-Quality Java Code](https://speakerdeck.com/eliasnogueira/enhancing-project-integrity-a-modernization-for-bug-free-code) | [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/payment-system) | Amsterdam, the Netherlands | 🇺🇸 | 
 | 06/03/2025 | [DevNexus](https://devnexus.com/) | [Enhancing Project Integrity: A Modernization for Bug-Free Code](https://speakerdeck.com/eliasnogueira/enhancing-project-integrity-a-modernization-for-bug-free-code) | [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/payment-system) | Atlanta, USA | 🇺🇸 | 
@@ -298,12 +298,13 @@ Books and eBooks I've released.
 [⬆️ back to the top](#toc)
 
 ### Videos
-69 in total
+70 in total
 
 Videos about my presentations at events and interviews from different content channels.
 
 | Date | Title | Event | Language |
 |:----:|-------|-------|:--------:|
+| 2025 | [Modern Tools for Java Developers](https://www.youtube.com/watch?v=fzFQvafD_Y0&list=PLoc8m_4xl7Sf-YmBIPNI5or9dGnTwhqEc&index=19&pp=iAQB) | [DevWorld](https://devworldconference.com) | 🇺🇸 |
 | 2025 | [More Than Just Unit Tests: How API Tests Create a Safety Net for Your Microservices](https://www.youtube.com/live/GH9zHv79-vs) | [Bellsoft Youtube Channel](https://www.youtube.com/@libericajdk) | 🇺🇸 |
 | 2025 | [3 Game-Changing Testing Strategies Every Senior Java Dev Must Know - Java Rockstar Career #12](https://www.youtube.com/watch?v=unqhaHrWaLY) | [Java Challengers Youtube channel](https://www.youtube.com/@JavaChallengers) | 🇺🇸 |
 | 2025 | [Manage Testing Data](https://www.youtube.com/watch?v=P5D7Bly5CNs) | [jChampions Conference](https://jchampionsconf.com/) | 🇺🇸 |
