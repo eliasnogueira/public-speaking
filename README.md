@@ -27,10 +27,11 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ### Coming soon
 
-0 in total
+1 in total
 
 | Date | Event | Title | Location | Language |
 |------|-------|-------|----------|:--------:|
+| 26/01/2026 | [jChampions Conference](https://jchampionsconf.com/) | Test Smarter, Not Harder: Achieving Confidence in Complex Distributed Systems | Online | 🇺🇸 |
 
 [⬆️ back to the top](#toc)
 
