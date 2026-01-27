@@ -16,9 +16,9 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ## TOC
 
-* Talks: [Coming soon talks <sup>1</sup>](#coming-soon) -- [Past presentations <sup>139</sup>](#past-presentations)
+* Talks: [Coming soon talks <sup>0</sup>](#coming-soon) -- [Past presentations <sup>140</sup>](#past-presentations)
 * Initiatives: [Open Source <sup>4</sup>](#open-source) -- [Community <sup>14</sup>](#community)
-* Sharing knowledge: [Blog posts and content <sup>12</sup>](#blog-posts-and-content) -- [Workshops <sup>18</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>70</sup>](#videos) -- [Poscast <sup>5</sup>](#podcast)
+* Sharing knowledge: [Blog posts and content <sup>12</sup>](#blog-posts-and-content) -- [Workshops <sup>18</sup>](#workshops) -- [Books & eBooks <sup>5</sup>](#books-ebooks) -- [Videos <sup>71</sup>](#videos) -- [Poscast <sup>5</sup>](#podcast)
 * Teaching: [University <sup>4</sup>](#university) -- [Private schools <sup>2</sup>](#private-school) 
 * [Awards & Recognitions <sup>8</sup>](#awards--recognitions)   
 * [My social networks](#my-social-networks)
@@ -27,21 +27,23 @@ You can see my mini-bio [here](https://github.com/eliasnogueira/public-speaking/
 
 ### Coming soon
 
-1 in total
+0 in total
 
 | Date | Event | Title | Location | Language |
 |------|-------|-------|----------|:--------:|
-| 26/01/2026 | [jChampions Conference](https://jchampionsconf.com/) | Test Smarter, Not Harder: Achieving Confidence in Complex Distributed Systems | Online | 🇺🇸 |
+| | | | | |
 
 [⬆️ back to the top](#toc)
 
 ### Past presentations
-139 in total
 
-All the presentations I have given in the past are listed in chronological order.
+140 in total
+
+All the presentations I have given are listed in chronological order.
 
 | Date | Event          | Title / Slide Deck  | Repository |  Place | Language |
 |:----:|----------------|---------------------|:----------:|:------:|:--------:|
+| 26/01/2026 | [jChampions Conference](https://jchampionsconf.com/) | [Test Smarter, Not Harder: Achieving Confidence in Complex Distributed Systems](https://speakerdeck.com/eliasnogueira/test-smarter-not-harder-achieving-confidence-in-complex-distributed-systems) | [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/test-distributed-systems) | Online | 🇺🇸 | 
 | 10/09/2026 | [Riyadh Java User Group](https://www.meetup.com/riyadh-java-users-group/) | [Test Smarter, Not Harder](https://speakerdeck.com/eliasnogueira/test-smarter-not-harder-achieving-confidence-in-complex-distributed-systems) and [Achieving confidence with Managing Test Data](https://speakerdeck.com/eliasnogueira/managing-test-data) | [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/infoq-talk-test-distributed-systems) [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/datafaker-java-examples) | Online | 🇺🇸 |
 | 10/06/2025 | [InfoQ Dev Summit](https://devsummit.infoq.com/) | [Test Smarter, Not Harder: Achieving Confidence in Complex Distributed Systems](https://speakerdeck.com/eliasnogueira/test-smarter-not-harder-achieving-confidence-in-complex-distributed-systems) | [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/test-distributed-systems) | Boston, USA | 🇺🇸 | 
 | 15/04/2025 | [Amsterdam JUG](https://www.meetup.com/amsterdam-java-user-group/events/306940336) | [Beyond Unit Tests: Practical Tools for High-Quality Java Code](https://speakerdeck.com/eliasnogueira/enhancing-project-integrity-a-modernization-for-bug-free-code) | [![logo](https://i.imgur.com/244dUgB.png)](https://github.com/eliasnogueira/payment-system) | Amsterdam, the Netherlands | 🇺🇸 | 
@@ -188,6 +190,7 @@ All the presentations I have given in the past are listed in chronological order
 ## Initiatives
 
 ### Open Source
+
 4 in total
 
 My small contributions to open source projects.
@@ -203,6 +206,7 @@ All my projects on GitHub are open-sourced, too.
 [⬆️ back to the top](#toc)
 
 ### Community
+
 13 in total
 
 Work for the software development and testing community to help them, and me, grow.  
@@ -225,7 +229,7 @@ Work for the software development and testing community to help them, and me, gr
 | 2007 - 2010 | java.net Global Education and Learning Community| Global community | Community Lead |
 
 #### Facts
- * The Developers Conference Test Track is the largest event in Brazil with more than 400 attendees in three different cities
+ * The Developers Conference Test Track is the largest event in Brazil, with more than 400 attendees in three different cities
  * The Developers Conference Dev-Test Track is an event dedicated only to technical subjects for QAs
  * The GUTS is the first testing user group in Brazil and is still active
  
@@ -234,6 +238,7 @@ Work for the software development and testing community to help them, and me, gr
 ## Sharing knowledge
 
 ### Blog posts and content
+
 12 in total
 
 Blog posts on different websites and portals.
@@ -256,9 +261,10 @@ Blog posts on different websites and portals.
 [⬆️ back to the top](#toc)
 
 ### Workshops
+
 18 in total
 
-All the formal workshops I did. Here, workshop means a mini-course with a small audience where I can show challenges about the subject and the audience can practice with my help.
+All the formal workshops I did. Here, workshop means a mini-course with a small audience, where I can show challenges related to the subject and help the audience practice.
 
 | Date | Event | Subject | Language  |
 |:----:|-------|---------|:---------:|
@@ -284,6 +290,7 @@ All the formal workshops I did. Here, workshop means a mini-course with a small 
 [⬆️ back to the top](#toc)
 
 ### Books eBooks
+
 5 in total
 
 Books and eBooks I've released.
@@ -299,12 +306,14 @@ Books and eBooks I've released.
 [⬆️ back to the top](#toc)
 
 ### Videos
-70 in total
+
+71 in total
 
 Videos about my presentations at events and interviews from different content channels.
 
 | Date | Title | Event | Language |
 |:----:|-------|-------|:--------:|
+| 2026 | [jChampions Conference] | [Test Smarter, Not Harder: Achieving Confidence in Complex Distributed Systems](https://www.youtube.com/watch?v=8IZ1U0Zrncw) | 🇺🇸 |
 | 2025 | [Modern Tools for Java Developers](https://www.youtube.com/watch?v=fzFQvafD_Y0&list=PLoc8m_4xl7Sf-YmBIPNI5or9dGnTwhqEc&index=19&pp=iAQB) | [DevWorld](https://devworldconference.com) | 🇺🇸 |
 | 2025 | [More Than Just Unit Tests: How API Tests Create a Safety Net for Your Microservices](https://www.youtube.com/live/GH9zHv79-vs) | [Bellsoft Youtube Channel](https://www.youtube.com/@libericajdk) | 🇺🇸 |
 | 2025 | [3 Game-Changing Testing Strategies Every Senior Java Dev Must Know - Java Rockstar Career #12](https://www.youtube.com/watch?v=unqhaHrWaLY) | [Java Challengers Youtube channel](https://www.youtube.com/@JavaChallengers) | 🇺🇸 |
@@ -378,6 +387,7 @@ Videos about my presentations at events and interviews from different content ch
 [⬆️ back to the top](#toc)
 
 ### Podcast
+
 5 in total
 
 Participation in podcasts
@@ -395,9 +405,10 @@ Participation in podcasts
 ## Teaching
 
 ### University
+
 4 in total
 
-My role as a professor in postgraduate courses at private universities.
+My role is as a professor in postgraduate courses at private universities.
 
 | Date | Institution | Subject | Location |
 |:----:|-------------|---------|----------|
@@ -409,9 +420,10 @@ My role as a professor in postgraduate courses at private universities.
 [⬆️ back to the top](#toc)
 
 ### Private School
+
 2 in total
 
-My role as a teacher in Testing Automation courses in private schools.
+My role is a teacher in Testing Automation courses in private schools.
 
 | Date | Institution | Subject | Location |
 |:----:|-------------|---------|----------|
@@ -421,6 +433,7 @@ My role as a teacher in Testing Automation courses in private schools.
 [⬆️ back to the top](#toc)
 
 ## Awards & Recognitions
+
 7 in total
 
 Recognition for working in the software development community
@@ -438,14 +451,5 @@ Recognition for working in the software development community
 
 [⬆️ back to the top](#toc)
 
-## My social networks
-My social networks, in case you want to follow me.
-
-[![logo](https://i.imgur.com/gUSPN17.png)](http://www.facebook.com/elias.nogueira.teste)
-[![logo](https://i.imgur.com/Rb8i3ps.png)](http://www.twitter.com/eliasnogueira)
-[![logo](https://i.imgur.com/HpCun4P.png)](http://www.linkedin.com/in/eliasnogueira)
-[![logo](https://i.imgur.com/7RGlFog.png)](https://www.slideshare.net/elias.nogueira)
-[![logo](https://i.imgur.com/bsJJKqZ.png)](https://www.youtube.com/channel/UCXcHBp-wlQ_fphoe6zdWyLA?view_as=subscriber)
-[![logo](https://i.imgur.com/9eolLfG.png)](https://www.goodreads.com/eliasnogueira)
 
 [⬆️ back to the top](#toc)
