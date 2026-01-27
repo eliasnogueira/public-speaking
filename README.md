@@ -313,7 +313,7 @@ Videos about my presentations at events and interviews from different content ch
 
 | Date | Title | Event | Language |
 |:----:|-------|-------|:--------:|
-| 2026 | [jChampions Conference] | [Test Smarter, Not Harder: Achieving Confidence in Complex Distributed Systems](https://www.youtube.com/watch?v=8IZ1U0Zrncw) | 🇺🇸 |
+| 2026 | [jChampions Conference](https://jchampionsconf.com/) | [Test Smarter, Not Harder: Achieving Confidence in Complex Distributed Systems](https://www.youtube.com/watch?v=8IZ1U0Zrncw) | 🇺🇸 |
 | 2025 | [Modern Tools for Java Developers](https://www.youtube.com/watch?v=fzFQvafD_Y0&list=PLoc8m_4xl7Sf-YmBIPNI5or9dGnTwhqEc&index=19&pp=iAQB) | [DevWorld](https://devworldconference.com) | 🇺🇸 |
 | 2025 | [More Than Just Unit Tests: How API Tests Create a Safety Net for Your Microservices](https://www.youtube.com/live/GH9zHv79-vs) | [Bellsoft Youtube Channel](https://www.youtube.com/@libericajdk) | 🇺🇸 |
 | 2025 | [3 Game-Changing Testing Strategies Every Senior Java Dev Must Know - Java Rockstar Career #12](https://www.youtube.com/watch?v=unqhaHrWaLY) | [Java Challengers Youtube channel](https://www.youtube.com/@JavaChallengers) | 🇺🇸 |
@@ -441,7 +441,7 @@ Recognition for working in the software development community
 | Date | Award | Event |
 |:----:|-------|-------|
 | 2023 | [Java Champion](https://javachampions.org/members.html) | [Java Champions](https://javachampions.org/) |
-| 2022 | [ACE Associate: Java](https://apexapps.oracle.com/pls/apex/r/ace_program/oracle-aces/ace?ace_id=2337) | [Oracle ACE](https://ace.oracle.com) |
+| 2022 | [Oracle ACE Pro: Java](https://apexapps.oracle.com/pls/apex/r/ace_program/oracle-aces/ace?ace_id=2337) | [Oracle ACE](https://ace.oracle.com) |
 | 2022 | [BrowserStack Champion](https://www.browserstack.com/browserstack-champions?champion-search=elias) | [BrowserStack](https://www.browserstack.com) |
 | 2020 | Tester of the Day - 08/10/2020 | [Tester of the Day](https://tester-of-the-day.netlify.app) |
 | 2019 | [Top 5 most famous Test Automation Engineer in Brazil](https://www.socialtesters.org/resultado-2019) | [Social Testers](https://www.socialtesters.org) |
